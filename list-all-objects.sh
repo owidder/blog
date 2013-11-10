@@ -13,6 +13,6 @@ cd "$(git rev-parse --git-dir)"
 # And now find all loose objects:
 
 find objects/ \
-    | egrep '[0-9a-f]{38}' \
-    | perl -pe 's:^.*([0-9a-f][0-9a-f])/([0-9a-f]{38}):\1\2:' \
+    | egrep '([0-9a-f][0-9a-f])\/[0-9a-f]{38}' \
+    | perl -pe 's:^.*([0-9a-f][0-9a-f])\/([0-9a-f]{38}):\1\2:' \
 ;

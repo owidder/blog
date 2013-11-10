@@ -3,200 +3,122 @@
     <script src="https://geek-and-poke.squarespace.com/s/prettify.js"></script>
     <link href="https://geek-and-poke.squarespace.com/s/sons-of-obsidian.css" rel="stylesheet" type="text/css">
     <style>
-        span.paragraphTitle {
-            font-size: 1.1em;
-            font-weight: bold;
-            font-family: sans-serif;
-            border :none;
-            border-bottom: 1px solid #000000;
-            height: 1px;
-            margin: 0px 80px 0px 80px;
-        }
         span.code {
             font-family: monospace;
             font-size: 1.2em;
         }
-        span {
-            white-space: pre;
-            font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
-        }
     </style>
 </head>
 
-<span>
-    Recently I tried to solve a problem regarding CDI.
-    Let me explain:
-</span>
+<h2>The Problem</h2>
+    Recently I lost a file in the Git orcus (aka './git/objects').<br>
+    I knew it had been there some time ago.<br>
+    But now it was gone and the Git on-board tools ('rev-list', 'fsck', ...) didn't help.<br>
+    They showed a lot of dangling commits, trees and blobs but not the file I was searching for.
 
-<span class="paragraphTitle">
-    The Situation
-</span>
+<h2>The Solution (maybe not the best)</h2>
 
-<span>
-    There is a server offering business services.
-    Each business service has an interface extending a base interface (which only purpose is to be a common base).
-</span>
+    I was doomed to dive into the .git/object-slough.<br>
+    Based on a shell script on <a href="http://stackoverflow.com/questions/7348698/git-how-to-list-all-objects-in-the-database">stackoverflow.com</a>
+    from <a href="http://stackoverflow.com/users/1086034/willkil">willkil</a><br>
+    I created a small Perl script:
+    <ul>
+        <li>It has one command line argument: the file to search for (as a regex).</li>
+        <li>In the first phase it looks into each tree object and checks whether it contains the file.</li>
+        <li>In the second phase it looks into each commit object and checks whether it points to one of the tree objects found in phase 1.</li>
+        <li>At last it creates a branch ('found/0', 'found/1', ...) for each commit found in phase 2.</li>
+        <li>It does not look into packed objects.</li>
+    </ul>
+    Here is the script:
 
 <pre class="prettyprint">
 
-    // Just kinda marker interface
-    public interface BaseBusinessServiceInterface {}
+#!/opt/local/bin/perl
 
-    public interface SomeBusinessInterfaceA extends BaseBusinessInterface {
-    ...
-    }
+my $pattern = $ARGV[0]; # filename to search for as regex
 
-    public interface SomeBusinessInterfaceB extends BaseBusinessInterface {
-    ...
-    }
+##################################################################
+# find all objects (blobs, trees, commits, tags) in .git/objects
+##################################################################
+
+my @AllFiles = `find .git/objects/`;
+my @AllSha1 = ();
+
+for my $object (@AllFiles) {
+	if($object =~ /([0-9a-f][0-9a-f])\/([0-9a-f]{38})/) {
+		my $sha1 = $1 . $2;
+		push(@AllSha1, $sha1);
+	}
+}
+
+##################################################################
+# find all trees containing the file
+##################################################################
+
+my @FoundTrees = ();
+
+for my $treeSha1 (@AllSha1) {
+	chomp $treeSha1;
+	my $type = `git cat-file -t $treeSha1`;
+	chomp $type;
+
+	if($type eq "tree") {
+
+		my @Lines = `git cat-file -p $treeSha1`;
+		for my $line (@Lines) {
+			if($line =~ /$pattern/) {
+				printf "found tree: %s\n", $treeSha1;
+				push(@FoundTrees, $treeSha1);
+				break;
+			}
+		}
+	}
+}
+
+##################################################################
+# find all commits pointing to one of the trees found above
+##################################################################
+
+my @FoundCommits = ();
+
+for my $commitSha1 (@AllSha1) {
+	chomp $commitSha1;
+	my $type = `git cat-file -t $commitSha1`;
+	chomp $type;
+
+	if($type eq "commit") {
+
+		my @Lines = `git cat-file -p $commitSha1`;
+		for my $line (@Lines) {
+			for my $foundTreeSha1 (@FoundTrees) {
+				if($line =~ /$foundTreeSha1/) {
+					printf "found commit: %s\n", $commitSha1;
+					push(@FoundCommits, $commitSha1);
+					break;
+				}
+			}
+		}
+	}
+}
+
+##################################################################
+# create a branch for each commit found
+##################################################################
+
+my $i = 0;
+for my $foundSha1 (@FoundCommits) {
+	my $branchName = "found/" . $i;
+	`git branch $branchName $foundSha1`;
+	printf "branch created: %s pointing to %s\n", $branchName, $foundSha1;
+	$i++;
+}
 
 
 </pre>
 
-<span>
-    The implementations of these interfaces are SSBs.
-</span>
 
-<pre class="prettyprint">
-
-    @stateless
-    public class SomeBusinessServiceA implements SomeBusinessInterfaceA {
-
-        public BusinessEntityA doA();
-
-        ...
-    }
-
-    @stateless
-    public class SomeBusinessServiceB implements SomeBusinessInterfaceB {
-
-        public BusinessEntityB doB();
-
-        ...
-    }
-
-
-</pre>
-
-<span>
-    There may be also adapters for other protocols like Hessian or any other protocol you can think of (don't shown here).
-</span>
-
-<span class="paragraphTitle">
-    The Problem
-</span>
-
-<span>
-    Find a way to inject protocol proxies (local EJB invocation, remote EJB invocation, Hessian, ReST, ...) without knowing the application specific classes and interfaces like:
-    <span class="code">
-            SomeBusinessInterfaceA
-            SomeBusinessInterfaceB
-            SomeBusinessServiceA
-            SomeBusinessServiceB
-    </span>
-
-    The base interface <span class="code">BaseBusinessInterface</span> is allowed to be used by the solution we're looking for, as it's not application specific.
-</span>
-
-<span class="paragraphTitle">
-    The Solution (except: it doesn't work)
-</span>
-
-<span>
-    Inject the proxies into the client
-    (Remark: <span class="code">@ServiceProxy</span> is a <span class="code">@Qualifier</span> needed to not get CDI confused)
-</span>
-
-<pre class="prettyprint">
-
-    public class MyClient {
-
-        @Inject
-        @ServiceProxy
-        SomeBusinessInterfaceA someBusinessServiceA;
-
-        @Inject
-        @ServiceProxy
-        SomeBusinessInterfaceB someBusinessServiceB;
-
-        ...
-
-        public int doSomething() {
-            BusinessEntityA businessEntityA = someBusinessServiceA.doA();
-            BusinessEntityB businessEntityB = someBusinessServiceA.doB();
-
-            return businessEntityA.getWhatever() + businessEntityB.youWant();
-        }
-    }
-
-
-</pre>
-
-<span>
-    The CDI producer reads the type of the injection point (<span class="code">SomeBusinessInterfaceA</span> or <span class="code">SomeBusinessInterfaceB</span>) and creates a proxy for this interface:
-</span>
-
-<pre class="prettyprint">
-
-    public class ProxyProducer {
-
-        public static Context ctx;
-
-        static {
-            switch(SomeMeansOfConfiguration.rpcProtocol()) {
-
-                case EJB_LOCAL:
-                    ctx = new InitialContext();
-                    break;
-
-                case EJB_REMOTE:
-                    Properties props = new Properties();
-                    props.put(Context.INITIAL_CONTEXT_FACTORY, "com.sun.enterprise.naming.SerialInitContextFactory");
-                    props.setProperty("org.omg.CORBA.ORBInitialHost", SomeMeansOfConfiguration.rmiHost());
-                    props.setProperty("org.omg.CORBA.ORBInitialPort", SomeMeansOfConfiguration.rmiPort());
-                    ctx = new InitialContext(props);
-                    break;
-
-                default:
-                    ctx = null;
-            }
-        }
-
-        @Produces
-        @ServiceProxy
-        public BaseBusinessInterface produceProxy(InjectionPoint ip) {
-
-            Class<?> interfaceClass = (Class<?>) ip.getType();
-
-            BaseBusinessInterface proxy = null;
-            switch(SomeMeansOfConfiguration.rpcProtocol()) {
-                case EJB_LOCAL:
-                case EJB_REMOTE:
-                    proxy = (BaseBusinessInterface) ctx.lookup(interfaceClass.getName());
-                    break;
-
-                case HESSIAN:
-                    // create a dynamic proxy for Hessian
-                    // e.g. via Caucho (http://hessian.caucho.com/)
-                    HessianProxyFactory factory = new HessianProxyFactory();
-                    proxy = (BaseBusinessInterface) factory.create(interfaceClass, SomeMeansOfConfiguration.hessianUrl());
-                    break;
-
-                case SOME_OTHER_PROTOCOL_YOU_CAN_THINK_OF:
-                    // Create a dynamic proxy for the other protocol
-                    proxy = Proxy.newProxyInstance(interfaceClass.getClassLoader(),
-                           new Class<?>[] {interfaceClass},
-                           new SomeOtherProtocolYouCanThinkOfInvocationHandler());
-                    break;
-            }
-
-            return proxy;
-        }
-    }
-
-
-</pre>
-
+<h2>The Question</h2>
+    Isn't there an easier way? Let me know!
 
 <script>prettyPrint();</script>
 
