@@ -49,6 +49,8 @@ for my $commitSha1 (@AllSha1) {
 	}
 }
 
+my $i = 0;
 for my $foundSha1 (@FoundCommits) {
-	printf "%s\n", $foundSha1;
+	`git branch found/$i $foundSha1`;
+	$i++;
 }
