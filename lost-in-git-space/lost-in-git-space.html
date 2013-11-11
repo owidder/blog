@@ -11,25 +11,25 @@
 </head>
 
 <h2>The Problem</h2>
-    Recently I lost a file in the Git orcus (aka './git/objects').<br>
-    I knew it had been there some time ago.<br>
-    But now it was gone and the Git on-board tools ('rev-list', 'fsck', ...) didn't help.<br>
-    They showed a lot of dangling commits, trees and blobs but not the file I was searching for.
+Recently I lost a file in the Git orcus (aka './git/objects').<br>
+I knew it had been there some time ago.<br>
+But now it was gone and the Git on-board tools ('rev-list', 'fsck', 'reflog', ...) didn't help.<br>
+They showed a lot of dangling commits, trees and blobs but not the file I was searching for.
 
 <h2>The Solution (maybe not the best)</h2>
 
-    I was doomed to dive into the .git/object-slough.<br>
-    Based on a shell script on <a href="http://stackoverflow.com/questions/7348698/git-how-to-list-all-objects-in-the-database">stackoverflow.com</a>
-    from <a href="http://stackoverflow.com/users/1086034/willkil">willkil</a><br>
-    I created a small Perl script:
-    <ul>
-        <li>It has one command line argument: the file to search for (as a regex).</li>
-        <li>In the first phase it looks into each tree object and checks whether it contains the file.</li>
-        <li>In the second phase it looks into each commit object and checks whether it points to one of the tree objects found in phase 1.</li>
-        <li>At last it creates a branch ('found/0', 'found/1', ...) for each commit found in phase 2.</li>
-        <li>It does not look into packed objects.</li>
-    </ul>
-    Here is the script:
+I was doomed to dive into the .git/object-slough.<br>
+Based on a shell script on <a href="http://stackoverflow.com/questions/7348698/git-how-to-list-all-objects-in-the-database">stackoverflow.com</a>
+from <a href="http://stackoverflow.com/users/1086034/willkil">willkil</a><br>
+I created a small Perl script:
+<ul>
+    <li>It has one command line argument: the file to search for (as a regex).</li>
+    <li>In the first phase it looks into each tree object and checks whether it contains the file.</li>
+    <li>In the second phase it looks into each commit object and checks whether it points to one of the tree objects found in phase 1.</li>
+    <li>At last it creates a branch ('found/0', 'found/1', ...) for each commit found in phase 2.</li>
+    <li>It does not look into packed objects.</li>
+</ul>
+Here is the script:
 
 <pre class="prettyprint">
 
@@ -116,9 +116,15 @@ for my $foundSha1 (@FoundCommits) {
 
 </pre>
 
+<ul>
+    <li>Be aware! This script creates a branch for each commit to a tree with the file you're searching for. Could be some!!!</li>
+    <li>Possible improvement: Only create a branch for the most recent commit (or track the chain of commits and search for the head of it) </li>
+</ul>
+
 
 <h2>The Question</h2>
-    Isn't there an easier way? Let me know!
+Isn't there an easier way? Let me know!
+
 
 <script>prettyPrint();</script>
 
