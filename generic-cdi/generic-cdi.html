@@ -33,99 +33,69 @@
 </span>
 
 <span>
-    There is a server offering business services.
-    Each business service has an interface extending a base interface (which only purpose is to be a common base).
+    There a interfaces extending a base interface:
 </span>
 
 <pre class="prettyprint">
 
     // Just kinda marker interface
-    public interface BaseBusinessServiceInterface {}
+    public interface BaseInterface {}
 
-    public interface SomeBusinessInterfaceA extends BaseBusinessInterface {
+    public interface InterfaceA extends BaseInterface {
     ...
     }
 
-    public interface SomeBusinessInterfaceB extends BaseBusinessInterface {
+    public interface InterfaceB extends BaseInterface {
     ...
     }
 
 
 </pre>
-
-<span>
-    The implementations of these interfaces are SSBs.
-</span>
-
-<pre class="prettyprint">
-
-    @stateless
-    public class SomeBusinessServiceA implements SomeBusinessInterfaceA {
-
-        public BusinessEntityA doA();
-
-        ...
-    }
-
-    @stateless
-    public class SomeBusinessServiceB implements SomeBusinessInterfaceB {
-
-        public BusinessEntityB doB();
-
-        ...
-    }
-
-
-</pre>
-
-<span>
-    There may be also adapters for other protocols like Hessian or any other protocol you can think of (don't shown here).
-</span>
 
 <span class="paragraphTitle">
     The Problem
 </span>
 
 <span>
-    Find a way to inject protocol proxies (local EJB invocation, remote EJB invocation, Hessian, ReST, ...) without knowing the application specific classes and interfaces like:
-    <span class="code">
-            SomeBusinessInterfaceA
-            SomeBusinessInterfaceB
-            SomeBusinessServiceA
-            SomeBusinessServiceB
-    </span>
-
-    The base interface <span class="code">BaseBusinessInterface</span> is allowed to be used by the solution we're looking for, as it's not application specific.
-</span>
-
-<span class="paragraphTitle">
-    The Solution (except: it doesn't work)
-</span>
-
-<span>
-    Inject the proxies into the client
-    (Remark: <span class="code">@ServiceProxy</span> is a <span class="code">@Qualifier</span> needed to not get CDI confused)
+    Now I want a CDI producer injecting proxies for those interfaces, i.e. for any sub-interface of BaseInterface.
+    Something like this:
 </span>
 
 <pre class="prettyprint">
 
-    public class MyClient {
+    @Qualifier
+    public @interface MyProducer {
+    }
+
+    ...
+
+    public class Consumer {
 
         @Inject
-        @ServiceProxy
-        SomeBusinessInterfaceA someBusinessServiceA;
+        @MyProducer
+        InterfaceA implementationForInterfaceA;
 
         @Inject
-        @ServiceProxy
-        SomeBusinessInterfaceB someBusinessServiceB;
+        @MyProducer
+        InterfaceB implementationForInterfaceB;
 
         ...
+    }
 
-        public int doSomething() {
-            BusinessEntityA businessEntityA = someBusinessServiceA.doA();
-            BusinessEntityB businessEntityB = someBusinessServiceA.doB();
+    ...
 
-            return businessEntityA.getWhatever() + businessEntityB.youWant();
+    public class Producer {
+
+        @Produces
+        @MyProducer
+        BaseInterface produceProxy(InjectionPoint ip) {
+            Class<?> interfaceClass = (Class<?>) ip.getType();
+            proxy = createDynamicProxy(interfaceClass);
+            return proxy;
+        }
+
+        BaseInterface createDynamicProxy(Class<?> interfaceClass) {
+            // create and return dynamic proxy
         }
     }
 
@@ -133,69 +103,9 @@
 </pre>
 
 <span>
-    The CDI producer reads the type of the injection point (<span class="code">SomeBusinessInterfaceA</span> or <span class="code">SomeBusinessInterfaceB</span>) and creates a proxy for this interface:
+    Too bad that this does not work.
+    Procuder and consumer will not find each other. Even the @Qualifier does not force JEE to match the producer methods to the injection point.
 </span>
-
-<pre class="prettyprint">
-
-    public class ProxyProducer {
-
-        public static Context ctx;
-
-        static {
-            switch(SomeMeansOfConfiguration.rpcProtocol()) {
-
-                case EJB_LOCAL:
-                    ctx = new InitialContext();
-                    break;
-
-                case EJB_REMOTE:
-                    Properties props = new Properties();
-                    props.put(Context.INITIAL_CONTEXT_FACTORY, "com.sun.enterprise.naming.SerialInitContextFactory");
-                    props.setProperty("org.omg.CORBA.ORBInitialHost", SomeMeansOfConfiguration.rmiHost());
-                    props.setProperty("org.omg.CORBA.ORBInitialPort", SomeMeansOfConfiguration.rmiPort());
-                    ctx = new InitialContext(props);
-                    break;
-
-                default:
-                    ctx = null;
-            }
-        }
-
-        @Produces
-        @ServiceProxy
-        public BaseBusinessInterface produceProxy(InjectionPoint ip) {
-
-            Class<?> interfaceClass = (Class<?>) ip.getType();
-
-            BaseBusinessInterface proxy = null;
-            switch(SomeMeansOfConfiguration.rpcProtocol()) {
-                case EJB_LOCAL:
-                case EJB_REMOTE:
-                    proxy = (BaseBusinessInterface) ctx.lookup(interfaceClass.getName());
-                    break;
-
-                case HESSIAN:
-                    // create a dynamic proxy for Hessian
-                    // e.g. via Caucho (http://hessian.caucho.com/)
-                    HessianProxyFactory factory = new HessianProxyFactory();
-                    proxy = (BaseBusinessInterface) factory.create(interfaceClass, SomeMeansOfConfiguration.hessianUrl());
-                    break;
-
-                case SOME_OTHER_PROTOCOL_YOU_CAN_THINK_OF:
-                    // Create a dynamic proxy for the other protocol
-                    proxy = Proxy.newProxyInstance(interfaceClass.getClassLoader(),
-                           new Class<?>[] {interfaceClass},
-                           new SomeOtherProtocolYouCanThinkOfInvocationHandler());
-                    break;
-            }
-
-            return proxy;
-        }
-    }
-
-
-</pre>
 
 
 <script>prettyPrint();</script>
