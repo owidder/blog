@@ -16,10 +16,6 @@
             font-family: monospace;
             font-size: 1.2em;
         }
-        span {
-            white-space: pre;
-            font-family: "Calisto MT", "Bookman Old Style", Bookman, "Goudy Old Style", Garamond, "Hoefler Text", "Bitstream Charter", Georgia, serif;
-        }
     </style>
 </head>
 
@@ -52,12 +48,9 @@
 
 </pre>
 
-<span class="paragraphTitle">
-    The Problem
-</span>
-
 <span>
-    Now I want a CDI producer injecting proxies for those interfaces, i.e. for any sub-interface of BaseInterface.
+    Now I want a CDI producer injecting proxies for those interfaces, i.e. for any sub-interface of BaseInterface.<br>
+    To let the producer find its @Injects I define a @Qualifier.<br>
     Something like this:
 </span>
 
@@ -102,9 +95,15 @@
 
 </pre>
 
+<span class="paragraphTitle">
+    The Problem
+</span>
+
 <span>
-    Too bad that this does not work.
-    Procuder and consumer will not find each other. Even the @Qualifier does not force JEE to match the producer methods to the injection point.
+    Too bad! It does not work.<br>
+    Procuder and consumer will not find each other.<br>
+    Even the @Qualifier does not convince the CDI container to match @Produces with @Inject.<br>
+    It seems with CDI the producing method has to have the same return type as the attribute annotated with @Inject.
 </span>
 
 
