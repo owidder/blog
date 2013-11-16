@@ -3,15 +3,6 @@
     <script src="https://geek-and-poke.squarespace.com/s/prettify.js"></script>
     <link href="https://geek-and-poke.squarespace.com/s/sons-of-obsidian.css" rel="stylesheet" type="text/css">
     <style>
-        span.paragraphTitle {
-            font-size: 1.1em;
-            font-weight: bold;
-            font-family: sans-serif;
-            border :none;
-            border-bottom: 1px solid #000000;
-            height: 1px;
-            margin: 0px 80px 0px 80px;
-        }
         span.code {
             font-family: monospace;
             font-size: 1.2em;
@@ -20,22 +11,21 @@
 </head>
 
 <span>
-    Recently I tried to solve a problem regarding CDI.
+    Recently I tried to solve a problem regarding CDI.<br>
     Let me explain:
 </span>
 
-<span class="paragraphTitle">
-    The Situation
-</span>
+<h1>The Situation</h1>
 
 <span>
-    There a interfaces extending a base interface:
+    There are interfaces extending a base interface:
 </span>
 
 <pre class="prettyprint">
 
-    // Just kinda marker interface
-    public interface BaseInterface {}
+    public interface BaseInterface {
+    ...
+    }
 
     public interface InterfaceA extends BaseInterface {
     ...
@@ -45,11 +35,16 @@
     ...
     }
 
+    // and many more
+
+    public interface InterfaceX extends BaseInterface {
+    ...
+    }
 
 </pre>
 
 <span>
-    Now I want a CDI producer injecting proxies for those interfaces, i.e. for any sub-interface of BaseInterface.<br>
+    Now I want a CDI producer injecting proxies for any sub-interface of the <span class="code">BaseInterface</span><br>
     To let the producer find its @Injects I define a @Qualifier.<br>
     Something like this:
 </span>
@@ -57,7 +52,7 @@
 <pre class="prettyprint">
 
     @Qualifier
-    public @interface MyProducer {
+    public @interface ProxyProducer {
     }
 
     ...
@@ -65,12 +60,12 @@
     public class Consumer {
 
         @Inject
-        @MyProducer
-        InterfaceA implementationForInterfaceA;
+        @ProxyProducer
+        InterfaceA proxyForInterfaceA;
 
         @Inject
-        @MyProducer
-        InterfaceB implementationForInterfaceB;
+        @ProxyProducer
+        InterfaceB proxyForInterfaceB;
 
         ...
     }
@@ -80,10 +75,10 @@
     public class Producer {
 
         @Produces
-        @MyProducer
+        @ProxyProducer
         BaseInterface produceProxy(InjectionPoint ip) {
-            Class<?> interfaceClass = (Class<?>) ip.getType();
-            proxy = createDynamicProxy(interfaceClass);
+            Class<?> injectionPointClass = (Class<?>) ip.getType();
+            proxy = createDynamicProxy(injectionPointClass);
             return proxy;
         }
 
@@ -95,17 +90,89 @@
 
 </pre>
 
-<span class="paragraphTitle">
-    The Problem
-</span>
+<h1>The Problem</h1>
 
 <span>
     Too bad! It does not work.<br>
-    Procuder and consumer will not find each other.<br>
-    Even the @Qualifier does not convince the CDI container to match @Produces with @Inject.<br>
-    It seems with CDI the producing method has to have the same return type as the attribute annotated with @Inject.
+    Producer and consumer will not find each other.<br>
+    Even the @ProxyProducer qualifier does not convince the CDI container to match producer and injection point.<br>
 </span>
 
+<h1>The Solution (at least the best I've found yet)</h1>
+
+<span>
+    <a href="http://stackoverflow.com/questions/1901164/get-type-of-a-generic-parameter-in-java-with-reflection">
+    I saw this Stackoverflow about reading generic type parameters via reflection</a> and came to the following solution:.<br>
+    The <span class="code">BaseInterface</span> gets as a generic parameter its own sub interfaces:
+</span>
+
+<pre class="prettyprint">
+    public interface BaseInterface&lt;T extends BaseInterface&gt; {
+    ...
+    }
+
+    public interface InterfaceA extends BaseInterface&lt;InterfaceA&gt; {
+    ...
+    }
+
+    public interface InterfaceB extends BaseInterface&lt;InterfaceB&gt; {
+    ...
+    }
+
+    ...
+</pre>
+
+<span>
+    The @Inject attributes are defined as a <span class="code">BaseInterface</span> with the sub interface we need the
+    proxy for as the generic parameter.
+</span>
+
+<pre class="prettyprint">
+    public class Consumer {
+
+    @Inject
+    @ProxyProducer
+    BaseInterface&lt;InterfaceA&gt; proxyForInterfaceA;
+
+    @Inject
+    @ProxyProducer
+    BaseInterface&lt;InterfaceB&gt; proxyForInterfaceB;
+
+    ...
+    }
+</pre>
+
+<span>
+    Now the producer can read the type parameter and create a proxy for it:
+</span>
+
+<pre class="prettyprint">
+    public class Producer {
+
+        @Produces
+        @ProxyProducer
+        BaseInterface produceProxy(InjectionPoint ip) {
+            Class&lt;?&gt; injectionPointClass = (Class&lt;?&gt;) ip.getType();
+            Class&lt;?&gt; interfaceClassToCreateProxyFor =
+                (Class&lt;?&gt;) ((ParameterizedType) injectionPointClass.getGenericSuperclass()).getActualTypeArguments()[0];
+
+            proxy = createDynamicProxy(interfaceToCreateProxyFor);
+            return proxy;
+        }
+
+        BaseInterface createDynamicProxy(Class<?> interfaceClass) {
+            // create and return dynamic proxy
+        }
+    }
+
+</pre>
+
+<span>
+    Since producer and injection point are now of the same type <span class="code">BaseInterface</span> the CDI
+    container will match them together.<br><br>
+
+    If anybody has a better solution please let me know.
+</span>
 
 <script>prettyPrint();</script>
 
