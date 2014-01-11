@@ -1,0 +1,179 @@
+<html>
+<head>
+    <script src="https://geek-and-poke.squarespace.com/s/prettify.js"></script>
+    <link href="https://geek-and-poke.squarespace.com/s/sons-of-obsidian.css" rel="stylesheet" type="text/css">
+    <style>
+        span.code {
+            font-family: monospace;
+            font-size: 1.2em;
+        }
+    </style>
+</head>
+
+<span>
+    Recently I tried to solve a problem regarding CDI.<br>
+    Let me explain:
+</span>
+
+<h1>The Situation</h1>
+
+<span>
+    There are interfaces extending a base interface:
+</span>
+
+<pre class="prettyprint">
+
+    public interface BaseInterface {
+    ...
+    }
+
+    public interface InterfaceA extends BaseInterface {
+    ...
+    }
+
+    public interface InterfaceB extends BaseInterface {
+    ...
+    }
+
+    // and many more
+
+    public interface InterfaceX extends BaseInterface {
+    ...
+    }
+
+</pre>
+
+<span>
+    Now I want a CDI producer injecting proxies for any sub-interface of the <span class="code">BaseInterface</span><br>
+    To let the producer find its @Injects I define a @Qualifier.<br>
+    Something like this:
+</span>
+
+<pre class="prettyprint">
+
+    @Qualifier
+    public @interface ProxyProducer {
+    }
+
+    ...
+
+    public class Consumer {
+
+        @Inject
+        @ProxyProducer
+        InterfaceA proxyForInterfaceA;
+
+        @Inject
+        @ProxyProducer
+        InterfaceB proxyForInterfaceB;
+
+        ...
+    }
+
+    ...
+
+    public class Producer {
+
+        @Produces
+        @ProxyProducer
+        BaseInterface produceProxy(InjectionPoint ip) {
+            Class<?> injectionPointClass = (Class<?>) ip.getType();
+            proxy = createDynamicProxy(injectionPointClass);
+            return proxy;
+        }
+
+        BaseInterface createDynamicProxy(Class<?> interfaceClass) {
+            // create and return dynamic proxy
+        }
+    }
+
+
+</pre>
+
+<h1>The Problem</h1>
+
+<span>
+    Too bad! It does not work.<br>
+    Producer and consumer will not find each other.<br>
+    Even the @ProxyProducer qualifier does not convince the CDI container to match producer and injection point.<br>
+</span>
+
+<h1>The Solution (at least the best I've found yet)</h1>
+
+<span>
+    <a href="http://stackoverflow.com/questions/1901164/get-type-of-a-generic-parameter-in-java-with-reflection">
+    I saw this Stackoverflow about reading generic type parameters via reflection</a> and came to the following solution:.<br>
+    The <span class="code">BaseInterface</span> gets as a generic parameter its own sub interfaces:
+</span>
+
+<pre class="prettyprint">
+    public interface BaseInterface&lt;T extends BaseInterface&gt; {
+    ...
+    }
+
+    public interface InterfaceA extends BaseInterface&lt;InterfaceA&gt; {
+    ...
+    }
+
+    public interface InterfaceB extends BaseInterface&lt;InterfaceB&gt; {
+    ...
+    }
+
+    ...
+</pre>
+
+<span>
+    The @Inject attributes are defined as a <span class="code">BaseInterface</span> with the sub interface we need the
+    proxy for as the generic parameter.
+</span>
+
+<pre class="prettyprint">
+    public class Consumer {
+
+    @Inject
+    @ProxyProducer
+    BaseInterface&lt;InterfaceA&gt; proxyForInterfaceA;
+
+    @Inject
+    @ProxyProducer
+    BaseInterface&lt;InterfaceB&gt; proxyForInterfaceB;
+
+    ...
+    }
+</pre>
+
+<span>
+    Now the producer can read the type parameter and create a proxy for it:
+</span>
+
+<pre class="prettyprint">
+    public class Producer {
+
+        @Produces
+        @ProxyProducer
+        BaseInterface produceProxy(InjectionPoint ip) {
+            Class&lt;?&gt; injectionPointClass = (Class&lt;?&gt;) ip.getType();
+            Class&lt;?&gt; interfaceClassToCreateProxyFor =
+                (Class&lt;?&gt;) ((ParameterizedType) injectionPointClass.getGenericSuperclass()).getActualTypeArguments()[0];
+
+            proxy = createDynamicProxy(interfaceToCreateProxyFor);
+            return proxy;
+        }
+
+        BaseInterface createDynamicProxy(Class<?> interfaceClass) {
+            // create and return dynamic proxy
+        }
+    }
+
+</pre>
+
+<span>
+    Since producer and injection point are now of the same type <span class="code">BaseInterface</span> the CDI
+    container will match them together.<br><br>
+
+    If anybody has a better solution please let me know.
+</span>
+
+<script>prettyPrint();</script>
+
+</html>
