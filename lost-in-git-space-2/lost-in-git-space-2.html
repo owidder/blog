@@ -1,0 +1,96 @@
+<html>
+    
+    <head>
+        <script src="https://geek-and-poke.squarespace.com/s/prettify.js"></script>
+        <link href="https://geek-and-poke.squarespace.com/s/sons-of-obsidian.css"
+        rel="stylesheet" type="text/css">
+    </head>
+
+    <body>
+        <h2>Find lost files deep deep in the catacombs of Git</h2>
+        <span>
+            <p>
+                <a href="http://geek-and-poke.com/geekpoke-gets-serious/2013/11/10/lost-in-the-git-orcus">Last year I posted a 
+                script to find lost files deep in the .git/objects folder</a>.<br>
+                But the way I chose was not the smartest:<br>
+                It scanned all tree objects for a given file name (or pattern) 
+                and searched for commits pointing to this tree.<br>
+                But since only the root tree has a commit pointing to it the script could only find 
+                files in the root folder.
+            </p>
+            <p>
+                That was dumb from my side. So I fixed it and made it much simper:<br>
+                <ul>
+                    <li>It (as before) searches for trees containing the given pattern</li>
+                    <li>If it finds a tree it creates a commit pointing to it via 'git commit-tree' and a branch pointing to this tree</li>
+                    <li>It can also search for the other 3 kinds of git objects: 'commit', 'tag', 'blob'. 
+                        In case you don't know the filename or the file has never got into a commit but into the index, you can
+                        still search for a pattern inside the content of the file.
+                    </li>
+                </ul>
+            </p>
+        </span>
+        <h2>The script</h2>
+        <span>
+            The script has 3 parameters:
+            <ol>
+                <li>The object type to search in. Can be 'tree', 'blob', 'tag' or 'commit'</li>
+                <li>The pattern to search for</li>
+                <li>'y' if you want to create commits and branches (only when type='tree')</li>
+            </ol>
+            The script is super simple, has no bells and zero whistles. So feel free to --amend it.<br>
+            You can also find it on <a href="https://github.com/owidder/git-goodies/blob/master/perl/git-search.pl">Github</a>
+        </span>
+        
+        <pre class="prettyprint">
+#!/opt/local/bin/perl
+
+my $type = $ARGV[0]; # 'tree' or 'blob'?
+my $pattern = $ARGV[1]; # filename to search for as regex
+my $createBranches = $ARGV[2]; # 'y' if you want to create branches (only when search for 'tree')
+
+##################################################################
+# find all objects (blobs, trees, commits, tags) in .git/objects
+##################################################################
+
+my @AllFiles = `find .git/objects/`;
+my @AllSha1 = ();
+
+for my $object (@AllFiles) {
+	if($object =~ /([0-9a-f][0-9a-f])\/([0-9a-f]{38})/) {
+		my $sha1 = $1 . $2;
+		push(@AllSha1, $sha1);
+	}
+}
+
+##################################################################
+# find all trees or blobs containing the pattern
+##################################################################
+
+my $ctr = 0;
+for my $foundSha1 (@AllSha1) {
+	chomp $foundSha1;
+	my $t = `git cat-file -t $foundSha1`;
+	chomp $t;
+
+	if($t eq $type) {
+
+		my @Lines = `git cat-file -p $foundSha1`;
+		for my $line (@Lines) {
+			if($line =~ /$pattern/) {
+				$ctr++;
+				printf "found $type: %s\n", $foundSha1;
+				if($type eq 'tree' && $createBranches eq 'y') {
+					my $branchName = sprintf "found/%03s", $ctr;
+					printf "created branch: %s\n", $branchName;
+					`git commit-tree $foundSha1 -m "found $pattern" | xargs -I{} git branch $branchName {}`;
+				}
+				break;
+			}
+		}
+	}
+}
+        </pre>
+        <script>prettyPrint();</script>
+
+    </body>
