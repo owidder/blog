@@ -1,0 +1,72 @@
+<html>
+    
+    <head>
+        <script src="https://geek-and-poke.squarespace.com/s/prettify.js"></script>
+        <link href="https://geek-and-poke.squarespace.com/s/sons-of-obsidian.css"
+        rel="stylesheet" type="text/css">
+    </head>
+
+    <body>
+        <h2>Select rows via mouse clicks in Primefaces DataTables while in row edit mode</h2>
+        <span>
+            We use Primefaces DataTables with in table editing in row edit mode and single selection mode.
+        </span>
+        
+        <pre class="prettyprint">
+&lt;p:dataTable id="..." var="..." value="..." rowKey="..."
+    selection="..." selectionMode="single" editable="true"&gt;
+
+	&lt;p:column headerText="Options" style="width:50px"&gt;
+        &lt;p:rowEditor /&gt;  
+    &lt;/p:column&gt;
+        			
+    &lt;p:column headerText="..."&gt;
+        &lt;p:cellEditor&gt;
+            &lt;f:facet name="output"&gt;
+                &lt;h:outputText value="..." /&gt;
+            &lt;/f:facet&gt;
+            &lt;f:facet name="input"&gt;
+                &lt;p:inputText value="..." label="..."/&gt;
+            &lt;/f:facet&gt;
+        &lt;/p:cellEditor&gt;
+    &lt;/p:column&gt;
+
+    ...
+&lt;/p:dataTable&gt;
+        </pre>
+        
+        <span>
+            But we faced some problems with the row selection via mouse click in a row.<br>
+            In columns with cellEditors it worked quite poorly.<br>
+            The reason of this poor behaviour lies in the Primefaces JavaScript code<br>
+            It does not process the clicks on cells with cell editors,
+            because these cells contains a "div", which are not
+            recognized by the "onRowClick" method of the DataTable object.<br>
+            To see this you have to create a Primefaces jar with non minified JavaScript
+            code as explained in a <a href="http://jsfcorner.blogspot.de/2013/10/how-to-debug-javascript-in-primefaces-40.html">
+            great blog post from Rudy De Busscher</a>.<br>
+            Armored with this and a Firebug it's easy to find that in<br> 
+            META-INF/resources/primefaces/primefaces.js<br> 
+            the div-element, which is used in the columns with cell editors, is
+            blocked in the 'onRowClick' method of the DataTable:
+        </span>
+        
+        <pre class="prettyprint">
+            if($(event.target).is('td,span:not(.ui-c)) {
+                ...
+            }
+        </pre>
+        
+        <span>
+            Just add it an you are fine.
+        </span>
+        
+        <pre class="prettyprint">
+            if($(event.target).is('td,span:not(.ui-c),div.ui-cell-editor-output')) {
+                ...
+            }
+        </pre>
+        
+        <script>prettyPrint();</script>
+    </body>
+</html>
