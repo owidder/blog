@@ -1,0 +1,48 @@
+<html>
+    
+    <head>
+        <script src="https://geek-and-poke.squarespace.com/s/prettify.js"></script>
+        <link href="https://geek-and-poke.squarespace.com/s/sons-of-obsidian.css"
+        rel="stylesheet" type="text/css">
+    </head>
+
+    <body>
+        <h2>Install Git 1.9 on CentOS on Google Compute Engine</h2>
+        <span>
+            I just installed Git 1.9 on a Google Compute Engine virtual machine running CentOS.<br>
+	    These were the steps which led to success:<br>
+	    At first I followed the steps from <a href="http://johnathanmarksmith.com/linux/git/programming/2013/05/15/how-to-install-git-182-on-fedora-centos-red-hat-and-scientific-linux/">Jonathan Mark Smith</a> for Git 1.8.2:
+        </span>
+        
+        <pre class="prettyprint">
+	  yum install gettext-devel expat-devel curl-devel zlib-devel openssl-devel
+	  cd /usr/local/src
+	  wget https://www.kernel.org/pub/software/scm/git/git-1.8.2.3.tar.gz
+	  tar xzvf git-1.8.2.3.tar.gz
+	  cd git-1.8.2.3
+	  make prefix=/usr/local all
+	  make prefix=/usr/local install
+        </pre>
+        
+        <span>
+	  But I got an error saying something like 'Can't locate ExtUtils/MakeMaker.pm'.<br>
+	  Shoot!<br>
+	  Google to my rescue I found a <a href="http://madcoda.com/2013/09/cant-locate-extutilsmakemaker-pm-while-compile-git/">great post on Mad Coder's Blog</a> with the following advice:
+        </span>
+        
+        <pre class="prettyprint">
+	  yum install perl-devel
+        </pre>
+        
+        <span>
+            Now I ran the last two make commands again and I was fine. 
+        </span>
+        
+        <pre class="prettyprint">
+	  make prefix=/usr/local all
+	  make prefix=/usr/local install
+        </pre>
+        
+        <script>prettyPrint();</script>
+    </body>
+</html>
