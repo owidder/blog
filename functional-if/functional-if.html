@@ -1,0 +1,52 @@
+<html>
+
+<head>
+    <script src="https://geek-and-poke.squarespace.com/s/prettify.js"></script>
+    <link href="https://geek-and-poke.squarespace.com/s/sons-of-obsidian.css"
+          rel="stylesheet" type="text/css">
+</head>
+
+<body>
+<h2>Functional if in Javascript</h2>
+        <span>
+            What about this functional if/else version for Javascript?
+        </span>
+        
+        <pre class="prettyprint">
+
+            function _if(boolean, trueBody) {
+                if(boolean) {
+                    trueBody();
+                }
+
+                function _else(falseBody) {
+                    if(!boolean) {
+                        falseBody();
+                    }
+                }
+
+                return {
+                    else: _else
+                }
+            }
+        </pre>
+
+        <span>
+            It can now now be used like this:
+        </span>
+
+        <pre class="prettyprint">
+            _if(booleanExpression, function() {
+                // if body
+            }).else(function() {
+                // else body
+            });
+        </pre>
+
+        <span>
+            Now you have an if/else body with local scope.
+        </span>
+
+<script>prettyPrint();</script>
+</body>
+</html>
