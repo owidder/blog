@@ -1,0 +1,107 @@
+<html>
+
+<head>
+    <script src="https://geek-and-poke.squarespace.com/s/prettify.js"></script>
+    <link href="https://geek-and-poke.squarespace.com/s/sons-of-obsidian.css"
+          rel="stylesheet" type="text/css">
+</head>
+
+<body>
+        <span>
+            I like JavaScript promises. But I'm not too crazy about the ES6 way
+            (see <a href="https://developer.mozilla.org/en/docs/Web/JavaScript/Reference/Global_Objects/Promise">MSDN</a>) where
+            you get the resolve and reject as parameter of a function:
+        </span>
+
+
+        <pre class="prettyprint">
+
+            function doSomethingAsync() {
+                return new Promise(function(resolve, reject) {
+                    callAsncCode(xyz, function(result) {
+                        if(&lt;result is ok&gt;) {
+                            resolve(someData);
+                        }
+                        else {
+                            reject();
+                        }
+                    });
+                });
+            }
+        </pre>
+
+        <span>
+            I would rather have something like this:
+        </span>
+
+        <pre class="prettyprint">
+            function doSomethingAsync() {
+                var promise = &lt;gimme a promise&gt;
+                callAsncCode(xyz, function(result) {
+                    if(&lt;result is ok&gt;) {
+                        promise.resolve(someData);
+                    }
+                    else {
+                        promise.reject();
+                    }
+                });
+
+                return promise;
+            }
+        </pre>
+
+        <span>
+            To get this I always have this small ES6 class in my tool belt:
+        </span>
+
+        <pre class="prettyprint">
+            class SimplePromise {
+                constructor() {
+                    const self = this;
+                    this._promise = new Promise(function(resolve, reject) {
+                        self._resolve = resolve;
+                        self._reject = reject;
+                    });
+                }
+
+                resolve(data) {
+                    this._resolve(data);
+                }
+
+                reject(data) {
+                    this._reject(data);
+                }
+
+                promise() {
+                    return this._promise;
+                }
+            }
+        </pre>
+
+        <span>
+            Now my code looks like this:
+        </span>
+
+        <pre class="prettyprint">
+            function doSomethingAsync() {
+                var promise = new SimplePromise();
+                callAsncCode(xyz, function(result) {
+                    if(&lt;result is ok&gt;) {
+                        promise.resolve(someData);
+                    }
+                    else {
+                        promise.reject();
+                    }
+                });
+
+                return  promise.promise();;
+            }
+        </pre>
+
+        <span>
+            Not everyone may like it. I do.
+        </span>
+
+<script>prettyPrint();</script>
+</body>
+</html>
