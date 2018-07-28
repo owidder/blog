@@ -10,7 +10,7 @@ Glaubt man den Experten, dann stehen Smart Contracts kurz davor, [sämtliche Mä
 
 ## Unsere eigene Währung...
 ... wollen wir aber nicht. Auf [Ethereum](https://www.ethereum.org/) - die älteste und größte der Blockchains, die Smart Contracts anbieten - gibt es jede Menge Contracts, die ihren eigenen Coin implementieren. Dafür gibt es auch extra Standards ([ERC20](https://en.wikipedia.org/wiki/ERC20) bzw. [ERC223](https://cointrends.top/news/view/the-new-erc223-token-standard)). Und so ein ERC20-Contract [muss gar nicht mal so groß sein](https://github.com/bitfwdcommunity/Issue-your-own-ERC20-token/blob/master/contracts/erc20_tutorial.sol).
-Wir aber wollen es noch viel einfacher.
+Wir aber wollen es aber noch viel einfacher.
 
 ## "Das habe ich doch schon vor 10 Jahren gesagt!"
 Kennen Sie das? Sie sagen irgend etwas richtig kluges und keiner weiß das zu würdigen. Jahre später kommt irgendwer daher, sagt das gleiche und wird umjubelt.
@@ -56,6 +56,6 @@ Wir unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.rin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTQ4OTgwOCwxNDk4Mjg4NDUzLDExOD
+eyJoaXN0b3J5IjpbMjEzNDIyNjgzMCwxNDk4Mjg4NDUzLDExOD
 Y1MTIzNzFdfQ==
 -->
