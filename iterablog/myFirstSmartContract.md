@@ -43,7 +43,7 @@ Das Verwalten von Accounts und Starten von Transaktionen geht am Einfachsten üb
 
 Wir verwenden dafür das Browser-Plug-in [Metamask](https://metamask.io/).
 Die Installation erfolgt über den [Chrome Web Store](https://chrome.google.com/webstore/search/metamask) oder über [Firefox Add-ons](https://addons.mozilla.org/firefox/search/?q=metamask).
-Nach dem Starten (kleiner Fuchs neben dem Address Bar <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-02/iterablog/images/fuchs.png"/>) muss man zunächst mal ein Wallet erzeugen:
+Nach dem Starten (kleiner Fuchs neben dem Address Bar <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-02/iterablog/images/fuchs.png" height="25px"/>) muss man zunächst mal ein Wallet erzeugen:
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib20180728-01/iterablog/images/metamask-sign-in.png" alt="Wallet erzeugen" width="300px"/>
 
@@ -58,9 +58,9 @@ Dazu wählen wir
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mjc2MTQ5OTksLTEzNTMzMTk2MjcsMT
-czMjY4NjAxMCwtNTE0ODM3MTExLC0xNDg3NDE5MjEzLC0xNjEx
-NDU0ODM2LDk2NTY4OTgwNSw0OTA3MDcxNjIsLTg1NTQ4ODM4LD
-g3MDMyNTM2MCwxNjQ5NzMxMDY5LC0xNDMzMTM3Mzk0LC0xNTQ2
-MjIxODIxLDE5MzgwNjQ2M119
+eyJoaXN0b3J5IjpbMTA5MTk5MzQzMCwtMTM1MzMxOTYyNywxNz
+MyNjg2MDEwLC01MTQ4MzcxMTEsLTE0ODc0MTkyMTMsLTE2MTE0
+NTQ4MzYsOTY1Njg5ODA1LDQ5MDcwNzE2MiwtODU1NDg4MzgsOD
+cwMzI1MzYwLDE2NDk3MzEwNjksLTE0MzMxMzczOTQsLTE1NDYy
+MjE4MjEsMTkzODA2NDYzXX0=
 -->
