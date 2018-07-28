@@ -61,9 +61,10 @@ Dazu wählen wir in Metamask das Rinkeby-Network aus:
 Metamask hat uns auch schon freundlicherweise einen Account angelegt. Solange wir aber keine Transaktion mit diesem Account durchgeführt haben, ist der in dem Network nicht bekannt.
 
 ## Wenn ich einmal reich wär
+Unser Account ist leider ziemlich arm :(
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU3MTc1MTc5OCw3NjI3MTAzMTgsMTA0Mz
+eyJoaXN0b3J5IjpbLTk0NDIxNDg4NCw3NjI3MTAzMTgsMTA0Mz
 UyMjcwMiwtMTY1MjI5NTUyMywtMjAzMzI2ODE4Nyw4NjkxNzM0
 MTIsMTUwOTkxNzcxNiwxMDkxOTkzNDMwLC0xMzUzMzE5NjI3LD
 E3MzI2ODYwMTAsLTUxNDgzNzExMSwtMTQ4NzQxOTIxMywtMTYx
