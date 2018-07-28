@@ -3,7 +3,7 @@
 
 Wenn [Blockchains](https://www.theguardian.com/commentisfree/2018/feb/06/blockchain-explained-by-crypto-expert-f-onthemoon) eine Art von [verteilten Datenbanken](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain/) sind, dann sind [Smart Contracts](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain-teil-2-smart-contracts-die-businesslogik-von-blockchai/) ihre Stored Procedures. Sie bieten Funktionen an, die man aufrufen kann und die Daten in der Blockchain ablegen können.
 
-Und glaubt man den Experten (oder meinem [Kollegen](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain-teil-4-die-blockchain-im-einsatz-1/)), dann könnten Smart Contracts  [sämtliche Märkte aufzuräumen](https://enterprisersproject.com/article/2018/7/blockchain-action-5-interesting-examples).
+Und glaubt man den Experten (oder meinem [Kollegen](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain-teil-4-die-blockchain-im-einsatz-1/)), dann könnten Smart Contracts  [Märkte verändern](http://www.zhiguohe.com/uploads/1/0/6/9/106923057/bdsc.pdf).
 
 ## Es nützt also nix...
 ... wir müssen selber einen Smart Contract erstellen. Erst dann können wir auch [mit wirklich coolen Kids mitreden](https://cointrends.top/news/view/the-new-erc223-token-standard). Aber da wir auch besseres zu tun haben, wollen wir es uns so einfach wie möglich machen und nur online Tools verwenden.
@@ -55,7 +55,7 @@ Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTY1Njg5ODA1LDQ5MDcwNzE2MiwtODU1ND
-g4MzgsODcwMzI1MzYwLDE2NDk3MzEwNjksLTE0MzMxMzczOTQs
-LTE1NDYyMjE4MjEsMTkzODA2NDYzXX0=
+eyJoaXN0b3J5IjpbLTE2MTE0NTQ4MzYsOTY1Njg5ODA1LDQ5MD
+cwNzE2MiwtODU1NDg4MzgsODcwMzI1MzYwLDE2NDk3MzEwNjks
+LTE0MzMxMzczOTQsLTE1NDYyMjE4MjEsMTkzODA2NDYzXX0=
 -->
