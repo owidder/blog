@@ -25,7 +25,7 @@ Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
  Und da Speicher in der Blockchain etwas kostet, hashen ([SHA512](https://abunchofutils.com/u/computing/sha512-hash-calculator/)) wir vorher und legen nur den Hashwert ab.
 
 ## Pacta sunt servanda
-Wir brauchen also einen Smart Contract, der folgende Funktionen anbietet:
+Wir brauchen also einen Smart Contract, der folgende Funktion anbietet:
 
  - `registerHashValue(string hashValue) public returns(bool)` : Speichert den Hashwert zusammen mit der Adresse des Accounts, von dem diese Funktion aufgerufen wurde. Eine Account-Adresse bei Ethereum ist ein [160-Bit Hex-Wert](https://theethereum.wiki/w/index.php/Accounts,_Addresses,_Public_And_Private_Keys,_And_Tokens#Account_or_Address).
  - `getAddressFromHashValue(string hashValue) public view returns(address)`: Gibt die Adresse zurück unter der ein Hashwert abgespeichert wurde (falls er überhaupt abgespeichert wurde). Das Keyword `view` bedeutet, dass diese Funktion nur Daten liest und keine speichert. Dann ist auch der Aufruf kostenlos.
@@ -57,6 +57,6 @@ Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0OTczMTA2OSwtMTQzMzEzNzM5NCwtMT
-U0NjIyMTgyMSwxOTM4MDY0NjNdfQ==
+eyJoaXN0b3J5IjpbLTEzMzc4ODMyNTgsMTY0OTczMTA2OSwtMT
+QzMzEzNzM5NCwtMTU0NjIyMTgyMSwxOTM4MDY0NjNdfQ==
 -->
