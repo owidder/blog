@@ -53,9 +53,9 @@ Danach sehen Sie 12 Worte, die sogenannten *Mnenomics*. Das ist der Schlüssel z
 Als nächstes müssen wir uns entscheiden, auf welchem Ethereum Network wir unseren Contract deployen wollen. 
 Da gibt es einmal das *Main Net*. Da spielen die Big Girls'n'Boys. Da kosten Ether echtes Geld. Das wollen wir nicht.
 Zum Glück gibt es noch einige Test-Networks. Da gibt es Ether für lau (free lunch). Das wollen wir!
-Wir unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.rinkeby.io).
+Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.rinkeby.io).
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODA2NDYzXX0=
+eyJoaXN0b3J5IjpbLTE1NDYyMjE4MjEsMTkzODA2NDYzXX0=
 -->
