@@ -57,6 +57,5 @@ Wir unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.rin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzODA2NDYzLDE3ODM5Mzc1MzQsMTQ5OD
-I4ODQ1MywxMTg2NTEyMzcxXX0=
+eyJoaXN0b3J5IjpbMTkzODA2NDYzXX0=
 -->
