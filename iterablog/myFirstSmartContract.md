@@ -66,13 +66,13 @@ Dazu wählen wir in Metamask das Rinkeby-Network aus:
 Metamask hat uns auch schon freundlicherweise einen Account angelegt. Solange wir aber keine Transaktion mit diesem Account durchgeführt haben, ist der in dem Network nicht bekannt.
 
 ## Wenn ich einmal reich wär
-Unser Account ist leider ziemlich arm :(
+Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-04/iterablog/images/0-eth.png" alt="Rinkeby auswählen" width="300px"/>
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU5NDMwODYzMiwtODI4MjQyMzY5LDU2MD
+eyJoaXN0b3J5IjpbMTg3OTQ3NDMxOCwtODI4MjQyMzY5LDU2MD
 gxODU5NSwxOTY4NDA5Mzc4LDE5NzUwNTk2NTAsMTA2MTczNjk0
 MSwtOTQ0MjE0ODg0LDc2MjcxMDMxOCwxMDQzNTIyNzAyLC0xNj
 UyMjk1NTIzLC0yMDMzMjY4MTg3LDg2OTE3MzQxMiwxNTA5OTE3
