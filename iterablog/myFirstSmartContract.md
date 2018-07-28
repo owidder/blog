@@ -21,13 +21,13 @@ Aber sind wir mal ehrlich. Finden unsere genialen Ideen keine Resonanz, sind mei
 Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
  
  ## Marmor, Stein und Eisen bricht, aber eine Blockchain nicht
- Was liegt also näher, als alle klugen Gedanken einfach in die Blockchain zu schreiben. Dann sind Zeitpunkt und Inhalt unwiderruflich festgehalten.
+ Was liegt also näher, als alle klugen Gedanken einfach in der Blockchain zu veröffentlichen? Dann sind Zeitpunkt und Inhalt unwiderruflich festgehalten.
  Und da Speicher in der Blockchain etwas kostet, hashen ([SHA512](https://abunchofutils.com/u/computing/sha512-hash-calculator/)) wir vorher und legen nur den Hashwert ab.
 
 ## Pacta sunt servanda
 Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns auf eine einzige Funktion:
 
- - `logHashValue(string hashValue) public returns(bool)` :  Veröffentlicht in der Blockchain einen Hashwert [).
+ - `logHashValue(string hashValue) public returns(bool)` :  Veröffentlicht in der Blockchain einen Hashwert.
 
 Ist das alles? 
 Ja, es ist. Denn alle Informationen, wie 
@@ -70,11 +70,11 @@ Unser Account ist leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2ODQwOTM3OCwxOTc1MDU5NjUwLDIwOT
-U5NzU0NzEsMTA2MTczNjk0MSwtOTQ0MjE0ODg0LDc2MjcxMDMx
-OCwxMDQzNTIyNzAyLC0xNjUyMjk1NTIzLC0yMDMzMjY4MTg3LD
-g2OTE3MzQxMiwxNTA5OTE3NzE2LDEwOTE5OTM0MzAsLTEzNTMz
-MTk2MjcsMTczMjY4NjAxMCwtNTE0ODM3MTExLC0xNDg3NDE5Mj
-EzLC0xNjExNDU0ODM2LDk2NTY4OTgwNSw0OTA3MDcxNjIsLTg1
-NTQ4ODM4XX0=
+eyJoaXN0b3J5IjpbLTE5MTI1ODU2MTgsMTk2ODQwOTM3OCwxOT
+c1MDU5NjUwLDEwNjE3MzY5NDEsLTk0NDIxNDg4NCw3NjI3MTAz
+MTgsMTA0MzUyMjcwMiwtMTY1MjI5NTUyMywtMjAzMzI2ODE4Ny
+w4NjkxNzM0MTIsMTUwOTkxNzcxNiwxMDkxOTkzNDMwLC0xMzUz
+MzE5NjI3LDE3MzI2ODYwMTAsLTUxNDgzNzExMSwtMTQ4NzQxOT
+IxMywtMTYxMTQ1NDgzNiw5NjU2ODk4MDUsNDkwNzA3MTYyLC04
+NTU0ODgzOF19
 -->
