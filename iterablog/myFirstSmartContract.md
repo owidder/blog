@@ -3,7 +3,7 @@
 
 Wenn [Blockchains](https://www.theguardian.com/commentisfree/2018/feb/06/blockchain-explained-by-crypto-expert-f-onthemoon) eine Art von verteilten Datenbanken sind, dann sind [Smart Contracts](https://medium.com/@jimmysong/the-truth-about-smart-contracts-ae825271811f) ihre Stored Procedures. Sie bieten Funktionen an, die man aufrufen kann und die Daten in der Blockchain ablegen können.
 
-Glaubt man den Experten, dann stehen Smart Contracts kurz davor, [sämtliche Märkte aufzuräumen](https://enterprisersproject.com/article/2018/7/blockchain-action-5-interesting-examples).
+Und glaubt man den Experten, dann stehen Smart Contracts kurz davor, [sämtliche Märkte aufzuräumen](https://enterprisersproject.com/article/2018/7/blockchain-action-5-interesting-examples).
 
 ## Es nützt also nix...
 ... wir müssen selber einen Smart Contract erstellen. Erst dann können wir auch [mit wirklich coolen Kids mitreden](https://cointrends.top/news/view/the-new-erc223-token-standard). Aber da wir auch besseres zu tun haben, wollen wir es uns so einfach wie möglich machen und nur online Tools verwenden.
@@ -57,5 +57,6 @@ Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDYyMjE4MjEsMTkzODA2NDYzXX0=
+eyJoaXN0b3J5IjpbLTE0MzMxMzczOTQsLTE1NDYyMjE4MjEsMT
+kzODA2NDYzXX0=
 -->
