@@ -34,7 +34,7 @@ Ja, es ist. Denn alle Informationen, wie
 - welcher Account hat den Hashwert veröffentlicht?
 - wann wurde der Hashwert veröffentlicht?
 
-bekommen wir als Metadaten automatisch mitgeliefert. Wir könnten den Hashwert auch im Contract abspeichern. Darauf verzichten wir aber bewusst, denn in unserem Fall genügt es, wenn wir 
+bekommen wir als Metadaten automatisch mitgeliefert (). 
 
 Jetzt noch ein Name für unseren Contract: [Weisenheimer](https://www.urbandictionary.com/define.php?term=weisenheimer)
 
@@ -76,11 +76,11 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwNjIyMjE5NiwyNDM2Mzc2NTksMjA1Mj
-E0OTg2NywxMjkyNjQ1NzksNTYwNDgzMDE2LC0xMDI2Mjk4Mjkw
-LDE4Nzk0NzQzMTgsLTgyODI0MjM2OSw1NjA4MTg1OTUsMTk2OD
-QwOTM3OCwxOTc1MDU5NjUwLDEwNjE3MzY5NDEsLTk0NDIxNDg4
-NCw3NjI3MTAzMTgsMTA0MzUyMjcwMiwtMTY1MjI5NTUyMywtMj
-AzMzI2ODE4Nyw4NjkxNzM0MTIsMTUwOTkxNzcxNiwxMDkxOTkz
-NDMwXX0=
+eyJoaXN0b3J5IjpbLTI1NDc1NzY0NCwtNDA2MjIyMTk2LDI0Mz
+YzNzY1OSwyMDUyMTQ5ODY3LDEyOTI2NDU3OSw1NjA0ODMwMTYs
+LTEwMjYyOTgyOTAsMTg3OTQ3NDMxOCwtODI4MjQyMzY5LDU2MD
+gxODU5NSwxOTY4NDA5Mzc4LDE5NzUwNTk2NTAsMTA2MTczNjk0
+MSwtOTQ0MjE0ODg0LDc2MjcxMDMxOCwxMDQzNTIyNzAyLC0xNj
+UyMjk1NTIzLC0yMDMzMjY4MTg3LDg2OTE3MzQxMiwxNTA5OTE3
+NzE2XX0=
 -->
