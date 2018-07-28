@@ -1,7 +1,7 @@
 
 # TL;DR: Smart Contracts für Faulpelze
 
-Wenn [Blockchains](https://www.theguardian.com/commentisfree/2018/feb/06/blockchain-explained-by-crypto-expert-f-onthemoon) eine Art von [verteilten Datenbanken](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain/) sind, dann sind [Smart Contracts](https://medium.com/@jimmysong/the-truth-about-smart-contracts-ae825271811f) ihre Stored Procedures. Sie bieten Funktionen an, die man aufrufen kann und die Daten in der Blockchain ablegen können.
+Wenn [Blockchains](https://www.theguardian.com/commentisfree/2018/feb/06/blockchain-explained-by-crypto-expert-f-onthemoon) eine Art von [verteilten Datenbanken](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain/) sind, dann sind [Smart Contracts](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain-teil-2-smart-contracts-die-businesslogik-von-blockchai/) ihre Stored Procedures. Sie bieten Funktionen an, die man aufrufen kann und die Daten in der Blockchain ablegen können.
 
 Und glaubt man den Experten, dann stehen Smart Contracts kurz davor, [sämtliche Märkte aufzuräumen](https://enterprisersproject.com/article/2018/7/blockchain-action-5-interesting-examples).
 
@@ -57,6 +57,6 @@ Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzc0MDUxNzEsLTE0MzMxMzczOTQsLT
-E1NDYyMjE4MjEsMTkzODA2NDYzXX0=
+eyJoaXN0b3J5IjpbMTY0OTczMTA2OSwtMTQzMzEzNzM5NCwtMT
+U0NjIyMTgyMSwxOTM4MDY0NjNdfQ==
 -->
