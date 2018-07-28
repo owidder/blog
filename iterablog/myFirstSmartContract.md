@@ -54,13 +54,14 @@ Als nächstes müssen wir uns entscheiden, auf welchem Ethereum Network wir unse
 Da gibt es einmal das *Main Net*. Da spielen die Big Girls'n'Boys. Da kosten Ether echtes Geld. Das wollen wir nicht.
 Zum Glück gibt es noch einige Test-Networks. Da gibt es Ether für lau (free lunch). Das wollen wir!
 Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.rinkeby.io).
-Dazu wählen wir 
+Dazu wählen wir in Metamask das Rinkeby-Network aus:
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA5MTk5MzQzMCwtMTM1MzMxOTYyNywxNz
-MyNjg2MDEwLC01MTQ4MzcxMTEsLTE0ODc0MTkyMTMsLTE2MTE0
-NTQ4MzYsOTY1Njg5ODA1LDQ5MDcwNzE2MiwtODU1NDg4MzgsOD
-cwMzI1MzYwLDE2NDk3MzEwNjksLTE0MzMxMzczOTQsLTE1NDYy
-MjE4MjEsMTkzODA2NDYzXX0=
+eyJoaXN0b3J5IjpbMTUwOTkxNzcxNiwxMDkxOTkzNDMwLC0xMz
+UzMzE5NjI3LDE3MzI2ODYwMTAsLTUxNDgzNzExMSwtMTQ4NzQx
+OTIxMywtMTYxMTQ1NDgzNiw5NjU2ODk4MDUsNDkwNzA3MTYyLC
+04NTU0ODgzOCw4NzAzMjUzNjAsMTY0OTczMTA2OSwtMTQzMzEz
+NzM5NCwtMTU0NjIyMTgyMSwxOTM4MDY0NjNdfQ==
 -->
