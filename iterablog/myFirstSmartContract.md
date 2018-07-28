@@ -27,7 +27,7 @@ Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
 ## Pacta sunt servanda
 Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns auf eine einzige Funktion:
 
- - `logHashValue(string hashValue) public returns(bool)` :  Veröffentlicht in der Blockchain einen Hashwert ().
+ - `logHashValue(string hashValue) public returns(bool)` :  Veröffentlicht in der Blockchain einen Hashwert (m ).
 
 Ist das alles? 
 Ja, es ist. Denn alle Informationen, wie 
@@ -70,11 +70,11 @@ Unser Account ist leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NTk3NTQ3MSwtNzg1NzAyOTg2LDMxMz
-gyNDQ2OSwxMDYxNzM2OTQxLC05NDQyMTQ4ODQsNzYyNzEwMzE4
-LDEwNDM1MjI3MDIsLTE2NTIyOTU1MjMsLTIwMzMyNjgxODcsOD
-Y5MTczNDEyLDE1MDk5MTc3MTYsMTA5MTk5MzQzMCwtMTM1MzMx
-OTYyNywxNzMyNjg2MDEwLC01MTQ4MzcxMTEsLTE0ODc0MTkyMT
-MsLTE2MTE0NTQ4MzYsOTY1Njg5ODA1LDQ5MDcwNzE2MiwtODU1
-NDg4MzhdfQ==
+eyJoaXN0b3J5IjpbMTk3NTA1OTY1MCwyMDk1OTc1NDcxLC03OD
+U3MDI5ODYsMTA2MTczNjk0MSwtOTQ0MjE0ODg0LDc2MjcxMDMx
+OCwxMDQzNTIyNzAyLC0xNjUyMjk1NTIzLC0yMDMzMjY4MTg3LD
+g2OTE3MzQxMiwxNTA5OTE3NzE2LDEwOTE5OTM0MzAsLTEzNTMz
+MTk2MjcsMTczMjY4NjAxMCwtNTE0ODM3MTExLC0xNDg3NDE5Mj
+EzLC0xNjExNDU0ODM2LDk2NTY4OTgwNSw0OTA3MDcxNjIsLTg1
+NTQ4ODM4XX0=
 -->
