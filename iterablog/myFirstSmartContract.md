@@ -6,7 +6,7 @@ Wenn [Blockchains](https://www.theguardian.com/commentisfree/2018/feb/06/blockch
 Und glaubt man den Experten (oder meinem [Kollegen](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain-teil-4-die-blockchain-im-einsatz-1/)), dann könnten Smart Contracts  [Märkte verändern](http://www.zhiguohe.com/uploads/1/0/6/9/106923057/bdsc.pdf).
 
 ## Es nützt also nix...
-... wir müssen selber einen Smart Contract erstellen. Erst dann können wir auch [mit wirklich coolen Kids mitreden](https://cointrends.top/news/view/the-new-erc223-token-standard). Aber da wir auch besseres zu tun haben, wollen wir es uns so einfach wie möglich machen und nur online Tools verwenden.
+... wir müssen selber einen Smart Contract erstellen. Erst dann können wir auch [mit den wirklich coolen Kids mitreden](https://cointrends.top/news/view/the-new-erc223-token-standard). Aber da wir auch besseres zu tun haben, wollen wir es uns so einfach wie möglich machen und nur online Tools verwenden.
 
 ## Unsere eigene Währung...
 ... wollen wir aber nicht. Auf [Ethereum](https://www.ethereum.org/) - die älteste und größte der Blockchains, die Smart Contracts anbieten - gibt es jede Menge Contracts, die ihren eigenen Coin implementieren. Dafür gibt es auch extra Standards ([ERC20](https://en.wikipedia.org/wiki/ERC20) bzw. [ERC223](https://cointrends.top/news/view/the-new-erc223-token-standard)). Und so ein ERC20-Contract [muss gar nicht mal so groß sein](https://github.com/bitfwdcommunity/Issue-your-own-ERC20-token/blob/master/contracts/erc20_tutorial.sol).
@@ -55,7 +55,8 @@ Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MTE0NTQ4MzYsOTY1Njg5ODA1LDQ5MD
-cwNzE2MiwtODU1NDg4MzgsODcwMzI1MzYwLDE2NDk3MzEwNjks
-LTE0MzMxMzczOTQsLTE1NDYyMjE4MjEsMTkzODA2NDYzXX0=
+eyJoaXN0b3J5IjpbMTczNTUyOTE1MSwtMTYxMTQ1NDgzNiw5Nj
+U2ODk4MDUsNDkwNzA3MTYyLC04NTU0ODgzOCw4NzAzMjUzNjAs
+MTY0OTczMTA2OSwtMTQzMzEzNzM5NCwtMTU0NjIyMTgyMSwxOT
+M4MDY0NjNdfQ==
 -->
