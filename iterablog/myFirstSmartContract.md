@@ -37,7 +37,8 @@ Um unseren Smart Contract in der Ethereum Blockchain zu deployen, brauchen wir e
 
 *There is no free lunch*
 
-Jede Transaktion bei Ethereum - und das Deployen eines Contracts ist auch eine Transaktion - kostet Ether. Und Ether kosten normalerweise [echtes Geld](https://www.coindesk.com/ethereum-price/) (aber seien Sie beruhigt, für unser kleines Beispiel brauchen Sie kein Geld auszugeben.
+Jede Transaktion bei Ethereum - und das Deployen eines Contracts ist auch eine Transaktion - kostet Ether. Und Ether kosten normalerweise [echtes Geld](https://www.coindesk.com/ethereum-price/) (aber seien Sie beruhigt, für unser kleines Beispiel brauchen Sie kein Geld auszugeben).
+
 Das Verwalten von Accounts und Starten von Transaktionen geht am Einfachsten über ein *Wallet*.
 
 Wir verwenden dafür das Browser-Plug-in [Metamask](https://metamask.io/).
@@ -56,6 +57,6 @@ Wir unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.rin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4MzkzNzUzNCwzOTgzNzMyLDE0OTgyOD
-g0NTMsMTE4NjUxMjM3MV19
+eyJoaXN0b3J5IjpbMTkzODA2NDYzLDE3ODM5Mzc1MzQsMTQ5OD
+I4ODQ1MywxMTg2NTEyMzcxXX0=
 -->
