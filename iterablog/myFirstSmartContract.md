@@ -36,6 +36,9 @@ Ja, es ist. Denn alle Informationen, wie
 
 bekommen wir als Metadaten automatisch mitgeliefert. 
 
+Jetzt noch ein Name für unseren Contract: [Weisenheimer](https://www.urbandictionary.com/define.php?term=weisenheimer)
+
+
 
 
 ## Wallets
@@ -73,8 +76,8 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI5MjY0NTc5LDU2MDQ4MzAxNiwxNzEzMj
-g3OTA2LC0xMDI2Mjk4MjkwLDE4Nzk0NzQzMTgsLTgyODI0MjM2
+eyJoaXN0b3J5IjpbMjA1MjE0OTg2NywxMjkyNjQ1NzksNTYwND
+gzMDE2LC0xMDI2Mjk4MjkwLDE4Nzk0NzQzMTgsLTgyODI0MjM2
 OSw1NjA4MTg1OTUsMTk2ODQwOTM3OCwxOTc1MDU5NjUwLDEwNj
 E3MzY5NDEsLTk0NDIxNDg4NCw3NjI3MTAzMTgsMTA0MzUyMjcw
 MiwtMTY1MjI5NTUyMywtMjAzMzI2ODE4Nyw4NjkxNzM0MTIsMT
