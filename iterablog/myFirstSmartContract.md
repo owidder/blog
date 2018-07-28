@@ -58,11 +58,12 @@ Dazu wählen wir in Metamask das Rinkeby-Network aus:
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-03/iterablog/images/metamask-rinkeby.png" alt="Rinkeby auswählen" width="300px"/>
 
-Metamask hat uns auch schon freundlicherweise einen Account angelegt. Solange wir aber keine Transaktion mit diesem Account durchgeführt haben, ist der in dem Network nicht bekannnt.
+Metamask hat uns auch schon freundlicherweise einen Account angelegt. Solange wir aber keine Transaktion mit diesem Account durchgeführt haben, ist der in dem Network nicht bekannt.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA0MzUyMjcwMiwtMTY1MjI5NTUyMywxNT
-I3MzczNDcsLTIwMzMyNjgxODcsODY5MTczNDEyLDE1MDk5MTc3
+eyJoaXN0b3J5IjpbNzYyNzEwMzE4LDEwNDM1MjI3MDIsLTE2NT
+IyOTU1MjMsLTIwMzMyNjgxODcsODY5MTczNDEyLDE1MDk5MTc3
 MTYsMTA5MTk5MzQzMCwtMTM1MzMxOTYyNywxNzMyNjg2MDEwLC
 01MTQ4MzcxMTEsLTE0ODc0MTkyMTMsLTE2MTE0NTQ4MzYsOTY1
 Njg5ODA1LDQ5MDcwNzE2MiwtODU1NDg4MzgsODcwMzI1MzYwLD
