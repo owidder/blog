@@ -28,9 +28,7 @@ Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
 Wir brauchen also einen Smart Contract, der folgende Funktion anbietet:
 
  - `registerHashValue(string hashValue) public returns(bool)` : Speichert den Hashwert zusammen mit der Adresse des Accounts, von dem diese Funktion aufgerufen wurde. Eine Account-Adresse bei Ethereum ist ein [160-Bit Hex-Wert](https://theethereum.wiki/w/index.php/Accounts,_Addresses,_Public_And_Private_Keys,_And_Tokens#Account_or_Address).
- - `getAddressFromHashValue(string hashValue) public view returns(address)`: Gibt die Adresse zurück unter der ein Hashwert abgespeichert wurde (falls er überhaupt abgespeichert wurde). Das Keyword `view` bedeutet, dass diese Funktion nur Daten liest und keine speichert. Dann ist auch der Aufruf kostenlos.
- - `getBlockTimestampFromHashValue(string hashValue) public viel returns(uint)`: Gibt die Uhrzeit (Sekunden seit 01.01.1970, UTC) des Blocks zurück, in dem die Funktion `registerHashValue` ausgeführt wurde.
-Man könnte die letzten beiden Funktionen auch zu einer zusammenfassen, die eine entsprechende Datenstruktur (`struct`) mit Adresse und Timestamp zurück gibt. Aber das ist in *Solidity* - die Sprache, in der bei Ethereum Contracts geschrieben werden - noch *experimental*. Nicht alle Tools können damit umgehen. Also lassen wir das erst einmal.
+
 
 ## Wallets
 Um unseren Smart Contract in der Ethereum Blockchain zu deployen, brauchen wir einen Account und *Ether*, die Währung bei Ethereum. 
@@ -57,6 +55,6 @@ Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzc4ODMyNTgsMTY0OTczMTA2OSwtMT
-QzMzEzNzM5NCwtMTU0NjIyMTgyMSwxOTM4MDY0NjNdfQ==
+eyJoaXN0b3J5IjpbLTM4Nzk1NTk2MywxNjQ5NzMxMDY5LC0xND
+MzMTM3Mzk0LC0xNTQ2MjIxODIxLDE5MzgwNjQ2M119
 -->
