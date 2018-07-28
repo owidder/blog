@@ -56,13 +56,13 @@ Zum Glück gibt es noch einige Test-Networks. Da gibt es Ether für lau (free lu
 Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.rinkeby.io).
 Dazu wählen wir in Metamask das Rinkeby-Network aus:
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-03/iterablog/images/metamask-rinkeby.png" alt="Wallet erzeugen" width="300px"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-03/iterablog/images/metamask-rinkeby.png" alt="Rinkeby" width="300px"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MzIyMjcxODIsMTUwOTkxNzcxNiwxMD
-kxOTkzNDMwLC0xMzUzMzE5NjI3LDE3MzI2ODYwMTAsLTUxNDgz
-NzExMSwtMTQ4NzQxOTIxMywtMTYxMTQ1NDgzNiw5NjU2ODk4MD
-UsNDkwNzA3MTYyLC04NTU0ODgzOCw4NzAzMjUzNjAsMTY0OTcz
-MTA2OSwtMTQzMzEzNzM5NCwtMTU0NjIyMTgyMSwxOTM4MDY0Nj
-NdfQ==
+eyJoaXN0b3J5IjpbODY5MTczNDEyLC0xNTMyMjI3MTgyLDE1MD
+k5MTc3MTYsMTA5MTk5MzQzMCwtMTM1MzMxOTYyNywxNzMyNjg2
+MDEwLC01MTQ4MzcxMTEsLTE0ODc0MTkyMTMsLTE2MTE0NTQ4Mz
+YsOTY1Njg5ODA1LDQ5MDcwNzE2MiwtODU1NDg4MzgsODcwMzI1
+MzYwLDE2NDk3MzEwNjksLTE0MzMxMzczOTQsLTE1NDYyMjE4Mj
+EsMTkzODA2NDYzXX0=
 -->
