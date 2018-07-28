@@ -27,7 +27,7 @@ Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
 ## Pacta sunt servanda
 Wir brauchen also einen Smart Contract, der folgende Funktion anbietet:
 
- - `registerHashValue(string hashValue) public returns(bool)` : Speichert den Hashwert zusammen mit der Adresse des Accounts, von dem diese Funktion aufgerufen wurde. Eine Account-Adresse bei Ethereum ist ein [160-Bit Hex-Wert](https://theethereum.wiki/w/index.php/Accounts,_Addresses,_Public_And_Private_Keys,_And_Tokens#Account_or_Address).
+ - `reHashValue(string hashValue) public returns(bool)` : Speichert den Hashwert zusammen mit der Adresse des Accounts, von dem diese Funktion aufgerufen wurde. Eine Account-Adresse bei Ethereum ist ein [160-Bit Hex-Wert](https://theethereum.wiki/w/index.php/Accounts,_Addresses,_Public_And_Private_Keys,_And_Tokens#Account_or_Address).
 
 
 ## Wallets
@@ -55,6 +55,7 @@ Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM4Nzk1NTk2MywxNjQ5NzMxMDY5LC0xND
-MzMTM3Mzk0LC0xNTQ2MjIxODIxLDE5MzgwNjQ2M119
+eyJoaXN0b3J5IjpbOTc5NjAxMjA1LC0zODc5NTU5NjMsMTY0OT
+czMTA2OSwtMTQzMzEzNzM5NCwtMTU0NjIyMTgyMSwxOTM4MDY0
+NjNdfQ==
 -->
