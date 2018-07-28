@@ -30,7 +30,7 @@ Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns
  - `logHashValue(string hashValue) public returns(bool)` :  Veröffentlicht in der Blockchain einen Hashwert.
 
 Ist das alles? Ja, es ist. Denn alle Informationen, wie 
-- welcher Account hat den Hash vröff
+- welcher Account hat den Hash vröffentl
 
 
 ## Wallets
@@ -68,11 +68,11 @@ Unser Account ist leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzEzODI0NDY5LDIwMjMyODEyODcsMTA2MT
-czNjk0MSwtOTQ0MjE0ODg0LDc2MjcxMDMxOCwxMDQzNTIyNzAy
-LC0xNjUyMjk1NTIzLC0yMDMzMjY4MTg3LDg2OTE3MzQxMiwxNT
-A5OTE3NzE2LDEwOTE5OTM0MzAsLTEzNTMzMTk2MjcsMTczMjY4
-NjAxMCwtNTE0ODM3MTExLC0xNDg3NDE5MjEzLC0xNjExNDU0OD
-M2LDk2NTY4OTgwNSw0OTA3MDcxNjIsLTg1NTQ4ODM4LDg3MDMy
-NTM2MF19
+eyJoaXN0b3J5IjpbLTc4NTcwMjk4NiwzMTM4MjQ0NjksMjAyMz
+I4MTI4NywxMDYxNzM2OTQxLC05NDQyMTQ4ODQsNzYyNzEwMzE4
+LDEwNDM1MjI3MDIsLTE2NTIyOTU1MjMsLTIwMzMyNjgxODcsOD
+Y5MTczNDEyLDE1MDk5MTc3MTYsMTA5MTk5MzQzMCwtMTM1MzMx
+OTYyNywxNzMyNjg2MDEwLC01MTQ4MzcxMTEsLTE0ODc0MTkyMT
+MsLTE2MTE0NTQ4MzYsOTY1Njg5ODA1LDQ5MDcwNzE2MiwtODU1
+NDg4MzhdfQ==
 -->
