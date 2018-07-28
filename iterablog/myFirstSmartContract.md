@@ -39,6 +39,7 @@ Um unseren Smart Contract in der Ethereum Blockchain zu deployen, brauchen wir e
 
 Jede Transaktion bei Ethereum - und das Deployen eines Contracts ist auch eine Transaktion - kostet Ether. Und die kosten normalerweise [echtes Geld](https://www.coindesk.com/ethereum-price/). Aber seien Sie beruhigt, für unser kleines Beispiel brauchen Sie kein Geld auszugeben.
 Das Verwalten von Accounts und Starten von Transaktionen geht am Einfachsten über ein *Wallet*.
+
 Wir verwenden dafür das Browser-Plug-in [Metamask](https://metamask.io/).
 Die Installation erfolgt über den [Chrome Web Store](https://chrome.google.com/webstore/search/metamask) oder über [Firefox Add-ons](https://addons.mozilla.org/firefox/search/?q=metamask).
 Nach dem Starten muss man zunächst mal ein Wallet erzeugen:
@@ -55,5 +56,5 @@ Wir unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.rin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE4NjUxMjM3MV19
+eyJoaXN0b3J5IjpbMTQ5ODI4ODQ1MywxMTg2NTEyMzcxXX0=
 -->
