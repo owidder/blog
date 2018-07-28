@@ -27,7 +27,7 @@ Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
 ## Pacta sunt servanda
 Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns auf eine einzige Funktion:
 
- - `logHashValue(string hashValue) public returns(bool)` :  Veröffentlicht in der Blockchain, dass ein
+ - `logHashValue(string hashValue) public returns(bool)` :  Veröffentlicht in der Blockchain, dass ein 
 
 
 ## Wallets
@@ -55,8 +55,8 @@ Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg0NTk3NzY2LC0xNjExNDU0ODM2LDk2NT
-Y4OTgwNSw0OTA3MDcxNjIsLTg1NTQ4ODM4LDg3MDMyNTM2MCwx
-NjQ5NzMxMDY5LC0xNDMzMTM3Mzk0LC0xNTQ2MjIxODIxLDE5Mz
-gwNjQ2M119
+eyJoaXN0b3J5IjpbLTYyMjcwNjk4MiwtODQ1OTc3NjYsLTE2MT
+E0NTQ4MzYsOTY1Njg5ODA1LDQ5MDcwNzE2MiwtODU1NDg4Mzgs
+ODcwMzI1MzYwLDE2NDk3MzEwNjksLTE0MzMxMzczOTQsLTE1ND
+YyMjE4MjEsMTkzODA2NDYzXX0=
 -->
