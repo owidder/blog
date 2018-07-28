@@ -1,5 +1,5 @@
 
-# TL;DR: Smart Contract für Faulpelze
+# TL;DR: Smart Contracts für Faulpelze
 
 Wenn [Blockchains](https://www.theguardian.com/commentisfree/2018/feb/06/blockchain-explained-by-crypto-expert-f-onthemoon) eine Art von verteilten Datenbanken sind, dann sind [Smart Contracts](https://medium.com/@jimmysong/the-truth-about-smart-contracts-ae825271811f) ihre Stored Procedures. Sie bieten Funktionen an, die man aufrufen kann und die Daten in der Blockchain ablegen können.
 
@@ -56,5 +56,6 @@ Wir unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.rin
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ5ODI4ODQ1MywxMTg2NTEyMzcxXX0=
+eyJoaXN0b3J5IjpbLTE2NTQ4OTgwOCwxNDk4Mjg4NDUzLDExOD
+Y1MTIzNzFdfQ==
 -->
