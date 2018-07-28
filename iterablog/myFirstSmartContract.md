@@ -29,7 +29,7 @@ Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns
 
  - `logHashValue(string hashValue) public returns(bool)` :  Veröffentlicht in der Blockchain einen Hashwert.
 
-Ist das alles? Ja, es ist. Denn al
+Ist das alles? Ja, es ist. Denn alle Informationen, wie 
 
 
 ## Wallets
@@ -57,8 +57,8 @@ Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxNDgzNzExMSwtMTQ4NzQxOTIxMyw1Nz
-kyNzAwMzksLTE2MTE0NTQ4MzYsOTY1Njg5ODA1LDQ5MDcwNzE2
-MiwtODU1NDg4MzgsODcwMzI1MzYwLDE2NDk3MzEwNjksLTE0Mz
-MxMzczOTQsLTE1NDYyMjE4MjEsMTkzODA2NDYzXX0=
+eyJoaXN0b3J5IjpbMTczMjY4NjAxMCwtNTE0ODM3MTExLC0xND
+g3NDE5MjEzLC0xNjExNDU0ODM2LDk2NTY4OTgwNSw0OTA3MDcx
+NjIsLTg1NTQ4ODM4LDg3MDMyNTM2MCwxNjQ5NzMxMDY5LC0xND
+MzMTM3Mzk0LC0xNTQ2MjIxODIxLDE5MzgwNjQ2M119
 -->
