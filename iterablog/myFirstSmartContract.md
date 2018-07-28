@@ -34,7 +34,7 @@ Ja, es ist. Denn alle Informationen, wie
 - welcher Account hat den Hashwert veröffentlicht?
 - wann wurde der Hashwert veröffentlicht?
 
-bekommen wir als Metadaten automatisch meitgeliefert
+bekommen wir als Metadaten automatisch mitgeliefert. 
 
 
 ## Wallets
@@ -72,11 +72,11 @@ Unser Account ist leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyODI0MjM2OSw1NjA4MTg1OTUsLTE2Nz
-M5MTU2MzAsMTk2ODQwOTM3OCwxOTc1MDU5NjUwLDEwNjE3MzY5
-NDEsLTk0NDIxNDg4NCw3NjI3MTAzMTgsMTA0MzUyMjcwMiwtMT
-Y1MjI5NTUyMywtMjAzMzI2ODE4Nyw4NjkxNzM0MTIsMTUwOTkx
-NzcxNiwxMDkxOTkzNDMwLC0xMzUzMzE5NjI3LDE3MzI2ODYwMT
-AsLTUxNDgzNzExMSwtMTQ4NzQxOTIxMywtMTYxMTQ1NDgzNiw5
-NjU2ODk4MDVdfQ==
+eyJoaXN0b3J5IjpbLTU5NDMwODYzMiwtODI4MjQyMzY5LDU2MD
+gxODU5NSwxOTY4NDA5Mzc4LDE5NzUwNTk2NTAsMTA2MTczNjk0
+MSwtOTQ0MjE0ODg0LDc2MjcxMDMxOCwxMDQzNTIyNzAyLC0xNj
+UyMjk1NTIzLC0yMDMzMjY4MTg3LDg2OTE3MzQxMiwxNTA5OTE3
+NzE2LDEwOTE5OTM0MzAsLTEzNTMzMTk2MjcsMTczMjY4NjAxMC
+wtNTE0ODM3MTExLC0xNDg3NDE5MjEzLC0xNjExNDU0ODM2LDk2
+NTY4OTgwNV19
 -->
