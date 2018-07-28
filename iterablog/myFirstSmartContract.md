@@ -65,9 +65,9 @@ Unser Account ist leider ziemlich arm :(
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-04/iterablog/images/0-eth.png" alt="Rinkeby auswählen" width="300px"/>
 
-
+Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTYxNTE2MDE2NiwtOTQ0MjE0ODg0LDc2Mj
+eyJoaXN0b3J5IjpbMTA2MTczNjk0MSwtOTQ0MjE0ODg0LDc2Mj
 cxMDMxOCwxMDQzNTIyNzAyLC0xNjUyMjk1NTIzLC0yMDMzMjY4
 MTg3LDg2OTE3MzQxMiwxNTA5OTE3NzE2LDEwOTE5OTM0MzAsLT
 EzNTMzMTk2MjcsMTczMjY4NjAxMCwtNTE0ODM3MTExLC0xNDg3
