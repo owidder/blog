@@ -34,10 +34,10 @@ Ja, es ist. Denn alle Informationen, wie
 - welcher Account hat den Hashwert veröffentlicht?
 - wann wurde der Hashwert veröffentlicht?
 
-bekommen wir als Metadaten automatisch mitgeliefert (). 
+bekommen wir als Metadaten automatisch mitgeliefert. 
 
 Jetzt noch ein Name für unseren Contract: [Weisenheimer](https://www.urbandictionary.com/define.php?term=weisenheimer)
-
+und hier ist er auch schon
 
 
 
@@ -76,7 +76,7 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI1NDc1NzY0NCwtNDA2MjIyMTk2LDI0Mz
+eyJoaXN0b3J5IjpbLTY2NTIzNzM4MSwtNDA2MjIyMTk2LDI0Mz
 YzNzY1OSwyMDUyMTQ5ODY3LDEyOTI2NDU3OSw1NjA0ODMwMTYs
 LTEwMjYyOTgyOTAsMTg3OTQ3NDMxOCwtODI4MjQyMzY5LDU2MD
 gxODU5NSwxOTY4NDA5Mzc4LDE5NzUwNTk2NTAsMTA2MTczNjk0
