@@ -25,7 +25,7 @@ Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
  Und da Speicher in der Blockchain etwas kostet, hashen ([SHA512](https://abunchofutils.com/u/computing/sha512-hash-calculator/)) wir vorher und legen nur den Hashwert ab.
 
 ## Pacta sunt servanda
-Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns auf eine einzige :
+Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns auf eine einzige Funktion:
 
  - `logHashValue(string hashValue) public returns(bool)` : .
 
@@ -55,7 +55,7 @@ Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.ri
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg1NTQ4ODM4LDg3MDMyNTM2MCw5NDMzOT
-EyMzIsMTY0OTczMTA2OSwtMTQzMzEzNzM5NCwtMTU0NjIyMTgy
+eyJoaXN0b3J5IjpbNDkwNzA3MTYyLC04NTU0ODgzOCw4NzAzMj
+UzNjAsMTY0OTczMTA2OSwtMTQzMzEzNzM5NCwtMTU0NjIyMTgy
 MSwxOTM4MDY0NjNdfQ==
 -->
