@@ -58,12 +58,13 @@ Dazu wählen wir in Metamask das Rinkeby-Network aus:
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-03/iterablog/images/metamask-rinkeby.png" alt="Rinkeby auswählen" width="300px"/>
 
-Metamask hat uns auch schon freundlicherweise einen Account angelegt. Solange wir aber keine Transaktion mit diesem A
+Metamask hat uns auch schon freundlicherweise einen Account angelegt. Solange wir aber keine Transaktion mit diesem Account 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUyNzM3MzQ3LC00NjMwNzU0MjQsLTIwMz
-MyNjgxODcsODY5MTczNDEyLDE1MDk5MTc3MTYsMTA5MTk5MzQz
-MCwtMTM1MzMxOTYyNywxNzMyNjg2MDEwLC01MTQ4MzcxMTEsLT
-E0ODc0MTkyMTMsLTE2MTE0NTQ4MzYsOTY1Njg5ODA1LDQ5MDcw
-NzE2MiwtODU1NDg4MzgsODcwMzI1MzYwLDE2NDk3MzEwNjksLT
-E0MzMxMzczOTQsLTE1NDYyMjE4MjEsMTkzODA2NDYzXX0=
+eyJoaXN0b3J5IjpbLTE2NTIyOTU1MjMsMTUyNzM3MzQ3LC00Nj
+MwNzU0MjQsLTIwMzMyNjgxODcsODY5MTczNDEyLDE1MDk5MTc3
+MTYsMTA5MTk5MzQzMCwtMTM1MzMxOTYyNywxNzMyNjg2MDEwLC
+01MTQ4MzcxMTEsLTE0ODc0MTkyMTMsLTE2MTE0NTQ4MzYsOTY1
+Njg5ODA1LDQ5MDcwNzE2MiwtODU1NDg4MzgsODcwMzI1MzYwLD
+E2NDk3MzEwNjksLTE0MzMxMzczOTQsLTE1NDYyMjE4MjEsMTkz
+ODA2NDYzXX0=
 -->
