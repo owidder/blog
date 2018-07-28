@@ -32,7 +32,9 @@ Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns
 Ist das alles? 
 Ja, es ist. Denn alle Informationen, wie 
 - welcher Account hat den Hashwert veröffentlicht?
-- wann w
+- wann wurde der Hashwert veröffentlicht?
+
+bekommen wir als Metadaten auto
 
 
 ## Wallets
@@ -70,7 +72,7 @@ Unser Account ist leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MTI1ODU2MTgsMTk2ODQwOTM3OCwxOT
+eyJoaXN0b3J5IjpbLTE2NzM5MTU2MzAsMTk2ODQwOTM3OCwxOT
 c1MDU5NjUwLDEwNjE3MzY5NDEsLTk0NDIxNDg4NCw3NjI3MTAz
 MTgsMTA0MzUyMjcwMiwtMTY1MjI5NTUyMywtMjAzMzI2ODE4Ny
 w4NjkxNzM0MTIsMTUwOTkxNzcxNiwxMDkxOTkzNDMwLC0xMzUz
