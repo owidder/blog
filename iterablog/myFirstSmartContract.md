@@ -157,8 +157,10 @@ Jetzt kommt es darauf an, welchen Browser Sie verwenden:
 
 Jetzt nur noch *Submit* und das war's.
 
-In der Konsole (Mitte, unten) sehen Sie nach ein paar Sekunden (wenn die Transaktion es in die Blockchain geschafft hat) einen Link zu der Transak 
+In der Konsole (Mitte, unten) sehen Sie nach ein paar Sekunden (wenn die Transaktion es in die Blockchain geschafft hat) einen Link zu der Transaktion.
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5MjA1NDI0OSwtODg1OTE0NjczLC0xNT
-M5MzkwMzg3XX0=
+eyJoaXN0b3J5IjpbOTcxNTcxNjExLC0yOTIwNTQyNDksLTg4NT
+kxNDY3M119
 -->
