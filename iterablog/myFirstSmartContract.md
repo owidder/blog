@@ -40,7 +40,7 @@ und hier [ist er auch schon](https://github.com/owidder/iteraBlog/blob/master/we
 	    event NewHashValue(string, address, uint);
 
 	    function logHashValue(string hashValue) public {    
-		    emit NewClaim(hashValue, msg.sender, block.timestamp);
+		    emit NewHashValue(hashValue, msg.sender, block.timestamp);
 	    }
     }
 
@@ -120,11 +120,11 @@ Freuen Sie sich aber nicht zu früh. Die 8273,06 Dollar gelten nur für das Main
 ## Submission accomplished
 So jetzt kann es losgehen. Wir können jetzt unseren Contract in der Blockchain deployen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2ODI2NjgxMiwtMTgxMzM2Nzk4LDEzMz
-A4MzUwMywtMTgxOTA5NjkwMSwxMTY2MzEzMDMxLDE4MDExMjQx
-NDQsLTExOTE2OTY1NjMsMzQ5NzQ5ODMsLTYzNDgzMTM1OCwzND
-g3MTE3NjAsLTEzNjEwNzg1OTcsMTgzMDkyMzg4NSwtMTk5MTY3
-ODMwNywtMzc1MzQwMDQwLC03NTY5OTI4MzEsLTY5NTY3OTk3Ni
-wxNjQwNTM4NjcsMTgxMzIyNDgyOSwtODQzNDg2MTE5LC0xNTkw
-OTI1OTVdfQ==
+eyJoaXN0b3J5IjpbMTQ1Njk3MzczLC04NjgyNjY4MTIsLTE4MT
+MzNjc5OCwxMzMwODM1MDMsLTE4MTkwOTY5MDEsMTE2NjMxMzAz
+MSwxODAxMTI0MTQ0LC0xMTkxNjk2NTYzLDM0OTc0OTgzLC02Mz
+Q4MzEzNTgsMzQ4NzExNzYwLC0xMzYxMDc4NTk3LDE4MzA5MjM4
+ODUsLTE5OTE2NzgzMDcsLTM3NTM0MDA0MCwtNzU2OTkyODMxLC
+02OTU2Nzk5NzYsMTY0MDUzODY3LDE4MTMyMjQ4MjksLTg0MzQ4
+NjExOV19
 -->
