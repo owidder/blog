@@ -116,12 +116,14 @@ Und siehe da. Wir sind reich.
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-04/iterablog/images/1875.png" alt="Wir sind reich"/>
 
 Freuen Sie sich aber nicht zu früh. Die 8273,06 Dollar gelten nur für das Main-Net. Für Runkeby müssen sie davon 8273,06 Dollar abziehen.
+
+## Vertragsverhandl
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM4MjkwNjI5LDEzMzA4MzUwMywtMTgxOT
-A5NjkwMSwxMTY2MzEzMDMxLDE4MDExMjQxNDQsLTExOTE2OTY1
-NjMsMzQ5NzQ5ODMsLTYzNDgzMTM1OCwzNDg3MTE3NjAsLTEzNj
-EwNzg1OTcsMTgzMDkyMzg4NSwtMTk5MTY3ODMwNywtMzc1MzQw
-MDQwLC03NTY5OTI4MzEsLTY5NTY3OTk3NiwxNjQwNTM4NjcsMT
-gxMzIyNDgyOSwtODQzNDg2MTE5LC0xNTkwOTI1OTUsLTEwNDkw
-NDI3NThdfQ==
+eyJoaXN0b3J5IjpbLTE4MTg2Mzk2NjcsMTMzMDgzNTAzLC0xOD
+E5MDk2OTAxLDExNjYzMTMwMzEsMTgwMTEyNDE0NCwtMTE5MTY5
+NjU2MywzNDk3NDk4MywtNjM0ODMxMzU4LDM0ODcxMTc2MCwtMT
+M2MTA3ODU5NywxODMwOTIzODg1LC0xOTkxNjc4MzA3LC0zNzUz
+NDAwNDAsLTc1Njk5MjgzMSwtNjk1Njc5OTc2LDE2NDA1Mzg2Ny
+wxODEzMjI0ODI5LC04NDM0ODYxMTksLTE1OTA5MjU5NSwtMTA0
+OTA0Mjc1OF19
 -->
