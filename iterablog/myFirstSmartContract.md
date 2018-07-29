@@ -46,10 +46,10 @@ und hier ist er auch schon:
 
 Zugegeben. So richtig smart sieht der nicht aus. Er erfüllt aber seinen Zweck:
 
-Die Funktion logHashValue erzeugt einen Logeintrag mit den Hashwert, der Adresse des Accounts, von dem die Funktion aufgerufen wurde und der Zeitstempel des Blogs, in die Transaktion des Aufrufes ein für alle Mal in der Blockchain festgehalten wird.
+Die Funktion *logHashValue* erzeugt einen Logeintrag mit den Hashwert, der Adresse des Accounts, von dem die Funktion aufgerufen wurde und der Zeitstempel des Blogs, in die Transaktion des Aufrufes ein für alle Mal in der Blockchain festgehalten wird.
 
 ## Wallets
-Um unseren Smart Contract in der Ethereum Blockchain zu deployen, brauchen wir einen Account und *Ether*, die Währung bei Ethereum. 
+Um unseren Smart Contract *Weisenheimer* in der Ethereum Blockchain zu deployen, brauchen wir einen Account und *Ether*, die Währung bei Ethereum. 
 
 *There is no free lunch*
 
@@ -83,7 +83,7 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUyOTA2Mzg4NCwtMTE0MTg2MDQzOCwzMz
+eyJoaXN0b3J5IjpbMTUyOTEyNzkzMywtMTE0MTg2MDQzOCwzMz
 E3MDgzMTIsMTQxMTM0MzU0MSwtMTU4MzQ2ODc4NSwtNjY1MjM3
 MzgxLC00MDYyMjIxOTYsMjQzNjM3NjU5LDIwNTIxNDk4NjcsMT
 I5MjY0NTc5LDU2MDQ4MzAxNiwtMTAyNjI5ODI5MCwxODc5NDc0
