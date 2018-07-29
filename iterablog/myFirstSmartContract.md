@@ -140,14 +140,14 @@ Im Run-Tab daneben, wählen wir nun *Injected Web3* als *Environment* aus.
 
 Das bedeutet, dass ein Objekt namens *Web3*, das von aussen in die Web-Seite injiziert wurde. In unserem Fall von dem Browser-Plug-in *Metamask*. *Web3* ist eine sehr populäre JavaScript-Library zum Aufrufen von Ethereum-Contracts. 
 
-Da
+Damit 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mjg3MzY1ODIsLTk1MzExODc4NywtMT
-A3NTEyMzM4MywtMTY3MjQyNzgxNSw2NTYwMTAwNTcsLTE5NzMz
-NzI0ODksLTE1MDQ5NTM0NzgsLTEzMzk1OTQ0NzcsLTE5OTAzNj
-Q2Myw1Njc5NDA2MjIsLTE4OTYwNDk2MTQsLTE2MDUwMzg3MDAs
-MTI3MDQ5NTY0OSwzNzcwMDQ2NiwyNzc0MTU2MzYsLTE5NjUyMj
-M1NDUsMjAxNzcyMjIxNywxNDU2OTczNzMsLTg2ODI2NjgxMiwt
-MTgxMzM2Nzk4XX0=
+eyJoaXN0b3J5IjpbLTcyNzI2MTcxMCwtMTUyODczNjU4MiwtOT
+UzMTE4Nzg3LC0xNjcyNDI3ODE1LDY1NjAxMDA1NywtMTk3MzM3
+MjQ4OSwtMTUwNDk1MzQ3OCwtMTMzOTU5NDQ3NywtMTk5MDM2ND
+YzLDU2Nzk0MDYyMiwtMTg5NjA0OTYxNCwtMTYwNTAzODcwMCwx
+MjcwNDk1NjQ5LDM3NzAwNDY2LDI3NzQxNTYzNiwtMTk2NTIyMz
+U0NSwyMDE3NzIyMjE3LDE0NTY5NzM3MywtODY4MjY2ODEyLC0x
+ODEzMzY3OThdfQ==
 -->
