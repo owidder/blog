@@ -91,13 +91,13 @@ Wir gehen zur offiziellen [Faucet von Rinkeby](https://faucet.rinkeby.io/):
 
 Dort bekommen wir Ether geschenkt. Dafür müssen wir unseren Account auf Twitter, Google+ oder Facebook posten und die URL des Posts in das Eingefeld kopieren. 
 
-Dann können wir uns e
+Dann können wir uns ente
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzU3MjI0NTQsMTgxMzIyNDgyOSwtOD
-QzNDg2MTE5LC0xNTkwOTI1OTUsLTEwNDkwNDI3NTgsLTExNDE4
-NjA0MzgsMzMxNzA4MzEyLDE0MTEzNDM1NDEsLTE1ODM0Njg3OD
-UsLTY2NTIzNzM4MSwtNDA2MjIyMTk2LDI0MzYzNzY1OSwyMDUy
-MTQ5ODY3LDEyOTI2NDU3OSw1NjA0ODMwMTYsLTEwMjYyOTgyOT
-AsMTg3OTQ3NDMxOCwtODI4MjQyMzY5LDU2MDgxODU5NSwxOTY4
-NDA5Mzc4XX0=
+eyJoaXN0b3J5IjpbMTY0MDUzODY3LC0yMTM1NzIyNDU0LDE4MT
+MyMjQ4MjksLTg0MzQ4NjExOSwtMTU5MDkyNTk1LC0xMDQ5MDQy
+NzU4LC0xMTQxODYwNDM4LDMzMTcwODMxMiwxNDExMzQzNTQxLC
+0xNTgzNDY4Nzg1LC02NjUyMzczODEsLTQwNjIyMjE5NiwyNDM2
+Mzc2NTksMjA1MjE0OTg2NywxMjkyNjQ1NzksNTYwNDgzMDE2LC
+0xMDI2Mjk4MjkwLDE4Nzk0NzQzMTgsLTgyODI0MjM2OSw1NjA4
+MTg1OTVdfQ==
 -->
