@@ -105,10 +105,12 @@ Ich nehme dafür in der Regel meinen Google+-Account. Den nutze ich sonst kaum. 
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-03/iterablog/images/googleplus.png" alt="Rinkeby Faucet"/>
 
-Jetzt den Link des Posts in das Eingabefeld des Faucets kopieren und 
+Wenn schon denn schon. Ich nehme gleich die vollen 18,75 Ether.
+
+ <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-01/iterablog/images/faucet.png" alt="Rinkeby Faucet"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTE2OTY1NjMsMzQ5NzQ5ODMsLTExND
-AwNjY2MTksLTYzNDgzMTM1OCwzNDg3MTE3NjAsLTEzNjEwNzg1
+eyJoaXN0b3J5IjpbLTExMzk2MjMzODYsLTExOTE2OTY1NjMsMz
+Q5NzQ5ODMsLTYzNDgzMTM1OCwzNDg3MTE3NjAsLTEzNjEwNzg1
 OTcsMTgzMDkyMzg4NSwtMTk5MTY3ODMwNywtMzc1MzQwMDQwLC
 03NTY5OTI4MzEsLTY5NTY3OTk3NiwxNjQwNTM4NjcsMTgxMzIy
 NDgyOSwtODQzNDg2MTE5LC0xNTkwOTI1OTUsLTEwNDkwNDI3NT
