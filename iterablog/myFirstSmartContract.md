@@ -155,13 +155,9 @@ Jetzt kommt es darauf an, welchen Browser Sie verwenden:
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-12/iterablog/images/confirm-transaction02.png" alt="Confirm Transaction"/>
 
+Jetzt nur noch *Submit* und das war's.
 
+In der Konsole (Mitte, unten) können Sie n
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTEyNjM4MzkzLDE1NjY3OTU2MDUsNzI4OT
-Q4MzY0LC0xOTU4MzI0OTQzLC0xOTgwMTU1NDYxLC00MzU2MzA1
-MzYsLTQ3NDM2MjY1MywzNjI2Mjk3NzAsLTE0MDIzNDI0NzQsND
-IxMzYyMTYwLC0yNDkxNTc5NjQsLTEzNDMxNTUzMjgsLTM1OTEx
-MzY1NiwtMTIxMDA3NzI2NCwtNzI3MjYxNzEwLC05NTMxMTg3OD
-csLTE2NzI0Mjc4MTUsNjU2MDEwMDU3LC0xOTczMzcyNDg5LC0x
-NTA0OTUzNDc4XX0=
+eyJoaXN0b3J5IjpbLTgzNzUxNTM2XX0=
 -->
