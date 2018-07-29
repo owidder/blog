@@ -101,13 +101,15 @@ Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopiere
 
 Jetzt müssen Sie sich entscheiden, auf welchem Social Network Sie die Adresse posten wollen. Sie können dafür auch einen eigen Account anlegen. Nicht dass Sie [reihenweise Follower verlieren](http://s3.media.squarespace.com/production/2129687/19317774/.a/6a00d8341d3df553ef016763cc8111970b-pi).
 
-Ich nehme dafür in der Regel meinen Google+-Account. Den nutze ich sonst kaum. Die paar Follower, 
+Ich nehme dafür in der Regel meinen Google+-Account. Den nutze ich sonst kaum. Die paar Follower, wundern sich zwar jedes Mal ("Steuerst Du ein Botnet?"), aber damit muss ich leben.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzQ4NzExNzYwLC0xMzYxMDc4NTk3LDE4Mz
-A5MjM4ODUsLTE5OTE2NzgzMDcsLTM3NTM0MDA0MCwtNzU2OTky
-ODMxLC02OTU2Nzk5NzYsMTY0MDUzODY3LDE4MTMyMjQ4MjksLT
-g0MzQ4NjExOSwtMTU5MDkyNTk1LC0xMDQ5MDQyNzU4LC0xMTQx
-ODYwNDM4LDMzMTcwODMxMiwxNDExMzQzNTQxLC0xNTgzNDY4Nz
-g1LC02NjUyMzczODEsLTQwNjIyMjE5NiwyNDM2Mzc2NTksMjA1
-MjE0OTg2N119
+eyJoaXN0b3J5IjpbLTYzNDgzMTM1OCwzNDg3MTE3NjAsLTEzNj
+EwNzg1OTcsMTgzMDkyMzg4NSwtMTk5MTY3ODMwNywtMzc1MzQw
+MDQwLC03NTY5OTI4MzEsLTY5NTY3OTk3NiwxNjQwNTM4NjcsMT
+gxMzIyNDgyOSwtODQzNDg2MTE5LC0xNTkwOTI1OTUsLTEwNDkw
+NDI3NTgsLTExNDE4NjA0MzgsMzMxNzA4MzEyLDE0MTEzNDM1ND
+EsLTE1ODM0Njg3ODUsLTY2NTIzNzM4MSwtNDA2MjIyMTk2LDI0
+MzYzNzY1OV19
 -->
