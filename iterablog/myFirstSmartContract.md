@@ -182,12 +182,16 @@ Im Tab *Code* gibt es den Link *Verify And Publish*.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-n-publish.png" alt="Verify And Publish"/>
 
-Dort müssen wir 
+Dort müssen wir folgendes eintragen.
+
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-form.png" alt="Verify Form"/>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY4Mjg0MTExNSwtMTQxOTQ2NDEzMyw5MD
-U2ODg1MTgsMTY0NzQ1MjY2OCwxMTQ0NTQ3OTY2LC0xNzcyMTAw
-MjQ0LC0yMDM3MDQxMjYzLDEzNjQxMjUxLC0yMTE2MTU4MTY1LD
-g3MDE4MDYwMCwtNzIxMDUxODk5LC0xODM1NTg3MzczLDE4OTg3
-Nzg5MDgsLTQ3OTc5MjEyMCw5NzE1NzE2MTEsLTI5MjA1NDI0OS
-wtODg1OTE0NjczXX0=
+eyJoaXN0b3J5IjpbMjAxMTk3OTExMCwxNjgyODQxMTE1LC0xND
+E5NDY0MTMzLDE2NDc0NTI2NjgsMTE0NDU0Nzk2NiwtMTc3MjEw
+MDI0NCwtMjAzNzA0MTI2MywxMzY0MTI1MSwtMjExNjE1ODE2NS
+w4NzAxODA2MDAsLTcyMTA1MTg5OSwtMTgzNTU4NzM3MywxODk4
+Nzc4OTA4LC00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQyND
+ksLTg4NTkxNDY3M119
 -->
