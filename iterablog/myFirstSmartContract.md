@@ -32,7 +32,7 @@ Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns
 Das ist alles. Mehr brauchen wir nicht.
 
 Jetzt noch ein Name für unseren Contract: [Weisenheimer](https://www.urbandictionary.com/define.php?term=weisenheimer)
-und hier ist er auch schon:
+und hier [ist er auch schon](https://github.com/owidder/iteraBlog/blob/master/weisenheimer/contract/Weisenheimer.sol):
 
     pragma solidity ^0.4.19;
     contract Weisenheimer {
@@ -85,11 +85,11 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein klein wenig müssen wir schon tun.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNDkwNDI3NTgsLTExNDE4NjA0MzgsMz
-MxNzA4MzEyLDE0MTEzNDM1NDEsLTE1ODM0Njg3ODUsLTY2NTIz
-NzM4MSwtNDA2MjIyMTk2LDI0MzYzNzY1OSwyMDUyMTQ5ODY3LD
-EyOTI2NDU3OSw1NjA0ODMwMTYsLTEwMjYyOTgyOTAsMTg3OTQ3
-NDMxOCwtODI4MjQyMzY5LDU2MDgxODU5NSwxOTY4NDA5Mzc4LD
-E5NzUwNTk2NTAsMTA2MTczNjk0MSwtOTQ0MjE0ODg0LDc2Mjcx
-MDMxOF19
+eyJoaXN0b3J5IjpbNDAyNjA2NzA3LC0xMDQ5MDQyNzU4LC0xMT
+QxODYwNDM4LDMzMTcwODMxMiwxNDExMzQzNTQxLC0xNTgzNDY4
+Nzg1LC02NjUyMzczODEsLTQwNjIyMjE5NiwyNDM2Mzc2NTksMj
+A1MjE0OTg2NywxMjkyNjQ1NzksNTYwNDgzMDE2LC0xMDI2Mjk4
+MjkwLDE4Nzk0NzQzMTgsLTgyODI0MjM2OSw1NjA4MTg1OTUsMT
+k2ODQwOTM3OCwxOTc1MDU5NjUwLDEwNjE3MzY5NDEsLTk0NDIx
+NDg4NF19
 -->
