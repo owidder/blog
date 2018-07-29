@@ -87,13 +87,14 @@ Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw
 ## Geld zapfen
 Wir gehen zur offiziellen Faucet von Rinkeby:
 
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-01/iterablog/images/faucet.png" alt="Rinkeby auswählen" width="300px"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgxMzIyNDgyOSwtODQzNDg2MTE5LDE4Mj
-IyNTM2MDcsLTE1OTA5MjU5NSwtMTA0OTA0Mjc1OCwtMTE0MTg2
-MDQzOCwzMzE3MDgzMTIsMTQxMTM0MzU0MSwtMTU4MzQ2ODc4NS
-wtNjY1MjM3MzgxLC00MDYyMjIxOTYsMjQzNjM3NjU5LDIwNTIx
-NDk4NjcsMTI5MjY0NTc5LDU2MDQ4MzAxNiwtMTAyNjI5ODI5MC
-wxODc5NDc0MzE4LC04MjgyNDIzNjksNTYwODE4NTk1LDE5Njg0
-MDkzNzhdfQ==
+eyJoaXN0b3J5IjpbLTIwMTg3NjA3NzUsMTgxMzIyNDgyOSwtOD
+QzNDg2MTE5LC0xNTkwOTI1OTUsLTEwNDkwNDI3NTgsLTExNDE4
+NjA0MzgsMzMxNzA4MzEyLDE0MTEzNDM1NDEsLTE1ODM0Njg3OD
+UsLTY2NTIzNzM4MSwtNDA2MjIyMTk2LDI0MzYzNzY1OSwyMDUy
+MTQ5ODY3LDEyOTI2NDU3OSw1NjA0ODMwMTYsLTEwMjYyOTgyOT
+AsMTg3OTQ3NDMxOCwtODI4MjQyMzY5LDU2MDgxODU5NSwxOTY4
+NDA5Mzc4XX0=
 -->
