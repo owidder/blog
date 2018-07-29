@@ -178,13 +178,15 @@ Nun sollen ja andere unseren Contract aufrufen. Aber woher sollen sie wissen, wa
 ## Show me the code
 Dafür kann man in Etherscan den Code zu einem Contract hinterlegen. Etherscan verifiziert, dass dies wirklich korrekt ist.
 
-Im Tab Code gibt es den Link *Verify And Publish*.
+Im Tab *Code* gibt es den Link *Verify And Publish*.
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-n-publish.png" alt="Contract Site"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-n-publish.png" alt="Verify And Publish"/>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY0NzQ1MjY2OCwxMTQ0NTQ3OTY2LDg5OT
-UwODM0OCwtMTc3MjEwMDI0NCwtMjAzNzA0MTI2MywxMzY0MTI1
-MSwtMjExNjE1ODE2NSw4NzAxODA2MDAsLTcyMTA1MTg5OSwtMT
-gzNTU4NzM3MywxODk4Nzc4OTA4LC00Nzk3OTIxMjAsOTcxNTcx
-NjExLC0yOTIwNTQyNDksLTg4NTkxNDY3M119
+eyJoaXN0b3J5IjpbLTIwNzE5MzY3MjAsMTY0NzQ1MjY2OCwxMT
+Q0NTQ3OTY2LC0xNzcyMTAwMjQ0LC0yMDM3MDQxMjYzLDEzNjQx
+MjUxLC0yMTE2MTU4MTY1LDg3MDE4MDYwMCwtNzIxMDUxODk5LC
+0xODM1NTg3MzczLDE4OTg3Nzg5MDgsLTQ3OTc5MjEyMCw5NzE1
+NzE2MTEsLTI5MjA1NDI0OSwtODg1OTE0NjczXX0=
 -->
