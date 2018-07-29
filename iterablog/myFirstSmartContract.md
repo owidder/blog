@@ -161,9 +161,11 @@ In der Konsole (Mitte, unten) sehen Sie nach ein paar Sekunden (wenn die Transak
 
  <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-12/iterablog/images/etherscan-link.png" alt="Transaction Link"/>
 
-Der Link führt zu [*Etherscan*](https://rinkeby.etherscan.io/), eine Art 
+Der Link führt zu [*Etherscan*](https://rinkeby.etherscan.io/), eine Art Ethereum-Browser für Transaktionen, Contracts, etc. (Main-Net und Test-Networks). 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg5ODc3ODkwOCwtMTExODk0NDY1NCwtMj
-AyOTA0Njk2OCwtNDc5NzkyMTIwLDk3MTU3MTYxMSwtMjkyMDU0
-MjQ5LC04ODU5MTQ2NzNdfQ==
+eyJoaXN0b3J5IjpbLTE0NTA2NzE0NSwxODk4Nzc4OTA4LC0xMT
+E4OTQ0NjU0LC00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQy
+NDksLTg4NTkxNDY3M119
 -->
