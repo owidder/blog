@@ -146,13 +146,13 @@ Wenn Sie bei angemeldet sind (ansonsten sollten Sie das jetzt tun), sollten Sie 
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-09/iterablog/images/injected-web3.png" alt="Injected Web"/>
 
-Jetzt wird's ernst. Über den ![enter image description here](https://raw.githubusercontent.com/owidder/blog/ib-20180729-10/iterablog/images/deploy.png) Button können Sie n
+Jetzt wird's ernst. Über den ![enter image description here](https://raw.githubusercontent.com/owidder/blog/ib-20180729-10/iterablog/images/deploy.png) Button können Sie nun das D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTY2MzMzLC03MzI0NzE0NTksLTI0OT
-E1Nzk2NCwtMTM0MzE1NTMyOCwtMzU5MTEzNjU2LC0xMjEwMDc3
-MjY0LC03MjcyNjE3MTAsLTk1MzExODc4NywtMTY3MjQyNzgxNS
-w2NTYwMTAwNTcsLTE5NzMzNzI0ODksLTE1MDQ5NTM0NzgsLTEz
-Mzk1OTQ0NzcsLTE5OTAzNjQ2Myw1Njc5NDA2MjIsLTE4OTYwND
-k2MTQsLTE2MDUwMzg3MDAsMTI3MDQ5NTY0OSwzNzcwMDQ2Niwy
-Nzc0MTU2MzZdfQ==
+eyJoaXN0b3J5IjpbNDIxMzYyMTYwLC0xMTU2NjMzMywtNzMyND
+cxNDU5LC0yNDkxNTc5NjQsLTEzNDMxNTUzMjgsLTM1OTExMzY1
+NiwtMTIxMDA3NzI2NCwtNzI3MjYxNzEwLC05NTMxMTg3ODcsLT
+E2NzI0Mjc4MTUsNjU2MDEwMDU3LC0xOTczMzcyNDg5LC0xNTA0
+OTUzNDc4LC0xMzM5NTk0NDc3LC0xOTkwMzY0NjMsNTY3OTQwNj
+IyLC0xODk2MDQ5NjE0LC0xNjA1MDM4NzAwLDEyNzA0OTU2NDks
+Mzc3MDA0NjZdfQ==
 -->
