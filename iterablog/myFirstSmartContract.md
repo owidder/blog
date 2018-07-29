@@ -48,7 +48,7 @@ Zugegeben. So richtig smart sieht der nicht aus. Er erfüllt aber seinen Zweck:
 
 Die Programmiersprache nennt sich [*Solidity*](https://github.com/ethereum/solidity) und ist speziell für Smart Contracts gedacht.  
 Die Funktion *logHashValue* erzeugt einen Logeintrag mit den Hashwert, der Adresse des Accounts, von dem die Funktion aufgerufen wurde und der Zeitstempel des Blogs, in die Transaktion des Aufrufes ein für alle Mal in der Blockchain festgehalten wird.
-Die Funktion ist public ohne Einschränk
+Die Funktion ist *public* ohne Einschränkung, d.h. sie darf von jedem Ethereum Account aufgerufen werden.
 
 ## Wallets
 Um unseren Smart Contract *Weisenheimer* in der Ethereum Blockchain zu deployen, brauchen wir einen Account und *Ether*, die Währung bei Ethereum. 
@@ -115,8 +115,8 @@ Und siehe da. Wir sind reich.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-04/iterablog/images/1875.png" alt="Wir sind reich"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMzMDgzNTAzLC0xODE5MDk2OTAxLDMxNz
-IxNjg1NSwxMTY2MzEzMDMxLDE4MDExMjQxNDQsLTExOTE2OTY1
+eyJoaXN0b3J5IjpbMjMzMDM3MjYyLDEzMzA4MzUwMywtMTgxOT
+A5NjkwMSwxMTY2MzEzMDMxLDE4MDExMjQxNDQsLTExOTE2OTY1
 NjMsMzQ5NzQ5ODMsLTYzNDgzMTM1OCwzNDg3MTE3NjAsLTEzNj
 EwNzg1OTcsMTgzMDkyMzg4NSwtMTk5MTY3ODMwNywtMzc1MzQw
 MDQwLC03NTY5OTI4MzEsLTY5NTY3OTk3NiwxNjQwNTM4NjcsMT
