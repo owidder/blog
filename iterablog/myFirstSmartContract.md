@@ -128,10 +128,12 @@ Jetzt öffnet sich ein neuer Tab, in den wir den Code des Contracts kopieren kö
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-06/iterablog/images/new-tab.png" alt="Neuer Tab"/>
 
-Im compile-Tab auf der rechten Seite können wir den Code schon einmal compilieren. Die 
+Im compile-Tab auf der rechten Seite können wir den Code schon einmal compilieren.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDQ5NTM0NzgsLTEzMzk1OTQ0NzcsLT
-EzMTI1MDk1NjAsLTE5OTAzNjQ2Myw1Njc5NDA2MjIsLTE4OTYw
+eyJoaXN0b3J5IjpbLTE5Mzc0NzMwMDIsLTE1MDQ5NTM0NzgsLT
+EzMzk1OTQ0NzcsLTE5OTAzNjQ2Myw1Njc5NDA2MjIsLTE4OTYw
 NDk2MTQsLTE2MDUwMzg3MDAsMTI3MDQ5NTY0OSwzNzcwMDQ2Ni
 wyNzc0MTU2MzYsLTE5NjUyMjM1NDUsMjAxNzcyMjIxNywxNDU2
 OTczNzMsLTg2ODI2NjgxMiwtMTgxMzM2Nzk4LDEzMzA4MzUwMy
