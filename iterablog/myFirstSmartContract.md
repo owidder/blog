@@ -114,12 +114,14 @@ Jetzt den Link des Posts in das Eingabefeld des Faucets kopieren. Heute lassen w
 Und siehe da. Wir sind reich.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-04/iterablog/images/1875.png" alt="Wir sind reich"/>
+
+Freuen Sie sich aber nicht zu früh. Die 8273,06 Dollar gelten nur für das Main-Net. Für Runkeby müssen sie davon 8273,06 Dollar abziehen.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAyODQ2ODA5NywxMzMwODM1MDMsLTE4MT
-kwOTY5MDEsMTE2NjMxMzAzMSwxODAxMTI0MTQ0LC0xMTkxNjk2
-NTYzLDM0OTc0OTgzLC02MzQ4MzEzNTgsMzQ4NzExNzYwLC0xMz
-YxMDc4NTk3LDE4MzA5MjM4ODUsLTE5OTE2NzgzMDcsLTM3NTM0
-MDA0MCwtNzU2OTkyODMxLC02OTU2Nzk5NzYsMTY0MDUzODY3LD
-E4MTMyMjQ4MjksLTg0MzQ4NjExOSwtMTU5MDkyNTk1LC0xMDQ5
-MDQyNzU4XX0=
+eyJoaXN0b3J5IjpbODM4MjkwNjI5LDEzMzA4MzUwMywtMTgxOT
+A5NjkwMSwxMTY2MzEzMDMxLDE4MDExMjQxNDQsLTExOTE2OTY1
+NjMsMzQ5NzQ5ODMsLTYzNDgzMTM1OCwzNDg3MTE3NjAsLTEzNj
+EwNzg1OTcsMTgzMDkyMzg4NSwtMTk5MTY3ODMwNywtMzc1MzQw
+MDQwLC03NTY5OTI4MzEsLTY5NTY3OTk3NiwxNjQwNTM4NjcsMT
+gxMzIyNDgyOSwtODQzNDg2MTE5LC0xNTkwOTI1OTUsLTEwNDkw
+NDI3NThdfQ==
 -->
