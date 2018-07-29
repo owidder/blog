@@ -187,13 +187,14 @@ Dort müssen wir folgendes eintragen.
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-form.png" alt="Verify Form"/>
 
  - Adresse des Contract (ist schon vorausgefüllt)
- - Name des Con
+ - Name des Contract
+ - Comp
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNDE5OTE4LDIwMTE5NzkxMTAsMTY4Mj
-g0MTExNSwxNjQ3NDUyNjY4LDExNDQ1NDc5NjYsLTE3NzIxMDAy
-NDQsLTIwMzcwNDEyNjMsMTM2NDEyNTEsLTIxMTYxNTgxNjUsOD
-cwMTgwNjAwLC03MjEwNTE4OTksLTE4MzU1ODczNzMsMTg5ODc3
-ODkwOCwtNDc5NzkyMTIwLDk3MTU3MTYxMSwtMjkyMDU0MjQ5LC
-04ODU5MTQ2NzNdfQ==
+eyJoaXN0b3J5IjpbODc0MDU5OTIyLDE0MDQxOTkxOCwyMDExOT
+c5MTEwLDE2NDc0NTI2NjgsMTE0NDU0Nzk2NiwtMTc3MjEwMDI0
+NCwtMjAzNzA0MTI2MywxMzY0MTI1MSwtMjExNjE1ODE2NSw4Nz
+AxODA2MDAsLTcyMTA1MTg5OSwtMTgzNTU4NzM3MywxODk4Nzc4
+OTA4LC00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQyNDksLT
+g4NTkxNDY3M119
 -->
