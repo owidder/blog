@@ -157,7 +157,7 @@ Jetzt kommt es darauf an, welchen Browser Sie verwenden:
 
 Jetzt nur noch *Submit* und das war's.
 
-In der Konsole (Mitte, unten) können Sie n
+In der Konsole (Mitte, unten) k
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNzUxNTM2XX0=
+eyJoaXN0b3J5IjpbMzAwNTcwOTYsLTgzNzUxNTM2XX0=
 -->
