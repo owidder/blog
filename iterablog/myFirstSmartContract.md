@@ -134,9 +134,12 @@ Im *Compile*-Tab auf der rechten Seite können wir den Code schon einmal compili
 
 Bei den 2 Warnings wenden wir einen alten Developer-Trick an: Wir ignorieren sie.
 
-Im Run-Tab daneben, wählen wir nun als Environment 
+Im Run-Tab daneben, wählen wir nun *Injected Web3* als *Environment* aus.
+
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-08/iterablog/images/environment.png" alt="Environment"/>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE3MDg2MTA3OSw2NTYwMTAwNTcsLTE5Nz
+eyJoaXN0b3J5IjpbLTE5OTk0MDUzNSw2NTYwMTAwNTcsLTE5Nz
 MzNzI0ODksLTE1MDQ5NTM0NzgsLTEzMzk1OTQ0NzcsLTE5OTAz
 NjQ2Myw1Njc5NDA2MjIsLTE4OTYwNDk2MTQsLTE2MDUwMzg3MD
 AsMTI3MDQ5NTY0OSwzNzcwMDQ2NiwyNzc0MTU2MzYsLTE5NjUy
