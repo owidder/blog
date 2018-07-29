@@ -146,9 +146,9 @@ Wenn Sie bei angemeldet sind (ansonsten sollten Sie das jetzt tun), sollten Sie 
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-09/iterablog/images/injected-web3.png" alt="Injected Web"/>
 
-
+Jetzt wird's ernst. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjA1MTQxOSwtMTM0MzE1NTMyOCwtMz
+eyJoaXN0b3J5IjpbLTI0OTE1Nzk2NCwtMTM0MzE1NTMyOCwtMz
 U5MTEzNjU2LC0xMjEwMDc3MjY0LC03MjcyNjE3MTAsLTk1MzEx
 ODc4NywtMTY3MjQyNzgxNSw2NTYwMTAwNTcsLTE5NzMzNzI0OD
 ksLTE1MDQ5NTM0NzgsLTEzMzk1OTQ0NzcsLTE5OTAzNjQ2Myw1
