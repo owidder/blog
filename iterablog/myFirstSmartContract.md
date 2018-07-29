@@ -142,14 +142,16 @@ Das bedeutet, dass ein Objekt namens *Web3*, das von aussen in die Web-Seite inj
 
 Damit können wir die Transaktion zum Deployment des Contracts über *Metamask* ausführen.
 
-Wenn Sie bei angemeldet sind (ansonsten sollten Sie das jetzt tun), sollten Sie nun den i
+Wenn Sie bei angemeldet sind (ansonsten sollten Sie das jetzt tun), sollten Sie nun den in Metamask ausgewählten Account sehen.
+
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1OTExMzY1NiwxOTI5MDg3MzY4LC0zNT
-Q4NzMyLC0xMjEwMDc3MjY0LC03MjcyNjE3MTAsLTk1MzExODc4
-NywtMTY3MjQyNzgxNSw2NTYwMTAwNTcsLTE5NzMzNzI0ODksLT
-E1MDQ5NTM0NzgsLTEzMzk1OTQ0NzcsLTE5OTAzNjQ2Myw1Njc5
-NDA2MjIsLTE4OTYwNDk2MTQsLTE2MDUwMzg3MDAsMTI3MDQ5NT
-Y0OSwzNzcwMDQ2NiwyNzc0MTU2MzYsLTE5NjUyMjM1NDUsMjAx
-NzcyMjIxN119
+eyJoaXN0b3J5IjpbLTE4Mjc2NTk2MDIsLTM1OTExMzY1NiwxOT
+I5MDg3MzY4LC0xMjEwMDc3MjY0LC03MjcyNjE3MTAsLTk1MzEx
+ODc4NywtMTY3MjQyNzgxNSw2NTYwMTAwNTcsLTE5NzMzNzI0OD
+ksLTE1MDQ5NTM0NzgsLTEzMzk1OTQ0NzcsLTE5OTAzNjQ2Myw1
+Njc5NDA2MjIsLTE4OTYwNDk2MTQsLTE2MDUwMzg3MDAsMTI3MD
+Q5NTY0OSwzNzcwMDQ2NiwyNzc0MTU2MzYsLTE5NjUyMjM1NDUs
+MjAxNzcyMjIxN119
 -->
