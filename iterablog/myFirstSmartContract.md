@@ -173,9 +173,9 @@ Er führt uns zu der [Etherscan-Seite des Contracts](https://rinkeby.etherscan.i
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/etherscan-contract.png" alt="Contract Site"/>
 
-Wenn w
+Nun sollen ja andere unseren Contract aufrufen. Dann kann es hilfreich sein, 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIxMDAyNDQsLTYwOTQ2MjgyNywtMj
+eyJoaXN0b3J5IjpbMTc0ODYzNDQzMSwtMTc3MjEwMDI0NCwtMj
 AzNzA0MTI2MywxMzY0MTI1MSwtMjExNjE1ODE2NSw4NzAxODA2
 MDAsLTcyMTA1MTg5OSwtMTgzNTU4NzM3MywxODk4Nzc4OTA4LC
 00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQyNDksLTg4NTkx
