@@ -146,10 +146,15 @@ Wenn Sie bei angemeldet sind (ansonsten sollten Sie das jetzt tun), sollten Sie 
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-09/iterablog/images/injected-web3.png" alt="Injected Web"/>
 
-Jetzt wird's ernst. Über den ![enter image description here](https://raw.githubusercontent.com/owidder/blog/ib-20180729-10/iterablog/images/deploy.png) Button können Sie nun das D
+Jetzt wird's ernst. Über den ![enter image description here](https://raw.githubusercontent.com/owidder/blog/ib-20180729-10/iterablog/images/deploy.png) Button können Sie nun das Deployment des Contracts starten.
+
+Jetzt kommt es darauf an, welchen Browser Sie verwenden:
+
+ - Im Chrome öffnet sich auf der linken Seite ein Metamask-
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDIxMzYyMTYwLC0xMTU2NjMzMywtNzMyND
-cxNDU5LC0yNDkxNTc5NjQsLTEzNDMxNTUzMjgsLTM1OTExMzY1
+eyJoaXN0b3J5IjpbLTM5OTExMTAwOCw0MjEzNjIxNjAsLTExNT
+Y2MzMzLC0yNDkxNTc5NjQsLTEzNDMxNTUzMjgsLTM1OTExMzY1
 NiwtMTIxMDA3NzI2NCwtNzI3MjYxNzEwLC05NTMxMTg3ODcsLT
 E2NzI0Mjc4MTUsNjU2MDEwMDU3LC0xOTczMzcyNDg5LC0xNTA0
 OTUzNDc4LC0xMzM5NTk0NDc3LC0xOTkwMzY0NjMsNTY3OTQwNj
