@@ -169,13 +169,13 @@ Dort finden wir auch den Link zu unserem Contract:
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/contract-link.png" alt="Contract Link"/>
 
-Er führt uns zu der Etherscan-Seite des Contracts.
+Er führt uns zu der [Etherscan-Seite des Contracts](https://rinkeby.etherscan.io/address/0x245ede9dac68b84f329e21024e0083ce432700f9).
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/etherscan-contract.png" alt="Contract Site"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMyMTkxOTI0OSwtMjExNjE1ODE2NSw4Nz
-AxODA2MDAsLTcyMTA1MTg5OSwtMTgzNTU4NzM3MywxODk4Nzc4
-OTA4LC00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQyNDksLT
-g4NTkxNDY3M119
+eyJoaXN0b3J5IjpbMTM2NDEyNTEsLTMyMTkxOTI0OSwtMjExNj
+E1ODE2NSw4NzAxODA2MDAsLTcyMTA1MTg5OSwtMTgzNTU4NzM3
+MywxODk4Nzc4OTA4LC00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOT
+IwNTQyNDksLTg4NTkxNDY3M119
 -->
