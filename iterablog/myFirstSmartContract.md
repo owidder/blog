@@ -124,13 +124,16 @@ Mit dem kleinen Plus-Zeichen oben links können wir eine neue Datei anlegen. Wir
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-05/iterablog/images/new-file.png" alt="Neue Datei"/>
 
+Jetzt öffnet sich ein neuer Tab, in den wir den Code des Contracts kopieren können.
+
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-05/iterablog/images/new-file.png" alt="Neue Datei"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDUwMzg3MDAsMTI3MDQ5NTY0OSwzNz
-cwMDQ2NiwyNzc0MTU2MzYsLTE5NjUyMjM1NDUsMjAxNzcyMjIx
-NywxNDU2OTczNzMsLTg2ODI2NjgxMiwtMTgxMzM2Nzk4LDEzMz
-A4MzUwMywtMTgxOTA5NjkwMSwxMTY2MzEzMDMxLDE4MDExMjQx
-NDQsLTExOTE2OTY1NjMsMzQ5NzQ5ODMsLTYzNDgzMTM1OCwzND
-g3MTE3NjAsLTEzNjEwNzg1OTcsMTgzMDkyMzg4NSwtMTk5MTY3
-ODMwN119
+eyJoaXN0b3J5IjpbNTU0NDA3ODIxLC0xNjA1MDM4NzAwLDEyNz
+A0OTU2NDksMzc3MDA0NjYsMjc3NDE1NjM2LC0xOTY1MjIzNTQ1
+LDIwMTc3MjIyMTcsMTQ1Njk3MzczLC04NjgyNjY4MTIsLTE4MT
+MzNjc5OCwxMzMwODM1MDMsLTE4MTkwOTY5MDEsMTE2NjMxMzAz
+MSwxODAxMTI0MTQ0LC0xMTkxNjk2NTYzLDM0OTc0OTgzLC02Mz
+Q4MzEzNTgsMzQ4NzExNzYwLC0xMzYxMDc4NTk3LDE4MzA5MjM4
+ODVdfQ==
 -->
