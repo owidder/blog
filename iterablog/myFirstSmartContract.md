@@ -136,14 +136,14 @@ Bei den 2 Warnings wenden wir einen alten Developer-Trick an: Wir ignorieren sie
 
 Im Run-Tab daneben, wählen wir nun *Injected Web3* als *Environment* aus.
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-08/iterablog/images/environment.png" alt="Environment"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-08/iterablog/images/environment.png" alt="Environment"/>.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTk0MDUzNSw2NTYwMTAwNTcsLTE5Nz
-MzNzI0ODksLTE1MDQ5NTM0NzgsLTEzMzk1OTQ0NzcsLTE5OTAz
-NjQ2Myw1Njc5NDA2MjIsLTE4OTYwNDk2MTQsLTE2MDUwMzg3MD
-AsMTI3MDQ5NTY0OSwzNzcwMDQ2NiwyNzc0MTU2MzYsLTE5NjUy
-MjM1NDUsMjAxNzcyMjIxNywxNDU2OTczNzMsLTg2ODI2NjgxMi
-wtMTgxMzM2Nzk4LDEzMzA4MzUwMywtMTgxOTA5NjkwMSwxMTY2
-MzEzMDMxXX0=
+eyJoaXN0b3J5IjpbLTE2NzI0Mjc4MTUsLTE5OTk0MDUzNSw2NT
+YwMTAwNTcsLTE5NzMzNzI0ODksLTE1MDQ5NTM0NzgsLTEzMzk1
+OTQ0NzcsLTE5OTAzNjQ2Myw1Njc5NDA2MjIsLTE4OTYwNDk2MT
+QsLTE2MDUwMzg3MDAsMTI3MDQ5NTY0OSwzNzcwMDQ2NiwyNzc0
+MTU2MzYsLTE5NjUyMjM1NDUsMjAxNzcyMjIxNywxNDU2OTczNz
+MsLTg2ODI2NjgxMiwtMTgxMzM2Nzk4LDEzMzA4MzUwMywtMTgx
+OTA5NjkwMV19
 -->
