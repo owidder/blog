@@ -151,14 +151,14 @@ Jetzt wird's ernst. Über den ![enter image description here](https://raw.github
 Jetzt kommt es darauf an, welchen Browser Sie verwenden:
 
  - Im Chrome öffnet sich auf der linken Seite ein Metamask-Fenster, in dem Sie die Transaktion bestätigen können
- - Im Firefox kann es sein (so war es bei mir), dass sich auf der linken Seite ein leeres Fenster öffnet. Das können Sie wieder schließen. Über d Fuchs-Icon sollte nun eine kleine 1 erscheinen.
+ - Im Firefox kann es sein (so war es bei mir), dass sich auf der linken Seite ein leeres Fenster öffnet. Das können Sie wieder schließen. Über das Fuchs-Icon sollte nun eine kleine 1 erscheinen.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg0NDkzMDEzLDM2MjYyOTc3MCwtMTQwMj
-M0MjQ3NCw0MjEzNjIxNjAsLTI0OTE1Nzk2NCwtMTM0MzE1NTMy
-OCwtMzU5MTEzNjU2LC0xMjEwMDc3MjY0LC03MjcyNjE3MTAsLT
-k1MzExODc4NywtMTY3MjQyNzgxNSw2NTYwMTAwNTcsLTE5NzMz
-NzI0ODksLTE1MDQ5NTM0NzgsLTEzMzk1OTQ0NzcsLTE5OTAzNj
-Q2Myw1Njc5NDA2MjIsLTE4OTYwNDk2MTQsLTE2MDUwMzg3MDAs
-MTI3MDQ5NTY0OV19
+eyJoaXN0b3J5IjpbLTQ3NDM2MjY1MywzODQ0OTMwMTMsMzYyNj
+I5NzcwLC0xNDAyMzQyNDc0LDQyMTM2MjE2MCwtMjQ5MTU3OTY0
+LC0xMzQzMTU1MzI4LC0zNTkxMTM2NTYsLTEyMTAwNzcyNjQsLT
+cyNzI2MTcxMCwtOTUzMTE4Nzg3LC0xNjcyNDI3ODE1LDY1NjAx
+MDA1NywtMTk3MzM3MjQ4OSwtMTUwNDk1MzQ3OCwtMTMzOTU5ND
+Q3NywtMTk5MDM2NDYzLDU2Nzk0MDYyMiwtMTg5NjA0OTYxNCwt
+MTYwNTAzODcwMF19
 -->
