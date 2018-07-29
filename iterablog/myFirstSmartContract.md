@@ -122,13 +122,14 @@ So jetzt kann es losgehen. Wir können jetzt unseren Contract in der Blockchain 
 
 Mit dem kleinen Plus-Zeichen oben links können wir eine neue Datei anlegen. Wir nennen sie *Weisenheimer*.
 
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-05/iterablog/images/new-file.png" alt="Wir sind reich"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzc3MDA0NjYsMjc3NDE1NjM2LC0xOTY1Mj
-IzNTQ1LDIwMTc3MjIyMTcsMTQ1Njk3MzczLC04NjgyNjY4MTIs
-LTE4MTMzNjc5OCwxMzMwODM1MDMsLTE4MTkwOTY5MDEsMTE2Nj
-MxMzAzMSwxODAxMTI0MTQ0LC0xMTkxNjk2NTYzLDM0OTc0OTgz
-LC02MzQ4MzEzNTgsMzQ4NzExNzYwLC0xMzYxMDc4NTk3LDE4Mz
-A5MjM4ODUsLTE5OTE2NzgzMDcsLTM3NTM0MDA0MCwtNzU2OTky
-ODMxXX0=
+eyJoaXN0b3J5IjpbMTI3MDQ5NTY0OSwzNzcwMDQ2NiwyNzc0MT
+U2MzYsLTE5NjUyMjM1NDUsMjAxNzcyMjIxNywxNDU2OTczNzMs
+LTg2ODI2NjgxMiwtMTgxMzM2Nzk4LDEzMzA4MzUwMywtMTgxOT
+A5NjkwMSwxMTY2MzEzMDMxLDE4MDExMjQxNDQsLTExOTE2OTY1
+NjMsMzQ5NzQ5ODMsLTYzNDgzMTM1OCwzNDg3MTE3NjAsLTEzNj
+EwNzg1OTcsMTgzMDkyMzg4NSwtMTk5MTY3ODMwNywtMzc1MzQw
+MDQwXX0=
 -->
