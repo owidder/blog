@@ -132,13 +132,13 @@ Im compile-Tab auf der rechten Seite können wir den Code schon einmal compilier
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-07/iterablog/images/compile.png" alt="Compile"/>
 
-Bein den 2 Warnings verhalten wir uns wie
+Bein den 2 Warnings verhalten wir uns wie jeder 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI0OTIxNjUyNSwtMTUwNDk1MzQ3OCwtMT
-MzOTU5NDQ3NywtMTk5MDM2NDYzLDU2Nzk0MDYyMiwtMTg5NjA0
-OTYxNCwtMTYwNTAzODcwMCwxMjcwNDk1NjQ5LDM3NzAwNDY2LD
-I3NzQxNTYzNiwtMTk2NTIyMzU0NSwyMDE3NzIyMjE3LDE0NTY5
-NzM3MywtODY4MjY2ODEyLC0xODEzMzY3OTgsMTMzMDgzNTAzLC
-0xODE5MDk2OTAxLDExNjYzMTMwMzEsMTgwMTEyNDE0NCwtMTE5
-MTY5NjU2M119
+eyJoaXN0b3J5IjpbLTE5NzMzNzI0ODksLTI0OTIxNjUyNSwtMT
+UwNDk1MzQ3OCwtMTMzOTU5NDQ3NywtMTk5MDM2NDYzLDU2Nzk0
+MDYyMiwtMTg5NjA0OTYxNCwtMTYwNTAzODcwMCwxMjcwNDk1Nj
+Q5LDM3NzAwNDY2LDI3NzQxNTYzNiwtMTk2NTIyMzU0NSwyMDE3
+NzIyMjE3LDE0NTY5NzM3MywtODY4MjY2ODEyLC0xODEzMzY3OT
+gsMTMzMDgzNTAzLC0xODE5MDk2OTAxLDExNjYzMTMwMzEsMTgw
+MTEyNDE0NF19
 -->
