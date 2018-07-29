@@ -128,19 +128,19 @@ Jetzt öffnet sich ein neuer Tab, in den wir den Code des Contracts kopieren kö
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-06/iterablog/images/new-tab.png" alt="Neuer Tab"/>
 
-Im *compile*-Tab auf der rechten Seite können wir den Code schon einmal compilieren.
+Im *Compile*-Tab auf der rechten Seite können wir den Code schon einmal compilieren.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-07/iterablog/images/compile.png" alt="Compile"/>
 
 Bei den 2 Warnings wenden wir einen alten Developer-Trick an: Wir ignorieren sie.
 
-Im 
+Im Run-Tab daneben, wählen wir nun als Environment 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjU2NDcwNzUsNjU2MDEwMDU3LC0xOT
-czMzcyNDg5LC0xNTA0OTUzNDc4LC0xMzM5NTk0NDc3LC0xOTkw
-MzY0NjMsNTY3OTQwNjIyLC0xODk2MDQ5NjE0LC0xNjA1MDM4Nz
-AwLDEyNzA0OTU2NDksMzc3MDA0NjYsMjc3NDE1NjM2LC0xOTY1
-MjIzNTQ1LDIwMTc3MjIyMTcsMTQ1Njk3MzczLC04NjgyNjY4MT
-IsLTE4MTMzNjc5OCwxMzMwODM1MDMsLTE4MTkwOTY5MDEsMTE2
-NjMxMzAzMV19
+eyJoaXN0b3J5IjpbMTE3MDg2MTA3OSw2NTYwMTAwNTcsLTE5Nz
+MzNzI0ODksLTE1MDQ5NTM0NzgsLTEzMzk1OTQ0NzcsLTE5OTAz
+NjQ2Myw1Njc5NDA2MjIsLTE4OTYwNDk2MTQsLTE2MDUwMzg3MD
+AsMTI3MDQ5NTY0OSwzNzcwMDQ2NiwyNzc0MTU2MzYsLTE5NjUy
+MjM1NDUsMjAxNzcyMjIxNywxNDU2OTczNzMsLTg2ODI2NjgxMi
+wtMTgxMzM2Nzk4LDEzMzA4MzUwMywtMTgxOTA5NjkwMSwxMTY2
+MzEzMDMxXX0=
 -->
