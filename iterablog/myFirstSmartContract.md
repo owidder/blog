@@ -91,10 +91,10 @@ Wir gehen zur offiziellen [Faucet von Rinkeby](https://faucet.rinkeby.io/):
 
 Dort bekommen wir Ether geschenkt. Dafür müssen wir unseren Account auf Twitter, Google+ oder Facebook posten und die URL des Posts in das Eingefeld kopieren. 
 
-Dann können wir uns entsch
+Dann können wir uns entscheiden, wieviel Ether wir wollen. Die Zeit 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5NTY3OTk3NiwxNjQwNTM4NjcsLTIxMz
-U3MjI0NTQsMTgxMzIyNDgyOSwtODQzNDg2MTE5LC0xNTkwOTI1
+eyJoaXN0b3J5IjpbLTExMzU0MjU3MTcsLTY5NTY3OTk3NiwxNj
+QwNTM4NjcsMTgxMzIyNDgyOSwtODQzNDg2MTE5LC0xNTkwOTI1
 OTUsLTEwNDkwNDI3NTgsLTExNDE4NjA0MzgsMzMxNzA4MzEyLD
 E0MTEzNDM1NDEsLTE1ODM0Njg3ODUsLTY2NTIzNzM4MSwtNDA2
 MjIyMTk2LDI0MzYzNzY1OSwyMDUyMTQ5ODY3LDEyOTI2NDU3OS
