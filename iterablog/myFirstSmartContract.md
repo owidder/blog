@@ -138,10 +138,10 @@ Im Run-Tab daneben, wählen wir nun *Injected Web3* als *Environment* aus.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-08/iterablog/images/environment.png" alt="Environment"/>
 
-Das bedeutet, dass ein Objekt namens Web3, das 
+Das bedeutet, dass ein Objekt namens *Web3*, das von aussen in die Web-Seite injiziert wurde. In unserem Fall von dem Browser-Plug-in *Metamask*. Web3 ist eine sehr populäre JavaScript-Biblio
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0MjY3OTQ4NiwtMTY3MjQyNzgxNSw2NT
+eyJoaXN0b3J5IjpbLTg4MzExODc4MywtMTY3MjQyNzgxNSw2NT
 YwMTAwNTcsLTE5NzMzNzI0ODksLTE1MDQ5NTM0NzgsLTEzMzk1
 OTQ0NzcsLTE5OTAzNjQ2Myw1Njc5NDA2MjIsLTE4OTYwNDk2MT
 QsLTE2MDUwMzg3MDAsMTI3MDQ5NTY0OSwzNzcwMDQ2NiwyNzc0
