@@ -120,13 +120,15 @@ Freuen Sie sich aber nicht zu früh. Die 8273,06 Dollar gelten nur für das Main
 ## Submission accomplished
 So jetzt kann es losgehen. Wir können jetzt unseren Contract in der Blockchain deployen. Dazu gehen wir zu der Online-Ethereum-IDE [*remix*](https://remix.ethereum.org).
 
-Mit dem kleinen Plus-Zeichen oben links können wir eine neue Datei anlegen. Wir nennen sie Weisenheimer.
+Mit dem kleinen Plus-Zeichen oben links können wir eine neue Datei anlegen. Wir nennen sie *Weisenheimer*.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjc3NDE1NjM2LC0xOTY1MjIzNTQ1LDIwMT
-c3MjIyMTcsMTQ1Njk3MzczLC04NjgyNjY4MTIsLTE4MTMzNjc5
-OCwxMzMwODM1MDMsLTE4MTkwOTY5MDEsMTE2NjMxMzAzMSwxOD
-AxMTI0MTQ0LC0xMTkxNjk2NTYzLDM0OTc0OTgzLC02MzQ4MzEz
-NTgsMzQ4NzExNzYwLC0xMzYxMDc4NTk3LDE4MzA5MjM4ODUsLT
-E5OTE2NzgzMDcsLTM3NTM0MDA0MCwtNzU2OTkyODMxLC02OTU2
-Nzk5NzZdfQ==
+eyJoaXN0b3J5IjpbMzc3MDA0NjYsMjc3NDE1NjM2LC0xOTY1Mj
+IzNTQ1LDIwMTc3MjIyMTcsMTQ1Njk3MzczLC04NjgyNjY4MTIs
+LTE4MTMzNjc5OCwxMzMwODM1MDMsLTE4MTkwOTY5MDEsMTE2Nj
+MxMzAzMSwxODAxMTI0MTQ0LC0xMTkxNjk2NTYzLDM0OTc0OTgz
+LC02MzQ4MzEzNTgsMzQ4NzExNzYwLC0xMzYxMDc4NTk3LDE4Mz
+A5MjM4ODUsLTE5OTE2NzgzMDcsLTM3NTM0MDA0MCwtNzU2OTky
+ODMxXX0=
 -->
