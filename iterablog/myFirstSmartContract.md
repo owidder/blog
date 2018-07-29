@@ -44,7 +44,9 @@ und hier ist er auch schon:
 	    }
     }
 
-Zugegeben. So richtig smart sieht der nicht aus. Er erfüllt aber seinen Zweck
+Zugegeben. So richtig smart sieht der nicht aus. Er erfüllt aber seinen Zweck:
+
+
 
 ## Wallets
 Um unseren Smart Contract in der Ethereum Blockchain zu deployen, brauchen wir einen Account und *Ether*, die Währung bei Ethereum. 
@@ -81,11 +83,11 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc5MjU5MjgwOCwzMzE3MDgzMTIsMTQxMT
-M0MzU0MSwtMTU4MzQ2ODc4NSwtNjY1MjM3MzgxLC00MDYyMjIx
-OTYsMjQzNjM3NjU5LDIwNTIxNDk4NjcsMTI5MjY0NTc5LDU2MD
-Q4MzAxNiwtMTAyNjI5ODI5MCwxODc5NDc0MzE4LC04MjgyNDIz
-NjksNTYwODE4NTk1LDE5Njg0MDkzNzgsMTk3NTA1OTY1MCwxMD
-YxNzM2OTQxLC05NDQyMTQ4ODQsNzYyNzEwMzE4LDEwNDM1MjI3
-MDJdfQ==
+eyJoaXN0b3J5IjpbODQxODYzMzIwLDE3OTI1OTI4MDgsMzMxNz
+A4MzEyLDE0MTEzNDM1NDEsLTE1ODM0Njg3ODUsLTY2NTIzNzM4
+MSwtNDA2MjIyMTk2LDI0MzYzNzY1OSwyMDUyMTQ5ODY3LDEyOT
+I2NDU3OSw1NjA0ODMwMTYsLTEwMjYyOTgyOTAsMTg3OTQ3NDMx
+OCwtODI4MjQyMzY5LDU2MDgxODU5NSwxOTY4NDA5Mzc4LDE5Nz
+UwNTk2NTAsMTA2MTczNjk0MSwtOTQ0MjE0ODg0LDc2MjcxMDMx
+OF19
 -->
