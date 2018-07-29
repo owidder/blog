@@ -159,8 +159,10 @@ Jetzt nur noch *Submit* und das war's.
 
 In der Konsole (Mitte, unten) sehen Sie nach ein paar Sekunden (wenn die Transaktion es in die Blockchain geschafft hat) einen Link zu der Transaktion.
 
- <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-12/iterablog/images/etherscan-link.png" alt="Confirm Transaction"/>
+ <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-12/iterablog/images/etherscan-link.png" alt="Transaction Link"/>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5NDc1ODA0LDk3MTU3MTYxMSwtMjkyMD
-U0MjQ5LC04ODU5MTQ2NzNdfQ==
+eyJoaXN0b3J5IjpbLTQ3OTc5MjEyMCw5NzE1NzE2MTEsLTI5Mj
+A1NDI0OSwtODg1OTE0NjczXX0=
 -->
