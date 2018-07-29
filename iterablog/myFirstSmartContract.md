@@ -153,16 +153,13 @@ Jetzt kommt es darauf an, welchen Browser Sie verwenden:
  - Im Chrome öffnet sich auf der linken Seite ein Metamask-Fenster, in dem Sie die Transaktion bestätigen können.
  - Im Firefox kann es sein (so war es bei mir), dass sich auf der linken Seite ein leeres Fenster öffnet. Das können Sie wieder schließen. Über das Fuchs-Icon (dort sollte nun eine kleine 1 erscheinen ![enter image description here](https://raw.githubusercontent.com/owidder/blog/ib-20180729-11/iterablog/images/fox1.png)) sollten Sie das Fenster zum Bestätigen der Transaktion sehen können.
 
-
-
-
-
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-09/iterablog/images/injected-web3.png" alt="Injected Web"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MTE1NDc1MDcsLTE5NTgzMjQ5NDMsLT
-E5ODAxNTU0NjEsLTQzNTYzMDUzNiwtNDc0MzYyNjUzLDM2MjYy
-OTc3MCwtMTQwMjM0MjQ3NCw0MjEzNjIxNjAsLTI0OTE1Nzk2NC
-wtMTM0MzE1NTMyOCwtMzU5MTEzNjU2LC0xMjEwMDc3MjY0LC03
-MjcyNjE3MTAsLTk1MzExODc4NywtMTY3MjQyNzgxNSw2NTYwMT
-AwNTcsLTE5NzMzNzI0ODksLTE1MDQ5NTM0NzgsLTEzMzk1OTQ0
-NzcsLTE5OTAzNjQ2M119
+eyJoaXN0b3J5IjpbNzI4OTQ4MzY0LC0xNTExNTQ3NTA3LC0xOT
+U4MzI0OTQzLC0xOTgwMTU1NDYxLC00MzU2MzA1MzYsLTQ3NDM2
+MjY1MywzNjI2Mjk3NzAsLTE0MDIzNDI0NzQsNDIxMzYyMTYwLC
+0yNDkxNTc5NjQsLTEzNDMxNTUzMjgsLTM1OTExMzY1NiwtMTIx
+MDA3NzI2NCwtNzI3MjYxNzEwLC05NTMxMTg3ODcsLTE2NzI0Mj
+c4MTUsNjU2MDEwMDU3LC0xOTczMzcyNDg5LC0xNTA0OTUzNDc4
+LC0xMzM5NTk0NDc3XX0=
 -->
