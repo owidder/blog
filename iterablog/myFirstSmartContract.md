@@ -85,14 +85,13 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein klein wenig müssen wir schon tun.
 
 ## Geld zapfen
-
-
+Wir gehen zur offiziellen Faucet von Rinkeby. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1OTA5MjU5NSwtMTA0OTA0Mjc1OCwtMT
-E0MTg2MDQzOCwzMzE3MDgzMTIsMTQxMTM0MzU0MSwtMTU4MzQ2
-ODc4NSwtNjY1MjM3MzgxLC00MDYyMjIxOTYsMjQzNjM3NjU5LD
-IwNTIxNDk4NjcsMTI5MjY0NTc5LDU2MDQ4MzAxNiwtMTAyNjI5
-ODI5MCwxODc5NDc0MzE4LC04MjgyNDIzNjksNTYwODE4NTk1LD
-E5Njg0MDkzNzgsMTk3NTA1OTY1MCwxMDYxNzM2OTQxLC05NDQy
-MTQ4ODRdfQ==
+eyJoaXN0b3J5IjpbMTgyMjI1MzYwNywtMTU5MDkyNTk1LC0xMD
+Q5MDQyNzU4LC0xMTQxODYwNDM4LDMzMTcwODMxMiwxNDExMzQz
+NTQxLC0xNTgzNDY4Nzg1LC02NjUyMzczODEsLTQwNjIyMjE5Ni
+wyNDM2Mzc2NTksMjA1MjE0OTg2NywxMjkyNjQ1NzksNTYwNDgz
+MDE2LC0xMDI2Mjk4MjkwLDE4Nzk0NzQzMTgsLTgyODI0MjM2OS
+w1NjA4MTg1OTUsMTk2ODQwOTM3OCwxOTc1MDU5NjUwLDEwNjE3
+MzY5NDFdfQ==
 -->
