@@ -46,8 +46,9 @@ und hier [ist er auch schon](https://github.com/owidder/iteraBlog/blob/master/we
 
 Zugegeben. So richtig smart sieht der nicht aus. Er erfüllt aber seinen Zweck:
 
-Die Programmiersprache nennt sich [*Solidity*](https://github.com/ethereum/solidity) und ist speziell Sm
+Die Programmiersprache nennt sich [*Solidity*](https://github.com/ethereum/solidity) und ist speziell für Smart Contracts gedacht.  
 Die Funktion *logHashValue* erzeugt einen Logeintrag mit den Hashwert, der Adresse des Accounts, von dem die Funktion aufgerufen wurde und der Zeitstempel des Blogs, in die Transaktion des Aufrufes ein für alle Mal in der Blockchain festgehalten wird.
+Die Funktion ist p
 
 ## Wallets
 Um unseren Smart Contract *Weisenheimer* in der Ethereum Blockchain zu deployen, brauchen wir einen Account und *Ether*, die Währung bei Ethereum. 
@@ -114,11 +115,11 @@ Und siehe da. Wir sind reich.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-04/iterablog/images/1875.png" alt="Wir sind reich"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODg5ODUyNzEsLTYxNzc3NTkyMSwxMD
-M3NDA2MTA5LDExNjYzMTMwMzEsMTgwMTEyNDE0NCwtMTE5MTY5
-NjU2MywzNDk3NDk4MywtNjM0ODMxMzU4LDM0ODcxMTc2MCwtMT
-M2MTA3ODU5NywxODMwOTIzODg1LC0xOTkxNjc4MzA3LC0zNzUz
-NDAwNDAsLTc1Njk5MjgzMSwtNjk1Njc5OTc2LDE2NDA1Mzg2Ny
-wxODEzMjI0ODI5LC04NDM0ODYxMTksLTE1OTA5MjU5NSwtMTA0
-OTA0Mjc1OF19
+eyJoaXN0b3J5IjpbMzE3MjE2ODU1LC0xODg4OTg1MjcxLC02MT
+c3NzU5MjEsMTE2NjMxMzAzMSwxODAxMTI0MTQ0LC0xMTkxNjk2
+NTYzLDM0OTc0OTgzLC02MzQ4MzEzNTgsMzQ4NzExNzYwLC0xMz
+YxMDc4NTk3LDE4MzA5MjM4ODUsLTE5OTE2NzgzMDcsLTM3NTM0
+MDA0MCwtNzU2OTkyODMxLC02OTU2Nzk5NzYsMTY0MDUzODY3LD
+E4MTMyMjQ4MjksLTg0MzQ4NjExOSwtMTU5MDkyNTk1LC0xMDQ5
+MDQyNzU4XX0=
 -->
