@@ -34,25 +34,16 @@ Das ist alles. Mehr brauchen wir nicht.
 Jetzt noch ein Name für unseren Contract: [Weisenheimer](https://www.urbandictionary.com/define.php?term=weisenheimer)
 und hier ist er auch schon:
 
-pragma solidity ^0.4.19;
+    pragma solidity ^0.4.19;
+    contract Weisenheimer {
 
-  
+    event NewHashValue(string, address, uint);
 
-contract Weisenheimer {
-
-  
-
-event NewHashValue(string, address, uint);
-
-  
-
-function logHashValue(string hashValue) public {
-
-emit NewClaim(hashValue, msg.sender, block.timestamp);
-
-}
-
-}
+	    function logHashValue(string hashValue) public {    
+		    emit NewClaim(hashValue, msg.sender, block.timestamp);
+	    }
+    
+    }
 
 
 
@@ -91,11 +82,11 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzMxNzA4MzEyLDE0MTEzNDM1NDEsLTE1OD
-M0Njg3ODUsLTY2NTIzNzM4MSwtNDA2MjIyMTk2LDI0MzYzNzY1
-OSwyMDUyMTQ5ODY3LDEyOTI2NDU3OSw1NjA0ODMwMTYsLTEwMj
-YyOTgyOTAsMTg3OTQ3NDMxOCwtODI4MjQyMzY5LDU2MDgxODU5
-NSwxOTY4NDA5Mzc4LDE5NzUwNTk2NTAsMTA2MTczNjk0MSwtOT
-Q0MjE0ODg0LDc2MjcxMDMxOCwxMDQzNTIyNzAyLC0xNjUyMjk1
-NTIzXX0=
+eyJoaXN0b3J5IjpbLTE5NDM3MzU4MDYsMzMxNzA4MzEyLDE0MT
+EzNDM1NDEsLTE1ODM0Njg3ODUsLTY2NTIzNzM4MSwtNDA2MjIy
+MTk2LDI0MzYzNzY1OSwyMDUyMTQ5ODY3LDEyOTI2NDU3OSw1Nj
+A0ODMwMTYsLTEwMjYyOTgyOTAsMTg3OTQ3NDMxOCwtODI4MjQy
+MzY5LDU2MDgxODU5NSwxOTY4NDA5Mzc4LDE5NzUwNTk2NTAsMT
+A2MTczNjk0MSwtOTQ0MjE0ODg0LDc2MjcxMDMxOCwxMDQzNTIy
+NzAyXX0=
 -->
