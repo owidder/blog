@@ -95,14 +95,16 @@ Dann können wir uns entscheiden, wieviel Ether wir wollen. Je nachdem können w
 
 Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopieren:
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-02/iterablog/images/faucet.png" alt="Rinkeby Faucet"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-02/iterablog/images/copy-address.png" alt="Rinkeby Faucet" width="300px"/>
+
+
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMjU3NTQxNzcsLTc1Njk5MjgzMSwtNj
-k1Njc5OTc2LDE2NDA1Mzg2NywxODEzMjI0ODI5LC04NDM0ODYx
-MTksLTE1OTA5MjU5NSwtMTA0OTA0Mjc1OCwtMTE0MTg2MDQzOC
-wzMzE3MDgzMTIsMTQxMTM0MzU0MSwtMTU4MzQ2ODc4NSwtNjY1
-MjM3MzgxLC00MDYyMjIxOTYsMjQzNjM3NjU5LDIwNTIxNDk4Nj
-csMTI5MjY0NTc5LDU2MDQ4MzAxNiwtMTAyNjI5ODI5MCwxODc5
-NDc0MzE4XX0=
+eyJoaXN0b3J5IjpbLTUyMzE4MTg4NSwtNzU2OTkyODMxLC02OT
+U2Nzk5NzYsMTY0MDUzODY3LDE4MTMyMjQ4MjksLTg0MzQ4NjEx
+OSwtMTU5MDkyNTk1LC0xMDQ5MDQyNzU4LC0xMTQxODYwNDM4LD
+MzMTcwODMxMiwxNDExMzQzNTQxLC0xNTgzNDY4Nzg1LC02NjUy
+MzczODEsLTQwNjIyMjE5NiwyNDM2Mzc2NTksMjA1MjE0OTg2Ny
+wxMjkyNjQ1NzksNTYwNDgzMDE2LC0xMDI2Mjk4MjkwLDE4Nzk0
+NzQzMThdfQ==
 -->
