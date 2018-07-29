@@ -188,11 +188,11 @@ Dort müssen wir folgendes eintragen.
 
  - Adresse des Contract (ist schon vorausgefüllt)
  - Name des Contract
- - Comp
+ - Compiler-Version: Kann man 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODc0MDU5OTIyLDE0MDQxOTkxOCwyMDExOT
-c5MTEwLDE2NDc0NTI2NjgsMTE0NDU0Nzk2NiwtMTc3MjEwMDI0
+eyJoaXN0b3J5IjpbMTAzMzczNDczNSw4NzQwNTk5MjIsMTQwND
+E5OTE4LDE2NDc0NTI2NjgsMTE0NDU0Nzk2NiwtMTc3MjEwMDI0
 NCwtMjAzNzA0MTI2MywxMzY0MTI1MSwtMjExNjE1ODE2NSw4Nz
 AxODA2MDAsLTcyMTA1MTg5OSwtMTgzNTU4NzM3MywxODk4Nzc4
 OTA4LC00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQyNDksLT
