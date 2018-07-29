@@ -161,9 +161,9 @@ In der Konsole (Mitte, unten) sehen Sie nach ein paar Sekunden (wenn die Transak
 
  <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-12/iterablog/images/etherscan-link.png" alt="Transaction Link"/>
 
-Der Link führt zu Etherscan. 
+Der Link führt zu [*Etherscan*](https://rinkeby.etherscan.io/). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA4ODA5Mzc4MCwtMTA4NDEzMjE4OSwtND
-c5NzkyMTIwLDk3MTU3MTYxMSwtMjkyMDU0MjQ5LC04ODU5MTQ2
-NzNdfQ==
+eyJoaXN0b3J5IjpbLTQ4MDU4OTM1MiwyMDg4MDkzNzgwLC0xMD
+g0MTMyMTg5LC00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQy
+NDksLTg4NTkxNDY3M119
 -->
