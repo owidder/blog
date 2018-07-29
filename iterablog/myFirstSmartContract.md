@@ -89,13 +89,15 @@ Wir gehen zur offiziellen [Faucet von Rinkeby](https://faucet.rinkeby.io/):
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-01/iterablog/images/faucet.png" alt="Rinkeby Faucet"/>
 
-Dort bekommen wir Ether geschenkt. Dafür müssen wir 
+Dort bekommen wir Ether geschenkt. Dafür müssen wir unseren Account auf Twitter, Google+ oder Facebook posten und die URL des Posts in das Eingefeld kopieren. 
+
+Dann können wir uns e
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxODc4NDQzOSwxODEzMjI0ODI5LC04ND
-M0ODYxMTksLTE1OTA5MjU5NSwtMTA0OTA0Mjc1OCwtMTE0MTg2
-MDQzOCwzMzE3MDgzMTIsMTQxMTM0MzU0MSwtMTU4MzQ2ODc4NS
-wtNjY1MjM3MzgxLC00MDYyMjIxOTYsMjQzNjM3NjU5LDIwNTIx
-NDk4NjcsMTI5MjY0NTc5LDU2MDQ4MzAxNiwtMTAyNjI5ODI5MC
-wxODc5NDc0MzE4LC04MjgyNDIzNjksNTYwODE4NTk1LDE5Njg0
-MDkzNzhdfQ==
+eyJoaXN0b3J5IjpbLTIxMzU3MjI0NTQsMTgxMzIyNDgyOSwtOD
+QzNDg2MTE5LC0xNTkwOTI1OTUsLTEwNDkwNDI3NTgsLTExNDE4
+NjA0MzgsMzMxNzA4MzEyLDE0MTEzNDM1NDEsLTE1ODM0Njg3OD
+UsLTY2NTIzNzM4MSwtNDA2MjIyMTk2LDI0MzYzNzY1OSwyMDUy
+MTQ5ODY3LDEyOTI2NDU3OSw1NjA0ODMwMTYsLTEwMjYyOTgyOT
+AsMTg3OTQ3NDMxOCwtODI4MjQyMzY5LDU2MDgxODU5NSwxOTY4
+NDA5Mzc4XX0=
 -->
