@@ -97,10 +97,12 @@ Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopiere
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-02/iterablog/images/copy-address.png" alt="Rinkeby Faucet" width="300px"/>
 
-(Übrigens: Den Namen ihres Account können Sie auch ändern. Nur falls Account 1 
+(Übrigens: Den Namen ihres Account können Sie auch ändern. Klicken Sie dafür einfach auf *edit* direkt über dem Namen)
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTE2NzgzMDcsLTM3NTM0MDA0MCwxNT
-AyNjkxMzE2LC03NTY5OTI4MzEsLTY5NTY3OTk3NiwxNjQwNTM4
+eyJoaXN0b3J5IjpbMTk2NjE2MDk5MSwtMTk5MTY3ODMwNywtMz
+c1MzQwMDQwLC03NTY5OTI4MzEsLTY5NTY3OTk3NiwxNjQwNTM4
 NjcsMTgxMzIyNDgyOSwtODQzNDg2MTE5LC0xNTkwOTI1OTUsLT
 EwNDkwNDI3NTgsLTExNDE4NjA0MzgsMzMxNzA4MzEyLDE0MTEz
 NDM1NDEsLTE1ODM0Njg3ODUsLTY2NTIzNzM4MSwtNDA2MjIyMT
