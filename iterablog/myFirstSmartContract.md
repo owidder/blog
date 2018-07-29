@@ -176,9 +176,9 @@ Er führt uns zu der [Etherscan-Seite des Contracts](https://rinkeby.etherscan.i
 Nun sollen ja andere unseren Contract aufrufen. Aber woher sollen sie wissen, was der Contract. Wir können ja viel erzählen.
 
 ## Show me the code
-
+Dafür kann man in Etherscan den Code zu einem Contract hin
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NTAwMTk3NSwtMTc3MjEwMDI0NCwtMj
+eyJoaXN0b3J5IjpbMTQzODMyNTk4MCwtMTc3MjEwMDI0NCwtMj
 AzNzA0MTI2MywxMzY0MTI1MSwtMjExNjE1ODE2NSw4NzAxODA2
 MDAsLTcyMTA1MTg5OSwtMTgzNTU4NzM3MywxODk4Nzc4OTA4LC
 00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQyNDksLTg4NTkx
