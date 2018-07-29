@@ -128,12 +128,13 @@ Jetzt öffnet sich ein neuer Tab, in den wir den Code des Contracts kopieren kö
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-06/iterablog/images/new-tab.png" alt="Neuer Tab"/>
 
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5OTAzNjQ2Myw1Njc5NDA2MjIsLTE4OT
-YwNDk2MTQsLTE2MDUwMzg3MDAsMTI3MDQ5NTY0OSwzNzcwMDQ2
-NiwyNzc0MTU2MzYsLTE5NjUyMjM1NDUsMjAxNzcyMjIxNywxND
-U2OTczNzMsLTg2ODI2NjgxMiwtMTgxMzM2Nzk4LDEzMzA4MzUw
-MywtMTgxOTA5NjkwMSwxMTY2MzEzMDMxLDE4MDExMjQxNDQsLT
-ExOTE2OTY1NjMsMzQ5NzQ5ODMsLTYzNDgzMTM1OCwzNDg3MTE3
-NjBdfQ==
+eyJoaXN0b3J5IjpbLTI2MTg5NDIwOSwtMTk5MDM2NDYzLDU2Nz
+k0MDYyMiwtMTg5NjA0OTYxNCwtMTYwNTAzODcwMCwxMjcwNDk1
+NjQ5LDM3NzAwNDY2LDI3NzQxNTYzNiwtMTk2NTIyMzU0NSwyMD
+E3NzIyMjE3LDE0NTY5NzM3MywtODY4MjY2ODEyLC0xODEzMzY3
+OTgsMTMzMDgzNTAzLC0xODE5MDk2OTAxLDExNjYzMTMwMzEsMT
+gwMTEyNDE0NCwtMTE5MTY5NjU2MywzNDk3NDk4MywtNjM0ODMx
+MzU4XX0=
 -->
