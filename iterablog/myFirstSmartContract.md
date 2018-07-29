@@ -163,16 +163,18 @@ In der Konsole (Mitte, unten) sehen Sie nach ein paar Sekunden (wenn die Transak
 
 Der Link führt zu [*Etherscan*](https://rinkeby.etherscan.io/), eine Art Ethereum-Browser für Transaktionen, Contracts, etc. (Main-Net und Test-Networks). Dort sehen wir die Transaktion unseres Deployments.
 
- <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-12/iterablog/images/etherscan-transaction.png" alt="Transaction Link"/>
+ <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-12/iterablog/images/etherscan-transaction.png" alt="Transaction"/>
 
 Dort finden wir auch den Link zu unserem Contract:
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/contract-link.png" alt="Transaction Link"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/contract-link.png" alt="Contract Link"/>
+
+Er führt uns zu der Etherscan-Seite des Contracts.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNjkxNzQ3NzksODcwMTgwNjAwLC03Mj
-EwNTE4OTksLTE4MzU1ODczNzMsMTg5ODc3ODkwOCwtNDc5Nzky
-MTIwLDk3MTU3MTYxMSwtMjkyMDU0MjQ5LC04ODU5MTQ2NzNdfQ
-==
+eyJoaXN0b3J5IjpbLTc0ODc5ODQ3LDg3MDE4MDYwMCwtNzIxMD
+UxODk5LC0xODM1NTg3MzczLDE4OTg3Nzg5MDgsLTQ3OTc5MjEy
+MCw5NzE1NzE2MTEsLTI5MjA1NDI0OSwtODg1OTE0NjczXX0=
 -->
