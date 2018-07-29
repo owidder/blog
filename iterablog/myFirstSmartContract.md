@@ -32,7 +32,7 @@ Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns
 Das ist alles. Mehr brauchen wir nicht.
 
 Jetzt noch ein Name für unseren Contract: [Weisenheimer](https://www.urbandictionary.com/define.php?term=weisenheimer)
-und hier ist er auch schon
+und hier ist er auch schon:
 
 
 
@@ -71,11 +71,11 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODM0Njg3ODUsLTY2NTIzNzM4MSwtND
-A2MjIyMTk2LDI0MzYzNzY1OSwyMDUyMTQ5ODY3LDEyOTI2NDU3
-OSw1NjA0ODMwMTYsLTEwMjYyOTgyOTAsMTg3OTQ3NDMxOCwtOD
-I4MjQyMzY5LDU2MDgxODU5NSwxOTY4NDA5Mzc4LDE5NzUwNTk2
-NTAsMTA2MTczNjk0MSwtOTQ0MjE0ODg0LDc2MjcxMDMxOCwxMD
-QzNTIyNzAyLC0xNjUyMjk1NTIzLC0yMDMzMjY4MTg3LDg2OTE3
-MzQxMl19
+eyJoaXN0b3J5IjpbMTQxMTM0MzU0MSwtMTU4MzQ2ODc4NSwtNj
+Y1MjM3MzgxLC00MDYyMjIxOTYsMjQzNjM3NjU5LDIwNTIxNDk4
+NjcsMTI5MjY0NTc5LDU2MDQ4MzAxNiwtMTAyNjI5ODI5MCwxOD
+c5NDc0MzE4LC04MjgyNDIzNjksNTYwODE4NTk1LDE5Njg0MDkz
+NzgsMTk3NTA1OTY1MCwxMDYxNzM2OTQxLC05NDQyMTQ4ODQsNz
+YyNzEwMzE4LDEwNDM1MjI3MDIsLTE2NTIyOTU1MjMsLTIwMzMy
+NjgxODddfQ==
 -->
