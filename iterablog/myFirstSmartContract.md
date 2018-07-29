@@ -142,14 +142,14 @@ Das bedeutet, dass ein Objekt namens *Web3*, das von aussen in die Web-Seite inj
 
 Damit können wir die Transaktion zum Deployment des Contracts über *Metamask* ausführen.
 
-
+Wenn Sie bei angemeldet sind (ansonsten sollten Sie das jetzt tun), sollten Sie nu
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMTAwNzcyNjQsLTcyNzI2MTcxMCwtOT
-UzMTE4Nzg3LC0xNjcyNDI3ODE1LDY1NjAxMDA1NywtMTk3MzM3
-MjQ4OSwtMTUwNDk1MzQ3OCwtMTMzOTU5NDQ3NywtMTk5MDM2ND
-YzLDU2Nzk0MDYyMiwtMTg5NjA0OTYxNCwtMTYwNTAzODcwMCwx
-MjcwNDk1NjQ5LDM3NzAwNDY2LDI3NzQxNTYzNiwtMTk2NTIyMz
-U0NSwyMDE3NzIyMjE3LDE0NTY5NzM3MywtODY4MjY2ODEyLC0x
-ODEzMzY3OThdfQ==
+eyJoaXN0b3J5IjpbLTM1NDg3MzIsLTEyMTAwNzcyNjQsLTcyNz
+I2MTcxMCwtOTUzMTE4Nzg3LC0xNjcyNDI3ODE1LDY1NjAxMDA1
+NywtMTk3MzM3MjQ4OSwtMTUwNDk1MzQ3OCwtMTMzOTU5NDQ3Ny
+wtMTk5MDM2NDYzLDU2Nzk0MDYyMiwtMTg5NjA0OTYxNCwtMTYw
+NTAzODcwMCwxMjcwNDk1NjQ5LDM3NzAwNDY2LDI3NzQxNTYzNi
+wtMTk2NTIyMzU0NSwyMDE3NzIyMjE3LDE0NTY5NzM3MywtODY4
+MjY2ODEyXX0=
 -->
