@@ -182,12 +182,12 @@ Im Tab *Code* gibt es den Link *Verify And Publish*.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-n-publish.png" alt="Verify And Publish"/>
 
-Dort müssen noch ein p
+Dort müssen wir 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk0NjQxMzMsOTA1Njg4NTE4LDE2ND
-c0NTI2NjgsMTE0NDU0Nzk2NiwtMTc3MjEwMDI0NCwtMjAzNzA0
-MTI2MywxMzY0MTI1MSwtMjExNjE1ODE2NSw4NzAxODA2MDAsLT
-cyMTA1MTg5OSwtMTgzNTU4NzM3MywxODk4Nzc4OTA4LC00Nzk3
-OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQyNDksLTg4NTkxNDY3M1
-19
+eyJoaXN0b3J5IjpbMTY4Mjg0MTExNSwtMTQxOTQ2NDEzMyw5MD
+U2ODg1MTgsMTY0NzQ1MjY2OCwxMTQ0NTQ3OTY2LC0xNzcyMTAw
+MjQ0LC0yMDM3MDQxMjYzLDEzNjQxMjUxLC0yMTE2MTU4MTY1LD
+g3MDE4MDYwMCwtNzIxMDUxODk5LC0xODM1NTg3MzczLDE4OTg3
+Nzg5MDgsLTQ3OTc5MjEyMCw5NzE1NzE2MTEsLTI5MjA1NDI0OS
+wtODg1OTE0NjczXX0=
 -->
