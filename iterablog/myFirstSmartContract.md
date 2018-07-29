@@ -138,14 +138,14 @@ Im Run-Tab daneben, wählen wir nun *Injected Web3* als *Environment* aus.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-08/iterablog/images/environment.png" alt="Environment"/>
 
-Das Browser-Plug-in Metamask 
+Das bedeutet, dass ein Objekt namens Web3, das 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTgxMTI0MDksLTE2NzI0Mjc4MTUsNj
-U2MDEwMDU3LC0xOTczMzcyNDg5LC0xNTA0OTUzNDc4LC0xMzM5
-NTk0NDc3LC0xOTkwMzY0NjMsNTY3OTQwNjIyLC0xODk2MDQ5Nj
-E0LC0xNjA1MDM4NzAwLDEyNzA0OTU2NDksMzc3MDA0NjYsMjc3
-NDE1NjM2LC0xOTY1MjIzNTQ1LDIwMTc3MjIyMTcsMTQ1Njk3Mz
-czLC04NjgyNjY4MTIsLTE4MTMzNjc5OCwxMzMwODM1MDMsLTE4
-MTkwOTY5MDFdfQ==
+eyJoaXN0b3J5IjpbMTI0MjY3OTQ4NiwtMTY3MjQyNzgxNSw2NT
+YwMTAwNTcsLTE5NzMzNzI0ODksLTE1MDQ5NTM0NzgsLTEzMzk1
+OTQ0NzcsLTE5OTAzNjQ2Myw1Njc5NDA2MjIsLTE4OTYwNDk2MT
+QsLTE2MDUwMzg3MDAsMTI3MDQ5NTY0OSwzNzcwMDQ2NiwyNzc0
+MTU2MzYsLTE5NjUyMjM1NDUsMjAxNzcyMjIxNywxNDU2OTczNz
+MsLTg2ODI2NjgxMiwtMTgxMzM2Nzk4LDEzMzA4MzUwMywtMTgx
+OTA5NjkwMV19
 -->
