@@ -28,7 +28,7 @@ Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
 Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns auf eine einzige Funktion:
 
  - `logHashValue(string hashValue)` :  Veröffentlicht in der Blockchain einen Hashwert.
-Ist das alles? Ja, es ist. 
+Ist das alles? Ja, es ist. Wir werden sehen, dass wir dadurch alle Daten in der Blockchain haben um unseren Schlaumeier-Anwendungs
 
 Jetzt noch ein Name für unseren Contract: [Weisenheimer](https://www.urbandictionary.com/define.php?term=weisenheimer)
 und hier ist er auch schon
@@ -70,11 +70,11 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM5MzgxNjE4NywtNjY1MjM3MzgxLC00MD
-YyMjIxOTYsMjQzNjM3NjU5LDIwNTIxNDk4NjcsMTI5MjY0NTc5
-LDU2MDQ4MzAxNiwtMTAyNjI5ODI5MCwxODc5NDc0MzE4LC04Mj
-gyNDIzNjksNTYwODE4NTk1LDE5Njg0MDkzNzgsMTk3NTA1OTY1
-MCwxMDYxNzM2OTQxLC05NDQyMTQ4ODQsNzYyNzEwMzE4LDEwND
-M1MjI3MDIsLTE2NTIyOTU1MjMsLTIwMzMyNjgxODcsODY5MTcz
-NDEyXX0=
+eyJoaXN0b3J5IjpbNDk2MzA1OTc0LC02NjUyMzczODEsLTQwNj
+IyMjE5NiwyNDM2Mzc2NTksMjA1MjE0OTg2NywxMjkyNjQ1Nzks
+NTYwNDgzMDE2LC0xMDI2Mjk4MjkwLDE4Nzk0NzQzMTgsLTgyOD
+I0MjM2OSw1NjA4MTg1OTUsMTk2ODQwOTM3OCwxOTc1MDU5NjUw
+LDEwNjE3MzY5NDEsLTk0NDIxNDg4NCw3NjI3MTAzMTgsMTA0Mz
+UyMjcwMiwtMTY1MjI5NTUyMywtMjAzMzI2ODE4Nyw4NjkxNzM0
+MTJdfQ==
 -->
