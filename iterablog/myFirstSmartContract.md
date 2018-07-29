@@ -173,10 +173,11 @@ Er führt uns zu der [Etherscan-Seite des Contracts](https://rinkeby.etherscan.i
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/etherscan-contract.png" alt="Contract Site"/>
 
-Wenn n
+Wenn w
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYwOTQ2MjgyNywtMjAzNzA0MTI2MywxMz
-Y0MTI1MSwtMjExNjE1ODE2NSw4NzAxODA2MDAsLTcyMTA1MTg5
-OSwtMTgzNTU4NzM3MywxODk4Nzc4OTA4LC00Nzk3OTIxMjAsOT
-cxNTcxNjExLC0yOTIwNTQyNDksLTg4NTkxNDY3M119
+eyJoaXN0b3J5IjpbLTE3NzIxMDAyNDQsLTYwOTQ2MjgyNywtMj
+AzNzA0MTI2MywxMzY0MTI1MSwtMjExNjE1ODE2NSw4NzAxODA2
+MDAsLTcyMTA1MTg5OSwtMTgzNTU4NzM3MywxODk4Nzc4OTA4LC
+00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQyNDksLTg4NTkx
+NDY3M119
 -->
