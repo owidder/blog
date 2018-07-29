@@ -99,13 +99,13 @@ Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopiere
 
 (Übrigens: Den Namen ihres Account können Sie auch ändern. Klicken Sie dafür einfach auf *edit* direkt über dem Namen)
 
-Jetzt müssen Sie sich entscheiden, auf welchem Social Network Sie die Adresse posten wollen. Sie können dafür auch einen eigen Account anlegen. Nicht dass Sie 
+Jetzt müssen Sie sich entscheiden, auf welchem Social Network Sie die Adresse posten wollen. Sie können dafür auch einen eigen Account anlegen. Nicht dass Sie reihenweise Follower verlieren.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMDkyMzg4NSwyOTgzNzYwMDIsLTE5OT
-E2NzgzMDcsLTM3NTM0MDA0MCwtNzU2OTkyODMxLC02OTU2Nzk5
-NzYsMTY0MDUzODY3LDE4MTMyMjQ4MjksLTg0MzQ4NjExOSwtMT
-U5MDkyNTk1LC0xMDQ5MDQyNzU4LC0xMTQxODYwNDM4LDMzMTcw
-ODMxMiwxNDExMzQzNTQxLC0xNTgzNDY4Nzg1LC02NjUyMzczOD
-EsLTQwNjIyMjE5NiwyNDM2Mzc2NTksMjA1MjE0OTg2NywxMjky
-NjQ1NzldfQ==
+eyJoaXN0b3J5IjpbLTEzNjEwNzg1OTcsMTgzMDkyMzg4NSwtMT
+k5MTY3ODMwNywtMzc1MzQwMDQwLC03NTY5OTI4MzEsLTY5NTY3
+OTk3NiwxNjQwNTM4NjcsMTgxMzIyNDgyOSwtODQzNDg2MTE5LC
+0xNTkwOTI1OTUsLTEwNDkwNDI3NTgsLTExNDE4NjA0MzgsMzMx
+NzA4MzEyLDE0MTEzNDM1NDEsLTE1ODM0Njg3ODUsLTY2NTIzNz
+M4MSwtNDA2MjIyMTk2LDI0MzYzNzY1OSwyMDUyMTQ5ODY3LDEy
+OTI2NDU3OV19
 -->
