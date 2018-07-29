@@ -46,7 +46,7 @@ und hier ist er auch schon:
 
 Zugegeben. So richtig smart sieht der nicht aus. Er erfüllt aber seinen Zweck:
 
-Die Function logHashValue erzeugt einen Logeintrag mit den Hashwert, der Adresse des Accounts, von dem die Function aufgerufen wur
+Die Funktion logHashValue erzeugt einen Logeintrag mit den Hashwert, der Adresse des Accounts, von dem die Function aufgerufen wur
 
 ## Wallets
 Um unseren Smart Contract in der Ethereum Blockchain zu deployen, brauchen wir einen Account und *Ether*, die Währung bei Ethereum. 
@@ -83,11 +83,11 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5ODc1Njc4LC02NDE1NTUyNzksMzMxNz
-A4MzEyLDE0MTEzNDM1NDEsLTE1ODM0Njg3ODUsLTY2NTIzNzM4
-MSwtNDA2MjIyMTk2LDI0MzYzNzY1OSwyMDUyMTQ5ODY3LDEyOT
-I2NDU3OSw1NjA0ODMwMTYsLTEwMjYyOTgyOTAsMTg3OTQ3NDMx
-OCwtODI4MjQyMzY5LDU2MDgxODU5NSwxOTY4NDA5Mzc4LDE5Nz
-UwNTk2NTAsMTA2MTczNjk0MSwtOTQ0MjE0ODg0LDc2MjcxMDMx
-OF19
+eyJoaXN0b3J5IjpbLTExNDE4NjA0MzgsLTc5ODc1Njc4LDMzMT
+cwODMxMiwxNDExMzQzNTQxLC0xNTgzNDY4Nzg1LC02NjUyMzcz
+ODEsLTQwNjIyMjE5NiwyNDM2Mzc2NTksMjA1MjE0OTg2NywxMj
+kyNjQ1NzksNTYwNDgzMDE2LC0xMDI2Mjk4MjkwLDE4Nzk0NzQz
+MTgsLTgyODI0MjM2OSw1NjA4MTg1OTUsMTk2ODQwOTM3OCwxOT
+c1MDU5NjUwLDEwNjE3MzY5NDEsLTk0NDIxNDg4NCw3NjI3MTAz
+MThdfQ==
 -->
