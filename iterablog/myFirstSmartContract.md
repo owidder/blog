@@ -28,13 +28,7 @@ Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
 Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns auf eine einzige Funktion:
 
  - `logHashValue(string hashValue)` :  Veröffentlicht in der Blockchain einen Hashwert.
-
-Ist das alles? 
-Ja, es ist. Denn alle Informationen, wie 
-- welcher Account hat den Hashwert veröffentlicht?
-- wann wurde der Hashwert veröffentlicht?
-
-bekommen wir als Metadaten automatisch mitgeliefert. 
+Ist das alles? Ja, es ist. 
 
 Jetzt noch ein Name für unseren Contract: [Weisenheimer](https://www.urbandictionary.com/define.php?term=weisenheimer)
 und hier ist er auch schon
@@ -76,11 +70,11 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY2NTIzNzM4MSwtNDA2MjIyMTk2LDI0Mz
-YzNzY1OSwyMDUyMTQ5ODY3LDEyOTI2NDU3OSw1NjA0ODMwMTYs
-LTEwMjYyOTgyOTAsMTg3OTQ3NDMxOCwtODI4MjQyMzY5LDU2MD
-gxODU5NSwxOTY4NDA5Mzc4LDE5NzUwNTk2NTAsMTA2MTczNjk0
-MSwtOTQ0MjE0ODg0LDc2MjcxMDMxOCwxMDQzNTIyNzAyLC0xNj
-UyMjk1NTIzLC0yMDMzMjY4MTg3LDg2OTE3MzQxMiwxNTA5OTE3
-NzE2XX0=
+eyJoaXN0b3J5IjpbMTM5MzgxNjE4NywtNjY1MjM3MzgxLC00MD
+YyMjIxOTYsMjQzNjM3NjU5LDIwNTIxNDk4NjcsMTI5MjY0NTc5
+LDU2MDQ4MzAxNiwtMTAyNjI5ODI5MCwxODc5NDc0MzE4LC04Mj
+gyNDIzNjksNTYwODE4NTk1LDE5Njg0MDkzNzgsMTk3NTA1OTY1
+MCwxMDYxNzM2OTQxLC05NDQyMTQ4ODQsNzYyNzEwMzE4LDEwND
+M1MjI3MDIsLTE2NTIyOTU1MjMsLTIwMzMyNjgxODcsODY5MTcz
+NDEyXX0=
 -->
