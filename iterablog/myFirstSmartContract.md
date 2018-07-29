@@ -105,13 +105,13 @@ Ich nehme dafür in der Regel meinen Google+-Account. Den nutze ich sonst kaum. 
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-03/iterablog/images/googleplus.png" alt="Rinkeby Faucet"/>
 
-Jetzt den Link des Posts in das Eingabefeld des Faucets 
+Jetzt den Link des Posts in das Eingabefeld des Faucets kopie
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDAwNjY2MTksLTYzNDgzMTM1OCwzND
-g3MTE3NjAsLTEzNjEwNzg1OTcsMTgzMDkyMzg4NSwtMTk5MTY3
-ODMwNywtMzc1MzQwMDQwLC03NTY5OTI4MzEsLTY5NTY3OTk3Ni
-wxNjQwNTM4NjcsMTgxMzIyNDgyOSwtODQzNDg2MTE5LC0xNTkw
-OTI1OTUsLTEwNDkwNDI3NTgsLTExNDE4NjA0MzgsMzMxNzA4Mz
-EyLDE0MTEzNDM1NDEsLTE1ODM0Njg3ODUsLTY2NTIzNzM4MSwt
-NDA2MjIyMTk2XX0=
+eyJoaXN0b3J5IjpbMzQ5NzQ5ODMsLTExNDAwNjY2MTksLTYzND
+gzMTM1OCwzNDg3MTE3NjAsLTEzNjEwNzg1OTcsMTgzMDkyMzg4
+NSwtMTk5MTY3ODMwNywtMzc1MzQwMDQwLC03NTY5OTI4MzEsLT
+Y5NTY3OTk3NiwxNjQwNTM4NjcsMTgxMzIyNDgyOSwtODQzNDg2
+MTE5LC0xNTkwOTI1OTUsLTEwNDkwNDI3NTgsLTExNDE4NjA0Mz
+gsMzMxNzA4MzEyLDE0MTEzNDM1NDEsLTE1ODM0Njg3ODUsLTY2
+NTIzNzM4MV19
 -->
