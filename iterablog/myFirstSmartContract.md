@@ -82,13 +82,14 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-04/iterablog/images/0-eth.png" alt="Rinkeby auswählen" width="300px"/>
 
-Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
+Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein klein wenig müssen wir schon tun.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTExMTgyMDc1NywtMTE0MTg2MDQzOCwzMz
-E3MDgzMTIsMTQxMTM0MzU0MSwtMTU4MzQ2ODc4NSwtNjY1MjM3
-MzgxLC00MDYyMjIxOTYsMjQzNjM3NjU5LDIwNTIxNDk4NjcsMT
-I5MjY0NTc5LDU2MDQ4MzAxNiwtMTAyNjI5ODI5MCwxODc5NDc0
-MzE4LC04MjgyNDIzNjksNTYwODE4NTk1LDE5Njg0MDkzNzgsMT
-k3NTA1OTY1MCwxMDYxNzM2OTQxLC05NDQyMTQ4ODQsNzYyNzEw
-MzE4XX0=
+eyJoaXN0b3J5IjpbLTEwNDkwNDI3NTgsLTExNDE4NjA0MzgsMz
+MxNzA4MzEyLDE0MTEzNDM1NDEsLTE1ODM0Njg3ODUsLTY2NTIz
+NzM4MSwtNDA2MjIyMTk2LDI0MzYzNzY1OSwyMDUyMTQ5ODY3LD
+EyOTI2NDU3OSw1NjA0ODMwMTYsLTEwMjYyOTgyOTAsMTg3OTQ3
+NDMxOCwtODI4MjQyMzY5LDU2MDgxODU5NSwxOTY4NDA5Mzc4LD
+E5NzUwNTk2NTAsMTA2MTczNjk0MSwtOTQ0MjE0ODg0LDc2Mjcx
+MDMxOF19
 -->
