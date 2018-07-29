@@ -109,8 +109,11 @@ Jetzt den Link des Posts in das Eingabefeld des Faucets kopieren. Heute lassen w
 
  <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-03/iterablog/images/faucet2.png" alt="Rinkeby Faucet"/>
 
+Und siehe da. Wir sind reich.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyNDQ2ODkzMSwtMTE5MTY5NjU2MywzND
+eyJoaXN0b3J5IjpbMTgwMTEyNDE0NCwtMTE5MTY5NjU2MywzND
 k3NDk4MywtNjM0ODMxMzU4LDM0ODcxMTc2MCwtMTM2MTA3ODU5
 NywxODMwOTIzODg1LC0xOTkxNjc4MzA3LC0zNzUzNDAwNDAsLT
 c1Njk5MjgzMSwtNjk1Njc5OTc2LDE2NDA1Mzg2NywxODEzMjI0
