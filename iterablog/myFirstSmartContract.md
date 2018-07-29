@@ -46,7 +46,7 @@ und hier [ist er auch schon](https://github.com/owidder/iteraBlog/blob/master/we
 
 Zugegeben. So richtig smart sieht der nicht aus. Er erfüllt aber seinen Zweck:
 
-Die Programmiersprache nennt sich [*Solidity*](https://github.com/ethereum/solidity) und ist speziell f
+Die Programmiersprache nennt sich [*Solidity*](https://github.com/ethereum/solidity) und ist speziell Sm
 Die Funktion *logHashValue* erzeugt einen Logeintrag mit den Hashwert, der Adresse des Accounts, von dem die Funktion aufgerufen wurde und der Zeitstempel des Blogs, in die Transaktion des Aufrufes ein für alle Mal in der Blockchain festgehalten wird.
 
 ## Wallets
@@ -114,11 +114,11 @@ Und siehe da. Wir sind reich.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-04/iterablog/images/1875.png" alt="Wir sind reich"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxNzc3NTkyMSwxMDM3NDA2MTA5LDExNj
-YzMTMwMzEsMTgwMTEyNDE0NCwtMTE5MTY5NjU2MywzNDk3NDk4
-MywtNjM0ODMxMzU4LDM0ODcxMTc2MCwtMTM2MTA3ODU5NywxOD
-MwOTIzODg1LC0xOTkxNjc4MzA3LC0zNzUzNDAwNDAsLTc1Njk5
-MjgzMSwtNjk1Njc5OTc2LDE2NDA1Mzg2NywxODEzMjI0ODI5LC
-04NDM0ODYxMTksLTE1OTA5MjU5NSwtMTA0OTA0Mjc1OCwtMTE0
-MTg2MDQzOF19
+eyJoaXN0b3J5IjpbLTE4ODg5ODUyNzEsLTYxNzc3NTkyMSwxMD
+M3NDA2MTA5LDExNjYzMTMwMzEsMTgwMTEyNDE0NCwtMTE5MTY5
+NjU2MywzNDk3NDk4MywtNjM0ODMxMzU4LDM0ODcxMTc2MCwtMT
+M2MTA3ODU5NywxODMwOTIzODg1LC0xOTkxNjc4MzA3LC0zNzUz
+NDAwNDAsLTc1Njk5MjgzMSwtNjk1Njc5OTc2LDE2NDA1Mzg2Ny
+wxODEzMjI0ODI5LC04NDM0ODYxMTksLTE1OTA5MjU5NSwtMTA0
+OTA0Mjc1OF19
 -->
