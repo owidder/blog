@@ -80,7 +80,7 @@ Metamask hat uns auch schon freundlicherweise einen Account angelegt. Solange wi
 ## Wenn ich einmal reich wär
 Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-04/iterablog/images/0-eth.png" alt="Rinkeby auswählen" width="300px"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-04/iterablog/images/0-eth.png" alt="Rinkeby auswählen"/>
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein klein wenig müssen wir schon tun.
 
@@ -95,7 +95,7 @@ Dann können wir uns entscheiden, wieviel Ether wir wollen. Je nachdem können w
 
 Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopieren (3 Punkte neben dem Account-Namen *Account 1*):
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-02/iterablog/images/copy-address.png" alt="Rinkeby Faucet" width="300px"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-02/iterablog/images/copy-address.png" alt="Rinkeby Faucet"/>
 
 (Übrigens: Den Namen ihres Account können Sie auch ändern. Klicken Sie dafür einfach auf *edit* direkt über dem Namen)
 
@@ -111,13 +111,13 @@ Jetzt den Link des Posts in das Eingabefeld des Faucets kopieren. Heute lassen w
 
 Und siehe da. Wir sind reich.
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-04/iterablog/images/1.png" alt="Rinkeby Faucet"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-04/iterablog/images/1875.png" alt="Wir sind reich"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjMxMzAzMSwxMTU2NDcxODg4LDE4MD
-ExMjQxNDQsLTExOTE2OTY1NjMsMzQ5NzQ5ODMsLTYzNDgzMTM1
-OCwzNDg3MTE3NjAsLTEzNjEwNzg1OTcsMTgzMDkyMzg4NSwtMT
-k5MTY3ODMwNywtMzc1MzQwMDQwLC03NTY5OTI4MzEsLTY5NTY3
-OTk3NiwxNjQwNTM4NjcsMTgxMzIyNDgyOSwtODQzNDg2MTE5LC
-0xNTkwOTI1OTUsLTEwNDkwNDI3NTgsLTExNDE4NjA0MzgsMzMx
-NzA4MzEyXX0=
+eyJoaXN0b3J5IjpbODc0ODY3MjU2LDExNjYzMTMwMzEsMTgwMT
+EyNDE0NCwtMTE5MTY5NjU2MywzNDk3NDk4MywtNjM0ODMxMzU4
+LDM0ODcxMTc2MCwtMTM2MTA3ODU5NywxODMwOTIzODg1LC0xOT
+kxNjc4MzA3LC0zNzUzNDAwNDAsLTc1Njk5MjgzMSwtNjk1Njc5
+OTc2LDE2NDA1Mzg2NywxODEzMjI0ODI5LC04NDM0ODYxMTksLT
+E1OTA5MjU5NSwtMTA0OTA0Mjc1OCwtMTE0MTg2MDQzOCwzMzE3
+MDgzMTJdfQ==
 -->
