@@ -67,7 +67,8 @@ Danach sehen Sie 12 Worte, die sogenannten *Mnenomics*. Das ist der Schlüssel z
 
 ## And there is a free lunch!!!
 Als nächstes müssen wir uns entscheiden, auf welchem Ethereum Network wir unseren Contract deployen wollen. 
-Da gibt es einmal das *Main Net*. Da spielen die Big Girls'n'Boys. Da kosten Ether echtes Geld, und zwar gar nicht mal so wenig. Das wollen wir nicht.
+Da gibt es einmal das *Main Net*. Da spielen die Big Girls'n'Boys. Da kosten Ether echtes Geld, [und zwar gar nicht mal so wenig](https://coinmarketcap.com/currencies/ethereum/). Das wollen wir nicht.
+
 Zum Glück gibt es noch einige Test-Networks. Da gibt es Ether für lau (free lunch). Das wollen wir!
 Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.rinkeby.io).
 Dazu wählen wir in Metamask das Rinkeby-Network aus:
@@ -83,7 +84,7 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein wenig müssen wir schon tun.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwOTY0ODYwMCwtMTE0MTg2MDQzOCwzMz
+eyJoaXN0b3J5IjpbMTExMTgyMDc1NywtMTE0MTg2MDQzOCwzMz
 E3MDgzMTIsMTQxMTM0MzU0MSwtMTU4MzQ2ODc4NSwtNjY1MjM3
 MzgxLC00MDYyMjIxOTYsMjQzNjM3NjU5LDIwNTIxNDk4NjcsMT
 I5MjY0NTc5LDU2MDQ4MzAxNiwtMTAyNjI5ODI5MCwxODc5NDc0
