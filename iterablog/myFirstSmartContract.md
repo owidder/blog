@@ -97,13 +97,13 @@ Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopiere
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-02/iterablog/images/copy-address.png" alt="Rinkeby Faucet" width="300px"/>
 
-(Übrigens: Den Namen ihres Account können Sie auch ändern. Nur falls Accoun
+(Übrigens: Den Namen ihres Account können Sie auch ändern. Nur falls Account 1 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTM0MDA0MCwxNTAyNjkxMzE2LC03NT
-Y5OTI4MzEsLTY5NTY3OTk3NiwxNjQwNTM4NjcsMTgxMzIyNDgy
-OSwtODQzNDg2MTE5LC0xNTkwOTI1OTUsLTEwNDkwNDI3NTgsLT
-ExNDE4NjA0MzgsMzMxNzA4MzEyLDE0MTEzNDM1NDEsLTE1ODM0
-Njg3ODUsLTY2NTIzNzM4MSwtNDA2MjIyMTk2LDI0MzYzNzY1OS
-wyMDUyMTQ5ODY3LDEyOTI2NDU3OSw1NjA0ODMwMTYsLTEwMjYy
-OTgyOTBdfQ==
+eyJoaXN0b3J5IjpbLTE5OTE2NzgzMDcsLTM3NTM0MDA0MCwxNT
+AyNjkxMzE2LC03NTY5OTI4MzEsLTY5NTY3OTk3NiwxNjQwNTM4
+NjcsMTgxMzIyNDgyOSwtODQzNDg2MTE5LC0xNTkwOTI1OTUsLT
+EwNDkwNDI3NTgsLTExNDE4NjA0MzgsMzMxNzA4MzEyLDE0MTEz
+NDM1NDEsLTE1ODM0Njg3ODUsLTY2NTIzNzM4MSwtNDA2MjIyMT
+k2LDI0MzYzNzY1OSwyMDUyMTQ5ODY3LDEyOTI2NDU3OSw1NjA0
+ODMwMTZdfQ==
 -->
