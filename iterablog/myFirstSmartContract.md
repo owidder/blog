@@ -93,9 +93,12 @@ Dort bekommen wir Ether geschenkt. Dafür müssen wir die Adresse unseres Accoun
 
 Dann können wir uns entscheiden, wieviel Ether wir wollen. Je nachdem können wir dann auch erst in 8 Stunden, einem oder drei Tagen wieder im Ether betteln.
 
-Unseren 
+Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopieren:
+
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-02/iterablog/images/faucet.png" alt="Rinkeby Faucet"/>
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzMzMzAxMDMsLTc1Njk5MjgzMSwtNj
+eyJoaXN0b3J5IjpbLTIwMjU3NTQxNzcsLTc1Njk5MjgzMSwtNj
 k1Njc5OTc2LDE2NDA1Mzg2NywxODEzMjI0ODI5LC04NDM0ODYx
 MTksLTE1OTA5MjU5NSwtMTA0OTA0Mjc1OCwtMTE0MTg2MDQzOC
 wzMzE3MDgzMTIsMTQxMTM0MzU0MSwtMTU4MzQ2ODc4NSwtNjY1
