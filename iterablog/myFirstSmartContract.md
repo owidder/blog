@@ -150,14 +150,14 @@ Jetzt wird's ernst. Über den ![enter image description here](https://raw.github
 
 Jetzt kommt es darauf an, welchen Browser Sie verwenden:
 
- - Im Chrome öffnet sich auf der linken Seite ein Metamask-
+ - Im Chrome öffnet sich auf der linken Seite ein Metamask-Fenster
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM5OTExMTAwOCw0MjEzNjIxNjAsLTExNT
-Y2MzMzLC0yNDkxNTc5NjQsLTEzNDMxNTUzMjgsLTM1OTExMzY1
-NiwtMTIxMDA3NzI2NCwtNzI3MjYxNzEwLC05NTMxMTg3ODcsLT
-E2NzI0Mjc4MTUsNjU2MDEwMDU3LC0xOTczMzcyNDg5LC0xNTA0
-OTUzNDc4LC0xMzM5NTk0NDc3LC0xOTkwMzY0NjMsNTY3OTQwNj
-IyLC0xODk2MDQ5NjE0LC0xNjA1MDM4NzAwLDEyNzA0OTU2NDks
-Mzc3MDA0NjZdfQ==
+eyJoaXN0b3J5IjpbMTI2Mjc1OTQxMSwtMzk5MTExMDA4LDQyMT
+M2MjE2MCwtMjQ5MTU3OTY0LC0xMzQzMTU1MzI4LC0zNTkxMTM2
+NTYsLTEyMTAwNzcyNjQsLTcyNzI2MTcxMCwtOTUzMTE4Nzg3LC
+0xNjcyNDI3ODE1LDY1NjAxMDA1NywtMTk3MzM3MjQ4OSwtMTUw
+NDk1MzQ3OCwtMTMzOTU5NDQ3NywtMTk5MDM2NDYzLDU2Nzk0MD
+YyMiwtMTg5NjA0OTYxNCwtMTYwNTAzODcwMCwxMjcwNDk1NjQ5
+LDM3NzAwNDY2XX0=
 -->
