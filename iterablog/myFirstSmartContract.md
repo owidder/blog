@@ -118,13 +118,13 @@ Und siehe da. Wir sind reich.
 Freuen Sie sich aber nicht zu früh. Die 8273,06 Dollar gelten nur für das Main-Net. Für Runkeby müssen sie davon 8273,06 Dollar abziehen.
 
 ## Submission accomplished
-So jetzt kann es losgehen. Wir können jetzt unseren Contract in der Blockchain deployen. 
+So jetzt kann es losgehen. Wir können jetzt unseren Contract in der Blockchain deployen. Dazu gehen wir zu der Online-Ethereum-IDE: remix
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ1Njk3MzczLC04NjgyNjY4MTIsLTE4MT
-MzNjc5OCwxMzMwODM1MDMsLTE4MTkwOTY5MDEsMTE2NjMxMzAz
-MSwxODAxMTI0MTQ0LC0xMTkxNjk2NTYzLDM0OTc0OTgzLC02Mz
-Q4MzEzNTgsMzQ4NzExNzYwLC0xMzYxMDc4NTk3LDE4MzA5MjM4
-ODUsLTE5OTE2NzgzMDcsLTM3NTM0MDA0MCwtNzU2OTkyODMxLC
-02OTU2Nzk5NzYsMTY0MDUzODY3LDE4MTMyMjQ4MjksLTg0MzQ4
-NjExOV19
+eyJoaXN0b3J5IjpbMjAxNzcyMjIxNywxNDU2OTczNzMsLTg2OD
+I2NjgxMiwtMTgxMzM2Nzk4LDEzMzA4MzUwMywtMTgxOTA5Njkw
+MSwxMTY2MzEzMDMxLDE4MDExMjQxNDQsLTExOTE2OTY1NjMsMz
+Q5NzQ5ODMsLTYzNDgzMTM1OCwzNDg3MTE3NjAsLTEzNjEwNzg1
+OTcsMTgzMDkyMzg4NSwtMTk5MTY3ODMwNywtMzc1MzQwMDQwLC
+03NTY5OTI4MzEsLTY5NTY3OTk3NiwxNjQwNTM4NjcsMTgxMzIy
+NDgyOV19
 -->
