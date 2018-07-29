@@ -151,12 +151,12 @@ Jetzt wird's ernst. Über den ![enter image description here](https://raw.github
 Jetzt kommt es darauf an, welchen Browser Sie verwenden:
 
  - Im Chrome öffnet sich auf der linken Seite ein Metamask-Fenster, in dem Sie die Transaktion bestätigen können.
- - Im Firefox kann es sein (so war es bei mir), dass sich auf der linken Seite ein leeres Fenster öffnet. Das können Sie wieder schließen. Über das Fuchs-Icon (dort sollte nun eine kleine 1 erscheinen ) sollten Sie das Fenster zum Bestätigen der Transaktion sehen können.
+ - Im Firefox kann es sein (so war es bei mir), dass sich auf der linken Seite ein leeres Fenster öffnet. Das können Sie wieder schließen. Über das Fuchs-Icon (dort sollte nun eine kleine 1 erscheinen ![enter image description here](https://raw.githubusercontent.com/owidder/blog/ib-20180729-11/iterablog/images/fox1.png)) sollten Sie das Fenster zum Bestätigen der Transaktion sehen können.
 
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNzMzMDQ4NDUsLTE5ODAxNTU0NjEsLT
+eyJoaXN0b3J5IjpbLTE5NTgzMjQ5NDMsLTE5ODAxNTU0NjEsLT
 QzNTYzMDUzNiwtNDc0MzYyNjUzLDM2MjYyOTc3MCwtMTQwMjM0
 MjQ3NCw0MjEzNjIxNjAsLTI0OTE1Nzk2NCwtMTM0MzE1NTMyOC
 wtMzU5MTEzNjU2LC0xMjEwMDc3MjY0LC03MjcyNjE3MTAsLTk1
