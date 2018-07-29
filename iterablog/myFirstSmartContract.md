@@ -165,9 +165,11 @@ Der Link führt zu [*Etherscan*](https://rinkeby.etherscan.io/), eine Art Ethere
 
  <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-12/iterablog/images/etherscan-transaction.png" alt="Transaction Link"/>
 
+Dort finden wir auch den Link zu unserem Contract:
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyMTA1MTg5OSwtMTgzNTU4NzM3MywxOD
-k4Nzc4OTA4LC00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQy
-NDksLTg4NTkxNDY3M119
+eyJoaXN0b3J5IjpbODcwMTgwNjAwLC03MjEwNTE4OTksLTE4Mz
+U1ODczNzMsMTg5ODc3ODkwOCwtNDc5NzkyMTIwLDk3MTU3MTYx
+MSwtMjkyMDU0MjQ5LC04ODU5MTQ2NzNdfQ==
 -->
