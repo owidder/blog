@@ -1,5 +1,5 @@
 
-# TL;DR: Smart Contracts für Faulpelze
+# TL;DR: Smart Contracts für Faule
 
 Wenn [Blockchains](https://www.theguardian.com/commentisfree/2018/feb/06/blockchain-explained-by-crypto-expert-f-onthemoon) eine Art von [verteilten Datenbanken](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain/) sind, dann sind [Smart Contracts](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain-teil-2-smart-contracts-die-businesslogik-von-blockchai/) ihre Stored Procedures. Sie bieten Funktionen an, die man aufrufen kann und die Daten in der Blockchain ablegen können.
 
@@ -210,13 +210,15 @@ Und im *Code*-Tab können wir nun unseren Code bewundern.
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-03/iterablog/images/code.png" alt="Code"/>
 
 ## Heureka
+So, jetzt brauchen wir nur noch einen klugen Gedanken, den wir hashen und in unserem Contract ablegen können, so dass wir in einigen Jahren beweisen können, dass wir das schon lange wussten (damit kann man sich übrigens sehr beliebt machen).
 
+Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihen. Wir gehen erst einmal zu einem 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC03Mj
-gzNzg3MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4NjI0
-ODExMCwtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3NzI4LD
-QxMDE4ODkzMiwtOTk5MTIwOTQ4LDg3ODU1MzU1LDEwMzM3MzQ3
-MzUsODc0MDU5OTIyLDE0MDQxOTkxOCwxNjQ3NDUyNjY4LDExND
-Q1NDc5NjYsLTE3NzIxMDAyNDQsLTIwMzcwNDEyNjMsMTM2NDEy
-NTFdfQ==
+eyJoaXN0b3J5IjpbNDg4OTU5Mjg0LC0zMDA1Njc1MzAsLTM2MT
+kxNTUwNSwtNzI4Mzc4NzE5LC0xMjQxMjc5ODU4LC0xMTUxMzk0
+ODgsLTE5ODYyNDgxMTAsLTg3NTgxOTk4NCwxMzIxMzc3NTE0LD
+U0NjUyNzcyOCw0MTAxODg5MzIsLTk5OTEyMDk0OCw4Nzg1NTM1
+NSwxMDMzNzM0NzM1LDg3NDA1OTkyMiwxNDA0MTk5MTgsMTY0Nz
+Q1MjY2OCwxMTQ0NTQ3OTY2LC0xNzcyMTAwMjQ0LC0yMDM3MDQx
+MjYzXX0=
 -->
