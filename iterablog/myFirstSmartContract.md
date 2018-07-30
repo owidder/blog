@@ -270,13 +270,13 @@ erzeugt wurde.
 
 Leider gibt es keine Möglichkeit, die Daten im Klartext zu sehen (zumindes kenne ich keine, falls Sie eine kennen, bin ich sehr interessiert: oliver.widder@iteratec.de).
 
-Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, mit der wir dies aus
+Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, mit der wir dies auslesen k
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzg5NTc0MTMsMTIwNTI3Mzc5NSwtMj
-c5OTY2NDAyLC01NjAxOTU4NTEsMTk0ODcwNjI1OCwtNjM2NjU5
-ODUyLDIwNjYyMDc4NSwtNjI0MTc3MzE2LC03MzU4NDMxNjUsLT
-gzNzc5NzY5LC0xNTIyNTI3NTMwLC05NDYzNjcyMDMsLTgzNTYz
-MDgxMCw4MDc3MDY5NDAsMTY4OTExMjc5NCwxMzY5MTk3NTIxLD
-E4MzExMzUwNDQsLTIzMDkwOTAzLDQzNzgyMzQ3OSwtOTAxMzAy
-NTk3XX0=
+eyJoaXN0b3J5IjpbNTgwMTQ4OTM5LC0yMDc4OTU3NDEzLDEyMD
+UyNzM3OTUsLTU2MDE5NTg1MSwxOTQ4NzA2MjU4LC02MzY2NTk4
+NTIsMjA2NjIwNzg1LC02MjQxNzczMTYsLTczNTg0MzE2NSwtOD
+M3Nzk3NjksLTE1MjI1Mjc1MzAsLTk0NjM2NzIwMywtODM1NjMw
+ODEwLDgwNzcwNjk0MCwxNjg5MTEyNzk0LDEzNjkxOTc1MjEsMT
+gzMTEzNTA0NCwtMjMwOTA5MDMsNDM3ODIzNDc5LC05MDEzMDI1
+OTddfQ==
 -->
