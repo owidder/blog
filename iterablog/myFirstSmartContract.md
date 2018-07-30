@@ -216,13 +216,17 @@ Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihe
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/smart-idea.png" alt="Smart Idea"/>
 
-Dort geben Sie ihre kluge Idee ein drücken auf den großen *Calculate*-Knopf. Den Hashwert kopieren Sie sich mit Strg-C).
+Dort geben Sie ihre kluge Idee ein drücken auf den großen *Calculate*-Knopf. Den Hashwert kopieren Sie sich mit Strg-C.
+
+Mit dem Hashwert in der Zwischenablage gehen Sie dann wieder zu der Contract-Seite zurück in den *Write-Contract*-Tab.
+
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/smart-idea.png" alt="Smart Idea"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDA5NTk5MywtMTg1MDI4MjkwNywxMT
-QxMDAzMTk2LC0zMDA1Njc1MzAsLTM2MTkxNTUwNSwtNzI4Mzc4
-NzE5LC0xMjQxMjc5ODU4LC0xMTUxMzk0ODgsLTE5ODYyNDgxMT
-AsLTg3NTgxOTk4NCwxMzIxMzc3NTE0LDU0NjUyNzcyOCw0MTAx
-ODg5MzIsLTk5OTEyMDk0OCw4Nzg1NTM1NSwxMDMzNzM0NzM1LD
-g3NDA1OTkyMiwxNDA0MTk5MTgsMTY0NzQ1MjY2OCwxMTQ0NTQ3
-OTY2XX0=
+eyJoaXN0b3J5IjpbLTE0NTczMzY0MywxNjc0MDk1OTkzLDExND
+EwMDMxOTYsLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC03MjgzNzg3
+MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4NjI0ODExMC
+wtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3NzI4LDQxMDE4
+ODkzMiwtOTk5MTIwOTQ4LDg3ODU1MzU1LDEwMzM3MzQ3MzUsOD
+c0MDU5OTIyLDE0MDQxOTkxOCwxNjQ3NDUyNjY4LDExNDQ1NDc5
+NjZdfQ==
 -->
