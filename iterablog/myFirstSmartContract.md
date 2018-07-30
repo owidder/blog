@@ -223,7 +223,7 @@ Und im *Code*-Tab können wir nun unseren Code bewundern.
 ## Heureka
 So, jetzt brauchen wir nur noch einen klugen Gedanken, den wir hashen und in der Blockchain veröffentlichen können, so dass wir in einigen Jahren beweisen können, dass wir das schon lange wussten (damit kann man sich übrigens sehr beliebt machen).
 
-Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihen (aber nicht stehlen, der ist schon längst in der Blockchain). Wir gehen erst einmal zu einem [Online-Hash-Calculator](https://abunchofutils.com/u/computing/sha512-hash-calculator/).
+Falls Sie gerade keinen guten Gedanken zur Hand haben, kann ich Ihnen einen leihen (aber nicht stehlen, der ist schon längst in der Blockchain). Wir gehen erst einmal zu einem [Online-Hash-Calculator](https://abunchofutils.com/u/computing/sha512-hash-calculator/).
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/smart-idea.png" alt="Smart Idea"/>
 
@@ -285,11 +285,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkzNDczMzYxOSwtMTE4MTIzNzg4MiwtMT
-AwMzAzNDI4NSwxNTAwMDY2NDM1LC0xMDc5OTc4ODEyLDEzNzY1
-MDA5Niw1NTMxMzkxNzksMTQ1MjYxMzAxMiwtMTIwMjgwMzYzNi
-wxMDM0ODg2NzcxLDIwMTcxMjgyMzQsLTEwMDEzNDE5MjgsNTg1
-MDIxNzkyLDE2NzE3ODY0NTAsLTMzNDgxNDc3OSwtMTU4MDEyND
-kyLDE1NDI0OTc1MjgsMjAwMDMzNDA1OCw5MTA4ODgzODgsMTE3
-MjYwNTc5M119
+eyJoaXN0b3J5IjpbMjAzNTcyODgwNSwxOTM0NzMzNjE5LC0xMT
+gxMjM3ODgyLC0xMDAzMDM0Mjg1LDE1MDAwNjY0MzUsLTEwNzk5
+Nzg4MTIsMTM3NjUwMDk2LDU1MzEzOTE3OSwxNDUyNjEzMDEyLC
+0xMjAyODAzNjM2LDEwMzQ4ODY3NzEsMjAxNzEyODIzNCwtMTAw
+MTM0MTkyOCw1ODUwMjE3OTIsMTY3MTc4NjQ1MCwtMzM0ODE0Nz
+c5LC0xNTgwMTI0OTIsMTU0MjQ5NzUyOCwyMDAwMzM0MDU4LDkx
+MDg4ODM4OF19
 -->
