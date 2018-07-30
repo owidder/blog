@@ -28,7 +28,8 @@ Aber sind doch wir mal ehrlich. Finden unsere genialen Ideen keine Resonanz, sin
 Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
  
  ## Marmor, Stein und Eisen bricht, aber eine Blockchain nicht
- Was liegt also näher, als alle klugen Gedanken einfach in der Blockchain abzulegen? Dann sind Zeitpunkt und Inhalt unwiderruflich festgehalten.
+ Was liegt also näher, als alle klugen Gedanken einfach in der Blockchain abzulegen?    
+Dann sind Zeitpunkt und Inhalt unwiderruflich festgehalten.
 Und da Speicher in der Blockchain Geld kostet, hashen ([SHA512](https://abunchofutils.com/u/computing/sha512-hash-calculator/)) wir vorher und legen nur den Hashwert ab.
 
 ## Pacta sunt servanda
@@ -287,11 +288,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM0NjU2NzcsNDUxMzQ0ODQwLDE0MT
-gwNjMzMCwtMTY0NTI2NDA5OCwtMjEwNzQ2MjYzMCw4ODE4MDg1
-MiwtNzY1MDczNzQzLC03NjUwNzM3NDMsLTExODEyMzc4ODIsLT
-EwMDMwMzQyODUsMTUwMDA2NjQzNSwtMTA3OTk3ODgxMiwxMzc2
-NTAwOTYsNTUzMTM5MTc5LDE0NTI2MTMwMTIsLTEyMDI4MDM2Mz
-YsMTAzNDg4Njc3MSwyMDE3MTI4MjM0LC0xMDAxMzQxOTI4LDU4
-NTAyMTc5Ml19
+eyJoaXN0b3J5IjpbNDg1NzU4MDYxLDQ1MTM0NDg0MCwxNDE4MD
+YzMzAsLTE2NDUyNjQwOTgsLTIxMDc0NjI2MzAsODgxODA4NTIs
+LTc2NTA3Mzc0MywtNzY1MDczNzQzLC0xMTgxMjM3ODgyLC0xMD
+AzMDM0Mjg1LDE1MDAwNjY0MzUsLTEwNzk5Nzg4MTIsMTM3NjUw
+MDk2LDU1MzEzOTE3OSwxNDUyNjEzMDEyLC0xMjAyODAzNjM2LD
+EwMzQ4ODY3NzEsMjAxNzEyODIzNCwtMTAwMTM0MTkyOCw1ODUw
+MjE3OTJdfQ==
 -->
