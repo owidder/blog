@@ -230,13 +230,17 @@ Jetzt müssen Sich erst einmal bei Metamask anmelden (Achtung: Sie haben noch de
 
 Wenn Sie nun angemeldet sind, dann erscheint nach *Connect with Metamask* noch ein Warnung, dass alles noch ziemlich beta ist.
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-05/iterablog/images/metamask-not-enabled.png" alt="Metamask is not enabled"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-05/iterablog/images/warning.png" alt="Warning"/>
+
+Auch die ignorieren wir, schließlich spielen wir ja nur mit Rinkeby-Spielgeld.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzg5OTgwNDM0LDEyMDcwNDE1ODUsLTU0Mj
-Q4MTg5NSwtMzU4NzUyMDEzLC0zNTA2MzEyMzgsMTY3NDA5NTk5
-MywxMTQxMDAzMTk2LC0zMDA1Njc1MzAsLTM2MTkxNTUwNSwtNz
-I4Mzc4NzE5LC0xMjQxMjc5ODU4LC0xMTUxMzk0ODgsLTE5ODYy
-NDgxMTAsLTg3NTgxOTk4NCwxMzIxMzc3NTE0LDU0NjUyNzcyOC
-w0MTAxODg5MzIsLTk5OTEyMDk0OCw4Nzg1NTM1NSwxMDMzNzM0
-NzM1XX0=
+eyJoaXN0b3J5IjpbLTIwOTc5MDAxMzIsMTIwNzA0MTU4NSwtNT
+QyNDgxODk1LC0zNTg3NTIwMTMsLTM1MDYzMTIzOCwxNjc0MDk1
+OTkzLDExNDEwMDMxOTYsLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC
+03MjgzNzg3MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4
+NjI0ODExMCwtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3Nz
+I4LDQxMDE4ODkzMiwtOTk5MTIwOTQ4LDg3ODU1MzU1LDEwMzM3
+MzQ3MzVdfQ==
 -->
