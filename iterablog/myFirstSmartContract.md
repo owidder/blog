@@ -184,20 +184,21 @@ Im Tab *Code* gibt es den Link *Verify And Publish*.
 
 Dort müssen wir folgendes eintragen:
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-form.png" alt="Verify Form"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-form.png" alt="Com"/>
 
  - Adresse des Contract (ist schon vorausgefüllt)
  - Name des Contract
  - Compiler-Version: Kann man in *remix* im *Settings*-Tab auf der rechten Seite sehen:
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-01/iterablog/images/compiler-version.png" alt="Verify Form"/>
  - Zum Schluss müssen wir noch angeben, ob der Compiler mit Optimierung lief. Auch das sieht man im Settings-Tab. War ausgeschaltet (hätten wir vielleicht mal einschalten sollen - nächstes Mal):
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-02/iterablog/images/settings.png" alt="Settings"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyMTM3NzUxNCw1NDY1Mjc3MjgsNDEwMT
-g4OTMyLC05OTkxMjA5NDgsODc4NTUzNTUsMTAzMzczNDczNSw4
-NzQwNTk5MjIsMTQwNDE5OTE4LDE2NDc0NTI2NjgsMTE0NDU0Nz
-k2NiwtMTc3MjEwMDI0NCwtMjAzNzA0MTI2MywxMzY0MTI1MSwt
-MjExNjE1ODE2NSw4NzAxODA2MDAsLTcyMTA1MTg5OSwtMTgzNT
-U4NzM3MywxODk4Nzc4OTA4LC00Nzk3OTIxMjAsOTcxNTcxNjEx
-XX0=
+eyJoaXN0b3J5IjpbLTIyNjA0NDQ3NiwxMzIxMzc3NTE0LDU0Nj
+UyNzcyOCw0MTAxODg5MzIsLTk5OTEyMDk0OCw4Nzg1NTM1NSwx
+MDMzNzM0NzM1LDg3NDA1OTkyMiwxNDA0MTk5MTgsMTY0NzQ1Mj
+Y2OCwxMTQ0NTQ3OTY2LC0xNzcyMTAwMjQ0LC0yMDM3MDQxMjYz
+LDEzNjQxMjUxLC0yMTE2MTU4MTY1LDg3MDE4MDYwMCwtNzIxMD
+UxODk5LC0xODM1NTg3MzczLDE4OTg3Nzg5MDgsLTQ3OTc5MjEy
+MF19
 -->
