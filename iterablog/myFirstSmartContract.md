@@ -112,11 +112,11 @@ Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopiere
 
 Jetzt müssen Sie sich entscheiden, auf welchem Social Network Sie die Adresse posten wollen. Sie können dafür auch einen eigen Account anlegen. Nicht dass Sie [reihenweise Follower verlieren](http://s3.media.squarespace.com/production/2129687/19317774/.a/6a00d8341d3df553ef016763cc8111970b-pi).
 
-Ich nehme dafür in der Regel meinen Google+-Account. Den nutze ich sonst kaum. Die paar Follower, wundern sich zwar jedes Mal ("Steuerst Du ein Botnet?"), aber damit muss ich leben.
+Ich nehme dafür in der Regel meinen Google+ Account. Den nutze ich sonst kaum. Die paar Follower, wundern sich zwar jedes Mal ("Steuerst Du ein Botnet?"), aber damit muss ich leben.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-03/iterablog/images/googleplus.png" alt="Rinkeby Faucet"/>
 
-Jetzt den Link des Posts in das Eingabefeld des Faucets kopieren. Heute lassen wir es mal krachen und nehmen gleich die vollen 18,75 Ether.
+Jetzt den Link des Posts in das Eingabefeld des Faucets kopieren. Heute lassen wir es mal so richtig krachen und nehmen gleich die vollen 18,75 Ether.
 
  <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-03/iterablog/images/faucet2.png" alt="Rinkeby Faucet"/>
 
@@ -283,11 +283,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMDI4MDM2MzYsMTAzNDg4Njc3MSwyMD
-E3MTI4MjM0LC0xMDAxMzQxOTI4LDU4NTAyMTc5MiwxNjcxNzg2
-NDUwLC0zMzQ4MTQ3NzksLTE1ODAxMjQ5MiwxNTQyNDk3NTI4LD
-IwMDAzMzQwNTgsOTEwODg4Mzg4LDExNzI2MDU3OTMsLTcwOTU2
-MDgxLDE3Mjk4MDM0MiwtMzY2MTQyNDU5LC01NjAxOTU4NTEsMT
-k0ODcwNjI1OCwtNjM2NjU5ODUyLDIwNjYyMDc4NSwtNjI0MTc3
-MzE2XX0=
+eyJoaXN0b3J5IjpbLTE1MDA4OTY4NjksLTEyMDI4MDM2MzYsMT
+AzNDg4Njc3MSwyMDE3MTI4MjM0LC0xMDAxMzQxOTI4LDU4NTAy
+MTc5MiwxNjcxNzg2NDUwLC0zMzQ4MTQ3NzksLTE1ODAxMjQ5Mi
+wxNTQyNDk3NTI4LDIwMDAzMzQwNTgsOTEwODg4Mzg4LDExNzI2
+MDU3OTMsLTcwOTU2MDgxLDE3Mjk4MDM0MiwtMzY2MTQyNDU5LC
+01NjAxOTU4NTEsMTk0ODcwNjI1OCwtNjM2NjU5ODUyLDIwNjYy
+MDc4NV19
 -->
