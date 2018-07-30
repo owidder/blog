@@ -244,7 +244,7 @@ Jetzt kopieren wir den Hashwert in das Eingabefeld der Funktion *logHashValue*.
 
 Wenn Sie jetzt den *Write*-Button klicken, müssen Sie die Transaktion wieder in *Metamask* bestätigen.
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-07/iterablog/images/confirm-transaction2.png" alt="Write logHashValue"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-07/iterablog/images/confirm-transaction2.png" alt="Confirm Transaction"/>
 
 Danach sehen den neuen Button *View your transaction*, über den Sie sich die neue  Transaktion ansehen können.
 
@@ -252,13 +252,15 @@ Danach sehen den neuen Button *View your transaction*, über den Sie sich die ne
 
 Und da [ist sie auch](https://rinkeby.etherscan.io/tx/0x4ea17b435fa362308addb550faf719fdc6333341f6778cff620b49264c87c1df). 
 
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-09/iterablog/images/new-transaction.png" alt="Confirm Transaction"/>
 
+Ist sie nicht 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk0NjM2NzIwMywtODM1NjMwODEwLDgwNz
-cwNjk0MCwxNjg5MTEyNzk0LDEzNjkxOTc1MjEsMTgzMTEzNTA0
-NCwtMjMwOTA5MDMsNDM3ODIzNDc5LC05MDEzMDI1OTcsMTg4Nj
-g3MTg0Miw5NTMzMTI4MjEsMjAxOTEyNTc2NiwtMTA4OTgwNTYy
-LDEyMDcwNDE1ODUsLTU0MjQ4MTg5NSwtMzU4NzUyMDEzLC0zNT
-A2MzEyMzgsMTY3NDA5NTk5MywxMTQxMDAzMTk2LC0zMDA1Njc1
-MzBdfQ==
+eyJoaXN0b3J5IjpbLTE1MjI1Mjc1MzAsLTk0NjM2NzIwMywtOD
+M1NjMwODEwLDgwNzcwNjk0MCwxNjg5MTEyNzk0LDEzNjkxOTc1
+MjEsMTgzMTEzNTA0NCwtMjMwOTA5MDMsNDM3ODIzNDc5LC05MD
+EzMDI1OTcsMTg4Njg3MTg0Miw5NTMzMTI4MjEsMjAxOTEyNTc2
+NiwtMTA4OTgwNTYyLDEyMDcwNDE1ODUsLTU0MjQ4MTg5NSwtMz
+U4NzUyMDEzLC0zNTA2MzEyMzgsMTY3NDA5NTk5MywxMTQxMDAz
+MTk2XX0=
 -->
