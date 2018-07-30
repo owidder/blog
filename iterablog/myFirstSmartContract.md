@@ -90,7 +90,7 @@ Dazu wählen wir in Metamask das Rinkeby-Network aus:
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-03/iterablog/images/metamask-rinkeby.png" alt="Rinkeby auswählen" width="300px"/>
 
 *Metamask* hat uns auch schon freundlicherweise einen Account angelegt.  
-(Solange wir aber keine Transaktion mit diesem Account durchgeführt haben, ist der in dem Network nicht bekannt)
+(Solange wir aber keine Transaktion mit diesem Account durchgeführt haben, ist der Account in dem Network jedoch nocnicht bekannt)
 
 ## Wenn ich einmal reich wär
 Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
@@ -290,11 +290,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2MTIzNjI5OCwxNzA4Mjg3Njk4LC03MD
-M2OTEzMDYsLTQzNTE1NzU3OCwxNTE4MTEwMTI5LDExNDU3Mzg2
-OTUsLTEzNzU0NjgwOTMsLTIwOTA5ODI0OTEsMTc2NTI2MTY5OS
-w0NTEzNDQ4NDAsMTQxODA2MzMwLC0xNjQ1MjY0MDk4LC0yMTA3
-NDYyNjMwLDg4MTgwODUyLC03NjUwNzM3NDMsLTc2NTA3Mzc0My
-wtMTE4MTIzNzg4MiwtMTAwMzAzNDI4NSwxNTAwMDY2NDM1LC0x
-MDc5OTc4ODEyXX0=
+eyJoaXN0b3J5IjpbLTE1NjEwMzE3NDgsLTg2MTIzNjI5OCwxNz
+A4Mjg3Njk4LC03MDM2OTEzMDYsLTQzNTE1NzU3OCwxNTE4MTEw
+MTI5LDExNDU3Mzg2OTUsLTEzNzU0NjgwOTMsLTIwOTA5ODI0OT
+EsMTc2NTI2MTY5OSw0NTEzNDQ4NDAsMTQxODA2MzMwLC0xNjQ1
+MjY0MDk4LC0yMTA3NDYyNjMwLDg4MTgwODUyLC03NjUwNzM3ND
+MsLTc2NTA3Mzc0MywtMTE4MTIzNzg4MiwtMTAwMzAzNDI4NSwx
+NTAwMDY2NDM1XX0=
 -->
