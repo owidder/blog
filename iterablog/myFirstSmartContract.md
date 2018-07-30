@@ -242,13 +242,13 @@ Jetzt kopieren wir den Hashwert in das Eingabefeld der Funktion *logHashValue*.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-06/iterablog/images/wirte-logHashValue.png" alt="Write logHashValue"/>
 
-
+Wenn Sie jetzt den Write-Button
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDM3ODIzNDc5LC05MDEzMDI1OTcsMTg4Nj
-g3MTg0Miw5NTMzMTI4MjEsMjAxOTEyNTc2NiwtMTA4OTgwNTYy
-LDEyMDcwNDE1ODUsLTU0MjQ4MTg5NSwtMzU4NzUyMDEzLC0zNT
-A2MzEyMzgsMTY3NDA5NTk5MywxMTQxMDAzMTk2LC0zMDA1Njc1
-MzAsLTM2MTkxNTUwNSwtNzI4Mzc4NzE5LC0xMjQxMjc5ODU4LC
-0xMTUxMzk0ODgsLTE5ODYyNDgxMTAsLTg3NTgxOTk4NCwxMzIx
-Mzc3NTE0XX0=
+eyJoaXN0b3J5IjpbMjA2Mzc3NDM0LDQzNzgyMzQ3OSwtOTAxMz
+AyNTk3LDE4ODY4NzE4NDIsOTUzMzEyODIxLDIwMTkxMjU3NjYs
+LTEwODk4MDU2MiwxMjA3MDQxNTg1LC01NDI0ODE4OTUsLTM1OD
+c1MjAxMywtMzUwNjMxMjM4LDE2NzQwOTU5OTMsMTE0MTAwMzE5
+NiwtMzAwNTY3NTMwLC0zNjE5MTU1MDUsLTcyODM3ODcxOSwtMT
+I0MTI3OTg1OCwtMTE1MTM5NDg4LC0xOTg2MjQ4MTEwLC04NzU4
+MTk5ODRdfQ==
 -->
