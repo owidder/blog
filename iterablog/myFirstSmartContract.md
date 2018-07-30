@@ -272,10 +272,10 @@ Leider gibt es keine Möglichkeit, die Daten im Klartext zu sehen (zumindes kenn
 
 Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, mit der wir dies auslesen können. Mit dieser DApp wird auch das Ablegen von klugen Gedanken deutlich einfacher.
 
-Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehtr 
+Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcyOTgwMzQyLC0zNjYxNDI0NTksODk5NT
-czOTQ4LC01NjAxOTU4NTEsMTk0ODcwNjI1OCwtNjM2NjU5ODUy
+eyJoaXN0b3J5IjpbLTcwOTU2MDgxLDE3Mjk4MDM0MiwtMzY2MT
+QyNDU5LC01NjAxOTU4NTEsMTk0ODcwNjI1OCwtNjM2NjU5ODUy
 LDIwNjYyMDc4NSwtNjI0MTc3MzE2LC03MzU4NDMxNjUsLTgzNz
 c5NzY5LC0xNTIyNTI3NTMwLC05NDYzNjcyMDMsLTgzNTYzMDgx
 MCw4MDc3MDY5NDAsMTY4OTExMjc5NCwxMzY5MTk3NTIxLDE4Mz
