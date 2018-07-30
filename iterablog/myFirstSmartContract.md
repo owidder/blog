@@ -97,7 +97,9 @@ Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-04/iterablog/images/0-eth.png" alt="Rinkeby auswählen"/>
 
-Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt. Bzw. fast. Ein klein wenig müssen wir schon tun.
+Aber im Gegensatz zum Main Net bekommen wir auf Rinkeby die Ether geschenkt.  
+Bzw. fast.  
+Ein klein wenig müssen wir schon tun.
 
 ## Geld zapfen
 Wir gehen zur offiziellen [Faucet von Rinkeby](https://faucet.rinkeby.io/). Dort werden Ether verschenkt.
@@ -290,11 +292,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg2Nzg0OTA4NCwtMTU2MTAzMTc0OCwtOD
-YxMjM2Mjk4LDE3MDgyODc2OTgsLTcwMzY5MTMwNiwtNDM1MTU3
-NTc4LDE1MTgxMTAxMjksMTE0NTczODY5NSwtMTM3NTQ2ODA5My
-wtMjA5MDk4MjQ5MSwxNzY1MjYxNjk5LDQ1MTM0NDg0MCwxNDE4
-MDYzMzAsLTE2NDUyNjQwOTgsLTIxMDc0NjI2MzAsODgxODA4NT
-IsLTc2NTA3Mzc0MywtNzY1MDczNzQzLC0xMTgxMjM3ODgyLC0x
-MDAzMDM0Mjg1XX0=
+eyJoaXN0b3J5IjpbODg4MjYwNzQ2LC04Njc4NDkwODQsLTg2MT
+IzNjI5OCwxNzA4Mjg3Njk4LC03MDM2OTEzMDYsLTQzNTE1NzU3
+OCwxNTE4MTEwMTI5LDExNDU3Mzg2OTUsLTEzNzU0NjgwOTMsLT
+IwOTA5ODI0OTEsMTc2NTI2MTY5OSw0NTEzNDQ4NDAsMTQxODA2
+MzMwLC0xNjQ1MjY0MDk4LC0yMTA3NDYyNjMwLDg4MTgwODUyLC
+03NjUwNzM3NDMsLTc2NTA3Mzc0MywtMTE4MTIzNzg4MiwtMTAw
+MzAzNDI4NV19
 -->
