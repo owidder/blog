@@ -77,9 +77,10 @@ Danach sehen Sie 12 Worte, die sogenannten *Mnenomics*. Das ist der Schlüssel z
 
 ## And there is a free lunch!!!
 Als nächstes müssen wir uns entscheiden, auf welchem Ethereum Network wir unseren Contract deployen wollen. 
-Da gibt es einmal das *Main Net*. Da spielen die Big Girls'n'Boys. Da kosten Ether echtes Geld, [und zwar gar nicht mal so wenig](https://coinmarketcap.com/currencies/ethereum/). Das wollen wir nicht.
+Da gibt es einmal das [*Main Net*](https://etherscan.io/). Da spielen die Big Girls'n'Boys. Da kosten Ether echtes Geld, [und zwar gar nicht mal so wenig](https://coinmarketcap.com/currencies/ethereum/). Das wollen wir nicht.
 
 Zum Glück gibt es noch einige Test-Networks. Da gibt es Ether für lau (free lunch). Das wollen wir!
+
 Für unser kleines Beispiel nehmen wir das [Rinkeby Test-Network](https://www.rinkeby.io).
 Dazu wählen wir in Metamask das Rinkeby-Network aus:
 
@@ -282,11 +283,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzNDg4Njc3MSwyMDE3MTI4MjM0LC0xMD
-AxMzQxOTI4LDU4NTAyMTc5MiwxNjcxNzg2NDUwLC0zMzQ4MTQ3
-NzksLTE1ODAxMjQ5MiwxNTQyNDk3NTI4LDIwMDAzMzQwNTgsOT
-EwODg4Mzg4LDExNzI2MDU3OTMsLTcwOTU2MDgxLDE3Mjk4MDM0
-MiwtMzY2MTQyNDU5LC01NjAxOTU4NTEsMTk0ODcwNjI1OCwtNj
-M2NjU5ODUyLDIwNjYyMDc4NSwtNjI0MTc3MzE2LC03MzU4NDMx
-NjVdfQ==
+eyJoaXN0b3J5IjpbNzIwMzU1NzU3LDEwMzQ4ODY3NzEsMjAxNz
+EyODIzNCwtMTAwMTM0MTkyOCw1ODUwMjE3OTIsMTY3MTc4NjQ1
+MCwtMzM0ODE0Nzc5LC0xNTgwMTI0OTIsMTU0MjQ5NzUyOCwyMD
+AwMzM0MDU4LDkxMDg4ODM4OCwxMTcyNjA1NzkzLC03MDk1NjA4
+MSwxNzI5ODAzNDIsLTM2NjE0MjQ1OSwtNTYwMTk1ODUxLDE5ND
+g3MDYyNTgsLTYzNjY1OTg1MiwyMDY2MjA3ODUsLTYyNDE3NzMx
+Nl19
 -->
