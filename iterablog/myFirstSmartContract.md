@@ -184,7 +184,7 @@ Im Tab *Code* gibt es den Link *Verify And Publish*.
 
 Dort müssen wir folgendes eintragen:
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-form.png" alt="Com"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-form.png" alt="Compiler V"/>
 
  - Adresse des Contract (ist schon vorausgefüllt)
  - Name des Contract
@@ -194,11 +194,11 @@ Dort müssen wir folgendes eintragen:
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-02/iterablog/images/settings.png" alt="Settings"/>
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyNjA0NDQ3NiwxMzIxMzc3NTE0LDU0Nj
-UyNzcyOCw0MTAxODg5MzIsLTk5OTEyMDk0OCw4Nzg1NTM1NSwx
-MDMzNzM0NzM1LDg3NDA1OTkyMiwxNDA0MTk5MTgsMTY0NzQ1Mj
-Y2OCwxMTQ0NTQ3OTY2LC0xNzcyMTAwMjQ0LC0yMDM3MDQxMjYz
-LDEzNjQxMjUxLC0yMTE2MTU4MTY1LDg3MDE4MDYwMCwtNzIxMD
-UxODk5LC0xODM1NTg3MzczLDE4OTg3Nzg5MDgsLTQ3OTc5MjEy
-MF19
+eyJoaXN0b3J5IjpbLTg3NTgxOTk4NCwtMjI2MDQ0NDc2LDEzMj
+EzNzc1MTQsNTQ2NTI3NzI4LDQxMDE4ODkzMiwtOTk5MTIwOTQ4
+LDg3ODU1MzU1LDEwMzM3MzQ3MzUsODc0MDU5OTIyLDE0MDQxOT
+kxOCwxNjQ3NDUyNjY4LDExNDQ1NDc5NjYsLTE3NzIxMDAyNDQs
+LTIwMzcwNDEyNjMsMTM2NDEyNTEsLTIxMTYxNTgxNjUsODcwMT
+gwNjAwLC03MjEwNTE4OTksLTE4MzU1ODczNzMsMTg5ODc3ODkw
+OF19
 -->
