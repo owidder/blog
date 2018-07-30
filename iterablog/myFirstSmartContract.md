@@ -149,9 +149,9 @@ Im *Run*-Tab daneben, wählen wir nun *Injected Web3* als *Environment* aus.
 
 Das bedeutet, dass ein Objekt namens *Web3*, das von aussen (in unserem Fall von *Metamask*) in die Web-Seite injiziert wurde, verwendet wird. (*Web3* ist eine sehr populäre JavaScript-Library zum Aufrufen von Ethereum-Contracts.) 
 
-Damit können wir die Transaktion zum Deployment des Contracts über *Metamask* ausführen.
+Damit können wir die Transaktion zum Deployment des Contracts über *Metamask* ausführen lassen.
 
-Wenn Sie bei angemeldet sind (ansonsten sollten Sie das jetzt tun), sollten Sie nun den in Metamask ausgewählten Account sehen.
+Wenn Sie bei *Metamask* angemeldet sind (ansonsten sollten Sie das jetzt tun), sollten Sie nun den in *Metamask* ausgewählten Account sehen.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-09/iterablog/images/injected-web3.png" alt="Injected Web"/>
 
@@ -283,7 +283,7 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY3NDkwODg4Myw1NTMxMzkxNzksMTQ1Mj
+eyJoaXN0b3J5IjpbLTEzNDUyNjczOCw1NTMxMzkxNzksMTQ1Mj
 YxMzAxMiwtMTIwMjgwMzYzNiwxMDM0ODg2NzcxLDIwMTcxMjgy
 MzQsLTEwMDEzNDE5MjgsNTg1MDIxNzkyLDE2NzE3ODY0NTAsLT
 MzNDgxNDc3OSwtMTU4MDEyNDkyLDE1NDI0OTc1MjgsMjAwMDMz
