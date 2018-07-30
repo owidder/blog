@@ -236,13 +236,13 @@ Auch die ignorieren wir, schließlich spielen wir ja nur mit Rinkeby-Spielgeld. 
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-05/iterablog/images/connected.png" alt="Connected"/>
 
-Jetzt kopieren wir 
+Jetzt kopieren wir den Hashwert
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxOTEyNTc2Niw0MzA0MjM3NDUsLTEwOD
-k4MDU2MiwxMjA3MDQxNTg1LC01NDI0ODE4OTUsLTM1ODc1MjAx
-MywtMzUwNjMxMjM4LDE2NzQwOTU5OTMsMTE0MTAwMzE5NiwtMz
-AwNTY3NTMwLC0zNjE5MTU1MDUsLTcyODM3ODcxOSwtMTI0MTI3
-OTg1OCwtMTE1MTM5NDg4LC0xOTg2MjQ4MTEwLC04NzU4MTk5OD
-QsMTMyMTM3NzUxNCw1NDY1Mjc3MjgsNDEwMTg4OTMyLC05OTkx
-MjA5NDhdfQ==
+eyJoaXN0b3J5IjpbOTUzMzEyODIxLDIwMTkxMjU3NjYsNDMwND
+IzNzQ1LC0xMDg5ODA1NjIsMTIwNzA0MTU4NSwtNTQyNDgxODk1
+LC0zNTg3NTIwMTMsLTM1MDYzMTIzOCwxNjc0MDk1OTkzLDExND
+EwMDMxOTYsLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC03MjgzNzg3
+MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4NjI0ODExMC
+wtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3NzI4LDQxMDE4
+ODkzMl19
 -->
