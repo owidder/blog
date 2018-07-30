@@ -124,7 +124,7 @@ Und siehe da. Wir sind reich.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-04/iterablog/images/1875.png" alt="Wir sind reich"/>
 
-Freuen Sie sich aber nicht zu früh. Die 8273,06 Dollar gelten nur für das Main-Net. Für Runkeby müssen sie davon 8273,06 Dollar abziehen.
+Freuen Sie sich aber nicht zu früh. Die 8273,06 Dollar gelten nur für das Main-Net. Für das Rinkeby Test-Network müssen sie davon 8273,06 Dollar abziehen.
 
 ## Submission accomplished
 So jetzt kann es losgehen. Wir können jetzt unseren Contract in der Blockchain deployen. Dazu gehen wir zu der Online-Ethereum-IDE [*remix*](https://remix.ethereum.org).
@@ -283,11 +283,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDA4OTY4NjksLTEyMDI4MDM2MzYsMT
-AzNDg4Njc3MSwyMDE3MTI4MjM0LC0xMDAxMzQxOTI4LDU4NTAy
-MTc5MiwxNjcxNzg2NDUwLC0zMzQ4MTQ3NzksLTE1ODAxMjQ5Mi
-wxNTQyNDk3NTI4LDIwMDAzMzQwNTgsOTEwODg4Mzg4LDExNzI2
-MDU3OTMsLTcwOTU2MDgxLDE3Mjk4MDM0MiwtMzY2MTQyNDU5LC
-01NjAxOTU4NTEsMTk0ODcwNjI1OCwtNjM2NjU5ODUyLDIwNjYy
-MDc4NV19
+eyJoaXN0b3J5IjpbMTQ1MjYxMzAxMiwtMTIwMjgwMzYzNiwxMD
+M0ODg2NzcxLDIwMTcxMjgyMzQsLTEwMDEzNDE5MjgsNTg1MDIx
+NzkyLDE2NzE3ODY0NTAsLTMzNDgxNDc3OSwtMTU4MDEyNDkyLD
+E1NDI0OTc1MjgsMjAwMDMzNDA1OCw5MTA4ODgzODgsMTE3MjYw
+NTc5MywtNzA5NTYwODEsMTcyOTgwMzQyLC0zNjYxNDI0NTksLT
+U2MDE5NTg1MSwxOTQ4NzA2MjU4LC02MzY2NTk4NTIsMjA2NjIw
+Nzg1XX0=
 -->
