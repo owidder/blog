@@ -232,11 +232,11 @@ Wenn Sie nun angemeldet sind, dann erscheint nach *Connect with Metamask* noch e
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-05/iterablog/images/warning.png" alt="Warning"/>
 
-Auch die ignorieren wir, schließlich spielen wir ja nur mit Rinkeby-Spielgeld.
+Auch die ignorieren wir, schließlich spielen wir ja nur mit Rinkeby-Spielgeld. Jetzt erkennen wir durch den grünen Punkt, dass wir mit *Metamask* verbunden sind.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwOTc5MDAxMzIsMTIwNzA0MTU4NSwtNT
+eyJoaXN0b3J5IjpbLTE5ODUwMTM0MTMsMTIwNzA0MTU4NSwtNT
 QyNDgxODk1LC0zNTg3NTIwMTMsLTM1MDYzMTIzOCwxNjc0MDk1
 OTkzLDExNDEwMDMxOTYsLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC
 03MjgzNzg3MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4
