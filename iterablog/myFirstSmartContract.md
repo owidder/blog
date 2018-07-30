@@ -246,13 +246,15 @@ Wenn Sie jetzt den *Write*-Button klicken, müssen Sie die Transaktion wieder in
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-07/iterablog/images/confirm-transaction2.png" alt="Write logHashValue"/>
 
-Danach sehen eine neuen Button, der Sie zu dieser Tr
+Danach sehen eine neuen Button, der Sie zu dieser Transaktion führt.
+
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-08/iterablog/images/view-transaction.png" alt="Write logHashValue"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODA3NzA2OTQwLDE2ODkxMTI3OTQsMTI3Mj
-IxNjYyMywxMzY5MTk3NTIxLDE4MzExMzUwNDQsLTIzMDkwOTAz
-LDQzNzgyMzQ3OSwtOTAxMzAyNTk3LDE4ODY4NzE4NDIsOTUzMz
-EyODIxLDIwMTkxMjU3NjYsLTEwODk4MDU2MiwxMjA3MDQxNTg1
-LC01NDI0ODE4OTUsLTM1ODc1MjAxMywtMzUwNjMxMjM4LDE2Nz
-QwOTU5OTMsMTE0MTAwMzE5NiwtMzAwNTY3NTMwLC0zNjE5MTU1
-MDVdfQ==
+eyJoaXN0b3J5IjpbNzAwMzgzMjM2LDgwNzcwNjk0MCwxNjg5MT
+EyNzk0LDEzNjkxOTc1MjEsMTgzMTEzNTA0NCwtMjMwOTA5MDMs
+NDM3ODIzNDc5LC05MDEzMDI1OTcsMTg4Njg3MTg0Miw5NTMzMT
+I4MjEsMjAxOTEyNTc2NiwtMTA4OTgwNTYyLDEyMDcwNDE1ODUs
+LTU0MjQ4MTg5NSwtMzU4NzUyMDEzLC0zNTA2MzEyMzgsMTY3ND
+A5NTk5MywxMTQxMDAzMTk2LC0zMDA1Njc1MzAsLTM2MTkxNTUw
+NV19
 -->
