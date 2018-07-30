@@ -14,7 +14,7 @@ Und glaubt man den Expertinnen (oder meinem [Kollegen](https://www.iteratec.de/t
 Aber da wir auch besseres zu tun haben, wollen wir es uns so einfach wie möglich machen und nur online Tools verwenden.
 
 ## Unsere eigene Währung...
-... wollen wir aber nicht. Auf [Ethereum](https://www.ethereum.org/) - die älteste und größte der Blockchains, die Smart Contracts anbieten - gibt es jede Menge Contracts, die ihren eigenen Coin implementieren. Dafür gibt es auch extra Standards ([ERC20](https://en.wikipedia.org/wiki/ERC20) bzw. [ERC223](https://cointrends.top/news/view/the-new-erc223-token-standard)). Und so ein ERC20-Contract [muss gar nicht mal so groß sein](https://github.com/bitfwdcommunity/Issue-your-own-ERC20-token/blob/master/contracts/erc20_tutorial.sol).
+... wollen wir aber nicht. Auf [Ethereum](https://www.ethereum.org/) - die älteste und größte der Blockchains, die Smart Contracts anbieten - gibt es jede Menge Contracts, die ihren eigenen Coin implementieren. Dafür gibt es auch extra Standards ([ERC20](https://en.wikipedia.org/wiki/ERC20) bzw. [ERC223](https://cointrends.top/news/view/the-new-erc223-token-standard)). Und so ein ERC20-Contract [muss gar auch nicht mal so groß sein](https://github.com/bitfwdcommunity/Issue-your-own-ERC20-token/blob/master/contracts/erc20_tutorial.sol).
 Wir aber wollen es noch viel einfacher.
 
 ## "Das habe ich doch schon vor 10 Jahren gesagt!"
@@ -279,11 +279,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIxNDcxODAyNSwxNTQyNDk3NTI4LDIwMD
-AzMzQwNTgsOTEwODg4Mzg4LDExNzI2MDU3OTMsLTcwOTU2MDgx
-LDE3Mjk4MDM0MiwtMzY2MTQyNDU5LC01NjAxOTU4NTEsMTk0OD
-cwNjI1OCwtNjM2NjU5ODUyLDIwNjYyMDc4NSwtNjI0MTc3MzE2
-LC03MzU4NDMxNjUsLTgzNzc5NzY5LC0xNTIyNTI3NTMwLC05ND
-YzNjcyMDMsLTgzNTYzMDgxMCw4MDc3MDY5NDAsMTY4OTExMjc5
-NF19
+eyJoaXN0b3J5IjpbLTIwNzE2NTgxNzAsMTU0MjQ5NzUyOCwyMD
+AwMzM0MDU4LDkxMDg4ODM4OCwxMTcyNjA1NzkzLC03MDk1NjA4
+MSwxNzI5ODAzNDIsLTM2NjE0MjQ1OSwtNTYwMTk1ODUxLDE5ND
+g3MDYyNTgsLTYzNjY1OTg1MiwyMDY2MjA3ODUsLTYyNDE3NzMx
+NiwtNzM1ODQzMTY1LC04Mzc3OTc2OSwtMTUyMjUyNzUzMCwtOT
+Q2MzY3MjAzLC04MzU2MzA4MTAsODA3NzA2OTQwLDE2ODkxMTI3
+OTRdfQ==
 -->
