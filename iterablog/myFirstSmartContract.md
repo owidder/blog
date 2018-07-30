@@ -268,13 +268,15 @@ erzeugt wurde.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-11/iterablog/images/event-log.png" alt="New Transaction"/>
 
-Leider gibt es keine Möglichkeit, die Daten im Klartex
+Leider gibt es keine Möglichkeit, die Daten im Klartext zu sehen (zumindes kenne ich keine, falls Sie eine kennen, bin ich sehr interessiert: oliver.widder@iteratec.de).
+
+Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3OTk2NjQwMiw2OTIxMDQwMDYsMzIzNz
-k2NDM5LC01NjAxOTU4NTEsMTk0ODcwNjI1OCwtNjM2NjU5ODUy
-LDIwNjYyMDc4NSwtNjI0MTc3MzE2LC03MzU4NDMxNjUsLTgzNz
-c5NzY5LC0xNTIyNTI3NTMwLC05NDYzNjcyMDMsLTgzNTYzMDgx
-MCw4MDc3MDY5NDAsMTY4OTExMjc5NCwxMzY5MTk3NTIxLDE4Mz
-ExMzUwNDQsLTIzMDkwOTAzLDQzNzgyMzQ3OSwtOTAxMzAyNTk3
-XX0=
+eyJoaXN0b3J5IjpbMTIwNTI3Mzc5NSwtMjc5OTY2NDAyLDY5Mj
+EwNDAwNiwtNTYwMTk1ODUxLDE5NDg3MDYyNTgsLTYzNjY1OTg1
+MiwyMDY2MjA3ODUsLTYyNDE3NzMxNiwtNzM1ODQzMTY1LC04Mz
+c3OTc2OSwtMTUyMjUyNzUzMCwtOTQ2MzY3MjAzLC04MzU2MzA4
+MTAsODA3NzA2OTQwLDE2ODkxMTI3OTQsMTM2OTE5NzUyMSwxOD
+MxMTM1MDQ0LC0yMzA5MDkwMyw0Mzc4MjM0NzksLTkwMTMwMjU5
+N119
 -->
