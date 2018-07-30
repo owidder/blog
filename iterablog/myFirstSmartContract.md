@@ -205,14 +205,14 @@ Und wenn man jetzt wieder neu auf die [Seite des Contracts](https://rinkeby.ethe
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-03/iterablog/images/green-check.png" alt="Green Check"/>
 
-Und *Code*-Tab können wir nun unseren bewundern.
+Und im *Code*-Tab können wir nun unseren Code bewundern.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-03/iterablog/images/code.png" alt="Code"/>
 
 ## Heureka
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMxMDQ5NTM2MSwtMzYxOTE1NTA1LC03Mj
+eyJoaXN0b3J5IjpbLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC03Mj
 gzNzg3MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4NjI0
 ODExMCwtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3NzI4LD
 QxMDE4ODkzMiwtOTk5MTIwOTQ4LDg3ODU1MzU1LDEwMzM3MzQ3
