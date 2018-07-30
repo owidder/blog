@@ -226,13 +226,15 @@ Dort klicken Sie auf den *Connect with Metamask*. Sollen Sie nicht mehr bei *Met
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-05/iterablog/images/metamask-not-enabled.png" alt="Metamask is not enabled"/>
 
-Jetzt müssen Sich erst einmal bei Metamask anmelden
+Jetzt müssen Sich erst einmal bei Metamask anmelden (Achtung: Sie haben noch den Hashwert in der Zwischenablage).
+
+Wenn Sie nun angemeldet sind, dann 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzkzMzI2NTcsLTM1ODc1MjAxMywtMz
-UwNjMxMjM4LDE2NzQwOTU5OTMsMTE0MTAwMzE5NiwtMzAwNTY3
-NTMwLC0zNjE5MTU1MDUsLTcyODM3ODcxOSwtMTI0MTI3OTg1OC
-wtMTE1MTM5NDg4LC0xOTg2MjQ4MTEwLC04NzU4MTk5ODQsMTMy
-MTM3NzUxNCw1NDY1Mjc3MjgsNDEwMTg4OTMyLC05OTkxMjA5ND
-gsODc4NTUzNTUsMTAzMzczNDczNSw4NzQwNTk5MjIsMTQwNDE5
-OTE4XX0=
+eyJoaXN0b3J5IjpbLTU5NDE2MzczOCwtMzU4NzUyMDEzLC0zNT
+A2MzEyMzgsMTY3NDA5NTk5MywxMTQxMDAzMTk2LC0zMDA1Njc1
+MzAsLTM2MTkxNTUwNSwtNzI4Mzc4NzE5LC0xMjQxMjc5ODU4LC
+0xMTUxMzk0ODgsLTE5ODYyNDgxMTAsLTg3NTgxOTk4NCwxMzIx
+Mzc3NTE0LDU0NjUyNzcyOCw0MTAxODg5MzIsLTk5OTEyMDk0OC
+w4Nzg1NTM1NSwxMDMzNzM0NzM1LDg3NDA1OTkyMiwxNDA0MTk5
+MThdfQ==
 -->
