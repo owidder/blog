@@ -188,13 +188,13 @@ Dort müssen wir folgendes eintragen:
 
  - Adresse des Contract (ist schon vorausgefüllt)
  - Name des Contract
- - Compiler-Version: Kann man in *remix* im *Settings*-Tab auf der rechten Seite sehen
+ - Compiler-Version: Kann man in *remix* im *Settings*-Tab auf der rechten Seite sehen:
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-01/iterablog/images/compiler-version.png" alt="Verify Form"/>
- - Zum Schluss müssen wir noch angeben, ob der Compiler mit Optimierung lief. Auch das sieht man im Settings-Tab
+ - Zum Schluss müssen wir noch angeben, ob der Compiler mit Optimierung lief. Auch das sieht man im Settings-Tab. War ausgeschaltet (hätten wir vielleicht mal einschalten sollen - nächstes Mal):
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ2NTI3NzI4LDQxMDE4ODkzMiwxNDgyMj
-YxMTQ1LC05OTkxMjA5NDgsODc4NTUzNTUsMTAzMzczNDczNSw4
+eyJoaXN0b3J5IjpbMTMyMTM3NzUxNCw1NDY1Mjc3MjgsNDEwMT
+g4OTMyLC05OTkxMjA5NDgsODc4NTUzNTUsMTAzMzczNDczNSw4
 NzQwNTk5MjIsMTQwNDE5OTE4LDE2NDc0NTI2NjgsMTE0NDU0Nz
 k2NiwtMTc3MjEwMDI0NCwtMjAzNzA0MTI2MywxMzY0MTI1MSwt
 MjExNjE1ODE2NSw4NzAxODA2MDAsLTcyMTA1MTg5OSwtMTgzNT
