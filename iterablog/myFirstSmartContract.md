@@ -32,11 +32,11 @@ Und da Speicher in der Blockchain Geld kostet, hashen ([SHA512](https://abunchof
 ## Pacta sunt servanda
 Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns auf eine einzige Funktion:
 
- - `logHashValue(string hashValue)` :  Speichert in der Blockchain einen Hashwert.
+ - `logHashValue(string hashValue)` :  Veröffentlicht in der Blockchain einen Hashwert. (Was wir mit *veröffentlichen* meinen, werden wir gleich sehen)
 
 Das ist alles. Mehr brauchen wir nicht.
 
-Jetzt noch ein Name für unseren Contract: [Weisenheimer](https://www.urbandictionary.com/define.php?term=weisenheimer)
+Jetzt nur noch ein Name für unseren Contract: [Weisenheimer](https://www.urbandictionary.com/define.php?term=weisenheimer)
 und hier [ist er auch schon](https://github.com/owidder/iteraBlog/blob/master/weisenheimer/contract/Weisenheimer.sol):
 
     pragma solidity ^0.4.19;
@@ -279,7 +279,7 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDgxNDc3OSwxODYzNDAxNzM5LC0xNT
+eyJoaXN0b3J5IjpbMTY3MTc4NjQ1MCwtMzM0ODE0Nzc5LC0xNT
 gwMTI0OTIsMTU0MjQ5NzUyOCwyMDAwMzM0MDU4LDkxMDg4ODM4
 OCwxMTcyNjA1NzkzLC03MDk1NjA4MSwxNzI5ODAzNDIsLTM2Nj
 E0MjQ1OSwtNTYwMTk1ODUxLDE5NDg3MDYyNTgsLTYzNjY1OTg1
