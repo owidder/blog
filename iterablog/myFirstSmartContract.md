@@ -218,11 +218,13 @@ Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihe
 
 Dort geben Sie ihre kluge Idee ein drücken auf den großen *Calculate*-Knopf. Den Hashwert kopieren Sie sich mit Strg-C.
 
-Mit dem Hashwert in der Zwischenablage gehen Sie dann wieder zu der Contract-Seite zurück in den *Write-Contract*-Tab.
+Mit dem Hashwert in der Zwischenablage gehen Sie dann wieder zu der [Contract-Seite](https://rinkeby.etherscan.io/address/0x245ede9dac68b84f329e21024e0083ce432700f9#writeContract) zurück in den *Write-Contract*-Tab.
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/write-contract.png" alt="Smart Idea"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/write-contract.png" alt="Write Contract"/>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MDYzMTIzOCwtMTQ1NzMzNjQzLDE2Nz
+eyJoaXN0b3J5IjpbMjEwMDg2NjIzMSwtMzUwNjMxMjM4LDE2Nz
 QwOTU5OTMsMTE0MTAwMzE5NiwtMzAwNTY3NTMwLC0zNjE5MTU1
 MDUsLTcyODM3ODcxOSwtMTI0MTI3OTg1OCwtMTE1MTM5NDg4LC
 0xOTg2MjQ4MTEwLC04NzU4MTk5ODQsMTMyMTM3NzUxNCw1NDY1
