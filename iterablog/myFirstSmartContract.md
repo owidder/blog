@@ -56,7 +56,7 @@ Die Funktion *logHashValue* erzeugt einen Logeintrag mit den Hashwert, der Adres
 
 Die Funktion ist *public* ohne Einschränkung, d.h. sie darf von jedem Ethereum Account aufgerufen werden.
 
-Jeder kann die Log-Einträge eines Contracts lesen. Daher ist das auch eine Art von Veröffentlichen.
+Jeder kann die Log-Einträge eines Contracts lesen. Daher ist das auch eine Art von *Veröffentlichen*.
 
 ## Wallets
 Um unseren Smart Contract *Weisenheimer* in der Ethereum Blockchain zu deployen, brauchen wir einen Account und *Ether*, die Währung bei Ethereum. 
@@ -282,11 +282,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDEzNDE5MjgsNTg1MDIxNzkyLDE2Nz
-E3ODY0NTAsLTMzNDgxNDc3OSwtMTU4MDEyNDkyLDE1NDI0OTc1
-MjgsMjAwMDMzNDA1OCw5MTA4ODgzODgsMTE3MjYwNTc5MywtNz
-A5NTYwODEsMTcyOTgwMzQyLC0zNjYxNDI0NTksLTU2MDE5NTg1
-MSwxOTQ4NzA2MjU4LC02MzY2NTk4NTIsMjA2NjIwNzg1LC02Mj
-QxNzczMTYsLTczNTg0MzE2NSwtODM3Nzk3NjksLTE1MjI1Mjc1
-MzBdfQ==
+eyJoaXN0b3J5IjpbMjAxNzEyODIzNCwtMTAwMTM0MTkyOCw1OD
+UwMjE3OTIsMTY3MTc4NjQ1MCwtMzM0ODE0Nzc5LC0xNTgwMTI0
+OTIsMTU0MjQ5NzUyOCwyMDAwMzM0MDU4LDkxMDg4ODM4OCwxMT
+cyNjA1NzkzLC03MDk1NjA4MSwxNzI5ODAzNDIsLTM2NjE0MjQ1
+OSwtNTYwMTk1ODUxLDE5NDg3MDYyNTgsLTYzNjY1OTg1MiwyMD
+Y2MjA3ODUsLTYyNDE3NzMxNiwtNzM1ODQzMTY1LC04Mzc3OTc2
+OV19
 -->
