@@ -252,19 +252,19 @@ Danach sehen den neuen Button *View your transaction*, über den Sie sich die ne
 
 Und da [ist sie auch schon](https://rinkeby.etherscan.io/tx/0x4ea17b435fa362308addb550faf719fdc6333341f6778cff620b49264c87c1df). 
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-09/iterablog/images/new-transaction.png" alt="Confirm Transaction"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-09/iterablog/images/new-transaction.png" alt="New Transaction"/>
 
 Ist sie nicht schön?
 
 Über den Button *Decode Input Data* bekommen Sie auch die Eingebadaten im Klartext angezeigt.
 
-
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-10/iterablog/images/input-data.png" alt="New Transaction"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ1NzY3MzU2LDIwNjYyMDc4NSwtNjI0MT
-c3MzE2LC03MzU4NDMxNjUsLTgzNzc5NzY5LC0xNTIyNTI3NTMw
-LC05NDYzNjcyMDMsLTgzNTYzMDgxMCw4MDc3MDY5NDAsMTY4OT
-ExMjc5NCwxMzY5MTk3NTIxLDE4MzExMzUwNDQsLTIzMDkwOTAz
-LDQzNzgyMzQ3OSwtOTAxMzAyNTk3LDE4ODY4NzE4NDIsOTUzMz
-EyODIxLDIwMTkxMjU3NjYsLTEwODk4MDU2MiwxMjA3MDQxNTg1
-XX0=
+eyJoaXN0b3J5IjpbLTYzNjY1OTg1MiwyMDY2MjA3ODUsLTYyND
+E3NzMxNiwtNzM1ODQzMTY1LC04Mzc3OTc2OSwtMTUyMjUyNzUz
+MCwtOTQ2MzY3MjAzLC04MzU2MzA4MTAsODA3NzA2OTQwLDE2OD
+kxMTI3OTQsMTM2OTE5NzUyMSwxODMxMTM1MDQ0LC0yMzA5MDkw
+Myw0Mzc4MjM0NzksLTkwMTMwMjU5NywxODg2ODcxODQyLDk1Mz
+MxMjgyMSwyMDE5MTI1NzY2LC0xMDg5ODA1NjIsMTIwNzA0MTU4
+NV19
 -->
