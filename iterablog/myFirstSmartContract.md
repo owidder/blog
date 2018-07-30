@@ -214,13 +214,13 @@ So, jetzt brauchen wir nur noch einen klugen Gedanken, den wir hashen und in uns
 
 Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihen (aber nicht stehlen, der ist schon längst in der Blockchain). Wir gehen erst einmal zu einem [Online-Hash-Calculator](https://abunchofutils.com/u/computing/sha512-hash-calculator/).
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/smart-idea.png" alt="Code"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/smart-idea.png" alt="Smart Idea"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTAwMzE5Niw1OTQ4MjkzNTcsLTMwMD
-U2NzUzMCwtMzYxOTE1NTA1LC03MjgzNzg3MTksLTEyNDEyNzk4
-NTgsLTExNTEzOTQ4OCwtMTk4NjI0ODExMCwtODc1ODE5OTg0LD
-EzMjEzNzc1MTQsNTQ2NTI3NzI4LDQxMDE4ODkzMiwtOTk5MTIw
-OTQ4LDg3ODU1MzU1LDEwMzM3MzQ3MzUsODc0MDU5OTIyLDE0MD
-QxOTkxOCwxNjQ3NDUyNjY4LDExNDQ1NDc5NjYsLTE3NzIxMDAy
-NDRdfQ==
+eyJoaXN0b3J5IjpbLTE5MjM1MjA4MzcsMTE0MTAwMzE5Niw1OT
+Q4MjkzNTcsLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC03MjgzNzg3
+MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4NjI0ODExMC
+wtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3NzI4LDQxMDE4
+ODkzMiwtOTk5MTIwOTQ4LDg3ODU1MzU1LDEwMzM3MzQ3MzUsOD
+c0MDU5OTIyLDE0MDQxOTkxOCwxNjQ3NDUyNjY4LDExNDQ1NDc5
+NjZdfQ==
 -->
