@@ -102,7 +102,7 @@ Wir gehen zur offiziellen [Faucet von Rinkeby](https://faucet.rinkeby.io/):
 
 Dort bekommen wir Ether geschenkt. Dafür müssen wir die Adresse unseres Accounts auf Twitter, Google+ oder Facebook posten und die URL des Posts in das Eingabefeld kopieren. 
 
-Dann können wir uns entscheiden, wieviel Ether wir wollen. Je nachdem können wir dann auch erst in 8 Stunden, einem oder drei Tagen wieder im Ether betteln.
+Dann können wir uns entscheiden, wieviel Ether wir wollen. Je nachdem können wir dann aber erst in 8 Stunden, einem oder drei Tagen wieder um Ether betteln.
 
 Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopieren (3 Punkte neben dem Account-Namen *Account 1*):
 
@@ -283,11 +283,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzIwMzU1NzU3LDEwMzQ4ODY3NzEsMjAxNz
-EyODIzNCwtMTAwMTM0MTkyOCw1ODUwMjE3OTIsMTY3MTc4NjQ1
-MCwtMzM0ODE0Nzc5LC0xNTgwMTI0OTIsMTU0MjQ5NzUyOCwyMD
-AwMzM0MDU4LDkxMDg4ODM4OCwxMTcyNjA1NzkzLC03MDk1NjA4
-MSwxNzI5ODAzNDIsLTM2NjE0MjQ1OSwtNTYwMTk1ODUxLDE5ND
-g3MDYyNTgsLTYzNjY1OTg1MiwyMDY2MjA3ODUsLTYyNDE3NzMx
-Nl19
+eyJoaXN0b3J5IjpbLTEyMDI4MDM2MzYsMTAzNDg4Njc3MSwyMD
+E3MTI4MjM0LC0xMDAxMzQxOTI4LDU4NTAyMTc5MiwxNjcxNzg2
+NDUwLC0zMzQ4MTQ3NzksLTE1ODAxMjQ5MiwxNTQyNDk3NTI4LD
+IwMDAzMzQwNTgsOTEwODg4Mzg4LDExNzI2MDU3OTMsLTcwOTU2
+MDgxLDE3Mjk4MDM0MiwtMzY2MTQyNDU5LC01NjAxOTU4NTEsMT
+k0ODcwNjI1OCwtNjM2NjU5ODUyLDIwNjYyMDc4NSwtNjI0MTc3
+MzE2XX0=
 -->
