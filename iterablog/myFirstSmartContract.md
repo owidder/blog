@@ -193,13 +193,13 @@ Dort müssen wir folgendes eintragen:
  - Zum Schluss müssen wir noch angeben, ob der Compiler mit Optimierung lief. Auch das sieht man im Settings-Tab. War ausgeschaltet (hätten wir vielleicht mal einschalten sollen - nächstes Mal)
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-02/iterablog/images/settings.png" alt="Settings"/>
 
-
+Jetzt 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMT
-k4NjI0ODExMCwtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3
-NzI4LDQxMDE4ODkzMiwtOTk5MTIwOTQ4LDg3ODU1MzU1LDEwMz
-M3MzQ3MzUsODc0MDU5OTIyLDE0MDQxOTkxOCwxNjQ3NDUyNjY4
-LDExNDQ1NDc5NjYsLTE3NzIxMDAyNDQsLTIwMzcwNDEyNjMsMT
-M2NDEyNTEsLTIxMTYxNTgxNjUsODcwMTgwNjAwLC03MjEwNTE4
-OTldfQ==
+eyJoaXN0b3J5IjpbLTcyODM3ODcxOSwtMTI0MTI3OTg1OCwtMT
+E1MTM5NDg4LC0xOTg2MjQ4MTEwLC04NzU4MTk5ODQsMTMyMTM3
+NzUxNCw1NDY1Mjc3MjgsNDEwMTg4OTMyLC05OTkxMjA5NDgsOD
+c4NTUzNTUsMTAzMzczNDczNSw4NzQwNTk5MjIsMTQwNDE5OTE4
+LDE2NDc0NTI2NjgsMTE0NDU0Nzk2NiwtMTc3MjEwMDI0NCwtMj
+AzNzA0MTI2MywxMzY0MTI1MSwtMjExNjE1ODE2NSw4NzAxODA2
+MDBdfQ==
 -->
