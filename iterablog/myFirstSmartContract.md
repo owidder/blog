@@ -244,7 +244,7 @@ Wenn Sie nun angemeldet sind, dann erscheint nach *Connect with Metamask* noch e
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-05/iterablog/images/warning.png" alt="Warning"/>
 
-Auch die ignorieren wir, schließlich spielen wir ja nur mit Rinkeby-Spielgeld. Jetzt erkennen wir durch den grünen Punkt, dass wir mit *Metamask* verbunden sind.
+Auch die ignorieren wir (den Trick kennt jeder, nicht nur Developer), schließlich spielen wir ja nur mit Rinkeby-Spielgeld. Jetzt erkennen wir durch den grünen Punkt, dass wir mit *Metamask* verbunden sind.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-05/iterablog/images/connected.png" alt="Connected"/>
 
@@ -284,7 +284,7 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2NTA3Mzc0MywxNzM0MDcyODAxLC0xMT
+eyJoaXN0b3J5IjpbMTE4MjU0MzkxOSwtNzY1MDczNzQzLC0xMT
 gxMjM3ODgyLC0xMDAzMDM0Mjg1LDE1MDAwNjY0MzUsLTEwNzk5
 Nzg4MTIsMTM3NjUwMDk2LDU1MzEzOTE3OSwxNDUyNjEzMDEyLC
 0xMjAyODAzNjM2LDEwMzQ4ODY3NzEsMjAxNzEyODIzNCwtMTAw
