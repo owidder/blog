@@ -118,7 +118,7 @@ Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopiere
 
 Jetzt müssen Sie sich entscheiden, auf welchem Social Network Sie die Adresse posten wollen. Sie können dafür auch einen eigen Account anlegen. Nicht dass Sie [reihenweise Follower verlieren](http://s3.media.squarespace.com/production/2129687/19317774/.a/6a00d8341d3df553ef016763cc8111970b-pi).
 
-Ich nehme dafür in der Regel meinen Google+ Account. Den nutze ich sonst kaum. Die paar Follower, wundern sich zwar jedes Mal ("Steuerst Du ein Botnet?"), aber damit muss ich leben.
+Ich nehme dafür in der Regel meinen Google+ Account. Den nutze ich sonst kaum. Die paar Follower, wundern sich zwar jedes Mal ("Steuerst Du ein Botnet?"), aber damit muss man leben.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-03/iterablog/images/googleplus.png" alt="Rinkeby Faucet"/>
 
@@ -292,11 +292,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNzY4MjM1OTMsOTAzMDk2ODUyLC0xNz
-Q0MTQwMjg4LC04Njc4NDkwODQsLTg2MTIzNjI5OCwxNzA4Mjg3
-Njk4LC03MDM2OTEzMDYsLTQzNTE1NzU3OCwxNTE4MTEwMTI5LD
-ExNDU3Mzg2OTUsLTEzNzU0NjgwOTMsLTIwOTA5ODI0OTEsMTc2
-NTI2MTY5OSw0NTEzNDQ4NDAsMTQxODA2MzMwLC0xNjQ1MjY0MD
-k4LC0yMTA3NDYyNjMwLDg4MTgwODUyLC03NjUwNzM3NDMsLTc2
-NTA3Mzc0M119
+eyJoaXN0b3J5IjpbNjEzNzYwOTA3LDkwMzA5Njg1MiwtMTc0ND
+E0MDI4OCwtODY3ODQ5MDg0LC04NjEyMzYyOTgsMTcwODI4NzY5
+OCwtNzAzNjkxMzA2LC00MzUxNTc1NzgsMTUxODExMDEyOSwxMT
+Q1NzM4Njk1LC0xMzc1NDY4MDkzLC0yMDkwOTgyNDkxLDE3NjUy
+NjE2OTksNDUxMzQ0ODQwLDE0MTgwNjMzMCwtMTY0NTI2NDA5OC
+wtMjEwNzQ2MjYzMCw4ODE4MDg1MiwtNzY1MDczNzQzLC03NjUw
+NzM3NDNdfQ==
 -->
