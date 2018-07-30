@@ -268,13 +268,13 @@ erzeugt wurde.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-11/iterablog/images/event-log.png" alt="New Transaction"/>
 
-Leider gibt es keine Möglichkeit, die Daten im Klartetxt
+Leider gibt es keine Möglichkeit, die Daten im Klartex
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjkyMTA0MDA2LDMyMzc5NjQzOSwtNTYwMT
-k1ODUxLDE5NDg3MDYyNTgsLTYzNjY1OTg1MiwyMDY2MjA3ODUs
-LTYyNDE3NzMxNiwtNzM1ODQzMTY1LC04Mzc3OTc2OSwtMTUyMj
-UyNzUzMCwtOTQ2MzY3MjAzLC04MzU2MzA4MTAsODA3NzA2OTQw
-LDE2ODkxMTI3OTQsMTM2OTE5NzUyMSwxODMxMTM1MDQ0LC0yMz
-A5MDkwMyw0Mzc4MjM0NzksLTkwMTMwMjU5NywxODg2ODcxODQy
+eyJoaXN0b3J5IjpbLTI3OTk2NjQwMiw2OTIxMDQwMDYsMzIzNz
+k2NDM5LC01NjAxOTU4NTEsMTk0ODcwNjI1OCwtNjM2NjU5ODUy
+LDIwNjYyMDc4NSwtNjI0MTc3MzE2LC03MzU4NDMxNjUsLTgzNz
+c5NzY5LC0xNTIyNTI3NTMwLC05NDYzNjcyMDMsLTgzNTYzMDgx
+MCw4MDc3MDY5NDAsMTY4OTExMjc5NCwxMzY5MTk3NTIxLDE4Mz
+ExMzUwNDQsLTIzMDkwOTAzLDQzNzgyMzQ3OSwtOTAxMzAyNTk3
 XX0=
 -->
