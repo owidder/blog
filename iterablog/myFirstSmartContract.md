@@ -110,7 +110,7 @@ Dafür müssen wir die Adresse unseres Accounts auf Twitter, Google+ oder Facebo
 
 Dann können wir uns entscheiden, wieviel Ether wir wollen. Je nachdem können wir dann aber erst in 8 Stunden (3 ETH), einem (7,5 ETH) oder drei Tagen (18,75 ETH) wieder um Ether betteln.
 
-Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopieren (Klick auf du3 Punkte neben dem Account-Namen *Account 1*):
+Die Adresse unseres Accounts können wir uns aus unserem Metamask-Wallet kopieren (Klick auf die 3 Punkte neben dem Account-Namen *Account 1*).
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-02/iterablog/images/copy-address.png" alt="Rinkeby Faucet"/>
 
@@ -292,11 +292,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTAzMDk2ODUyLC0xNzQ0MTQwMjg4LDEwOT
-Y3MDk2MDUsLTg2Nzg0OTA4NCwtODYxMjM2Mjk4LDE3MDgyODc2
-OTgsLTcwMzY5MTMwNiwtNDM1MTU3NTc4LDE1MTgxMTAxMjksMT
-E0NTczODY5NSwtMTM3NTQ2ODA5MywtMjA5MDk4MjQ5MSwxNzY1
-MjYxNjk5LDQ1MTM0NDg0MCwxNDE4MDYzMzAsLTE2NDUyNjQwOT
-gsLTIxMDc0NjI2MzAsODgxODA4NTIsLTc2NTA3Mzc0MywtNzY1
-MDczNzQzXX0=
+eyJoaXN0b3J5IjpbLTIwNzY4MjM1OTMsOTAzMDk2ODUyLC0xNz
+Q0MTQwMjg4LC04Njc4NDkwODQsLTg2MTIzNjI5OCwxNzA4Mjg3
+Njk4LC03MDM2OTEzMDYsLTQzNTE1NzU3OCwxNTE4MTEwMTI5LD
+ExNDU3Mzg2OTUsLTEzNzU0NjgwOTMsLTIwOTA5ODI0OTEsMTc2
+NTI2MTY5OSw0NTEzNDQ4NDAsMTQxODA2MzMwLC0xNjQ1MjY0MD
+k4LC0yMTA3NDYyNjMwLDg4MTgwODUyLC03NjUwNzM3NDMsLTc2
+NTA3Mzc0M119
 -->
