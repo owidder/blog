@@ -8,7 +8,10 @@ Wenn [Blockchains](https://www.theguardian.com/commentisfree/2018/feb/06/blockch
 Und glaubt man den Expertinnen (oder meinem [Kollegen](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain-teil-4-die-blockchain-im-einsatz-1/)), dann könnten Smart Contracts ganze  [Märkte verändern](http://www.zhiguohe.com/uploads/1/0/6/9/106923057/bdsc.pdf).
 
 ## Es nützt also nix...
-... wir müssen selber einen Smart Contract erstellen. Erst dann können wir auch [mit den wirklich coolen Kids mitreden](https://cointrends.top/news/view/the-new-erc223-token-standard). Aber da wir auch besseres zu tun haben, wollen wir es uns so einfach wie möglich machen und nur online Tools verwenden.
+... wir müssen selber einen Smart Contract erstellen. Erst dann können wir auch [mit den wirklich coolen Kids mitreden](https://cointrends.top/news/view/the-new-erc223-token-standard). 
+
+## Zero Install
+Aber da wir auch besseres zu tun haben, wollen wir es uns so einfach wie möglich machen und nur online Tools verwenden.
 
 ## Unsere eigene Währung...
 ... wollen wir aber nicht. Auf [Ethereum](https://www.ethereum.org/) - die älteste und größte der Blockchains, die Smart Contracts anbieten - gibt es jede Menge Contracts, die ihren eigenen Coin implementieren. Dafür gibt es auch extra Standards ([ERC20](https://en.wikipedia.org/wiki/ERC20) bzw. [ERC223](https://cointrends.top/news/view/the-new-erc223-token-standard)). Und so ein ERC20-Contract [muss gar nicht mal so groß sein](https://github.com/bitfwdcommunity/Issue-your-own-ERC20-token/blob/master/contracts/erc20_tutorial.sol).
@@ -276,11 +279,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU0MjQ5NzUyOCwyMDAwMzM0MDU4LDkxMD
-g4ODM4OCwxMTcyNjA1NzkzLC03MDk1NjA4MSwxNzI5ODAzNDIs
-LTM2NjE0MjQ1OSwtNTYwMTk1ODUxLDE5NDg3MDYyNTgsLTYzNj
-Y1OTg1MiwyMDY2MjA3ODUsLTYyNDE3NzMxNiwtNzM1ODQzMTY1
-LC04Mzc3OTc2OSwtMTUyMjUyNzUzMCwtOTQ2MzY3MjAzLC04Mz
-U2MzA4MTAsODA3NzA2OTQwLDE2ODkxMTI3OTQsMTM2OTE5NzUy
-MV19
+eyJoaXN0b3J5IjpbMTIxNDcxODAyNSwxNTQyNDk3NTI4LDIwMD
+AzMzQwNTgsOTEwODg4Mzg4LDExNzI2MDU3OTMsLTcwOTU2MDgx
+LDE3Mjk4MDM0MiwtMzY2MTQyNDU5LC01NjAxOTU4NTEsMTk0OD
+cwNjI1OCwtNjM2NjU5ODUyLDIwNjYyMDc4NSwtNjI0MTc3MzE2
+LC03MzU4NDMxNjUsLTgzNzc5NzY5LC0xNTIyNTI3NTMwLC05ND
+YzNjcyMDMsLTgzNTYzMDgxMCw4MDc3MDY5NDAsMTY4OTExMjc5
+NF19
 -->
