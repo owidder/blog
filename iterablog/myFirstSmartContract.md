@@ -197,14 +197,14 @@ Dort müssen wir folgendes eintragen:
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-form.png" alt="Compiler Version"/>
 
- - Adresse des Contract (ist schon vorausgefüllt)
- - Name des Contract
+ - Adresse des Contract: Ist schon vorausgefüllt
+ - Name des Contract: Wiesenheimer
  - Compiler-Version: Kann man in *remix* im *Settings*-Tab auf der rechten Seite sehen
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-01/iterablog/images/compiler-version.png" alt="Verify Form"/>
- - Zum Schluss müssen wir noch angeben, ob der Compiler mit Optimierung lief. Auch das sieht man im Settings-Tab. War ausgeschaltet (hätten wir vielleicht mal einschalten sollen - nächstes Mal)
+ - Zum Schluss müssen wir noch angeben, ob der Compiler mit Optimierung lief. Auch das sieht man im Settings-Tab. War ausgeschaltet (hätten wir vielleicht mal einschalten sollen - naja, nächstes Mal)
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-02/iterablog/images/settings.png" alt="Settings"/>
 
-Jetzt nur noch ganz runter scrollen, versichern dass man kein Roboter ist (wer kann das schon mit Sicherheit von sich sagen?) und den großen blauen Knopf drücken.
+Jetzt nur noch ganz runter scrollen, versichern dass man kein Roboter ist (aber wer kann das schon mit Sicherheit von sich sagen?) und den großen blauen Knopf drücken.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-03/iterablog/images/verify-button.png" alt="Verify Button"/>
 
@@ -285,7 +285,7 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMTE2NjU0OTAsLTEwMDMwMzQyODUsMT
+eyJoaXN0b3J5IjpbLTExODEyMzc4ODIsLTEwMDMwMzQyODUsMT
 UwMDA2NjQzNSwtMTA3OTk3ODgxMiwxMzc2NTAwOTYsNTUzMTM5
 MTc5LDE0NTI2MTMwMTIsLTEyMDI4MDM2MzYsMTAzNDg4Njc3MS
 wyMDE3MTI4MjM0LC0xMDAxMzQxOTI4LDU4NTAyMTc5MiwxNjcx
