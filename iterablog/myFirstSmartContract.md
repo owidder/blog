@@ -195,10 +195,11 @@ Dort müssen wir folgendes eintragen:
 
 Jetzt nur noch ganz runter scrollen, versichern dass man kein Roboter ist (wer kann das schon mit Sicherheit von sich sagen?) und den großen blauen Knopf drücken.
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-02/iterablog/images/settings.png" alt="Settings"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-03/iterablog/images/verify-button.png" alt="Verify Button"/>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MzIwODczNywtNzI4Mzc4NzE5LC0xMj
+eyJoaXN0b3J5IjpbMTY5OTY0MTQxMSwtNzI4Mzc4NzE5LC0xMj
 QxMjc5ODU4LC0xMTUxMzk0ODgsLTE5ODYyNDgxMTAsLTg3NTgx
 OTk4NCwxMzIxMzc3NTE0LDU0NjUyNzcyOCw0MTAxODg5MzIsLT
 k5OTEyMDk0OCw4Nzg1NTM1NSwxMDMzNzM0NzM1LDg3NDA1OTky
