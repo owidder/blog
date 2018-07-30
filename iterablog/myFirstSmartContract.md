@@ -234,7 +234,7 @@ Mit dem Hashwert in der Zwischenablage gehen Sie dann wieder zu der [Contract-Se
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/write-contract.png" alt="Write Contract"/>
 
-Dort klicken Sie auf den *Connect with Metamask*. Sollen Sie nicht mehr bei *Metamask* angemeldet sein, dann erscheint sowas:
+Dort klicken Sie auf den *Connect with Metamask*. Sollten Sie nicht mehr bei *Metamask* angemeldet sein, dann erscheint sowas:
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-05/iterablog/images/metamask-not-enabled.png" alt="Metamask is not enabled"/>
 
@@ -284,7 +284,7 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTczNDA3MjgwMSwyMDM1NzI4ODA1LC0xMT
+eyJoaXN0b3J5IjpbLTc2NTA3Mzc0MywxNzM0MDcyODAxLC0xMT
 gxMjM3ODgyLC0xMDAzMDM0Mjg1LDE1MDAwNjY0MzUsLTEwNzk5
 Nzg4MTIsMTM3NjUwMDk2LDU1MzEzOTE3OSwxNDUyNjEzMDEyLC
 0xMjAyODAzNjM2LDEwMzQ4ODY3NzEsMjAxNzEyODIzNCwtMTAw
