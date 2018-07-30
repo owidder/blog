@@ -65,7 +65,7 @@ Um unseren Smart Contract *Weisenheimer* in der Ethereum Blockchain zu deployen,
 
 Jede Transaktion bei Ethereum - und das Deployen eines Contracts ist auch eine Transaktion - kostet Ether. Und Ether kosten normalerweise [echtes Geld](https://www.coindesk.com/ethereum-price/) (aber seien Sie beruhigt, für unser kleines Beispiel brauchen Sie kein Geld auszugeben).
 
-Das Verwalten von Accounts und Starten von Transaktionen geht am Einfachsten über ein *Wallet*.
+Das Verwalten von Accounts und Starten von Transaktionen geht am Einfachsten über ein [*Wallet*](https://www.statista.com/statistics/647374/worldwide-blockchain-wallet-users/).
 
 Wir verwenden dafür das Browser-Plug-in [Metamask](https://metamask.io/).
 Die Installation erfolgt über den [Chrome Web Store](https://chrome.google.com/webstore/search/metamask) oder über [Firefox Add-ons](https://addons.mozilla.org/firefox/search/?q=metamask).
@@ -282,11 +282,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAxNzEyODIzNCwtMTAwMTM0MTkyOCw1OD
-UwMjE3OTIsMTY3MTc4NjQ1MCwtMzM0ODE0Nzc5LC0xNTgwMTI0
-OTIsMTU0MjQ5NzUyOCwyMDAwMzM0MDU4LDkxMDg4ODM4OCwxMT
-cyNjA1NzkzLC03MDk1NjA4MSwxNzI5ODAzNDIsLTM2NjE0MjQ1
-OSwtNTYwMTk1ODUxLDE5NDg3MDYyNTgsLTYzNjY1OTg1MiwyMD
-Y2MjA3ODUsLTYyNDE3NzMxNiwtNzM1ODQzMTY1LC04Mzc3OTc2
-OV19
+eyJoaXN0b3J5IjpbNTMzNDQ3OTIyLDIwMTcxMjgyMzQsLTEwMD
+EzNDE5MjgsNTg1MDIxNzkyLDE2NzE3ODY0NTAsLTMzNDgxNDc3
+OSwtMTU4MDEyNDkyLDE1NDI0OTc1MjgsMjAwMDMzNDA1OCw5MT
+A4ODgzODgsMTE3MjYwNTc5MywtNzA5NTYwODEsMTcyOTgwMzQy
+LC0zNjYxNDI0NTksLTU2MDE5NTg1MSwxOTQ4NzA2MjU4LC02Mz
+Y2NTk4NTIsMjA2NjIwNzg1LC02MjQxNzczMTYsLTczNTg0MzE2
+NV19
 -->
