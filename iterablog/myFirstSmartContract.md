@@ -288,11 +288,11 @@ erzeugt wurde.
 
 Leider gibt es keine Möglichkeit, die Daten im Klartext zu sehen (zumindes kenne ich keine, falls Sie eine kennen, bin ich sehr interessiert: oliver.widder@iteratec.de).
 
-Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln, mit der wir dies auslesen können. Mit dieser DApp wird auch das Ablegen von klugen Gedanken deutlich einfacher.
+Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln, mit der wir dies auslesen können. Mit dieser DApp wird auch das Ablegen von klugen Gedanken deutlich einfacher (ohne Online-Hash-Calculator).
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ0NzE3NjYxOSwtNTYwNTkwNTI0LDYxMz
+eyJoaXN0b3J5IjpbMTA2MjMxNjEyMywtNTYwNTkwNTI0LDYxMz
 c2MDkwNyw5MDMwOTY4NTIsLTE3NDQxNDAyODgsLTg2Nzg0OTA4
 NCwtODYxMjM2Mjk4LDE3MDgyODc2OTgsLTcwMzY5MTMwNiwtND
 M1MTU3NTc4LDE1MTgxMTAxMjksMTE0NTczODY5NSwtMTM3NTQ2
