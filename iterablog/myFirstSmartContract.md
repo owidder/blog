@@ -79,6 +79,7 @@ Danach sehen Sie 12 Worte, die sogenannten *Mnenomics*. Das ist der Schlüssel z
 
 ## And there is a free lunch!!!
 Als nächstes müssen wir uns entscheiden, auf welchem Ethereum Network wir unseren Contract deployen wollen. 
+
 Da gibt es einmal das [*Main Net*](https://etherscan.io/). Da spielen die Big Girls'n'Boys. Da kosten Ether echtes Geld, [und zwar gar nicht mal so wenig](https://coinmarketcap.com/currencies/ethereum/). Das wollen wir nicht.
 
 Zum Glück gibt es noch einige Test-Networks. Da gibt es Ether für lau (free lunch). Das wollen wir!
@@ -287,7 +288,7 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjI0MDcxMDQsLTEzNzU0NjgwOTMsLT
+eyJoaXN0b3J5IjpbLTEzMzk5MTIwNDYsLTEzNzU0NjgwOTMsLT
 IwOTA5ODI0OTEsMTc2NTI2MTY5OSw0NTEzNDQ4NDAsMTQxODA2
 MzMwLC0xNjQ1MjY0MDk4LC0yMTA3NDYyNjMwLDg4MTgwODUyLC
 03NjUwNzM3NDMsLTc2NTA3Mzc0MywtMTE4MTIzNzg4MiwtMTAw
