@@ -221,7 +221,7 @@ Und im *Code*-Tab können wir nun unseren Code bewundern.
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-03/iterablog/images/code.png" alt="Code"/>
 
 ## Heureka
-So, jetzt brauchen wir nur noch einen klugen Gedanken, den wir hashen und in unserem Contract ablegen können, so dass wir in einigen Jahren beweisen können, dass wir das schon lange wussten (damit kann man sich übrigens sehr beliebt machen).
+So, jetzt brauchen wir nur noch einen klugen Gedanken, den wir hashen und in der Blockchain veröffentlichen können, so dass wir in einigen Jahren beweisen können, dass wir das schon lange wussten (damit kann man sich übrigens sehr beliebt machen).
 
 Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihen (aber nicht stehlen, der ist schon längst in der Blockchain). Wir gehen erst einmal zu einem [Online-Hash-Calculator](https://abunchofutils.com/u/computing/sha512-hash-calculator/).
 
@@ -285,11 +285,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODEyMzc4ODIsLTEwMDMwMzQyODUsMT
-UwMDA2NjQzNSwtMTA3OTk3ODgxMiwxMzc2NTAwOTYsNTUzMTM5
-MTc5LDE0NTI2MTMwMTIsLTEyMDI4MDM2MzYsMTAzNDg4Njc3MS
-wyMDE3MTI4MjM0LC0xMDAxMzQxOTI4LDU4NTAyMTc5MiwxNjcx
-Nzg2NDUwLC0zMzQ4MTQ3NzksLTE1ODAxMjQ5MiwxNTQyNDk3NT
-I4LDIwMDAzMzQwNTgsOTEwODg4Mzg4LDExNzI2MDU3OTMsLTcw
-OTU2MDgxXX0=
+eyJoaXN0b3J5IjpbMTkzNDczMzYxOSwtMTE4MTIzNzg4MiwtMT
+AwMzAzNDI4NSwxNTAwMDY2NDM1LC0xMDc5OTc4ODEyLDEzNzY1
+MDA5Niw1NTMxMzkxNzksMTQ1MjYxMzAxMiwtMTIwMjgwMzYzNi
+wxMDM0ODg2NzcxLDIwMTcxMjgyMzQsLTEwMDEzNDE5MjgsNTg1
+MDIxNzkyLDE2NzE3ODY0NTAsLTMzNDgxNDc3OSwtMTU4MDEyND
+kyLDE1NDI0OTc1MjgsMjAwMDMzNDA1OCw5MTA4ODgzODgsMTE3
+MjYwNTc5M119
 -->
