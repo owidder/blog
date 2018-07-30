@@ -212,13 +212,15 @@ Und im *Code*-Tab können wir nun unseren Code bewundern.
 ## Heureka
 So, jetzt brauchen wir nur noch einen klugen Gedanken, den wir hashen und in unserem Contract ablegen können, so dass wir in einigen Jahren beweisen können, dass wir das schon lange wussten (damit kann man sich übrigens sehr beliebt machen).
 
-Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihen. Wir gehen erst einmal zu einem 
+Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihen (aber nicht stehlen, der ist schon längst in der Blockchain). Wir gehen erst einmal zu einem [Online-Hash-Calculator](https://abunchofutils.com/u/computing/sha512-hash-calculator/).
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMjkzNjM0MjIsLTMwMDU2NzUzMCwtMz
-YxOTE1NTA1LC03MjgzNzg3MTksLTEyNDEyNzk4NTgsLTExNTEz
-OTQ4OCwtMTk4NjI0ODExMCwtODc1ODE5OTg0LDEzMjEzNzc1MT
-QsNTQ2NTI3NzI4LDQxMDE4ODkzMiwtOTk5MTIwOTQ4LDg3ODU1
-MzU1LDEwMzM3MzQ3MzUsODc0MDU5OTIyLDE0MDQxOTkxOCwxNj
-Q3NDUyNjY4LDExNDQ1NDc5NjYsLTE3NzIxMDAyNDQsLTIwMzcw
-NDEyNjNdfQ==
+eyJoaXN0b3J5IjpbLTk2MjgyODczOCwtMzAwNTY3NTMwLC0zNj
+E5MTU1MDUsLTcyODM3ODcxOSwtMTI0MTI3OTg1OCwtMTE1MTM5
+NDg4LC0xOTg2MjQ4MTEwLC04NzU4MTk5ODQsMTMyMTM3NzUxNC
+w1NDY1Mjc3MjgsNDEwMTg4OTMyLC05OTkxMjA5NDgsODc4NTUz
+NTUsMTAzMzczNDczNSw4NzQwNTk5MjIsMTQwNDE5OTE4LDE2ND
+c0NTI2NjgsMTE0NDU0Nzk2NiwtMTc3MjEwMDI0NCwtMjAzNzA0
+MTI2M119
 -->
