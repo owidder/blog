@@ -160,7 +160,7 @@ Jetzt wird's ernst. Über den ![enter image description here](https://raw.github
 Jetzt kommt es darauf an, welchen Browser Sie verwenden:
 
  - Im Chrome öffnet sich auf der linken Seite ein *Metamask*-Fenster, in dem Sie die Transaktion bestätigen können.
- - Im Firefox kann es sein (so war es bei mir), dass sich auf der linken Seite ein leeres Fenster öffnet. Das können Sie wieder schließen. Über das Fuchs-Icon (dort sollte nun eine kleine 1 erscheinen ![enter image description here](https://raw.githubusercontent.com/owidder/blog/ib-20180729-11/iterablog/images/fox1.png)) sollten Sie das Fenster zum Bestätigen der Transaktion sehen können.
+ - Im Firefox kann es sein (so war es bei mir), dass sich auf der linken Seite ein leeres Fenster öffnet. Das können Sie wieder schließen. Durch einen Klick auf das Fuchs-Icon (dort sollte nun eine kleine 1 erscheinen ![enter image description here](https://raw.githubusercontent.com/owidder/blog/ib-20180729-11/iterablog/images/fox1.png)) sollten Sie das Fenster zum Bestätigen der Transaktion sehen können.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-12/iterablog/images/confirm-transaction02.png" alt="Confirm Transaction"/>
 
@@ -283,11 +283,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM3NjUwMDk2LC0xMzQ1MjY3MzgsNTUzMT
-M5MTc5LDE0NTI2MTMwMTIsLTEyMDI4MDM2MzYsMTAzNDg4Njc3
-MSwyMDE3MTI4MjM0LC0xMDAxMzQxOTI4LDU4NTAyMTc5MiwxNj
-cxNzg2NDUwLC0zMzQ4MTQ3NzksLTE1ODAxMjQ5MiwxNTQyNDk3
-NTI4LDIwMDAzMzQwNTgsOTEwODg4Mzg4LDExNzI2MDU3OTMsLT
-cwOTU2MDgxLDE3Mjk4MDM0MiwtMzY2MTQyNDU5LC01NjAxOTU4
-NTFdfQ==
+eyJoaXN0b3J5IjpbLTEwNzk5Nzg4MTIsMTM3NjUwMDk2LDU1Mz
+EzOTE3OSwxNDUyNjEzMDEyLC0xMjAyODAzNjM2LDEwMzQ4ODY3
+NzEsMjAxNzEyODIzNCwtMTAwMTM0MTkyOCw1ODUwMjE3OTIsMT
+Y3MTc4NjQ1MCwtMzM0ODE0Nzc5LC0xNTgwMTI0OTIsMTU0MjQ5
+NzUyOCwyMDAwMzM0MDU4LDkxMDg4ODM4OCwxMTcyNjA1NzkzLC
+03MDk1NjA4MSwxNzI5ODAzNDIsLTM2NjE0MjQ1OSwtNTYwMTk1
+ODUxXX0=
 -->
