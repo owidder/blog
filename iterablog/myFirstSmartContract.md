@@ -26,13 +26,13 @@ Aber sind wir mal ehrlich. Finden unsere genialen Gedanken keine Resonanz, sind 
 Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
  
  ## Marmor, Stein und Eisen bricht, aber eine Blockchain nicht
- Was liegt also näher, als alle klugen Gedanken einfach in der Blockchain zu speichern? Dann sind Zeitpunkt und Inhalt unwiderruflich festgehalten.
+ Was liegt also näher, als alle klugen Gedanken einfach in der Blockchain a? Dann sind Zeitpunkt und Inhalt unwiderruflich festgehalten.
 Und da Speicher in der Blockchain Geld kostet, hashen ([SHA512](https://abunchofutils.com/u/computing/sha512-hash-calculator/)) wir vorher und legen nur den Hashwert ab.
 
 ## Pacta sunt servanda
 Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns auf eine einzige Funktion:
 
- - `logHashValue(string hashValue)` :  Veröffentlicht in der Blockchain einen Hashwert.
+ - `logHashValue(string hashValue)` :  Speichert in der Blockchain einen Hashwert.
 
 Das ist alles. Mehr brauchen wir nicht.
 
@@ -279,11 +279,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzcwMjk5NjMsLTE1ODAxMjQ5MiwxNT
-QyNDk3NTI4LDIwMDAzMzQwNTgsOTEwODg4Mzg4LDExNzI2MDU3
-OTMsLTcwOTU2MDgxLDE3Mjk4MDM0MiwtMzY2MTQyNDU5LC01Nj
-AxOTU4NTEsMTk0ODcwNjI1OCwtNjM2NjU5ODUyLDIwNjYyMDc4
-NSwtNjI0MTc3MzE2LC03MzU4NDMxNjUsLTgzNzc5NzY5LC0xNT
-IyNTI3NTMwLC05NDYzNjcyMDMsLTgzNTYzMDgxMCw4MDc3MDY5
-NDBdfQ==
+eyJoaXN0b3J5IjpbMTg2MzQwMTczOSwtMTU4MDEyNDkyLDE1ND
+I0OTc1MjgsMjAwMDMzNDA1OCw5MTA4ODgzODgsMTE3MjYwNTc5
+MywtNzA5NTYwODEsMTcyOTgwMzQyLC0zNjYxNDI0NTksLTU2MD
+E5NTg1MSwxOTQ4NzA2MjU4LC02MzY2NTk4NTIsMjA2NjIwNzg1
+LC02MjQxNzczMTYsLTczNTg0MzE2NSwtODM3Nzk3NjksLTE1Mj
+I1Mjc1MzAsLTk0NjM2NzIwMywtODM1NjMwODEwLDgwNzcwNjk0
+MF19
 -->
