@@ -270,13 +270,15 @@ erzeugt wurde.
 
 Leider gibt es keine Möglichkeit, die Daten im Klartext zu sehen (zumindes kenne ich keine, falls Sie eine kennen, bin ich sehr interessiert: oliver.widder@iteratec.de).
 
-Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, mit der wir dies auslesen k
+Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, mit der wir dies auslesen können. Mit dieser DApp wird auch das Ablegen von klugen Gedanken deutlich einfacher.
+
+Sie brauchen also nur noch kluge Gedanken. A
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTgwMTQ4OTM5LC0yMDc4OTU3NDEzLDEyMD
-UyNzM3OTUsLTU2MDE5NTg1MSwxOTQ4NzA2MjU4LC02MzY2NTk4
-NTIsMjA2NjIwNzg1LC02MjQxNzczMTYsLTczNTg0MzE2NSwtOD
-M3Nzk3NjksLTE1MjI1Mjc1MzAsLTk0NjM2NzIwMywtODM1NjMw
-ODEwLDgwNzcwNjk0MCwxNjg5MTEyNzk0LDEzNjkxOTc1MjEsMT
-gzMTEzNTA0NCwtMjMwOTA5MDMsNDM3ODIzNDc5LC05MDEzMDI1
-OTddfQ==
+eyJoaXN0b3J5IjpbODk5NTczOTQ4LDU4MDE0ODkzOSwtMjA3OD
+k1NzQxMywtNTYwMTk1ODUxLDE5NDg3MDYyNTgsLTYzNjY1OTg1
+MiwyMDY2MjA3ODUsLTYyNDE3NzMxNiwtNzM1ODQzMTY1LC04Mz
+c3OTc2OSwtMTUyMjUyNzUzMCwtOTQ2MzY3MjAzLC04MzU2MzA4
+MTAsODA3NzA2OTQwLDE2ODkxMTI3OTQsMTM2OTE5NzUyMSwxOD
+MxMTM1MDQ0LC0yMzA5MDkwMyw0Mzc4MjM0NzksLTkwMTMwMjU5
+N119
 -->
