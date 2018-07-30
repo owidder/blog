@@ -182,19 +182,19 @@ Im Tab *Code* gibt es den Link *Verify And Publish*.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-n-publish.png" alt="Verify And Publish"/>
 
-Dort müssen wir folgendes eintragen.
+Dort müssen wir folgendes eintragen:
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-13/iterablog/images/verify-form.png" alt="Verify Form"/>
 
  - Adresse des Contract (ist schon vorausgefüllt)
  - Name des Contract
- - Compiler-Version: Kann man 
+ - Compiler-Version: Kann man in remix 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzczNDczNSw4NzQwNTk5MjIsMTQwND
-E5OTE4LDE2NDc0NTI2NjgsMTE0NDU0Nzk2NiwtMTc3MjEwMDI0
-NCwtMjAzNzA0MTI2MywxMzY0MTI1MSwtMjExNjE1ODE2NSw4Nz
-AxODA2MDAsLTcyMTA1MTg5OSwtMTgzNTU4NzM3MywxODk4Nzc4
-OTA4LC00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOTIwNTQyNDksLT
-g4NTkxNDY3M119
+eyJoaXN0b3J5IjpbODc4NTUzNTUsMTAzMzczNDczNSw4NzQwNT
+k5MjIsMTQwNDE5OTE4LDE2NDc0NTI2NjgsMTE0NDU0Nzk2Niwt
+MTc3MjEwMDI0NCwtMjAzNzA0MTI2MywxMzY0MTI1MSwtMjExNj
+E1ODE2NSw4NzAxODA2MDAsLTcyMTA1MTg5OSwtMTgzNTU4NzM3
+MywxODk4Nzc4OTA4LC00Nzk3OTIxMjAsOTcxNTcxNjExLC0yOT
+IwNTQyNDksLTg4NTkxNDY3M119
 -->
