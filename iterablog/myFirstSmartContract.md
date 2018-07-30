@@ -259,12 +259,14 @@ Ist sie nicht schön?
 Über den Button *Decode Input Data* bekommen Sie auch die Eingebadaten im Klartext angezeigt.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-10/iterablog/images/input-data.png" alt="New Transaction"/>
+
+Im Tab Event Logs können Sie auch den Log-Eintrag sehen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNjY1OTg1MiwyMDY2MjA3ODUsLTYyND
-E3NzMxNiwtNzM1ODQzMTY1LC04Mzc3OTc2OSwtMTUyMjUyNzUz
-MCwtOTQ2MzY3MjAzLC04MzU2MzA4MTAsODA3NzA2OTQwLDE2OD
-kxMTI3OTQsMTM2OTE5NzUyMSwxODMxMTM1MDQ0LC0yMzA5MDkw
-Myw0Mzc4MjM0NzksLTkwMTMwMjU5NywxODg2ODcxODQyLDk1Mz
-MxMjgyMSwyMDE5MTI1NzY2LC0xMDg5ODA1NjIsMTIwNzA0MTU4
-NV19
+eyJoaXN0b3J5IjpbLTQ2MzE5NDc4MywtNjM2NjU5ODUyLDIwNj
+YyMDc4NSwtNjI0MTc3MzE2LC03MzU4NDMxNjUsLTgzNzc5NzY5
+LC0xNTIyNTI3NTMwLC05NDYzNjcyMDMsLTgzNTYzMDgxMCw4MD
+c3MDY5NDAsMTY4OTExMjc5NCwxMzY5MTk3NTIxLDE4MzExMzUw
+NDQsLTIzMDkwOTAzLDQzNzgyMzQ3OSwtOTAxMzAyNTk3LDE4OD
+Y4NzE4NDIsOTUzMzEyODIxLDIwMTkxMjU3NjYsLTEwODk4MDU2
+Ml19
 -->
