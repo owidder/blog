@@ -242,13 +242,15 @@ Jetzt kopieren wir den Hashwert in das Eingabefeld der Funktion *logHashValue*.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-06/iterablog/images/wirte-logHashValue.png" alt="Write logHashValue"/>
 
-Wenn Sie jetzt den Write-Button klicken, müssen Sie die Tram
+Wenn Sie jetzt den *Write*-Button klicken, müssen Sie die Transaktion wieder in *Metamask* bestätigen.
+
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-07/iterablog/images/confirm-transaction2.png" alt="Write logHashValue"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgzMTEzNTA0NCwtMjMwOTA5MDMsMjA2Mz
-c3NDM0LDQzNzgyMzQ3OSwtOTAxMzAyNTk3LDE4ODY4NzE4NDIs
-OTUzMzEyODIxLDIwMTkxMjU3NjYsLTEwODk4MDU2MiwxMjA3MD
-QxNTg1LC01NDI0ODE4OTUsLTM1ODc1MjAxMywtMzUwNjMxMjM4
-LDE2NzQwOTU5OTMsMTE0MTAwMzE5NiwtMzAwNTY3NTMwLC0zNj
-E5MTU1MDUsLTcyODM3ODcxOSwtMTI0MTI3OTg1OCwtMTE1MTM5
-NDg4XX0=
+eyJoaXN0b3J5IjpbMTM2OTE5NzUyMSwxODMxMTM1MDQ0LC0yMz
+A5MDkwMyw0Mzc4MjM0NzksLTkwMTMwMjU5NywxODg2ODcxODQy
+LDk1MzMxMjgyMSwyMDE5MTI1NzY2LC0xMDg5ODA1NjIsMTIwNz
+A0MTU4NSwtNTQyNDgxODk1LC0zNTg3NTIwMTMsLTM1MDYzMTIz
+OCwxNjc0MDk1OTkzLDExNDEwMDMxOTYsLTMwMDU2NzUzMCwtMz
+YxOTE1NTA1LC03MjgzNzg3MTksLTEyNDEyNzk4NTgsLTExNTEz
+OTQ4OF19
 -->
