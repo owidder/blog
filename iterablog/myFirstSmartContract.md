@@ -216,13 +216,13 @@ Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihe
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/smart-idea.png" alt="Smart Idea"/>
 
-Dort geben Sie ihre kluge Idee ein drücken auf den großen *Calculate*-Knopf. Den Hashwert kopieren Sie sich in die Zwischenablage (Strg-C).
+Dort geben Sie ihre kluge Idee ein drücken auf den großen *Calculate*-Knopf. Den Hashwert kopieren Sie sich mit Strg-C).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTAyODI5MDcsLTE5MjM1MjA4MzcsMT
-E0MTAwMzE5NiwtMzAwNTY3NTMwLC0zNjE5MTU1MDUsLTcyODM3
-ODcxOSwtMTI0MTI3OTg1OCwtMTE1MTM5NDg4LC0xOTg2MjQ4MT
-EwLC04NzU4MTk5ODQsMTMyMTM3NzUxNCw1NDY1Mjc3MjgsNDEw
-MTg4OTMyLC05OTkxMjA5NDgsODc4NTUzNTUsMTAzMzczNDczNS
-w4NzQwNTk5MjIsMTQwNDE5OTE4LDE2NDc0NTI2NjgsMTE0NDU0
-Nzk2Nl19
+eyJoaXN0b3J5IjpbMTY3NDA5NTk5MywtMTg1MDI4MjkwNywxMT
+QxMDAzMTk2LC0zMDA1Njc1MzAsLTM2MTkxNTUwNSwtNzI4Mzc4
+NzE5LC0xMjQxMjc5ODU4LC0xMTUxMzk0ODgsLTE5ODYyNDgxMT
+AsLTg3NTgxOTk4NCwxMzIxMzc3NTE0LDU0NjUyNzcyOCw0MTAx
+ODg5MzIsLTk5OTEyMDk0OCw4Nzg1NTM1NSwxMDMzNzM0NzM1LD
+g3NDA1OTkyMiwxNDA0MTk5MTgsMTY0NzQ1MjY2OCwxMTQ0NTQ3
+OTY2XX0=
 -->
