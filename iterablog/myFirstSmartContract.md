@@ -184,7 +184,7 @@ Er führt uns zu der [Etherscan-Seite des Contracts](https://rinkeby.etherscan.i
 
 Jetzt können wir uns kurz ausruhen und auf die Schulter klopfen. Wir sind aber noch nicht durch!
 
-Den es sollen ja auch Andere unseren Contract aufrufen. Aber woher sollen sie wissen, was der Contract. Wir können ja viel erzählen.
+Den es sollen ja auch Andere unseren Contract aufrufen. Aber woher sollen die wissen, was der Contract tut. Wir können ja viel erzählen.
 
 ## Show me the code
 Dafür kann man in Etherscan den Code zu einem Contract hinterlegen. Etherscan verifiziert, dass dies wirklich korrekt ist.
@@ -285,11 +285,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk5OTMzMTUyNiw3NzAyNTc1MTEsLTEwNz
-k5Nzg4MTIsMTM3NjUwMDk2LDU1MzEzOTE3OSwxNDUyNjEzMDEy
-LC0xMjAyODAzNjM2LDEwMzQ4ODY3NzEsMjAxNzEyODIzNCwtMT
-AwMTM0MTkyOCw1ODUwMjE3OTIsMTY3MTc4NjQ1MCwtMzM0ODE0
-Nzc5LC0xNTgwMTI0OTIsMTU0MjQ5NzUyOCwyMDAwMzM0MDU4LD
-kxMDg4ODM4OCwxMTcyNjA1NzkzLC03MDk1NjA4MSwxNzI5ODAz
-NDJdfQ==
+eyJoaXN0b3J5IjpbMTY4NTM0MzM5NiwxOTk5MzMxNTI2LC0xMD
+c5OTc4ODEyLDEzNzY1MDA5Niw1NTMxMzkxNzksMTQ1MjYxMzAx
+MiwtMTIwMjgwMzYzNiwxMDM0ODg2NzcxLDIwMTcxMjgyMzQsLT
+EwMDEzNDE5MjgsNTg1MDIxNzkyLDE2NzE3ODY0NTAsLTMzNDgx
+NDc3OSwtMTU4MDEyNDkyLDE1NDI0OTc1MjgsMjAwMDMzNDA1OC
+w5MTA4ODgzODgsMTE3MjYwNTc5MywtNzA5NTYwODEsMTcyOTgw
+MzQyXX0=
 -->
