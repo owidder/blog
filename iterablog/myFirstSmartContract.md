@@ -89,7 +89,8 @@ Dazu wählen wir in Metamask das Rinkeby-Network aus:
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-03/iterablog/images/metamask-rinkeby.png" alt="Rinkeby auswählen" width="300px"/>
 
-*Metamask* hat uns auch schon freundlicherweise einen Account angelegt.  (Solange wir aber keine Transaktion mit diesem Account durchgeführt haben, ist der in dem Network nicht bekannt)
+*Metamask* hat uns auch schon freundlicherweise einen Account angelegt.  
+(Solange wir aber keine Transaktion mit diesem Account durchgeführt haben, ist der in dem Network nicht bekannt)
 
 ## Wenn ich einmal reich wär
 Mit 0 Ether (ETH) ist unser Account leider ziemlich arm :(
@@ -150,7 +151,8 @@ Im *Run*-Tab daneben, wählen wir nun *Injected Web3* als *Environment* aus.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-08/iterablog/images/environment.png" alt="Environment"/>
 
-Das bedeutet, dass ein Objekt namens *Web3*, das von aussen (in unserem Fall von *Metamask*) in die Web-Seite injiziert wurde, verwendet wird. (*Web3* ist eine sehr populäre JavaScript-Library zum Aufrufen von Ethereum-Contracts.) 
+Das bedeutet, dass ein Objekt namens *Web3*, das von aussen (in unserem Fall von *Metamask*) in die Web-Seite injiziert wurde, verwendet wird.  
+(*Web3* ist eine sehr populäre JavaScript-Library zum Aufrufen von Ethereum-Contracts.) 
 
 Damit können wir die Transaktion zum Deployment des Contracts über *Metamask* ausführen lassen.
 
@@ -288,11 +290,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0NTczODY5NSwtMTM3NTQ2ODA5MywtMj
-A5MDk4MjQ5MSwxNzY1MjYxNjk5LDQ1MTM0NDg0MCwxNDE4MDYz
-MzAsLTE2NDUyNjQwOTgsLTIxMDc0NjI2MzAsODgxODA4NTIsLT
-c2NTA3Mzc0MywtNzY1MDczNzQzLC0xMTgxMjM3ODgyLC0xMDAz
-MDM0Mjg1LDE1MDAwNjY0MzUsLTEwNzk5Nzg4MTIsMTM3NjUwMD
-k2LDU1MzEzOTE3OSwxNDUyNjEzMDEyLC0xMjAyODAzNjM2LDEw
-MzQ4ODY3NzFdfQ==
+eyJoaXN0b3J5IjpbMTUxODExMDEyOSwxMTQ1NzM4Njk1LC0xMz
+c1NDY4MDkzLC0yMDkwOTgyNDkxLDE3NjUyNjE2OTksNDUxMzQ0
+ODQwLDE0MTgwNjMzMCwtMTY0NTI2NDA5OCwtMjEwNzQ2MjYzMC
+w4ODE4MDg1MiwtNzY1MDczNzQzLC03NjUwNzM3NDMsLTExODEy
+Mzc4ODIsLTEwMDMwMzQyODUsMTUwMDA2NjQzNSwtMTA3OTk3OD
+gxMiwxMzc2NTAwOTYsNTUzMTM5MTc5LDE0NTI2MTMwMTIsLTEy
+MDI4MDM2MzZdfQ==
 -->
