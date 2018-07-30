@@ -40,7 +40,7 @@ Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns
 Das ist alles. Mehr brauchen wir nicht.
 
 Jetzt nur noch ein Name für unseren Contract: [Weisenheimer](https://www.urbandictionary.com/define.php?term=weisenheimer)
-und hier [ist er auch schon](https://github.com/owidder/iteraBlog/blob/master/weisenheimer/contract/Weisenheimer.sol) (die Programmiersprache nennt sich [*Solidity*](https://github.com/ethereum/solidity) und ist speziell für Smart Contracts gedacht):
+und hier [ist er auch schon](https://github.com/owidder/iteraBlog/blob/master/weisenheimer/contract/Weisenheimer.sol):
 
     pragma solidity ^0.4.19;
     contract Weisenheimer {
@@ -51,6 +51,7 @@ und hier [ist er auch schon](https://github.com/owidder/iteraBlog/blob/master/we
 		    emit NewHashValue(hashValue, msg.sender, block.timestamp);
 	    }
     }
+(Die Programmiersprache nennt sich [*Solidity*](https://github.com/ethereum/solidity) und ist speziell für Smart Contracts gedacht)
 
 Zugegeben. So richtig smart sieht der nicht aus. Erfüllt aber seinen Zweck:
 
@@ -290,11 +291,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwMzY5MTMwNiwtNDM1MTU3NTc4LDE1MT
-gxMTAxMjksMTE0NTczODY5NSwtMTM3NTQ2ODA5MywtMjA5MDk4
-MjQ5MSwxNzY1MjYxNjk5LDQ1MTM0NDg0MCwxNDE4MDYzMzAsLT
-E2NDUyNjQwOTgsLTIxMDc0NjI2MzAsODgxODA4NTIsLTc2NTA3
-Mzc0MywtNzY1MDczNzQzLC0xMTgxMjM3ODgyLC0xMDAzMDM0Mj
-g1LDE1MDAwNjY0MzUsLTEwNzk5Nzg4MTIsMTM3NjUwMDk2LDU1
-MzEzOTE3OV19
+eyJoaXN0b3J5IjpbMTcwODI4NzY5OCwtNzAzNjkxMzA2LC00Mz
+UxNTc1NzgsMTUxODExMDEyOSwxMTQ1NzM4Njk1LC0xMzc1NDY4
+MDkzLC0yMDkwOTgyNDkxLDE3NjUyNjE2OTksNDUxMzQ0ODQwLD
+E0MTgwNjMzMCwtMTY0NTI2NDA5OCwtMjEwNzQ2MjYzMCw4ODE4
+MDg1MiwtNzY1MDczNzQzLC03NjUwNzM3NDMsLTExODEyMzc4OD
+IsLTEwMDMwMzQyODUsMTUwMDA2NjQzNSwtMTA3OTk3ODgxMiwx
+Mzc2NTAwOTZdfQ==
 -->
