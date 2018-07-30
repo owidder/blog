@@ -256,10 +256,12 @@ Und da [ist sie auch schon](https://rinkeby.etherscan.io/tx/0x4ea17b435fa362308a
 
 Ist sie nicht schön?
 
-Über den Button Deco
+Über den Button *Decode Input Data* bekommen Sie auch die Eingebadaten im Klartext angezeigt.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA2NjIwNzg1LC02MjQxNzczMTYsNTkyMz
-k1OTYzLC03MzU4NDMxNjUsLTgzNzc5NzY5LC0xNTIyNTI3NTMw
+eyJoaXN0b3J5IjpbNzQ1NzY3MzU2LDIwNjYyMDc4NSwtNjI0MT
+c3MzE2LC03MzU4NDMxNjUsLTgzNzc5NzY5LC0xNTIyNTI3NTMw
 LC05NDYzNjcyMDMsLTgzNTYzMDgxMCw4MDc3MDY5NDAsMTY4OT
 ExMjc5NCwxMzY5MTk3NTIxLDE4MzExMzUwNDQsLTIzMDkwOTAz
 LDQzNzgyMzQ3OSwtOTAxMzAyNTk3LDE4ODY4NzE4NDIsOTUzMz
