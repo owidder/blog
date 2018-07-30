@@ -215,12 +215,14 @@ So, jetzt brauchen wir nur noch einen klugen Gedanken, den wir hashen und in uns
 Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihen (aber nicht stehlen, der ist schon längst in der Blockchain). Wir gehen erst einmal zu einem [Online-Hash-Calculator](https://abunchofutils.com/u/computing/sha512-hash-calculator/).
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/smart-idea.png" alt="Smart Idea"/>
+
+Dort geben Sie ihre kluge Idee ein drücken auf den großen *Calculate*-Knopf. Den Hashwert kopieren Sie sich in die Zwischenablage (Strg-C).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MjM1MjA4MzcsMTE0MTAwMzE5Niw1OT
-Q4MjkzNTcsLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC03MjgzNzg3
-MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4NjI0ODExMC
-wtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3NzI4LDQxMDE4
-ODkzMiwtOTk5MTIwOTQ4LDg3ODU1MzU1LDEwMzM3MzQ3MzUsOD
-c0MDU5OTIyLDE0MDQxOTkxOCwxNjQ3NDUyNjY4LDExNDQ1NDc5
-NjZdfQ==
+eyJoaXN0b3J5IjpbLTE4NTAyODI5MDcsLTE5MjM1MjA4MzcsMT
+E0MTAwMzE5NiwtMzAwNTY3NTMwLC0zNjE5MTU1MDUsLTcyODM3
+ODcxOSwtMTI0MTI3OTg1OCwtMTE1MTM5NDg4LC0xOTg2MjQ4MT
+EwLC04NzU4MTk5ODQsMTMyMTM3NzUxNCw1NDY1Mjc3MjgsNDEw
+MTg4OTMyLC05OTkxMjA5NDgsODc4NTUzNTUsMTAzMzczNDczNS
+w4NzQwNTk5MjIsMTQwNDE5OTE4LDE2NDc0NTI2NjgsMTE0NDU0
+Nzk2Nl19
 -->
