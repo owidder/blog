@@ -20,6 +20,7 @@ Wir aber wollen es noch viel einfacher.
 ## "Das habe ich doch schon vor 10 Jahren gesagt!"
 Kennen Sie das? Sie sagen etwas [richtig kluges](http://platon-heute.de/vom-nichtwissen.html) und keiner weiß das zu würdigen. Jahre später kommt irgendwer daher, sagt das gleiche und wird umjubelt.
 Wir wäre es, wenn Sie **jetzt** beweisen könnten, dass Sie das schon vor Jahren gesagt haben?
+
 Aber wie? 
 Sie könnten natürlich alle Ihre schlauen Äußerungen schon mal vorsorglich im Web veröffentlich und dann später über [archive.org](https://archive.org/) beweisen, wie klug Sie schon vor Jahren waren.
 Aber sind wir mal ehrlich. Finden unsere genialen Gedanken keine Resonanz, sind meistens die Gedanken schuld. 
@@ -285,11 +286,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NDUyNjQwOTgsLTIxMDc0NjI2MzAsOD
-gxODA4NTIsLTc2NTA3Mzc0MywtNzY1MDczNzQzLC0xMTgxMjM3
-ODgyLC0xMDAzMDM0Mjg1LDE1MDAwNjY0MzUsLTEwNzk5Nzg4MT
-IsMTM3NjUwMDk2LDU1MzEzOTE3OSwxNDUyNjEzMDEyLC0xMjAy
-ODAzNjM2LDEwMzQ4ODY3NzEsMjAxNzEyODIzNCwtMTAwMTM0MT
-kyOCw1ODUwMjE3OTIsMTY3MTc4NjQ1MCwtMzM0ODE0Nzc5LC0x
-NTgwMTI0OTJdfQ==
+eyJoaXN0b3J5IjpbLTE3NTU1ODcwOCwtMTY0NTI2NDA5OCwtMj
+EwNzQ2MjYzMCw4ODE4MDg1MiwtNzY1MDczNzQzLC03NjUwNzM3
+NDMsLTExODEyMzc4ODIsLTEwMDMwMzQyODUsMTUwMDA2NjQzNS
+wtMTA3OTk3ODgxMiwxMzc2NTAwOTYsNTUzMTM5MTc5LDE0NTI2
+MTMwMTIsLTEyMDI4MDM2MzYsMTAzNDg4Njc3MSwyMDE3MTI4Mj
+M0LC0xMDAxMzQxOTI4LDU4NTAyMTc5MiwxNjcxNzg2NDUwLC0z
+MzQ4MTQ3NzldfQ==
 -->
