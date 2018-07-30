@@ -201,6 +201,7 @@ Dort müssen wir folgendes eintragen:
  - Name des Contract: Wiesenheimer
  - Compiler-Version: Kann man in *remix* im *Settings*-Tab auf der rechten Seite sehen
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-01/iterablog/images/compiler-version.png" alt="Verify Form"/>
+ 
  - Zum Schluss müssen wir noch angeben, ob der Compiler mit Optimierung lief. Auch das sieht man im Settings-Tab. War ausgeschaltet (hätten wir vielleicht mal einschalten sollen - naja, nächstes Mal)
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-02/iterablog/images/settings.png" alt="Settings"/>
 
@@ -284,11 +285,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMDc0NjI2MzAsODgxODA4NTIsLTc2NT
-A3Mzc0MywtNzY1MDczNzQzLC0xMTgxMjM3ODgyLC0xMDAzMDM0
-Mjg1LDE1MDAwNjY0MzUsLTEwNzk5Nzg4MTIsMTM3NjUwMDk2LD
-U1MzEzOTE3OSwxNDUyNjEzMDEyLC0xMjAyODAzNjM2LDEwMzQ4
-ODY3NzEsMjAxNzEyODIzNCwtMTAwMTM0MTkyOCw1ODUwMjE3OT
-IsMTY3MTc4NjQ1MCwtMzM0ODE0Nzc5LC0xNTgwMTI0OTIsMTU0
-MjQ5NzUyOF19
+eyJoaXN0b3J5IjpbLTE2NDUyNjQwOTgsLTIxMDc0NjI2MzAsOD
+gxODA4NTIsLTc2NTA3Mzc0MywtNzY1MDczNzQzLC0xMTgxMjM3
+ODgyLC0xMDAzMDM0Mjg1LDE1MDAwNjY0MzUsLTEwNzk5Nzg4MT
+IsMTM3NjUwMDk2LDU1MzEzOTE3OSwxNDUyNjEzMDEyLC0xMjAy
+ODAzNjM2LDEwMzQ4ODY3NzEsMjAxNzEyODIzNCwtMTAwMTM0MT
+kyOCw1ODUwMjE3OTIsMTY3MTc4NjQ1MCwtMzM0ODE0Nzc5LC0x
+NTgwMTI0OTJdfQ==
 -->
