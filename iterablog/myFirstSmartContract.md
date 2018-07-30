@@ -209,7 +209,7 @@ Dort müssen wir folgendes eintragen:
  - Compiler-Version: Kann man in *remix* im *Settings*-Tab auf der rechten Seite sehen
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-01/iterablog/images/compiler-version.png" alt="Verify Form"/>
  
- - Zum Schluss müssen wir noch angeben, ob der Compiler mit Optimierung lief. Auch das sieht man im Settings-Tab. War ausgeschaltet (hätten wir vielleicht mal einschalten sollen - naja, nächstes Mal)
+ - Zum Schluss müssen wir noch angeben, ob der Compiler mit Optimierung lief oder nicht. Auch das sieht man im Settings-Tab. War ausgeschaltet (hätten wir vielleicht mal einschalten sollen - naja, nächstes Mal)
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-02/iterablog/images/settings.png" alt="Settings"/>
 
 Jetzt nur noch ganz runter scrollen, versichern dass man kein Roboter ist (aber wer kann das schon mit Sicherheit von sich sagen?) und den großen blauen Knopf drücken.
@@ -292,11 +292,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI4MzEzODg0LDYxMzc2MDkwNyw5MDMwOT
-Y4NTIsLTE3NDQxNDAyODgsLTg2Nzg0OTA4NCwtODYxMjM2Mjk4
-LDE3MDgyODc2OTgsLTcwMzY5MTMwNiwtNDM1MTU3NTc4LDE1MT
-gxMTAxMjksMTE0NTczODY5NSwtMTM3NTQ2ODA5MywtMjA5MDk4
-MjQ5MSwxNzY1MjYxNjk5LDQ1MTM0NDg0MCwxNDE4MDYzMzAsLT
-E2NDUyNjQwOTgsLTIxMDc0NjI2MzAsODgxODA4NTIsLTc2NTA3
-Mzc0M119
+eyJoaXN0b3J5IjpbLTU2MDU5MDUyNCw2MTM3NjA5MDcsOTAzMD
+k2ODUyLC0xNzQ0MTQwMjg4LC04Njc4NDkwODQsLTg2MTIzNjI5
+OCwxNzA4Mjg3Njk4LC03MDM2OTEzMDYsLTQzNTE1NzU3OCwxNT
+E4MTEwMTI5LDExNDU3Mzg2OTUsLTEzNzU0NjgwOTMsLTIwOTA5
+ODI0OTEsMTc2NTI2MTY5OSw0NTEzNDQ4NDAsMTQxODA2MzMwLC
+0xNjQ1MjY0MDk4LC0yMTA3NDYyNjMwLDg4MTgwODUyLC03NjUw
+NzM3NDNdfQ==
 -->
