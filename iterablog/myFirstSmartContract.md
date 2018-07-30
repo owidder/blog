@@ -250,13 +250,15 @@ Danach sehen den neuen Button *View your transaction*, über den Sie sich die ne
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-08/iterablog/images/view-transaction.png" alt="Write logHashValue"/>
 
-Und da ist sie auch. Ist sie nic
+Und da ist sie auch. 
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcyNzYxNDk1LDgwNzcwNjk0MCwxNjg5MT
-EyNzk0LDEzNjkxOTc1MjEsMTgzMTEzNTA0NCwtMjMwOTA5MDMs
-NDM3ODIzNDc5LC05MDEzMDI1OTcsMTg4Njg3MTg0Miw5NTMzMT
-I4MjEsMjAxOTEyNTc2NiwtMTA4OTgwNTYyLDEyMDcwNDE1ODUs
-LTU0MjQ4MTg5NSwtMzU4NzUyMDEzLC0zNTA2MzEyMzgsMTY3ND
-A5NTk5MywxMTQxMDAzMTk2LC0zMDA1Njc1MzAsLTM2MTkxNTUw
-NV19
+eyJoaXN0b3J5IjpbLTgzNTYzMDgxMCwtNzI3NjE0OTUsODA3Nz
+A2OTQwLDE2ODkxMTI3OTQsMTM2OTE5NzUyMSwxODMxMTM1MDQ0
+LC0yMzA5MDkwMyw0Mzc4MjM0NzksLTkwMTMwMjU5NywxODg2OD
+cxODQyLDk1MzMxMjgyMSwyMDE5MTI1NzY2LC0xMDg5ODA1NjIs
+MTIwNzA0MTU4NSwtNTQyNDgxODk1LC0zNTg3NTIwMTMsLTM1MD
+YzMTIzOCwxNjc0MDk1OTkzLDExNDEwMDMxOTYsLTMwMDU2NzUz
+MF19
 -->
