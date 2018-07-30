@@ -260,13 +260,13 @@ Ist sie nicht schön?
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-10/iterablog/images/input-data.png" alt="New Transaction"/>
 
-Im Tab Event Logs können Sie auch den Log-Eintrag sehen, der d
+Im Tab Event Logs können Sie auch den Log-Eintrag sehen, der durch den Contract 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0ODcwNjI1OCwtNDYzMTk0NzgzLC02Mz
-Y2NTk4NTIsMjA2NjIwNzg1LC02MjQxNzczMTYsLTczNTg0MzE2
-NSwtODM3Nzk3NjksLTE1MjI1Mjc1MzAsLTk0NjM2NzIwMywtOD
-M1NjMwODEwLDgwNzcwNjk0MCwxNjg5MTEyNzk0LDEzNjkxOTc1
-MjEsMTgzMTEzNTA0NCwtMjMwOTA5MDMsNDM3ODIzNDc5LC05MD
-EzMDI1OTcsMTg4Njg3MTg0Miw5NTMzMTI4MjEsMjAxOTEyNTc2
-Nl19
+eyJoaXN0b3J5IjpbLTU2MDE5NTg1MSwxOTQ4NzA2MjU4LC00Nj
+MxOTQ3ODMsLTYzNjY1OTg1MiwyMDY2MjA3ODUsLTYyNDE3NzMx
+NiwtNzM1ODQzMTY1LC04Mzc3OTc2OSwtMTUyMjUyNzUzMCwtOT
+Q2MzY3MjAzLC04MzU2MzA4MTAsODA3NzA2OTQwLDE2ODkxMTI3
+OTQsMTM2OTE5NzUyMSwxODMxMTM1MDQ0LC0yMzA5MDkwMyw0Mz
+c4MjM0NzksLTkwMTMwMjU5NywxODg2ODcxODQyLDk1MzMxMjgy
+MV19
 -->
