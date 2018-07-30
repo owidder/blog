@@ -24,7 +24,7 @@ Wir wäre es, wenn Sie **jetzt** beweisen könnten, dass Sie das schon vor Jahre
 *Aber wie?* 
 
 Sie könnten natürlich alle Ihre schlauen Äußerungen schon mal vorsorglich im Web veröffentlich und dann später über [archive.org](https://archive.org/) beweisen, wie klug Sie schon vor Jahren waren.  
-Aber sind wir mal ehrlich. Finden unsere genialen Ideen keine Resonanz, sind doch meistens die Ideen schuld.  
+Aber sind doch wir mal ehrlich. Finden unsere genialen Ideen keine Resonanz, sind doch meistens die Ideen schuld. Oder?  
 Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
  
  ## Marmor, Stein und Eisen bricht, aber eine Blockchain nicht
@@ -287,7 +287,7 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzM3NDk0MDgsNDUxMzQ0ODQwLDE0MT
+eyJoaXN0b3J5IjpbLTE0MzM0NjU2NzcsNDUxMzQ0ODQwLDE0MT
 gwNjMzMCwtMTY0NTI2NDA5OCwtMjEwNzQ2MjYzMCw4ODE4MDg1
 MiwtNzY1MDczNzQzLC03NjUwNzM3NDMsLTExODEyMzc4ODIsLT
 EwMDMwMzQyODUsMTUwMDA2NjQzNSwtMTA3OTk3ODgxMiwxMzc2
