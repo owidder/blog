@@ -272,13 +272,13 @@ Leider gibt es keine Möglichkeit, die Daten im Klartext zu sehen (zumindes kenn
 
 Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, mit der wir dies auslesen können. Mit dieser DApp wird auch das Ablegen von klugen Gedanken deutlich einfacher.
 
-Sie brauchen also nur noch kluge Gedanken. A
+Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch g
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODk5NTczOTQ4LDU4MDE0ODkzOSwtMjA3OD
-k1NzQxMywtNTYwMTk1ODUxLDE5NDg3MDYyNTgsLTYzNjY1OTg1
-MiwyMDY2MjA3ODUsLTYyNDE3NzMxNiwtNzM1ODQzMTY1LC04Mz
-c3OTc2OSwtMTUyMjUyNzUzMCwtOTQ2MzY3MjAzLC04MzU2MzA4
-MTAsODA3NzA2OTQwLDE2ODkxMTI3OTQsMTM2OTE5NzUyMSwxOD
-MxMTM1MDQ0LC0yMzA5MDkwMyw0Mzc4MjM0NzksLTkwMTMwMjU5
-N119
+eyJoaXN0b3J5IjpbLTM2NjE0MjQ1OSw4OTk1NzM5NDgsNTgwMT
+Q4OTM5LC01NjAxOTU4NTEsMTk0ODcwNjI1OCwtNjM2NjU5ODUy
+LDIwNjYyMDc4NSwtNjI0MTc3MzE2LC03MzU4NDMxNjUsLTgzNz
+c5NzY5LC0xNTIyNTI3NTMwLC05NDYzNjcyMDMsLTgzNTYzMDgx
+MCw4MDc3MDY5NDAsMTY4OTExMjc5NCwxMzY5MTk3NTIxLDE4Mz
+ExMzUwNDQsLTIzMDkwOTAzLDQzNzgyMzQ3OSwtOTAxMzAyNTk3
+XX0=
 -->
