@@ -236,13 +236,13 @@ Auch die ignorieren wir, schließlich spielen wir ja nur mit Rinkeby-Spielgeld. 
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-05/iterablog/images/connected.png" alt="Connected"/>
 
-Jetzt kopieren wir den Hashwert
+Jetzt kopieren wir den Hashwert in das Eingabefeld der Funktion *logHashValue*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTUzMzEyODIxLDIwMTkxMjU3NjYsNDMwND
-IzNzQ1LC0xMDg5ODA1NjIsMTIwNzA0MTU4NSwtNTQyNDgxODk1
-LC0zNTg3NTIwMTMsLTM1MDYzMTIzOCwxNjc0MDk1OTkzLDExND
-EwMDMxOTYsLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC03MjgzNzg3
-MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4NjI0ODExMC
-wtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3NzI4LDQxMDE4
-ODkzMl19
+eyJoaXN0b3J5IjpbLTY1NjU2MTA3MCw5NTMzMTI4MjEsMjAxOT
+EyNTc2NiwtMTA4OTgwNTYyLDEyMDcwNDE1ODUsLTU0MjQ4MTg5
+NSwtMzU4NzUyMDEzLC0zNTA2MzEyMzgsMTY3NDA5NTk5MywxMT
+QxMDAzMTk2LC0zMDA1Njc1MzAsLTM2MTkxNTUwNSwtNzI4Mzc4
+NzE5LC0xMjQxMjc5ODU4LC0xMTUxMzk0ODgsLTE5ODYyNDgxMT
+AsLTg3NTgxOTk4NCwxMzIxMzc3NTE0LDU0NjUyNzcyOCw0MTAx
+ODg5MzJdfQ==
 -->
