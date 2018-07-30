@@ -21,7 +21,7 @@ Wir aber wollen es noch viel einfacher.
 Kennen Sie das? Sie sagen etwas [richtig kluges](http://platon-heute.de/vom-nichtwissen.html) und keiner weiß das zu würdigen. Jahre später kommt irgendwer daher, sagt das gleiche und wird umjubelt.
 Wir wäre es, wenn Sie **jetzt** beweisen könnten, dass Sie das schon vor Jahren gesagt haben?
 
-Aber wie? 
+*Aber wie?* 
 
 Sie könnten natürlich alle Ihre schlauen Äußerungen schon mal vorsorglich im Web veröffentlich und dann später über [archive.org](https://archive.org/) beweisen, wie klug Sie schon vor Jahren waren.
 Aber sind wir mal ehrlich. Finden unsere genialen Gedanken keine Resonanz, sind meistens die Gedanken schuld. 
@@ -287,7 +287,7 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQxODA2MzMwLC0xNzU1NTg3MDgsLTE2ND
+eyJoaXN0b3J5IjpbMTc5NzI1MTA5MCwxNDE4MDYzMzAsLTE2ND
 UyNjQwOTgsLTIxMDc0NjI2MzAsODgxODA4NTIsLTc2NTA3Mzc0
 MywtNzY1MDczNzQzLC0xMTgxMjM3ODgyLC0xMDAzMDM0Mjg1LD
 E1MDAwNjY0MzUsLTEwNzk5Nzg4MTIsMTM3NjUwMDk2LDU1MzEz
