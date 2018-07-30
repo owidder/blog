@@ -228,13 +228,13 @@ Dort klicken Sie auf den *Connect with Metamask*. Sollen Sie nicht mehr bei *Met
 
 Jetzt müssen Sich erst einmal bei Metamask anmelden (Achtung: Sie haben noch den Hashwert in der Zwischenablage).
 
-Wenn Sie nun angemeldet sind, dann erscheint
+Wenn Sie nun angemeldet sind, dann erscheint nach 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU0MjQ4MTg5NSwtNTk0MTYzNzM4LC0zNT
-g3NTIwMTMsLTM1MDYzMTIzOCwxNjc0MDk1OTkzLDExNDEwMDMx
-OTYsLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC03MjgzNzg3MTksLT
-EyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4NjI0ODExMCwtODc1
-ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3NzI4LDQxMDE4ODkzMi
-wtOTk5MTIwOTQ4LDg3ODU1MzU1LDEwMzM3MzQ3MzUsODc0MDU5
-OTIyXX0=
+eyJoaXN0b3J5IjpbMTIwNzA0MTU4NSwtNTQyNDgxODk1LC01OT
+QxNjM3MzgsLTM1ODc1MjAxMywtMzUwNjMxMjM4LDE2NzQwOTU5
+OTMsMTE0MTAwMzE5NiwtMzAwNTY3NTMwLC0zNjE5MTU1MDUsLT
+cyODM3ODcxOSwtMTI0MTI3OTg1OCwtMTE1MTM5NDg4LC0xOTg2
+MjQ4MTEwLC04NzU4MTk5ODQsMTMyMTM3NzUxNCw1NDY1Mjc3Mj
+gsNDEwMTg4OTMyLC05OTkxMjA5NDgsODc4NTUzNTUsMTAzMzcz
+NDczNV19
 -->
