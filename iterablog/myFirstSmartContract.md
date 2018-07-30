@@ -187,7 +187,7 @@ Jetzt können wir uns kurz ausruhen und auf die Schulter klopfen. Wir sind aber 
 Den es sollen ja auch Andere unseren Contract aufrufen. Aber woher sollen die wissen, was der Contract tut. Wir können ja viel erzählen.
 
 ## Show me the code
-Dafür kann man in Etherscan den Code zu einem Contract hinterlegen. Etherscan verifiziert, dass dies wirklich defkorrekt ist.
+Dafür kann man in Etherscan den Code zu einem Contract hinterlegen. Etherscan verifiziert, dass dies wirklich der korrekt ist.
 
 Im Tab *Code* gibt es den Link *Verify And Publish*.
 
@@ -285,11 +285,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMDA2NjQzNSwxNjg1MzQzMzk2LC0xMD
-c5OTc4ODEyLDEzNzY1MDA5Niw1NTMxMzkxNzksMTQ1MjYxMzAx
-MiwtMTIwMjgwMzYzNiwxMDM0ODg2NzcxLDIwMTcxMjgyMzQsLT
-EwMDEzNDE5MjgsNTg1MDIxNzkyLDE2NzE3ODY0NTAsLTMzNDgx
-NDc3OSwtMTU4MDEyNDkyLDE1NDI0OTc1MjgsMjAwMDMzNDA1OC
-w5MTA4ODgzODgsMTE3MjYwNTc5MywtNzA5NTYwODEsMTcyOTgw
-MzQyXX0=
+eyJoaXN0b3J5IjpbLTEwMDMwMzQyODUsMTUwMDA2NjQzNSwxNj
+g1MzQzMzk2LC0xMDc5OTc4ODEyLDEzNzY1MDA5Niw1NTMxMzkx
+NzksMTQ1MjYxMzAxMiwtMTIwMjgwMzYzNiwxMDM0ODg2NzcxLD
+IwMTcxMjgyMzQsLTEwMDEzNDE5MjgsNTg1MDIxNzkyLDE2NzE3
+ODY0NTAsLTMzNDgxNDc3OSwtMTU4MDEyNDkyLDE1NDI0OTc1Mj
+gsMjAwMDMzNDA1OCw5MTA4ODgzODgsMTE3MjYwNTc5MywtNzA5
+NTYwODFdfQ==
 -->
