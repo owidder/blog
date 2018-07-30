@@ -246,11 +246,11 @@ Wenn Sie jetzt den *Write*-Button klicken, müssen Sie die Transaktion wieder in
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-07/iterablog/images/confirm-transaction2.png" alt="Write logHashValue"/>
 
-Danach sehen eine neuen Button, der Sie zu dieser Transaktion führt.
+Danach sehen den neuen Button *View your transaction*, über den Sie sich die neue  Transaktion ansehen können.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-08/iterablog/images/view-transaction.png" alt="Write logHashValue"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzAwMzgzMjM2LDgwNzcwNjk0MCwxNjg5MT
+eyJoaXN0b3J5IjpbNTg4NjE4MTU4LDgwNzcwNjk0MCwxNjg5MT
 EyNzk0LDEzNjkxOTc1MjEsMTgzMTEzNTA0NCwtMjMwOTA5MDMs
 NDM3ODIzNDc5LC05MDEzMDI1OTcsMTg4Njg3MTg0Miw5NTMzMT
 I4MjEsMjAxOTEyNTc2NiwtMTA4OTgwNTYyLDEyMDcwNDE1ODUs
