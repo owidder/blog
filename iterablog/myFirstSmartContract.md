@@ -250,19 +250,19 @@ Danach sehen den neuen Button *View your transaction*, über den Sie sich die ne
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-08/iterablog/images/view-transaction.png" alt="Write logHashValue"/>
 
-Und da [ist sie auch](https://rinkeby.etherscan.io/tx/0x4ea17b435fa362308addb550faf719fdc6333341f6778cff620b49264c87c1df). 
+Und da [ist sie auch schon](https://rinkeby.etherscan.io/tx/0x4ea17b435fa362308addb550faf719fdc6333341f6778cff620b49264c87c1df). 
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-09/iterablog/images/new-transaction.png" alt="Confirm Transaction"/>
 
 Ist sie nicht schön?
 
-
+Über 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczNTg0MzE2NSwtODM3Nzk3NjksLTE1Mj
-I1Mjc1MzAsLTk0NjM2NzIwMywtODM1NjMwODEwLDgwNzcwNjk0
-MCwxNjg5MTEyNzk0LDEzNjkxOTc1MjEsMTgzMTEzNTA0NCwtMj
-MwOTA5MDMsNDM3ODIzNDc5LC05MDEzMDI1OTcsMTg4Njg3MTg0
-Miw5NTMzMTI4MjEsMjAxOTEyNTc2NiwtMTA4OTgwNTYyLDEyMD
-cwNDE1ODUsLTU0MjQ4MTg5NSwtMzU4NzUyMDEzLC0zNTA2MzEy
-MzhdfQ==
+eyJoaXN0b3J5IjpbNTkyMzk1OTYzLC03MzU4NDMxNjUsLTgzNz
+c5NzY5LC0xNTIyNTI3NTMwLC05NDYzNjcyMDMsLTgzNTYzMDgx
+MCw4MDc3MDY5NDAsMTY4OTExMjc5NCwxMzY5MTk3NTIxLDE4Mz
+ExMzUwNDQsLTIzMDkwOTAzLDQzNzgyMzQ3OSwtOTAxMzAyNTk3
+LDE4ODY4NzE4NDIsOTUzMzEyODIxLDIwMTkxMjU3NjYsLTEwOD
+k4MDU2MiwxMjA3MDQxNTg1LC01NDI0ODE4OTUsLTM1ODc1MjAx
+M119
 -->
