@@ -55,7 +55,7 @@ und hier [ist er auch schon](https://github.com/owidder/iteraBlog/blob/master/we
 Zugegeben. So richtig smart sieht der nicht aus. Erfüllt aber seinen Zweck:
 
 Die Programmiersprache nennt sich [*Solidity*](https://github.com/ethereum/solidity) und ist speziell für Smart Contracts gedacht.  
-Die Funktion *logHashValue* erzeugt einen Logeintrag mit den Hashwert, der Adresse des Accounts, von dem die Funktion aufgerufen wurde und der Zeitstempel des Blogs, in die Transaktion des Aufrufes ein für alle Mal in der Blockchain festgehalten wird.
+Die Funktion *logHashValue* erzeugt einen Logeintrag mit dem der Hashwert, die Adresse des Accounts, von dem die Funktion aufgerufen wurde, und der Zeitstempel des Blogs, in die Transaktion des Aufrufes ein für alle Mal in der Blockchain festgehalten wird.
 
 Die Funktion ist *public* ohne Einschränkung, d.h. sie darf von jedem Ethereum Account aufgerufen werden.
 
@@ -288,11 +288,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNzU0NjgwOTMsLTIwOTA5ODI0OTEsMT
-c2NTI2MTY5OSw0NTEzNDQ4NDAsMTQxODA2MzMwLC0xNjQ1MjY0
-MDk4LC0yMTA3NDYyNjMwLDg4MTgwODUyLC03NjUwNzM3NDMsLT
-c2NTA3Mzc0MywtMTE4MTIzNzg4MiwtMTAwMzAzNDI4NSwxNTAw
-MDY2NDM1LC0xMDc5OTc4ODEyLDEzNzY1MDA5Niw1NTMxMzkxNz
-ksMTQ1MjYxMzAxMiwtMTIwMjgwMzYzNiwxMDM0ODg2NzcxLDIw
-MTcxMjgyMzRdfQ==
+eyJoaXN0b3J5IjpbMTg1OTk4NTc2MCwtMTM3NTQ2ODA5MywtMj
+A5MDk4MjQ5MSwxNzY1MjYxNjk5LDQ1MTM0NDg0MCwxNDE4MDYz
+MzAsLTE2NDUyNjQwOTgsLTIxMDc0NjI2MzAsODgxODA4NTIsLT
+c2NTA3Mzc0MywtNzY1MDczNzQzLC0xMTgxMjM3ODgyLC0xMDAz
+MDM0Mjg1LDE1MDAwNjY0MzUsLTEwNzk5Nzg4MTIsMTM3NjUwMD
+k2LDU1MzEzOTE3OSwxNDUyNjEzMDEyLC0xMjAyODAzNjM2LDEw
+MzQ4ODY3NzFdfQ==
 -->
