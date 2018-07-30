@@ -21,13 +21,13 @@ Wir aber wollen es noch viel einfacher.
 Kennen Sie das? Sie sagen etwas [richtig kluges](http://platon-heute.de/vom-nichtwissen.html) und keiner weiß das zu würdigen. Jahre später kommt irgendwer daher, sagt das gleiche und wird umjubelt.
 Wir wäre es, wenn Sie **jetzt** beweisen könnten, dass Sie das schon vor Jahren gesagt haben?
 Aber wie? 
-Sie könnten natürlich alle Ihre klugen Äußerungen schon mal vorsorglich im Web veröffentlich und dann später über [archive.org](https://archive.org/) beweisen, wie klug Sie schon vor Jahren waren.
-Aber sind wir mal ehrlich. Finden unsere genialen Ideen keine Resonanz, sind meistens die Ideen schuld. 
+Sie könnten natürlich alle Ihre schlauen Äußerungen schon mal vorsorglich im Web veröffentlich und dann später über [archive.org](https://archive.org/) beweisen, wie klug Sie schon vor Jahren waren.
+Aber sind wir mal ehrlich. Finden unsere genialen Gedanken keine Resonanz, sind meistens die Gedanken schuld. 
 Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
  
  ## Marmor, Stein und Eisen bricht, aber eine Blockchain nicht
- Was liegt also näher, als alle klugen Gedanken einfach in der Blockchain zu veröffentlichen? Dann sind Zeitpunkt und Inhalt unwiderruflich festgehalten.
- Und da Speicher in der Blockchain etwas kostet, hashen ([SHA512](https://abunchofutils.com/u/computing/sha512-hash-calculator/)) wir vorher und legen nur den Hashwert ab.
+ Was liegt also näher, als alle klugen Gedanken einfach in der Blockchain zu speichern? Dann sind Zeitpunkt und Inhalt unwiderruflich festgehalten.
+Und da Speicher in der Blockchain Geld kostet, hashen ([SHA512](https://abunchofutils.com/u/computing/sha512-hash-calculator/)) wir vorher und legen nur den Hashwert ab.
 
 ## Pacta sunt servanda
 Unser Smart Contract soll so einfach wie nur möglich sein. Wir beschränken uns auf eine einzige Funktion:
@@ -279,11 +279,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTg4MDYwNzg4LC0xNTgwMTI0OTIsMTU0Mj
-Q5NzUyOCwyMDAwMzM0MDU4LDkxMDg4ODM4OCwxMTcyNjA1Nzkz
-LC03MDk1NjA4MSwxNzI5ODAzNDIsLTM2NjE0MjQ1OSwtNTYwMT
-k1ODUxLDE5NDg3MDYyNTgsLTYzNjY1OTg1MiwyMDY2MjA3ODUs
-LTYyNDE3NzMxNiwtNzM1ODQzMTY1LC04Mzc3OTc2OSwtMTUyMj
-UyNzUzMCwtOTQ2MzY3MjAzLC04MzU2MzA4MTAsODA3NzA2OTQw
-XX0=
+eyJoaXN0b3J5IjpbLTE5NzcwMjk5NjMsLTE1ODAxMjQ5MiwxNT
+QyNDk3NTI4LDIwMDAzMzQwNTgsOTEwODg4Mzg4LDExNzI2MDU3
+OTMsLTcwOTU2MDgxLDE3Mjk4MDM0MiwtMzY2MTQyNDU5LC01Nj
+AxOTU4NTEsMTk0ODcwNjI1OCwtNjM2NjU5ODUyLDIwNjYyMDc4
+NSwtNjI0MTc3MzE2LC03MzU4NDMxNjUsLTgzNzc5NzY5LC0xNT
+IyNTI3NTMwLC05NDYzNjcyMDMsLTgzNTYzMDgxMCw4MDc3MDY5
+NDBdfQ==
 -->
