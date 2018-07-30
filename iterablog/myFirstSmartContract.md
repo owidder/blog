@@ -24,7 +24,7 @@ Wir wäre es, wenn Sie **jetzt** beweisen könnten, dass Sie das schon vor Jahre
 *Aber wie?* 
 
 Sie könnten natürlich alle Ihre schlauen Äußerungen schon mal vorsorglich im Web veröffentlich und dann später über [archive.org](https://archive.org/) beweisen, wie klug Sie schon vor Jahren waren.  
-Aber sind wir mal ehrlich. Finden unsere genialen Gedanken keine Resonanz, sind meistens die Gedanken schuld. 
+Aber sind wir mal ehrlich. Finden unsere genialen Gedanken keine Resonanz, sind meistens die Gedanken schuld.  
 Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
  
  ## Marmor, Stein und Eisen bricht, aber eine Blockchain nicht
@@ -287,11 +287,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzIwNTYzOTg2LDE0MTgwNjMzMCwtMTY0NT
-I2NDA5OCwtMjEwNzQ2MjYzMCw4ODE4MDg1MiwtNzY1MDczNzQz
-LC03NjUwNzM3NDMsLTExODEyMzc4ODIsLTEwMDMwMzQyODUsMT
-UwMDA2NjQzNSwtMTA3OTk3ODgxMiwxMzc2NTAwOTYsNTUzMTM5
-MTc5LDE0NTI2MTMwMTIsLTEyMDI4MDM2MzYsMTAzNDg4Njc3MS
-wyMDE3MTI4MjM0LC0xMDAxMzQxOTI4LDU4NTAyMTc5MiwxNjcx
-Nzg2NDUwXX0=
+eyJoaXN0b3J5IjpbNDUxMzQ0ODQwLDMyMDU2Mzk4NiwxNDE4MD
+YzMzAsLTE2NDUyNjQwOTgsLTIxMDc0NjI2MzAsODgxODA4NTIs
+LTc2NTA3Mzc0MywtNzY1MDczNzQzLC0xMTgxMjM3ODgyLC0xMD
+AzMDM0Mjg1LDE1MDAwNjY0MzUsLTEwNzk5Nzg4MTIsMTM3NjUw
+MDk2LDU1MzEzOTE3OSwxNDUyNjEzMDEyLC0xMjAyODAzNjM2LD
+EwMzQ4ODY3NzEsMjAxNzEyODIzNCwtMTAwMTM0MTkyOCw1ODUw
+MjE3OTJdfQ==
 -->
