@@ -234,13 +234,15 @@ Wenn Sie nun angemeldet sind, dann erscheint nach *Connect with Metamask* noch e
 
 Auch die ignorieren wir, schließlich spielen wir ja nur mit Rinkeby-Spielgeld. Jetzt erkennen wir durch den grünen Punkt, dass wir mit *Metamask* verbunden sind.
 
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-05/iterablog/images/connected.png" alt="Connected"/>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5ODUwMTM0MTMsMTIwNzA0MTU4NSwtNT
-QyNDgxODk1LC0zNTg3NTIwMTMsLTM1MDYzMTIzOCwxNjc0MDk1
-OTkzLDExNDEwMDMxOTYsLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC
-03MjgzNzg3MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4
-NjI0ODExMCwtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3Nz
-I4LDQxMDE4ODkzMiwtOTk5MTIwOTQ4LDg3ODU1MzU1LDEwMzM3
-MzQ3MzVdfQ==
+eyJoaXN0b3J5IjpbLTEwODk4MDU2MiwxMjA3MDQxNTg1LC01ND
+I0ODE4OTUsLTM1ODc1MjAxMywtMzUwNjMxMjM4LDE2NzQwOTU5
+OTMsMTE0MTAwMzE5NiwtMzAwNTY3NTMwLC0zNjE5MTU1MDUsLT
+cyODM3ODcxOSwtMTI0MTI3OTg1OCwtMTE1MTM5NDg4LC0xOTg2
+MjQ4MTEwLC04NzU4MTk5ODQsMTMyMTM3NzUxNCw1NDY1Mjc3Mj
+gsNDEwMTg4OTMyLC05OTkxMjA5NDgsODc4NTUzNTUsMTAzMzcz
+NDczNV19
 -->
