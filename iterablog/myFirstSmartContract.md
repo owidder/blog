@@ -201,17 +201,19 @@ Nun kann das ein klein wenig dauern, aber dann gibt es eine Bestätigung.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-03/iterablog/images/verify-result.png" alt="Verify Result"/>
 
-Und wenn man jetzt wieder neu auf die [Seite des Contracts](https://rinkeby.etherscan.io/address/0x245ede9dac68b84f329e21024e0083ce432700f9#code) geht, sieht man einen schönen grünen Haken im Code-Tab.
+Und wenn man jetzt wieder neu auf die [Seite des Contracts](https://rinkeby.etherscan.io/address/0x245ede9dac68b84f329e21024e0083ce432700f9#code) geht, sieht man einen schönen grünen Haken im Titel des *Code*-Tab.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-03/iterablog/images/green-check.png" alt="Green Check"/>
 
+Und *Code*-Tab können wir nun unseren bewundern.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzMjc3Nzc3NiwtMzYxOTE1NTA1LC03Mj
-gzNzg3MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4NjI0
-ODExMCwtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3NzI4LD
-QxMDE4ODkzMiwtOTk5MTIwOTQ4LDg3ODU1MzU1LDEwMzM3MzQ3
-MzUsODc0MDU5OTIyLDE0MDQxOTkxOCwxNjQ3NDUyNjY4LDExND
-Q1NDc5NjYsLTE3NzIxMDAyNDQsLTIwMzcwNDEyNjMsMTM2NDEy
-NTFdfQ==
+eyJoaXN0b3J5IjpbLTM1NjIzOTQ3LC0zNjE5MTU1MDUsLTcyOD
+M3ODcxOSwtMTI0MTI3OTg1OCwtMTE1MTM5NDg4LC0xOTg2MjQ4
+MTEwLC04NzU4MTk5ODQsMTMyMTM3NzUxNCw1NDY1Mjc3MjgsND
+EwMTg4OTMyLC05OTkxMjA5NDgsODc4NTUzNTUsMTAzMzczNDcz
+NSw4NzQwNTk5MjIsMTQwNDE5OTE4LDE2NDc0NTI2NjgsMTE0ND
+U0Nzk2NiwtMTc3MjEwMDI0NCwtMjAzNzA0MTI2MywxMzY0MTI1
+MV19
 -->
