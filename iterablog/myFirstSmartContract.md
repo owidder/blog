@@ -10,7 +10,7 @@ Und glaubt man den Expertinnen (oder meinem [Kollegen](https://www.iteratec.de/t
 
 ## Unsere eigene Währung...
 ... wollen wir aber nicht. Auf [Ethereum](https://www.ethereum.org/) - die älteste und größte der Blockchains, die Smart Contracts anbieten - gibt es jede Menge Contracts, die ihren eigenen Coin implementieren. Dafür gibt es auch extra Standards ([ERC20](https://en.wikipedia.org/wiki/ERC20) bzw. [ERC223](https://cointrends.top/news/view/the-new-erc223-token-standard)). Und so ein ERC20-Contract [muss gar nicht mal so groß sein](https://github.com/bitfwdcommunity/Issue-your-own-ERC20-token/blob/master/contracts/erc20_tutorial.sol).
-Wir aber wollen es aber noch viel einfacher.
+Wir aber wollen es noch viel einfacher.
 
 ## "Das habe ich doch schon vor 10 Jahren gesagt!"
 Kennen Sie das? Sie sagen irgend etwas [richtig kluges](https://apanat.wordpress.com/2015/03/17/ich-weis-dass-ich-nichts-weis-der-satz-stammt-weder-von-sokrates-noch-von-plato/) und keiner weiß das zu würdigen. Jahre später kommt irgendwer daher, sagt das gleiche und wird umjubelt.
@@ -274,11 +274,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwOTU2MDgxLDE3Mjk4MDM0MiwtMzY2MT
-QyNDU5LC01NjAxOTU4NTEsMTk0ODcwNjI1OCwtNjM2NjU5ODUy
-LDIwNjYyMDc4NSwtNjI0MTc3MzE2LC03MzU4NDMxNjUsLTgzNz
-c5NzY5LC0xNTIyNTI3NTMwLC05NDYzNjcyMDMsLTgzNTYzMDgx
-MCw4MDc3MDY5NDAsMTY4OTExMjc5NCwxMzY5MTk3NTIxLDE4Mz
-ExMzUwNDQsLTIzMDkwOTAzLDQzNzgyMzQ3OSwtOTAxMzAyNTk3
+eyJoaXN0b3J5IjpbMTE3MjYwNTc5MywtNzA5NTYwODEsMTcyOT
+gwMzQyLC0zNjYxNDI0NTksLTU2MDE5NTg1MSwxOTQ4NzA2MjU4
+LC02MzY2NTk4NTIsMjA2NjIwNzg1LC02MjQxNzczMTYsLTczNT
+g0MzE2NSwtODM3Nzk3NjksLTE1MjI1Mjc1MzAsLTk0NjM2NzIw
+MywtODM1NjMwODEwLDgwNzcwNjk0MCwxNjg5MTEyNzk0LDEzNj
+kxOTc1MjEsMTgzMTEzNTA0NCwtMjMwOTA5MDMsNDM3ODIzNDc5
 XX0=
 -->
