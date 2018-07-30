@@ -190,13 +190,14 @@ Dort müssen wir folgendes eintragen:
  - Name des Contract
  - Compiler-Version: Kann man in *remix* im *Settings*-Tab auf der rechten Seite sehen
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-01/iterablog/images/compiler-version.png" alt="Verify Form"/>
+ - Zum Schluss müssen wir noch angeben, ob der Compiler mit Optimierung lief. Auch das sieht man 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2MDMzNzMwNTksLTk5OTEyMDk0OCw4Nz
-g1NTM1NSwxMDMzNzM0NzM1LDg3NDA1OTkyMiwxNDA0MTk5MTgs
-MTY0NzQ1MjY2OCwxMTQ0NTQ3OTY2LC0xNzcyMTAwMjQ0LC0yMD
-M3MDQxMjYzLDEzNjQxMjUxLC0yMTE2MTU4MTY1LDg3MDE4MDYw
-MCwtNzIxMDUxODk5LC0xODM1NTg3MzczLDE4OTg3Nzg5MDgsLT
-Q3OTc5MjEyMCw5NzE1NzE2MTEsLTI5MjA1NDI0OSwtODg1OTE0
-NjczXX0=
+eyJoaXN0b3J5IjpbMTQ4MjI2MTE0NSwtOTk5MTIwOTQ4LDg3OD
+U1MzU1LDEwMzM3MzQ3MzUsODc0MDU5OTIyLDE0MDQxOTkxOCwx
+NjQ3NDUyNjY4LDExNDQ1NDc5NjYsLTE3NzIxMDAyNDQsLTIwMz
+cwNDEyNjMsMTM2NDEyNTEsLTIxMTYxNTgxNjUsODcwMTgwNjAw
+LC03MjEwNTE4OTksLTE4MzU1ODczNzMsMTg5ODc3ODkwOCwtND
+c5NzkyMTIwLDk3MTU3MTYxMSwtMjkyMDU0MjQ5LC04ODU5MTQ2
+NzNdfQ==
 -->
