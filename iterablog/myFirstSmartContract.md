@@ -3,7 +3,7 @@
 
 Wenn [Blockchains](https://www.theguardian.com/commentisfree/2018/feb/06/blockchain-explained-by-crypto-expert-f-onthemoon) eine Art von [verteilten Datenbanken](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain/) sind, dann sind [Smart Contracts](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain-teil-2-smart-contracts-die-businesslogik-von-blockchai/) ihre Stored Procedures. Sie bieten Funktionen an, die man aufrufen kann und die Daten in der Blockchain ablegen können.
 
-Und glaubt man den Expertinnen (oder meinem [Kollegen](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain-teil-4-die-blockchain-im-einsatz-1/)), dann könnten Smart Contracts  [Märkte verändern](http://www.zhiguohe.com/uploads/1/0/6/9/106923057/bdsc.pdf).
+Und glaubt man den Expertinnen (oder meinem [Kollegen](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain-teil-4-die-blockchain-im-einsatz-1/)), dann könnten Smart Contracts ganze  [Märkte verändern](http://www.zhiguohe.com/uploads/1/0/6/9/106923057/bdsc.pdf).
 
 ## Es nützt also nix...
 ... wir müssen selber einen Smart Contract erstellen. Erst dann können wir auch [mit den wirklich coolen Kids mitreden](https://cointrends.top/news/view/the-new-erc223-token-standard). Aber da wir auch besseres zu tun haben, wollen wir es uns so einfach wie möglich machen und nur online Tools verwenden.
@@ -214,11 +214,11 @@ So, jetzt brauchen wir nur noch einen klugen Gedanken, den wir hashen und in uns
 
 Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihen. Wir gehen erst einmal zu einem 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg4OTU5Mjg0LC0zMDA1Njc1MzAsLTM2MT
-kxNTUwNSwtNzI4Mzc4NzE5LC0xMjQxMjc5ODU4LC0xMTUxMzk0
-ODgsLTE5ODYyNDgxMTAsLTg3NTgxOTk4NCwxMzIxMzc3NTE0LD
-U0NjUyNzcyOCw0MTAxODg5MzIsLTk5OTEyMDk0OCw4Nzg1NTM1
-NSwxMDMzNzM0NzM1LDg3NDA1OTkyMiwxNDA0MTk5MTgsMTY0Nz
-Q1MjY2OCwxMTQ0NTQ3OTY2LC0xNzcyMTAwMjQ0LC0yMDM3MDQx
-MjYzXX0=
+eyJoaXN0b3J5IjpbLTEyODQ5NTA4NTksLTMwMDU2NzUzMCwtMz
+YxOTE1NTA1LC03MjgzNzg3MTksLTEyNDEyNzk4NTgsLTExNTEz
+OTQ4OCwtMTk4NjI0ODExMCwtODc1ODE5OTg0LDEzMjEzNzc1MT
+QsNTQ2NTI3NzI4LDQxMDE4ODkzMiwtOTk5MTIwOTQ4LDg3ODU1
+MzU1LDEwMzM3MzQ3MzUsODc0MDU5OTIyLDE0MDQxOTkxOCwxNj
+Q3NDUyNjY4LDExNDQ1NDc5NjYsLTE3NzIxMDAyNDQsLTIwMzcw
+NDEyNjNdfQ==
 -->
