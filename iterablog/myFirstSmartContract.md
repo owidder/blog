@@ -260,13 +260,19 @@ Ist sie nicht schön?
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-10/iterablog/images/input-data.png" alt="New Transaction"/>
 
-Im Tab Event Logs können Sie auch den Log-Eintrag sehen, der durch den Contract 
+Im Tab Event Logs können Sie auch den Log-Eintrag sehen, der durch den Contract mit der Code-Zeile
+
+    emit NewHashValue(hashValue, msg.sender, block.timestamp);
+
+erzeugt wurde.
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU2MDE5NTg1MSwxOTQ4NzA2MjU4LC00Nj
-MxOTQ3ODMsLTYzNjY1OTg1MiwyMDY2MjA3ODUsLTYyNDE3NzMx
-NiwtNzM1ODQzMTY1LC04Mzc3OTc2OSwtMTUyMjUyNzUzMCwtOT
-Q2MzY3MjAzLC04MzU2MzA4MTAsODA3NzA2OTQwLDE2ODkxMTI3
-OTQsMTM2OTE5NzUyMSwxODMxMTM1MDQ0LC0yMzA5MDkwMyw0Mz
-c4MjM0NzksLTkwMTMwMjU5NywxODg2ODcxODQyLDk1MzMxMjgy
-MV19
+eyJoaXN0b3J5IjpbLTYxMjMyNTgyLC01NjAxOTU4NTEsMTk0OD
+cwNjI1OCwtNjM2NjU5ODUyLDIwNjYyMDc4NSwtNjI0MTc3MzE2
+LC03MzU4NDMxNjUsLTgzNzc5NzY5LC0xNTIyNTI3NTMwLC05ND
+YzNjcyMDMsLTgzNTYzMDgxMCw4MDc3MDY5NDAsMTY4OTExMjc5
+NCwxMzY5MTk3NTIxLDE4MzExMzUwNDQsLTIzMDkwOTAzLDQzNz
+gyMzQ3OSwtOTAxMzAyNTk3LDE4ODY4NzE4NDIsOTUzMzEyODIx
+XX0=
 -->
