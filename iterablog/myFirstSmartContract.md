@@ -13,7 +13,7 @@ Und glaubt man den Expertinnen (oder meinem [Kollegen](https://www.iteratec.de/t
 Wir aber wollen es aber noch viel einfacher.
 
 ## "Das habe ich doch schon vor 10 Jahren gesagt!"
-Kennen Sie das? Sie sagen irgend etwas richtig kluges und keiner weiß das zu würdigen. Jahre später kommt irgendwer daher, sagt das gleiche und wird umjubelt.
+Kennen Sie das? Sie sagen irgend etwas [richtig kluges](https://apanat.wordpress.com/2015/03/17/ich-weis-dass-ich-nichts-weis-der-satz-stammt-weder-von-sokrates-noch-von-plato/) und keiner weiß das zu würdigen. Jahre später kommt irgendwer daher, sagt das gleiche und wird umjubelt.
 Wir wäre es, wenn Sie jetzt beweisen könnten, dass Sie das schon vor Jahren gesagt haben?
 Aber wie? 
 Sie könnten natürlich alle Ihre klugen Äußerungen schon mal vorsorglich im Web veröffentlich und dann später über [archive.org](https://archive.org/) beweisen, wie klug Sie schon vor Jahren waren.
@@ -214,7 +214,7 @@ So, jetzt brauchen wir nur noch einen klugen Gedanken, den wir hashen und in uns
 
 Falls Sie gerade keine guten Gedanken zur Hand haben, kann ich Ihnen einen leihen. Wir gehen erst einmal zu einem 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyODQ5NTA4NTksLTMwMDU2NzUzMCwtMz
+eyJoaXN0b3J5IjpbLTExMjkzNjM0MjIsLTMwMDU2NzUzMCwtMz
 YxOTE1NTA1LC03MjgzNzg3MTksLTEyNDEyNzk4NTgsLTExNTEz
 OTQ4OCwtMTk4NjI0ODExMCwtODc1ODE5OTg0LDEzMjEzNzc1MT
 QsNTQ2NTI3NzI4LDQxMDE4ODkzMiwtOTk5MTIwOTQ4LDg3ODU1
