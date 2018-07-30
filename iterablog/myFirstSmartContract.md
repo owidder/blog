@@ -220,13 +220,13 @@ Dort geben Sie ihre kluge Idee ein drücken auf den großen *Calculate*-Knopf. D
 
 Mit dem Hashwert in der Zwischenablage gehen Sie dann wieder zu der Contract-Seite zurück in den *Write-Contract*-Tab.
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/smart-idea.png" alt="Smart Idea"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/write-contract.png" alt="Smart Idea"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NTczMzY0MywxNjc0MDk1OTkzLDExND
-EwMDMxOTYsLTMwMDU2NzUzMCwtMzYxOTE1NTA1LC03MjgzNzg3
-MTksLTEyNDEyNzk4NTgsLTExNTEzOTQ4OCwtMTk4NjI0ODExMC
-wtODc1ODE5OTg0LDEzMjEzNzc1MTQsNTQ2NTI3NzI4LDQxMDE4
-ODkzMiwtOTk5MTIwOTQ4LDg3ODU1MzU1LDEwMzM3MzQ3MzUsOD
-c0MDU5OTIyLDE0MDQxOTkxOCwxNjQ3NDUyNjY4LDExNDQ1NDc5
-NjZdfQ==
+eyJoaXN0b3J5IjpbLTM1MDYzMTIzOCwtMTQ1NzMzNjQzLDE2Nz
+QwOTU5OTMsMTE0MTAwMzE5NiwtMzAwNTY3NTMwLC0zNjE5MTU1
+MDUsLTcyODM3ODcxOSwtMTI0MTI3OTg1OCwtMTE1MTM5NDg4LC
+0xOTg2MjQ4MTEwLC04NzU4MTk5ODQsMTMyMTM3NzUxNCw1NDY1
+Mjc3MjgsNDEwMTg4OTMyLC05OTkxMjA5NDgsODc4NTUzNTUsMT
+AzMzczNDczNSw4NzQwNTk5MjIsMTQwNDE5OTE4LDE2NDc0NTI2
+NjhdfQ==
 -->
