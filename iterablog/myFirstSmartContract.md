@@ -22,6 +22,7 @@ Kennen Sie das? Sie sagen etwas [richtig kluges](http://platon-heute.de/vom-nich
 Wir wäre es, wenn Sie **jetzt** beweisen könnten, dass Sie das schon vor Jahren gesagt haben?
 
 Aber wie? 
+
 Sie könnten natürlich alle Ihre schlauen Äußerungen schon mal vorsorglich im Web veröffentlich und dann später über [archive.org](https://archive.org/) beweisen, wie klug Sie schon vor Jahren waren.
 Aber sind wir mal ehrlich. Finden unsere genialen Gedanken keine Resonanz, sind meistens die Gedanken schuld. 
 Also vielleicht doch nicht alles schon mal prophylaktisch veröffentlichen.
@@ -286,11 +287,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NTU1ODcwOCwtMTY0NTI2NDA5OCwtMj
-EwNzQ2MjYzMCw4ODE4MDg1MiwtNzY1MDczNzQzLC03NjUwNzM3
-NDMsLTExODEyMzc4ODIsLTEwMDMwMzQyODUsMTUwMDA2NjQzNS
-wtMTA3OTk3ODgxMiwxMzc2NTAwOTYsNTUzMTM5MTc5LDE0NTI2
-MTMwMTIsLTEyMDI4MDM2MzYsMTAzNDg4Njc3MSwyMDE3MTI4Mj
-M0LC0xMDAxMzQxOTI4LDU4NTAyMTc5MiwxNjcxNzg2NDUwLC0z
-MzQ4MTQ3NzldfQ==
+eyJoaXN0b3J5IjpbMTQxODA2MzMwLC0xNzU1NTg3MDgsLTE2ND
+UyNjQwOTgsLTIxMDc0NjI2MzAsODgxODA4NTIsLTc2NTA3Mzc0
+MywtNzY1MDczNzQzLC0xMTgxMjM3ODgyLC0xMDAzMDM0Mjg1LD
+E1MDAwNjY0MzUsLTEwNzk5Nzg4MTIsMTM3NjUwMDk2LDU1MzEz
+OTE3OSwxNDUyNjEzMDEyLC0xMjAyODAzNjM2LDEwMzQ4ODY3Nz
+EsMjAxNzEyODIzNCwtMTAwMTM0MTkyOCw1ODUwMjE3OTIsMTY3
+MTc4NjQ1MF19
 -->
