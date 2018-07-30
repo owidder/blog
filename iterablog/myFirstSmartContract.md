@@ -100,7 +100,7 @@ Wir gehen zur offiziellen [Faucet von Rinkeby](https://faucet.rinkeby.io/). Dort
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-01/iterablog/images/faucet.png" alt="Rinkeby Faucet"/>
 
-Dort bekommen wir Ether geschenkt. Dafür müssen wir die Adresse unseres Accounts auf Twitter, Google+ oder Facebook posten und die URL des Posts in das Eingabefeld kopieren. 
+Dafür müssen wir die Adresse unseres Accounts auf Twitter, Google+ oder Facebook posten und die URL des Posts in das Eingabefeld kopieren. 
 
 Dann können wir uns entscheiden, wieviel Ether wir wollen. Je nachdem können wir dann aber erst in 8 Stunden, einem oder drei Tagen wieder um Ether betteln.
 
@@ -284,11 +284,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzA2MjQxNjU1LDg4MTgwODUyLC03NjUwNz
-M3NDMsLTc2NTA3Mzc0MywtMTE4MTIzNzg4MiwtMTAwMzAzNDI4
-NSwxNTAwMDY2NDM1LC0xMDc5OTc4ODEyLDEzNzY1MDA5Niw1NT
-MxMzkxNzksMTQ1MjYxMzAxMiwtMTIwMjgwMzYzNiwxMDM0ODg2
-NzcxLDIwMTcxMjgyMzQsLTEwMDEzNDE5MjgsNTg1MDIxNzkyLD
-E2NzE3ODY0NTAsLTMzNDgxNDc3OSwtMTU4MDEyNDkyLDE1NDI0
-OTc1MjhdfQ==
+eyJoaXN0b3J5IjpbLTIxMDc0NjI2MzAsODgxODA4NTIsLTc2NT
+A3Mzc0MywtNzY1MDczNzQzLC0xMTgxMjM3ODgyLC0xMDAzMDM0
+Mjg1LDE1MDAwNjY0MzUsLTEwNzk5Nzg4MTIsMTM3NjUwMDk2LD
+U1MzEzOTE3OSwxNDUyNjEzMDEyLC0xMjAyODAzNjM2LDEwMzQ4
+ODY3NzEsMjAxNzEyODIzNCwtMTAwMTM0MTkyOCw1ODUwMjE3OT
+IsMTY3MTc4NjQ1MCwtMzM0ODE0Nzc5LC0xNTgwMTI0OTIsMTU0
+MjQ5NzUyOF19
 -->
