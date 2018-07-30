@@ -60,13 +60,12 @@ Die Funktion *logHashValue* erzeugt einen Logeintrag mit dem der Hashwert, die A
 
 Die Funktion ist *public* ohne Einschränkung, d.h. sie darf von jedem Ethereum Account aufgerufen werden.
 
-## Wallets
+## There is no free lunch
 Um unseren Smart Contract *Weisenheimer* in der Ethereum Blockchain zu deployen, brauchen wir einen Account und *Ether*, die Währung bei Ethereum. 
-
-*There is no free lunch*
 
 Jede Transaktion bei Ethereum - und das Deployen eines Contracts ist auch eine Transaktion - kostet Ether. Und Ether kosten normalerweise [echtes Geld](https://www.coindesk.com/ethereum-price/) (aber seien Sie beruhigt, für unser kleines Beispiel brauchen Sie kein Geld auszugeben).
 
+## Wallets
 Das Verwalten von Accounts und Starten von Transaktionen geht am Einfachsten über ein [*Wallet*](https://www.statista.com/statistics/647374/worldwide-blockchain-wallet-users/).
 
 Wir verwenden dafür das Browser-Plug-in [Metamask](https://metamask.io/).
@@ -291,11 +290,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcwODI4NzY5OCwtNzAzNjkxMzA2LC00Mz
-UxNTc1NzgsMTUxODExMDEyOSwxMTQ1NzM4Njk1LC0xMzc1NDY4
-MDkzLC0yMDkwOTgyNDkxLDE3NjUyNjE2OTksNDUxMzQ0ODQwLD
-E0MTgwNjMzMCwtMTY0NTI2NDA5OCwtMjEwNzQ2MjYzMCw4ODE4
-MDg1MiwtNzY1MDczNzQzLC03NjUwNzM3NDMsLTExODEyMzc4OD
-IsLTEwMDMwMzQyODUsMTUwMDA2NjQzNSwtMTA3OTk3ODgxMiwx
-Mzc2NTAwOTZdfQ==
+eyJoaXN0b3J5IjpbLTg2MTIzNjI5OCwxNzA4Mjg3Njk4LC03MD
+M2OTEzMDYsLTQzNTE1NzU3OCwxNTE4MTEwMTI5LDExNDU3Mzg2
+OTUsLTEzNzU0NjgwOTMsLTIwOTA5ODI0OTEsMTc2NTI2MTY5OS
+w0NTEzNDQ4NDAsMTQxODA2MzMwLC0xNjQ1MjY0MDk4LC0yMTA3
+NDYyNjMwLDg4MTgwODUyLC03NjUwNzM3NDMsLTc2NTA3Mzc0My
+wtMTE4MTIzNzg4MiwtMTAwMzAzNDI4NSwxNTAwMDY2NDM1LC0x
+MDc5OTc4ODEyXX0=
 -->
