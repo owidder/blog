@@ -222,13 +222,13 @@ Mit dem Hashwert in der Zwischenablage gehen Sie dann wieder zu der [Contract-Se
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/write-contract.png" alt="Write Contract"/>
 
-
+Dort klicken Sie auf den *Connect with Metamask*.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMDg2NjIzMSwtMzUwNjMxMjM4LDE2Nz
-QwOTU5OTMsMTE0MTAwMzE5NiwtMzAwNTY3NTMwLC0zNjE5MTU1
-MDUsLTcyODM3ODcxOSwtMTI0MTI3OTg1OCwtMTE1MTM5NDg4LC
-0xOTg2MjQ4MTEwLC04NzU4MTk5ODQsMTMyMTM3NzUxNCw1NDY1
-Mjc3MjgsNDEwMTg4OTMyLC05OTkxMjA5NDgsODc4NTUzNTUsMT
-AzMzczNDczNSw4NzQwNTk5MjIsMTQwNDE5OTE4LDE2NDc0NTI2
-NjhdfQ==
+eyJoaXN0b3J5IjpbODA3MTEyMDk4LC0zNTA2MzEyMzgsMTY3ND
+A5NTk5MywxMTQxMDAzMTk2LC0zMDA1Njc1MzAsLTM2MTkxNTUw
+NSwtNzI4Mzc4NzE5LC0xMjQxMjc5ODU4LC0xMTUxMzk0ODgsLT
+E5ODYyNDgxMTAsLTg3NTgxOTk4NCwxMzIxMzc3NTE0LDU0NjUy
+NzcyOCw0MTAxODg5MzIsLTk5OTEyMDk0OCw4Nzg1NTM1NSwxMD
+MzNzM0NzM1LDg3NDA1OTkyMiwxNDA0MTk5MTgsMTY0NzQ1MjY2
+OF19
 -->
