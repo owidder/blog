@@ -260,15 +260,17 @@ Ist sie nicht schön?
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-10/iterablog/images/input-data.png" alt="New Transaction"/>
 
-Im Tab Event Logs können Sie auch den Log-Eintrag sehen, der durch den Contract mit der Code-Zeile
+Im Tab Event Logs können Sie auch den [Log-Eintrag sehen](https://rinkeby.etherscan.io/tx/0x4ea17b435fa362308addb550faf719fdc6333341f6778cff620b49264c87c1df#eventlog), der durch den Contract mit der Code-Zeile
 
     emit NewHashValue(hashValue, msg.sender, block.timestamp);
 
 erzeugt wurde.
 
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-11/iterablog/images/event-log.png" alt="New Transaction"/>
 
+Leider gibt es keine Möglichkeit, die 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjMyNTgyLC01NjAxOTU4NTEsMTk0OD
+eyJoaXN0b3J5IjpbMzIzNzk2NDM5LC01NjAxOTU4NTEsMTk0OD
 cwNjI1OCwtNjM2NjU5ODUyLDIwNjYyMDc4NSwtNjI0MTc3MzE2
 LC03MzU4NDMxNjUsLTgzNzc5NzY5LC0xNTIyNTI3NTMwLC05ND
 YzNjcyMDMsLTgzNTYzMDgxMCw4MDc3MDY5NDAsMTY4OTExMjc5
