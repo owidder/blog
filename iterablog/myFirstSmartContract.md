@@ -1,7 +1,7 @@
 
 # TL;DR: Smart Contracts für Eilige
 
-<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180728-04/iterablog/images/0-eth.png" alt="Rinkeby auswählen"/>
+<img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/0-eth.png" alt="Rinkeby auswählen"/>
 
 Wenn [Blockchains](https://www.theguardian.com/commentisfree/2018/feb/06/blockchain-explained-by-crypto-expert-f-onthemoon) eine Art von [verteilten Datenbanken](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain/) sind, dann sind [Smart Contracts](https://www.iteratec.de/tech-blog/artikel/news/wie-funktioniert-eigentlich-die-blockchain-teil-2-smart-contracts-die-businesslogik-von-blockchai/) ihre Stored Procedures. Sie bieten Funktionen an, die man aufrufen kann und die Daten in der Blockchain ablegen können.
 
@@ -276,11 +276,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) erzeugen, m
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODMzMzU3MywxMTcyNjA1NzkzLC03MD
-k1NjA4MSwxNzI5ODAzNDIsLTM2NjE0MjQ1OSwtNTYwMTk1ODUx
-LDE5NDg3MDYyNTgsLTYzNjY1OTg1MiwyMDY2MjA3ODUsLTYyND
-E3NzMxNiwtNzM1ODQzMTY1LC04Mzc3OTc2OSwtMTUyMjUyNzUz
-MCwtOTQ2MzY3MjAzLC04MzU2MzA4MTAsODA3NzA2OTQwLDE2OD
-kxMTI3OTQsMTM2OTE5NzUyMSwxODMxMTM1MDQ0LC0yMzA5MDkw
-M119
+eyJoaXN0b3J5IjpbOTEwODg4Mzg4LC00NzgzMzM1NzMsMTE3Mj
+YwNTc5MywtNzA5NTYwODEsMTcyOTgwMzQyLC0zNjYxNDI0NTks
+LTU2MDE5NTg1MSwxOTQ4NzA2MjU4LC02MzY2NTk4NTIsMjA2Nj
+IwNzg1LC02MjQxNzczMTYsLTczNTg0MzE2NSwtODM3Nzk3Njks
+LTE1MjI1Mjc1MzAsLTk0NjM2NzIwMywtODM1NjMwODEwLDgwNz
+cwNjk0MCwxNjg5MTEyNzk0LDEzNjkxOTc1MjEsMTgzMTEzNTA0
+NF19
 -->
