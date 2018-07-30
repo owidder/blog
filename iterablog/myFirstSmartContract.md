@@ -260,13 +260,13 @@ Ist sie nicht schön?
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-10/iterablog/images/input-data.png" alt="New Transaction"/>
 
-Im Tab Event Logs können Sie auch den Log-Eintrag sehen
+Im Tab Event Logs können Sie auch den Log-Eintrag sehen, der d
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ2MzE5NDc4MywtNjM2NjU5ODUyLDIwNj
-YyMDc4NSwtNjI0MTc3MzE2LC03MzU4NDMxNjUsLTgzNzc5NzY5
-LC0xNTIyNTI3NTMwLC05NDYzNjcyMDMsLTgzNTYzMDgxMCw4MD
-c3MDY5NDAsMTY4OTExMjc5NCwxMzY5MTk3NTIxLDE4MzExMzUw
-NDQsLTIzMDkwOTAzLDQzNzgyMzQ3OSwtOTAxMzAyNTk3LDE4OD
-Y4NzE4NDIsOTUzMzEyODIxLDIwMTkxMjU3NjYsLTEwODk4MDU2
-Ml19
+eyJoaXN0b3J5IjpbMTk0ODcwNjI1OCwtNDYzMTk0NzgzLC02Mz
+Y2NTk4NTIsMjA2NjIwNzg1LC02MjQxNzczMTYsLTczNTg0MzE2
+NSwtODM3Nzk3NjksLTE1MjI1Mjc1MzAsLTk0NjM2NzIwMywtOD
+M1NjMwODEwLDgwNzcwNjk0MCwxNjg5MTEyNzk0LDEzNjkxOTc1
+MjEsMTgzMTEzNTA0NCwtMjMwOTA5MDMsNDM3ODIzNDc5LC05MD
+EzMDI1OTcsMTg4Njg3MTg0Miw5NTMzMTI4MjEsMjAxOTEyNTc2
+Nl19
 -->
