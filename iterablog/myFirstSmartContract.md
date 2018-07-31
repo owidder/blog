@@ -18,7 +18,7 @@ Aber da wir auch besseres zu tun haben, wollen wir es uns so einfach wie möglic
 Wir aber wollen es noch viel einfacher.
 
 ## "Das habe ich doch schon vor 10 Jahren gesagt!"
-Kennen Sie das? Sie sagen etwas [richtig kluges](http://platon-heute.de/vom-nichtwissen.html) und keiner weiß das zu würdigen. Jahre später kommt irgendwer daher, sagt das gleiche und wird umjubelt.
+Kennen Sie das? Sie sagen etwas [richtig kluges](http://platon-heute.de/vom-nichtwissen.html) und keiner weiß das zu würdigen. Jahre später kommt irgendwer daher, sagt das gleiche und wird umjubelt.  
 Wir wäre es, wenn Sie **jetzt** beweisen könnten, dass Sie das schon vor Jahren gesagt haben?
 
 *Aber wie?* 
@@ -292,11 +292,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln,
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE0MTQ5MzMzOSwxMDYyMzE2MTIzLC01Nj
-A1OTA1MjQsNjEzNzYwOTA3LDkwMzA5Njg1MiwtMTc0NDE0MDI4
-OCwtODY3ODQ5MDg0LC04NjEyMzYyOTgsMTcwODI4NzY5OCwtNz
-AzNjkxMzA2LC00MzUxNTc1NzgsMTUxODExMDEyOSwxMTQ1NzM4
-Njk1LC0xMzc1NDY4MDkzLC0yMDkwOTgyNDkxLDE3NjUyNjE2OT
-ksNDUxMzQ0ODQwLDE0MTgwNjMzMCwtMTY0NTI2NDA5OCwtMjEw
-NzQ2MjYzMF19
+eyJoaXN0b3J5IjpbLTYzNzM3MTgxMywxMTQxNDkzMzM5LDEwNj
+IzMTYxMjMsLTU2MDU5MDUyNCw2MTM3NjA5MDcsOTAzMDk2ODUy
+LC0xNzQ0MTQwMjg4LC04Njc4NDkwODQsLTg2MTIzNjI5OCwxNz
+A4Mjg3Njk4LC03MDM2OTEzMDYsLTQzNTE1NzU3OCwxNTE4MTEw
+MTI5LDExNDU3Mzg2OTUsLTEzNzU0NjgwOTMsLTIwOTA5ODI0OT
+EsMTc2NTI2MTY5OSw0NTEzNDQ4NDAsMTQxODA2MzMwLC0xNjQ1
+MjY0MDk4XX0=
 -->
