@@ -243,6 +243,7 @@ Falls Sie gerade keinen guten Gedanken zur Hand haben, kann ich Ihnen einen leih
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-04/iterablog/images/smart-idea.png" alt="Smart Idea"/>
 
 Dort geben Sie ihren klugen Gedanken, ein drücken auf den großen *Calculate*-Knopf. Den Hashwert kopieren Sie sich mit Strg-C.
+
     a2f47805482ecb4267a9d5688973df5e0955f53f63b8c60b9b8a93ef17c7cdc46e86e7e53fcc778ec4efdf478f55ee71f3038b713ac5f8cf856dd2d04033255f
 
 Mit dem Hashwert in der Zwischenablage gehen Sie dann wieder zu der [Contract-Seite](https://rinkeby.etherscan.io/address/0x245ede9dac68b84f329e21024e0083ce432700f9#writeContract) zurück in den *Write-Contract*-Tab.
@@ -299,11 +300,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln,
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MDIxOTc4MCwtMzg0NDc3MjE2LC0xND
-g2MTc4MTQ0LC0xMzAyODI4MjE1LDY4MzE1MDYzMiwtMTUyNTgy
-NDYsLTEzMDQ5MTk4NTYsLTQ0Mjg2NDQwMCw1MzYwMjU1NSwxMD
-UyNDIyODcsLTYzNzM3MTgxMywxMTQxNDkzMzM5LDEwNjIzMTYx
-MjMsLTU2MDU5MDUyNCw2MTM3NjA5MDcsOTAzMDk2ODUyLC0xNz
-Q0MTQwMjg4LC04Njc4NDkwODQsLTg2MTIzNjI5OCwxNzA4Mjg3
-Njk4XX0=
+eyJoaXN0b3J5IjpbLTYxMjYwNzUxMCwtOTkwMjE5NzgwLC0zOD
+Q0NzcyMTYsLTE0ODYxNzgxNDQsLTEzMDI4MjgyMTUsNjgzMTUw
+NjMyLC0xNTI1ODI0NiwtMTMwNDkxOTg1NiwtNDQyODY0NDAwLD
+UzNjAyNTU1LDEwNTI0MjI4NywtNjM3MzcxODEzLDExNDE0OTMz
+MzksMTA2MjMxNjEyMywtNTYwNTkwNTI0LDYxMzc2MDkwNyw5MD
+MwOTY4NTIsLTE3NDQxNDAyODgsLTg2Nzg0OTA4NCwtODYxMjM2
+Mjk4XX0=
 -->
