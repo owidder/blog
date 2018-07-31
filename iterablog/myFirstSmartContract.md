@@ -55,7 +55,7 @@ und hier [ist er auch schon](https://github.com/owidder/iteraBlog/blob/master/we
 
 Zugegeben. So richtig smart sieht der nicht aus. Erfüllt aber seinen Zweck:
 
-Die Funktion *logHashValue* erzeugt einen Logeintrag mit dem der Hashwert, die Adresse des Accounts, von dem die Funktion aufgerufen wurde, und der Zeitstempel ein für alle Mal in der Blockchain festgehalten werden.  
+Die Funktion *logHashValue* erzeugt einen Logeintrag, mit dem der Hashwert, die Adresse des Accounts, von dem die Funktion aufgerufen wurde, und der Zeitstempel ein für alle Mal in der Blockchain festgehalten werden.  
 (Jeder kann die Log-Einträge eines Contracts lesen, daher ist das auch eine Art von *Veröffentlichen*)
 
 Die Funktion ist *public* ohne Einschränkung, d.h. sie darf von jedem Ethereum Account aufgerufen werden.
@@ -292,11 +292,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln,
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYzNzM3MTgxMywxMTQxNDkzMzM5LDEwNj
-IzMTYxMjMsLTU2MDU5MDUyNCw2MTM3NjA5MDcsOTAzMDk2ODUy
-LC0xNzQ0MTQwMjg4LC04Njc4NDkwODQsLTg2MTIzNjI5OCwxNz
-A4Mjg3Njk4LC03MDM2OTEzMDYsLTQzNTE1NzU3OCwxNTE4MTEw
-MTI5LDExNDU3Mzg2OTUsLTEzNzU0NjgwOTMsLTIwOTA5ODI0OT
-EsMTc2NTI2MTY5OSw0NTEzNDQ4NDAsMTQxODA2MzMwLC0xNjQ1
-MjY0MDk4XX0=
+eyJoaXN0b3J5IjpbMTA1MjQyMjg3LC02MzczNzE4MTMsMTE0MT
+Q5MzMzOSwxMDYyMzE2MTIzLC01NjA1OTA1MjQsNjEzNzYwOTA3
+LDkwMzA5Njg1MiwtMTc0NDE0MDI4OCwtODY3ODQ5MDg0LC04Nj
+EyMzYyOTgsMTcwODI4NzY5OCwtNzAzNjkxMzA2LC00MzUxNTc1
+NzgsMTUxODExMDEyOSwxMTQ1NzM4Njk1LC0xMzc1NDY4MDkzLC
+0yMDkwOTgyNDkxLDE3NjUyNjE2OTksNDUxMzQ0ODQwLDE0MTgw
+NjMzMF19
 -->
