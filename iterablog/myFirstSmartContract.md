@@ -264,7 +264,7 @@ Auch die ignorieren wir (den Trick kennt jeder, nicht nur Developer). Jetzt erke
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-05/iterablog/images/connected.png" alt="Connected"/>
 
-Jetzt kopieren wir den Hashwert in das Eingabefeld der Funktion *logHashValue*.
+Jetzt pasten wir den Hashwert in das Eingabefeld der Funktion *logHashValue*.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-06/iterablog/images/wirte-logHashValue.png" alt="Write logHashValue"/>
 
@@ -300,7 +300,7 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln,
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMjYwNzUxMCwtOTkwMjE5NzgwLC0zOD
+eyJoaXN0b3J5IjpbMTY2NjU4NTk3MCwtOTkwMjE5NzgwLC0zOD
 Q0NzcyMTYsLTE0ODYxNzgxNDQsLTEzMDI4MjgyMTUsNjgzMTUw
 NjMyLC0xNTI1ODI0NiwtMTMwNDkxOTg1NiwtNDQyODY0NDAwLD
 UzNjAyNTU1LDEwNTI0MjI4NywtNjM3MzcxODEzLDExNDE0OTMz
