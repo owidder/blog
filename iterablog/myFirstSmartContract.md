@@ -122,6 +122,8 @@ Ich nehme dafür in der Regel meinen Google+ Account. Den nutze ich sonst kaum. 
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-03/iterablog/images/googleplus.png" alt="Rinkeby Faucet"/>
 
+Es ist übrigens egal was außer der Adresse ihres Rinkeby-Accounts noch in dem Post steht. Da können Sie dann noch in ein oder 2 Worten erklären, warum sie gerade eine 160-Bit Hex-Zahl posten.
+
 Jetzt den Link des Posts in das Eingabefeld des Faucets kopieren. Heute lassen wir es mal so richtig krachen und nehmen gleich die vollen 18,75 Ether.
 
  <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-03/iterablog/images/faucet2.png" alt="Rinkeby Faucet"/>
@@ -292,11 +294,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln,
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNTMzMTQ0OSwxMDUyNDIyODcsLTYzNz
-M3MTgxMywxMTQxNDkzMzM5LDEwNjIzMTYxMjMsLTU2MDU5MDUy
-NCw2MTM3NjA5MDcsOTAzMDk2ODUyLC0xNzQ0MTQwMjg4LC04Nj
-c4NDkwODQsLTg2MTIzNjI5OCwxNzA4Mjg3Njk4LC03MDM2OTEz
-MDYsLTQzNTE1NzU3OCwxNTE4MTEwMTI5LDExNDU3Mzg2OTUsLT
-EzNzU0NjgwOTMsLTIwOTA5ODI0OTEsMTc2NTI2MTY5OSw0NTEz
-NDQ4NDBdfQ==
+eyJoaXN0b3J5IjpbNTM2MDI1NTUsMTA1MjQyMjg3LC02MzczNz
+E4MTMsMTE0MTQ5MzMzOSwxMDYyMzE2MTIzLC01NjA1OTA1MjQs
+NjEzNzYwOTA3LDkwMzA5Njg1MiwtMTc0NDE0MDI4OCwtODY3OD
+Q5MDg0LC04NjEyMzYyOTgsMTcwODI4NzY5OCwtNzAzNjkxMzA2
+LC00MzUxNTc1NzgsMTUxODExMDEyOSwxMTQ1NzM4Njk1LC0xMz
+c1NDY4MDkzLC0yMDkwOTgyNDkxLDE3NjUyNjE2OTksNDUxMzQ0
+ODQwXX0=
 -->
