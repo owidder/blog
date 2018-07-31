@@ -165,7 +165,6 @@ Wenn Sie bei *Metamask* angemeldet sind (ansonsten sollten Sie das jetzt tun), s
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-09/iterablog/images/injected-web3.png" alt="Injected Web"/>
 
 ## 3, 2, 1, ...
-
 Jetzt wird's ernst. Über den ![enter image description here](https://raw.githubusercontent.com/owidder/blog/ib-20180729-10/iterablog/images/deploy.png) Button können Sie nun das Deployment des Contracts starten.
 
 Jetzt kommt es darauf an, welchen Browser Sie verwenden:
@@ -296,11 +295,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln,
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjU4MjQ2LC0xMzA0OTE5ODU2LC00ND
-I4NjQ0MDAsNTM2MDI1NTUsMTA1MjQyMjg3LC02MzczNzE4MTMs
-MTE0MTQ5MzMzOSwxMDYyMzE2MTIzLC01NjA1OTA1MjQsNjEzNz
-YwOTA3LDkwMzA5Njg1MiwtMTc0NDE0MDI4OCwtODY3ODQ5MDg0
-LC04NjEyMzYyOTgsMTcwODI4NzY5OCwtNzAzNjkxMzA2LC00Mz
-UxNTc1NzgsMTUxODExMDEyOSwxMTQ1NzM4Njk1LC0xMzc1NDY4
-MDkzXX0=
+eyJoaXN0b3J5IjpbNjgzMTUwNjMyLC0xNTI1ODI0NiwtMTMwND
+kxOTg1NiwtNDQyODY0NDAwLDUzNjAyNTU1LDEwNTI0MjI4Nywt
+NjM3MzcxODEzLDExNDE0OTMzMzksMTA2MjMxNjEyMywtNTYwNT
+kwNTI0LDYxMzc2MDkwNyw5MDMwOTY4NTIsLTE3NDQxNDAyODgs
+LTg2Nzg0OTA4NCwtODYxMjM2Mjk4LDE3MDgyODc2OTgsLTcwMz
+Y5MTMwNiwtNDM1MTU3NTc4LDE1MTgxMTAxMjksMTE0NTczODY5
+NV19
 -->
