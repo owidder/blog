@@ -216,7 +216,7 @@ Dort müssen wir folgendes eintragen:
  - Außerdem müssen wir noch angeben, ob der Compiler mit Optimierung lief oder nicht. Auch das sieht man im Settings-Tab. War ausgeschaltet (hätten wir vielleicht mal einschalten sollen - naja, nächstes Mal)
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-02/iterablog/images/settings.png" alt="Settings"/>
 
- - In das große Feld kopieren wir den Code unseres Weisenheimer-Contracts
+ - In das große Feld kopieren wir nun den Code unseres Weisenheimer-Contracts
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180731-01/iterablog/images/enter-code.png" alt="Enter Code"/>
 
 Jetzt nur noch ganz runter scrollen, versichern dass man kein Roboter ist (aber wer kann das schon mit Sicherheit von sich sagen?) und den großen blauen Knopf drücken.
@@ -299,11 +299,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln,
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjYxNjUzMzcsLTE0ODYxNzgxNDQsLT
-EzMDI4MjgyMTUsNjgzMTUwNjMyLC0xNTI1ODI0NiwtMTMwNDkx
-OTg1NiwtNDQyODY0NDAwLDUzNjAyNTU1LDEwNTI0MjI4NywtNj
-M3MzcxODEzLDExNDE0OTMzMzksMTA2MjMxNjEyMywtNTYwNTkw
-NTI0LDYxMzc2MDkwNyw5MDMwOTY4NTIsLTE3NDQxNDAyODgsLT
-g2Nzg0OTA4NCwtODYxMjM2Mjk4LDE3MDgyODc2OTgsLTcwMzY5
-MTMwNl19
+eyJoaXN0b3J5IjpbLTM4NDQ3NzIxNiwtMTQ4NjE3ODE0NCwtMT
+MwMjgyODIxNSw2ODMxNTA2MzIsLTE1MjU4MjQ2LC0xMzA0OTE5
+ODU2LC00NDI4NjQ0MDAsNTM2MDI1NTUsMTA1MjQyMjg3LC02Mz
+czNzE4MTMsMTE0MTQ5MzMzOSwxMDYyMzE2MTIzLC01NjA1OTA1
+MjQsNjEzNzYwOTA3LDkwMzA5Njg1MiwtMTc0NDE0MDI4OCwtOD
+Y3ODQ5MDg0LC04NjEyMzYyOTgsMTcwODI4NzY5OCwtNzAzNjkx
+MzA2XX0=
 -->
