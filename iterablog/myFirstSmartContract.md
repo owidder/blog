@@ -294,17 +294,17 @@ erzeugt wurde.
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-11/iterablog/images/event-log.png" alt="New Transaction"/>
 
-Leider gibt es keine Möglichkeit, die Daten im Klartext zu sehen (zumindes kenne ich keine, falls Sie eine kennen, bin ich sehr interessiert: oliver.widder@iteratec.de).
+Leider gibt es keine Möglichkeit, die Daten im Klartext zu sehen (zumindest kenne ich keine, falls Sie eine kennen, bin ich sehr interessiert: oliver.widder@iteratec.de).
 
 Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln, mit der wir dies auslesen können. Mit dieser DApp wird auch das Ablegen von klugen Gedanken deutlich einfacher (ohne Online-Hash-Calculator).
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY2NjU4NTk3MCwtOTkwMjE5NzgwLC0zOD
-Q0NzcyMTYsLTE0ODYxNzgxNDQsLTEzMDI4MjgyMTUsNjgzMTUw
-NjMyLC0xNTI1ODI0NiwtMTMwNDkxOTg1NiwtNDQyODY0NDAwLD
-UzNjAyNTU1LDEwNTI0MjI4NywtNjM3MzcxODEzLDExNDE0OTMz
-MzksMTA2MjMxNjEyMywtNTYwNTkwNTI0LDYxMzc2MDkwNyw5MD
-MwOTY4NTIsLTE3NDQxNDAyODgsLTg2Nzg0OTA4NCwtODYxMjM2
-Mjk4XX0=
+eyJoaXN0b3J5IjpbMTE5Nzg0NzcyLDE2NjY1ODU5NzAsLTk5MD
+IxOTc4MCwtMzg0NDc3MjE2LC0xNDg2MTc4MTQ0LC0xMzAyODI4
+MjE1LDY4MzE1MDYzMiwtMTUyNTgyNDYsLTEzMDQ5MTk4NTYsLT
+Q0Mjg2NDQwMCw1MzYwMjU1NSwxMDUyNDIyODcsLTYzNzM3MTgx
+MywxMTQxNDkzMzM5LDEwNjIzMTYxMjMsLTU2MDU5MDUyNCw2MT
+M3NjA5MDcsOTAzMDk2ODUyLC0xNzQ0MTQwMjg4LC04Njc4NDkw
+ODRdfQ==
 -->
