@@ -14,7 +14,7 @@ Und glaubt man den Expertinnen (oder meinem [Kollegen](https://www.iteratec.de/t
 Aber da wir auch besseres zu tun haben, wollen wir es uns so einfach wie möglich machen und nur online Tools verwenden.
 
 ## Unsere eigene Währung...
-... wollen wir aber nicht. Auf [Ethereum](https://www.ethereum.org/) - die älteste und größte der Blockchains, die Smart Contracts anbieten - gibt es jede Menge Contracts, die ihren eigenen Coin implementieren. Dafür gibt es auch extra Standards ([ERC20](https://en.wikipedia.org/wiki/ERC20) bzw. [ERC223](https://cointrends.top/news/view/the-new-erc223-token-standard)). Und so ein ERC20-Contract [muss gar auch nicht mal so groß sein](https://github.com/bitfwdcommunity/Issue-your-own-ERC20-token/blob/master/contracts/erc20_tutorial.sol).
+... wollen wir aber nicht. Auf [Ethereum](https://www.ethereum.org/) - die älteste und größte der Blockchains, die Smart Contracts anbieten - gibt es jede Menge Contracts, die ihren eigenen Coin implementieren. Dafür gibt es auch extra Standards ([ERC20](https://en.wikipedia.org/wiki/ERC20) bzw. [ERC223](https://cointrends.top/news/view/the-new-erc223-token-standard)). Und so ein ERC20-Contract [muss gar auch nicht mal so groß sein](https://github.com/bitfwdcommunity/Issue-your-own-ERC20-token/blob/master/contracts/erc20_tutorial.sol).  
 Wir aber wollen es noch viel einfacher.
 
 ## "Das habe ich doch schon vor 10 Jahren gesagt!"
@@ -292,11 +292,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln,
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2MjMxNjEyMywtNTYwNTkwNTI0LDYxMz
-c2MDkwNyw5MDMwOTY4NTIsLTE3NDQxNDAyODgsLTg2Nzg0OTA4
-NCwtODYxMjM2Mjk4LDE3MDgyODc2OTgsLTcwMzY5MTMwNiwtND
-M1MTU3NTc4LDE1MTgxMTAxMjksMTE0NTczODY5NSwtMTM3NTQ2
-ODA5MywtMjA5MDk4MjQ5MSwxNzY1MjYxNjk5LDQ1MTM0NDg0MC
-wxNDE4MDYzMzAsLTE2NDUyNjQwOTgsLTIxMDc0NjI2MzAsODgx
-ODA4NTJdfQ==
+eyJoaXN0b3J5IjpbMTE0MTQ5MzMzOSwxMDYyMzE2MTIzLC01Nj
+A1OTA1MjQsNjEzNzYwOTA3LDkwMzA5Njg1MiwtMTc0NDE0MDI4
+OCwtODY3ODQ5MDg0LC04NjEyMzYyOTgsMTcwODI4NzY5OCwtNz
+AzNjkxMzA2LC00MzUxNTc1NzgsMTUxODExMDEyOSwxMTQ1NzM4
+Njk1LC0xMzc1NDY4MDkzLC0yMDkwOTgyNDkxLDE3NjUyNjE2OT
+ksNDUxMzQ0ODQwLDE0MTgwNjMzMCwtMTY0NTI2NDA5OCwtMjEw
+NzQ2MjYzMF19
 -->
