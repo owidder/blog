@@ -213,8 +213,10 @@ Dort müssen wir folgendes eintragen:
  - Compiler-Version: Kann man in *remix* im *Settings*-Tab auf der rechten Seite sehen
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-01/iterablog/images/compiler-version.png" alt="Verify Form"/>
  
- - Zum Schluss müssen wir noch angeben, ob der Compiler mit Optimierung lief oder nicht. Auch das sieht man im Settings-Tab. War ausgeschaltet (hätten wir vielleicht mal einschalten sollen - naja, nächstes Mal)
+ - Außerdem müssen wir noch angeben, ob der Compiler mit Optimierung lief oder nicht. Auch das sieht man im Settings-Tab. War ausgeschaltet (hätten wir vielleicht mal einschalten sollen - naja, nächstes Mal)
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-02/iterablog/images/settings.png" alt="Settings"/>
+
+ - In das große Feld kopieren wir den Code unseres Weisenheimer-Contracts
 
 Jetzt nur noch ganz runter scrollen, versichern dass man kein Roboter ist (aber wer kann das schon mit Sicherheit von sich sagen?) und den großen blauen Knopf drücken.
 
@@ -296,11 +298,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln,
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDI4MjgyMTUsNjgzMTUwNjMyLC0xNT
-I1ODI0NiwtMTMwNDkxOTg1NiwtNDQyODY0NDAwLDUzNjAyNTU1
-LDEwNTI0MjI4NywtNjM3MzcxODEzLDExNDE0OTMzMzksMTA2Mj
-MxNjEyMywtNTYwNTkwNTI0LDYxMzc2MDkwNyw5MDMwOTY4NTIs
-LTE3NDQxNDAyODgsLTg2Nzg0OTA4NCwtODYxMjM2Mjk4LDE3MD
-gyODc2OTgsLTcwMzY5MTMwNiwtNDM1MTU3NTc4LDE1MTgxMTAx
-MjldfQ==
+eyJoaXN0b3J5IjpbLTE0ODYxNzgxNDQsLTEzMDI4MjgyMTUsNj
+gzMTUwNjMyLC0xNTI1ODI0NiwtMTMwNDkxOTg1NiwtNDQyODY0
+NDAwLDUzNjAyNTU1LDEwNTI0MjI4NywtNjM3MzcxODEzLDExND
+E0OTMzMzksMTA2MjMxNjEyMywtNTYwNTkwNTI0LDYxMzc2MDkw
+Nyw5MDMwOTY4NTIsLTE3NDQxNDAyODgsLTg2Nzg0OTA4NCwtOD
+YxMjM2Mjk4LDE3MDgyODc2OTgsLTcwMzY5MTMwNiwtNDM1MTU3
+NTc4XX0=
 -->
