@@ -176,6 +176,7 @@ Jetzt kommt es darauf an, welchen Browser Sie verwenden:
 
 Jetzt nur noch *Submit* und das war's.
 
+## New contract is born
 In der Konsole (Mitte, unten) sehen Sie nach ein paar Sekunden (sobald die Transaktion es in die Blockchain geschafft hat) einen Link zu der Transaktion.
 
  <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180729-12/iterablog/images/etherscan-link.png" alt="Transaction Link"/>
@@ -295,11 +296,11 @@ Aber im nächsten Teil werden wir eine kleine distributed App (DApp) entwickeln,
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgzMTUwNjMyLC0xNTI1ODI0NiwtMTMwND
-kxOTg1NiwtNDQyODY0NDAwLDUzNjAyNTU1LDEwNTI0MjI4Nywt
-NjM3MzcxODEzLDExNDE0OTMzMzksMTA2MjMxNjEyMywtNTYwNT
-kwNTI0LDYxMzc2MDkwNyw5MDMwOTY4NTIsLTE3NDQxNDAyODgs
-LTg2Nzg0OTA4NCwtODYxMjM2Mjk4LDE3MDgyODc2OTgsLTcwMz
-Y5MTMwNiwtNDM1MTU3NTc4LDE1MTgxMTAxMjksMTE0NTczODY5
-NV19
+eyJoaXN0b3J5IjpbLTEzMDI4MjgyMTUsNjgzMTUwNjMyLC0xNT
+I1ODI0NiwtMTMwNDkxOTg1NiwtNDQyODY0NDAwLDUzNjAyNTU1
+LDEwNTI0MjI4NywtNjM3MzcxODEzLDExNDE0OTMzMzksMTA2Mj
+MxNjEyMywtNTYwNTkwNTI0LDYxMzc2MDkwNyw5MDMwOTY4NTIs
+LTE3NDQxNDAyODgsLTg2Nzg0OTA4NCwtODYxMjM2Mjk4LDE3MD
+gyODc2OTgsLTcwMzY5MTMwNiwtNDM1MTU3NTc4LDE1MTgxMTAx
+MjldfQ==
 -->
