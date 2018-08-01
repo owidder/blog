@@ -1,5 +1,5 @@
 
-# TL;DR: Smart Contracts für Eilige
+# TL;DR: Smart Contracts für Eilige (Teil 1)
 
 <img src="https://raw.githubusercontent.com/owidder/blog/ib-20180730-12/iterablog/images/hal.png" alt="HAL"/>
 
@@ -296,15 +296,15 @@ erzeugt wurde.
 
 Leider gibt es keine Möglichkeit, die Daten im Klartext zu sehen (zumindest kenne ich keine, falls Sie eine kennen, bin ich sehr interessiert: oliver.widder@iteratec.de).
 
-Aber den nächsten Teilen dieser k werden wir eine kleine distributed App (DApp) entwickeln, mit der wir dies auslesen können. Mit dieser DApp wird auch das Ablegen von klugen Gedanken deutlich einfacher (ohne Online-Hash-Calculator).
+Aber den nächsten Teilen dieser kleinen Serie werden wir eine kleine distributed App (DApp) entwickeln, mit der wir dies auslesen können. Mit dieser DApp wird auch das Ablegen von klugen Gedanken deutlich einfacher (ohne Online-Hash-Calculator).
 
 Sie brauchen also nur noch kluge Gedanken. Aber davon habe Sie doch mehr als genug, oder?
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUzMzk5MTY4OSwtMTE0OTgzNTc5NCwxMT
-k3ODQ3NzIsMTY2NjU4NTk3MCwtOTkwMjE5NzgwLC0zODQ0Nzcy
-MTYsLTE0ODYxNzgxNDQsLTEzMDI4MjgyMTUsNjgzMTUwNjMyLC
-0xNTI1ODI0NiwtMTMwNDkxOTg1NiwtNDQyODY0NDAwLDUzNjAy
-NTU1LDEwNTI0MjI4NywtNjM3MzcxODEzLDExNDE0OTMzMzksMT
-A2MjMxNjEyMywtNTYwNTkwNTI0LDYxMzc2MDkwNyw5MDMwOTY4
-NTJdfQ==
+eyJoaXN0b3J5IjpbMjQxMDI1MzgyLC01MzM5OTE2ODksLTExND
+k4MzU3OTQsMTE5Nzg0NzcyLDE2NjY1ODU5NzAsLTk5MDIxOTc4
+MCwtMzg0NDc3MjE2LC0xNDg2MTc4MTQ0LC0xMzAyODI4MjE1LD
+Y4MzE1MDYzMiwtMTUyNTgyNDYsLTEzMDQ5MTk4NTYsLTQ0Mjg2
+NDQwMCw1MzYwMjU1NSwxMDUyNDIyODcsLTYzNzM3MTgxMywxMT
+QxNDkzMzM5LDEwNjIzMTYxMjMsLTU2MDU5MDUyNCw2MTM3NjA5
+MDddfQ==
 -->
