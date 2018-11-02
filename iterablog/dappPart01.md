@@ -49,7 +49,7 @@ Deswegen besteht Frontend aus nur einem einzigen HTML-File:</p>
   
     &lt;link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"&gt;  
   
-    &lt;script src="https://cdn.jsdelivr.net/gh/owidder/super-simple-utils@v0.2/build/static/js/superSimpleUtils.min.js"&gt;&lt;/script&gt;  
+    &lt;script src="https://cdn.jsdelivr.net/gh/owidder/super-simple-utils@v0.4/build/static/js/showDataAsTable.min.js"&gt;&lt;/script&gt;  
     &lt;script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.0.0-beta.35/dist/web3.min.js"&gt;&lt;/script&gt;  
   
 &lt;/head&gt;  
@@ -75,7 +75,7 @@ Deswegen besteht Frontend aus nur einem einzigen HTML-File:</p>
                         }  
                     });  
   
-                    window.superSimpleUtils.showDataAsTable("body", data);  
+                    window.showDataAsTable("body", data);  
                 });  
             })  
         } else {  
@@ -88,26 +88,18 @@ Deswegen besteht Frontend aus nur einem einzigen HTML-File:</p>
 </code></pre>
 <p>Das wollen wir uns nun im Einzelnen ansehen.</p>
 <h2 id="zuerst-ein-wenig-styling-...">Zuerst ein wenig Styling …</h2>
-<p>In Head holen wir uns das Stylesheet von <a href="https://materializecss.com/">Materialize</a>, weil’s damit einfach schöner aussieht:</p>
+<p>Im Head holen wir uns das Stylesheet von <a href="https://materializecss.com/">Materialize</a>, weil’s damit einfach schöner aussieht:</p>
 <pre><code>&lt;link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css"&gt;
 </code></pre>
 <h2 id="dann-noch-ein-paar-bibliotheken-...">… dann noch ein paar Bibliotheken …</h2>
-<p>Wir benötigen 2 JavaScript-Bibliotheken:</p>
-<pre><code>&lt;script src="https://cdn.jsdelivr.net/gh/owidder/super-simple-utils@v0.2/build/static/js/superSimpleUtils.min.js"&gt;&lt;/script&gt;
+<pre><code>&lt;script src="https://cdn.jsdelivr.net/gh/owidder/super-simple-utils@v0.4/build/static/js/showDataAsTable.min.js"&gt;&lt;/script&gt;
 &lt;script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.0.0-beta.35/dist/web3.min.js"&gt;&lt;/script&gt;  
 </code></pre>
 <ul>
-<li>Von <a href="https://github.com/owidder/super-simple-utils">super-simple-utils</a> verwenden wir die ein paar Zeilen Code</li>
-<li><a href="https://github.com/ethereum/web3.js/">web3.js</a> ist die offizielle JavaScript-Library von Ethereum, mit der man Smart-Contracts aufrufen kann</li>
-<li>Mit <a href="https://d3js.org/">d3.js</a> erstellen wir unsere Tabelle</li>
+<li><a href="https://github.com/owidder/super-simple-utils/blob/master/src/table/showDataAsTable.ts">showDataAsTable.js</a> verwenden wir, um uns die Daten der Events tabellarisch darstellen zu lassen</li>
+<li><a href="https://github.com/ethereum/web3.js/">web3.js</a> ist die offizielle JavaScript-Library von Ethereum zum Aufrufen von Smart-Contracts</li>
 </ul>
 <h2 id="und-schon-kanns-losgehen">… und schon kann’s losgehen</h2>
-<p>Der Body besteht nur aus JavaScript-Code. Er macht 2 Dinge:</p>
-<ul>
-<li>Alle Events vom Typ <code>NewHashValue</code> von dem Contract auslesen</li>
-<li>Eine HTML-Tabelle erzeugen, mit einer Zeile pro Event und je einer Spalte für:</li>
-<li>Hashwert</li>
-<li></li>
-</ul>
+<p>Im JavaScript-Code im Body lesen wir als erstes alle <code>NewHashValue</code>-Events vom Contract aus. Dafür müssen wir uns nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das</p>
 <pre><code></code></pre>
 
