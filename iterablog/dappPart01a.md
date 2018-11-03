@@ -187,7 +187,7 @@ Dann wollen wir uns mal einen davon ansehen:
  * Die Nummer des Blocks liegt im Attribute `blockNumber`
  * Der Hashwert liegt in `returnValues[0]`
  * Die Account-Adresse des Aufrufers liegt in `returnValues[1]`
- * Der Zeitstempel (Sekunden seit 01.01.1970) des Blocks liegt in `returnValues[`
+ * Der Zeitstempel (Sekunden seit 01.01.1970) des Blocks liegt in `returnValues[2]`
 
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
 
@@ -195,6 +195,6 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDA3Njc3NjMsMTI1NzIyODE5NiwtMT
+eyJoaXN0b3J5IjpbLTE0MTAzNTUwMzgsMTI1NzIyODE5NiwtMT
 E0ODk4ODY3XX0=
 -->
