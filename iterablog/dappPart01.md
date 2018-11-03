@@ -104,18 +104,52 @@ Deswegen besteht Frontend aus nur einem einzigen HTML-File:</p>
 <h2 id="und-wo-bekommt-man-ein-abi">Und wo bekommt man ein ABI?</h2>
 <p>Wie wir uns ja sicher noch aus <a href="https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/">Teil 1</a> erinnern, ist unser Contract unter der Adresse <code>0x245eDE9dac68B84f329e21024E0083ce432700f9</code> zu finden.<br>
 Dort finden wir ihn auch auf <a href="https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9">Etherscan</a>:</p>
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-02/iterablog/images/etherscan-contract-3.png" alt="Wallet erzeugen">
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-02/iterablog/images/etherscan-contract-3.png">
 <p>Und wenn wir dort auf den 2. Tab (“Code”) klicken, sehen wir die ABI des Contracts:</p>
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-03/iterablog/images/contract-abi.png" alt="Wallet erzeugen">
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-03/iterablog/images/contract-abi.png">
 <p>Die kopieren wie uns raus und legen sie in einer Konstanten ab:</p>
 <pre><code>const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];
 </code></pre>
 <h2 id="ein-hoch-auf-den-fuchs">Ein Hoch auf den Fuchs</h2>
 <p>Jetzt wollen wir alle <code>NewHashValue</code>-Events vom Contract auslesen.<br>
-Dafür müssen wir uns zum Glück nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das Metmask-Wallet-Plugin des Browsers, das wir uns in <a href="https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/">Teil 1</a> installiert haben.<br>
-Wenn das Metamask-Plugin aktiv ist,</p>
+Dafür müssen wir uns zum Glück nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das <a href="https://metamask.io/">Metmask-Wallet-Plugin</a> des Browsers, das wir uns in <a href="https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/">Teil 1</a> installiert haben. Sie erinnern sich an den Fuchs?</p>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-04/iterablog/images/metamask-fox.png" width="30%">
+<p>Wenn das Metamask-Plugin aktiv ist, bekommt jede Website ein Object mit Namen <code>ethereum</code> injected:</p>
 <pre><code>if (window.ethereum) {
 </code></pre>
-<p>bekommt jede Website ein Object mit Namen <code>ethereum</code> in injected.<br>
-Damit können wir uns wiederum ein <code>web3</code></p>
+<p>(Sollten Sie das Plugin schon länger installiert haben, müssen Sie es gegebenenfalls aktualisieren. Hier hat sich in letzter Zeit einiges geändert)<br>
+An  <code>ethereum</code> müssen wir zunächst die <code>enable()</code>-Methode aufrufen.</p>
+<pre><code>ethereum.enable()
+</code></pre>
+<p>An dieser Stelle kann sich ein Metamask-Dialog öffnen, in dem der Benutzer um Erlaubnis gefragt wird (ist bei mir bis jetzt aber noch nie passiert). Deshalb ist <code>enable()</code> auch asynchron und gibt ein <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise">JavaScript-Promise</a> zurück.<br>
+An dem Promise rufen wir wiederum die <code>then()</code>-Methode auf, der wir eine Callback-Function übergeben:</p>
+<pre><code>ethereum.enable().then(function () {
+...
+})
+</code></pre>
+<p>Sobald das Promise <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve">resolved</a>, wird also der folgende Code in der Function ausgeführt:</p>
+<pre><code>const web3 = new Web3(ethereum);  
+const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");  
+contract.getPastEvents("NewHashValue", {fromBlock: 0, toBlock: 'latest'}, function (error, events) {  
+   console.log(events);  
+   const data = events.map(function (event) {  
+       return {  
+           sender: event.returnValues[1],  
+           blockno: event.blockNumber,  
+           timestamp: new Date(event.returnValues[2] * 1000).toDateString(),  
+           hashvalue: event.returnValues[0],  
+       }  
+   });  
+ 
+   window.showDataAsTable("body", data);
+  });
+</code></pre>
+<h2 id="nix-geht-ohne-web3">Nix geht ohne Web3</h2>
+<p>Will man sich über JavaScript mit einem Ethereum-Contract unterhalten, geht eigenlicht nichts an <a href="https://github.com/ethereum/web3.js/">Web3</a> vorbei. Es ist die offizielle JavaScript-API von der <a href="https://www.ethereum.org/foundation">Ethereum-Foundation</a>.<br>
+Darum nutzen auch wir sie und erzeugen uns nun ein <code>web3</code>-Object:</p>
+<pre><code>const web3 = new Web3(ethereum);
+</code></pre>
+<p>Über <code>web3</code> bekommen wir wiederum ein Proxy-Object für unseren Contract. Dafür müssen wir ABI und Adresse des Contracts übergeben:</p>
+<pre><code>const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");
+</code></pre>
 
