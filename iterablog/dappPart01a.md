@@ -125,7 +125,7 @@ Wenn das Metamask-Plugin aktiv ist, bekommt jede Website ein Object mit Namen `e
 if (window.ethereum) {
 ...
 } else {  
-    return Promise.reject("No injected eteherum object found");  
+    window.alert("No injected ethereum object found");  
 }
 ```
 (Sollten Sie das Plugin schon länger installiert haben, müssen Sie es gegebenenfalls aktualisieren. Hier hat sich in letzter Zeit einiges geändert)
@@ -221,8 +221,8 @@ Wollen Sie Ihre Bekannten mit einer eigene DApp beeindrucken?
 
 Nicht leichter als das. Contract und Frontend haben wir ja jetzt. Jetzt brauchen wir nur noch 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQzMzM2OTEsLTIwODE5Njk1NzAsLT
-M0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2
-MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4Nj
-ddfQ==
+eyJoaXN0b3J5IjpbMzUxNjYxMTU3LC0xMjM0MzMzNjkxLC0yMD
+gxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0
+NTgsLTEzMjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1NzIyODE5Ni
+wtMTE0ODk4ODY3XX0=
 -->
