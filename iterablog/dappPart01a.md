@@ -18,7 +18,7 @@ Man kann sie mit einem beliebigen String aufrufen. `logHashValue` erzeugt dann e
 * Die Account-Adresse des Aufrufers
 * Den Zeitstempel des Blocks, in dem der Event in der Blockchain gespeichert ist.
 ## Hash mich
-Gedacht ist `logHashValue` speziell für Strings, die einen [kryptographischen Hashwert](https://simple.wikipedia.org/wiki/Cryptographic_hash_function) (z.B. [SHA](https://en.wikipedia.org/wiki/SHA-2)) enthalten. Denn mit dem Event liegt dieser Hashwert nun in der Blockchain und kann jederzeit und von jeder und jedem ausgelesen werden. 
+Gedacht ist `logHashValue` speziell für Strings, die einen [kryptographischen Hashwert](https://simple.wikipedia.org/wiki/Cryptographic_hash_function) (z.B. [SHA](https://en.wikipedia.org/wiki/SHA-2)) enthalten. Dieser Hashwert liegt dann in der Blockchain und kann jederzeit und von jeder und jedem ausgelesen werden. Als Sc
 ## "Das weiß ich doch schon lange"
 Sollten Sie z.B. mal eine kluge Idee haben, dann [hashen Sie diese doch einfach](https://abunchofutils.com/u/computing/sha512-hash-calculator/) und rufen mit dem Hashwert die `logHashValue`-Methode des  Weisenheimer-Contract auf. 
 Sollte dann später jemand mit der gleichen Idee kommen, können Sie beweisen, dass Sie das schon lange wussten. 
@@ -182,5 +182,5 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAwMjExNjYxNSwtMTE0ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbLTE1MDQ4OTQwMDAsLTExNDg5ODg2N119
 -->
