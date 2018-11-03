@@ -217,9 +217,12 @@ Da sich der Contract im [Rinkeby Testnetzwerk]((https://www.rinkeby.io/#stats)) 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="50%"/>
 
 ## Die eigene DApp
-Zum Schluss
+Wollen Sie Ihre Bekannten mit einer eigene DApp beeindrucken? 
+
+Nicht leichter als das. Contract und Frontend haben wir ja jetzt. Jetzt brauchen wir nur noch 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MD
-Q0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1
-NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
+eyJoaXN0b3J5IjpbLTEyMzQzMzM2OTEsLTIwODE5Njk1NzAsLT
+M0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2
+MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4Nj
+ddfQ==
 -->
