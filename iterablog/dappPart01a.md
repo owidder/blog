@@ -165,13 +165,15 @@ const web3 = new Web3(ethereum);
 ```
 const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");
 ```
-Mit diesem Proxy-Object können wir nun endlich unseren Contract aufrufen, um alle Events vom Type `NewHashValue` zu bekommen. Dieser Aufruf ist asynchron. Anders als bei `ethereum.enable()` bekommen wir aber kein Promise zurück. Statt dessen müssen wir ein  Callback-Function gleich mit übergeben: 
+Mit diesem Proxy-Object können wir nun endlich unseren Contract aufrufen, um alle Events vom Typ `NewHashValue` zu bekommen. Dieser Aufruf ist asynchron. Anders als bei `ethereum.enable()` bekommen wir aber kein Promise zurück. Statt dessen müssen wir ein  Callback-Function gleich mit übergeben: 
 ```
 contract.getPastEvents("NewHashValue", {fromBlock: 0, toBlock: 'latest'}, function (error, events) {
 ...
 })
 ```
-
+Sobald die Events da sind, wird diese Function aufgerufen.
+## Ein Event von innen
+Sobald die Ev 
 
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
 
@@ -179,5 +181,5 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTUxMjc2OTY0MywtMTE0ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbMTI0NTg5NzE5NCwtMTE0ODk4ODY3XX0=
 -->
