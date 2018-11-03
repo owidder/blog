@@ -31,7 +31,9 @@ In [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-
 Dafür wollen wir jetzt eine sogenannte decentralized App oder ["DApp"](https://www.stateofthedapps.com/) (wie die coolen Kids dazu sagen) für den Contract erstellen.
 ## Hä?
 Ich weiß nicht, ob es eine offizielle Definition einer DApp gibt. Aber dies hier ist die einfachste Definition, die ich kenne ist:
+
 [DApp = Frontend + Smart Contract](https://ethereum.stackexchange.com/questions/383/what-is-a-dapp)
+
 Den Smart Contract haben wir schon. Fehlt uns also nur noch ein Frontend.
 ## Frontend für Eilige
 In der ersten Version soll das Frontend lediglich die Inhalte der `NewHashValue`-Events, die der Contract produziert, in einer Tabelle anzeigen. 
@@ -185,5 +187,5 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2OTEzMTI3LC0xMTQ4OTg4NjddfQ==
+eyJoaXN0b3J5IjpbLTEwMDg5Nzk4MDEsLTExNDg5ODg2N119
 -->
