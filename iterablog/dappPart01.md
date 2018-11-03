@@ -105,6 +105,7 @@ Deswegen besteht Frontend aus nur einem einzigen HTML-File:</p>
 <p>Wie wir uns ja noch aus <a href="https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/">Teil 1</a> erinnern, ist unser Contract unter der Adresse <code>0x245eDE9dac68B84f329e21024E0083ce432700f9</code> zu finden.<br>
 Dort können finden wir ihn auch auf <a href="https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9">Etherscan</a>.</p>
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-02/iterablog/images/etherscan-contract-3.png" alt="Wallet erzeugen">
+<p>Und wenn wir dort auf den 2. Tab (“Code”) klicken, sehen wir die ABI des Contracts.</p>
 <p>Im JavaScript-Code im Body lesen wir als erstes alle <code>NewHashValue</code>-Events vom Contract aus.<br>
 Dafür müssen wir uns zum Glück nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das Metmask-Wallet-Plugin des Browsers.</p>
 <h2 id="injection">Injection</h2>
