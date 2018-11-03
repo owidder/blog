@@ -116,6 +116,10 @@ Dafür müssen wir uns zum Glück nicht mühsam mit einem Knoten des Rinkeby-Net
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-04/iterablog/images/metamask-fox.png" width="30%">
 <p>Wenn das Metamask-Plugin aktiv ist, bekommt jede Website ein Object mit Namen <code>ethereum</code> injected:</p>
 <pre><code>if (window.ethereum) {
+...
+} else {  
+    return Promise.reject("No injected eteherum object found");  
+}
 </code></pre>
 <p>(Sollten Sie das Plugin schon länger installiert haben, müssen Sie es gegebenenfalls aktualisieren. Hier hat sich in letzter Zeit einiges geändert)<br>
 An  <code>ethereum</code> müssen wir zunächst die <code>enable()</code>-Methode aufrufen.</p>
@@ -152,4 +156,5 @@ Darum nutzen auch wir sie und erzeugen uns nun ein <code>web3</code>-Object:</p>
 <p>Über <code>web3</code> bekommen wir wiederum ein Proxy-Object für unseren Contract. Dafür müssen wir ABI und Adresse des Contracts übergeben:</p>
 <pre><code>const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");
 </code></pre>
+<p>Mit diesem Proxy-Object können wir nun endlich unseren Contract aufrufen. Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:</p>
 
