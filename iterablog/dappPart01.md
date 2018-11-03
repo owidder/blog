@@ -106,6 +106,10 @@ Deswegen besteht Frontend aus nur einem einzigen HTML-File:</p>
 Dort können finden wir ihn auch auf <a href="https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9">Etherscan</a>.</p>
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-02/iterablog/images/etherscan-contract-3.png" alt="Wallet erzeugen">
 <p>Und wenn wir dort auf den 2. Tab (“Code”) klicken, sehen wir die ABI des Contracts.</p>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-03/iterablog/images/contract-abi.png" alt="Wallet erzeugen">
+<p>Die kopieren wie uns raus und legen sie in einer Konstanten ab:</p>
+<pre><code>const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];
+</code></pre>
 <p>Im JavaScript-Code im Body lesen wir als erstes alle <code>NewHashValue</code>-Events vom Contract aus.<br>
 Dafür müssen wir uns zum Glück nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das Metmask-Wallet-Plugin des Browsers.</p>
 <h2 id="injection">Injection</h2>
