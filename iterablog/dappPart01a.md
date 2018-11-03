@@ -185,6 +185,7 @@ Dann wollen wir uns mal einen davon ansehen:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-06/iterablog/images/event.png"/>
 
  * Die Nummer des Blocks liegt im Attribute `blockNumber`
+ * Der Hashwert liegt in `returnValues[0]`
  * 
 
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
@@ -193,6 +194,6 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc4NjE4Njc3MywxMjU3MjI4MTk2LC0xMT
+eyJoaXN0b3J5IjpbMTE1MTgxMzI4MiwxMjU3MjI4MTk2LC0xMT
 Q4OTg4NjddfQ==
 -->
