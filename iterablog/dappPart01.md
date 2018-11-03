@@ -157,4 +157,9 @@ Darum nutzen auch wir sie und erzeugen uns nun ein <code>web3</code>-Object:</p>
 <pre><code>const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");
 </code></pre>
 <p>Mit diesem Proxy-Object können wir nun endlich unseren Contract aufrufen. Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:</p>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="75%">
+<pre><code>contract.getPastEvents("NewHashValue", {fromBlock: 0, toBlock: 'latest'}, function (error, events) {
+...
+})
+</code></pre>
 
