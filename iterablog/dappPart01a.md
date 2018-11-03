@@ -1,6 +1,6 @@
 # TL;DR: Smart Contracts für Eilige (Teil 2) - Meine erste DApp
 
-Wir erinnern uns: In  [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/) haben einen (vielleicht nicht ganz soooooo) smarten Contract namens ["Weisenheimer"](https://github.com/owidder/iteraBlog/blob/master/weisenheimer/contract/Weisenheimer.sol) 
+Wir erinnern uns: In  [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/) haben einen (vielleicht nicht ganz soooooo) smarten Contract namens ["Weisenheimer"](https://github.com/owidder/iteraBlog/blob/master/weisenheimer/contract/Weisenheimer.sol) in die [Ethereum](https://www.ethereum.org/) Test-Blockchain ["Rinkeby"](https://www.rinkeby.io/#stats) hochgeladen:
 
     pragma solidity ^0.4.19;
     contract Weisenheimer {
@@ -11,8 +11,6 @@ Wir erinnern uns: In  [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tl
 		    emit NewHashValue(hashValue, msg.sender, block.timestamp);
 	    }
     }
-
-in die [Ethereum](https://www.ethereum.org/) Test-Blockchain ["Rinkeby"](https://www.rinkeby.io/#stats) hochgeladen. 
 
 Der Contract hat nur eine Methode: `logHashValue`. 
 Man kann sie mit einem beliebigen String aufrufen. `logHashValue` erzeugt dann einen Event (`NewHashValue`). Dieser enthält:  
@@ -184,5 +182,5 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMwNDYzMDAwOSwtMTE0ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbMjAwMjExNjYxNSwtMTE0ODk4ODY3XX0=
 -->
