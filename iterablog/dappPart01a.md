@@ -173,7 +173,10 @@ contract.getPastEvents("NewHashValue", {fromBlock: 0, toBlock: 'latest'}, functi
 ```
 Sobald die Events da sind, wird diese Function aufgerufen.
 ## Ein Event von innen
-Sobald die Ev 
+In der Callback-Function geben wir als erstes die Events auf der Console aus:
+```
+console.log(events);
+``` 
 
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
 
@@ -181,5 +184,5 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI0NTg5NzE5NCwtMTE0ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbLTMwNDYzMDAwOSwtMTE0ODk4ODY3XX0=
 -->
