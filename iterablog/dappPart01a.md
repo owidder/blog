@@ -183,9 +183,9 @@ console.log(events);
 
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="75%"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="50%"/>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMDg5Nzk4MDEsLTExNDg5ODg2N119
+eyJoaXN0b3J5IjpbMTI1NzIyODE5NiwtMTE0ODk4ODY3XX0=
 -->
