@@ -201,7 +201,7 @@ const data = events.map(function (event) {
   
 window.showDataAsTable("body", data);
 ```
-## Das war's. 
+## Das war's
 Sieht dann so aus:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-08/iterablog/images/weisenheimer-02.png"/>
@@ -217,9 +217,9 @@ Da sich der Contract im [Rinkeby Testnetzwerk]((https://www.rinkeby.io/#stats)) 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="50%"/>
 
 ## Die eigene DApp
-
+Zum Schluss
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDQzODQ5MDcsLTM0MDIwMDgwLC03MD
+eyJoaXN0b3J5IjpbLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MD
 Q0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1
 NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
 -->
