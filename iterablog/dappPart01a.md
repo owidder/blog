@@ -188,7 +188,7 @@ Dann wollen wir uns mal einen davon ansehen:
  * Der Hashwert selbst liegt in `returnValues[0]`
  * Die Account-Adresse des Senders des Hashwertes liegt in `returnValues[1]`
  * Der Zeitstempel (Sekunden seit 01.01.1970) des Blocks liegt in `returnValues[2]`
-Damit müssen wir uns nur noch diese 4 Werte jeweils in ein Object mit den 
+Damit müssen wir uns nur noch die Events  
 
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
 
@@ -196,6 +196,6 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDQ1NzM5NTQ0LC0xMzI0MDYyMDE1LC0xND
-EwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
+eyJoaXN0b3J5IjpbLTg3MzIwNzUxMiwtMTMyNDA2MjAxNSwtMT
+QxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
 -->
