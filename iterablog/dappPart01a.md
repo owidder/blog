@@ -188,7 +188,21 @@ Dann wollen wir uns mal einen davon ansehen (in der Developer-Console):
  * Der Hashwert selbst liegt in `returnValues[0]`
  * Die Account-Adresse des Senders des Hashwertes liegt in `returnValues[1]`
  * Der Zeitstempel (Sekunden seit 01.01.1970) des Blocks liegt in `returnValues[2]`
-Damit müssen wir uns nur noch die Events in Objekte mit den Attributen `blockNumber`, `hashValue`, `senderAddress` und `timestamp` umwandeln und diese per  `showDataAsTable()` anzeigen lassen
+Damit müssen wir uns nur noch die Events in Objekte mit den Attributen `blockNumber`, `hashValue`, `senderAddress` und `timestamp` umwandeln und diese per  [`showDataAsTable()`](https://github.com/owidder/super-simple-utils/blob/master/src/table/showDataAsTable.ts) anzeigen lassen:
+```
+const data = events.map(function (event) {  
+    return {  
+        blockNumber: event.blockNumber,  
+        senderAddress: event.returnValues[1],  
+        timestamp: new Date(event.returnValues[2] * 1000).toDateString(),  
+        hashValue: event.returnValues[0],  
+    }  
+});  
+  
+window.showDataAsTable("body", data);
+```
+Das war's. Sieht dann so aus:
+
 
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
 
@@ -196,6 +210,6 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTI3NTg4MzcwLC0xMzI0MDYyMDE1LC0xND
-EwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
+eyJoaXN0b3J5IjpbMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMT
+QxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
 -->
