@@ -21,7 +21,7 @@ Man kann sie mit einem beliebigen String aufrufen. `logHashValue` erzeugt dann e
 Gedacht ist `logHashValue` speziell für Strings, die einen [kryptographischen Hashwert](https://simple.wikipedia.org/wiki/Cryptographic_hash_function) (z.B. [SHA](https://en.wikipedia.org/wiki/SHA-2)) enthalten. Dieser Hashwert liegt dann in der Blockchain und kann jederzeit und von jeder und jedem ausgelesen werden. 
 Als notirischer Schlaumeier kann man sich das nun zunutze machen.
 ## "Das weiß ich doch schon lange"
-Sollten Sie z.B. mal eine kluge Idee haben, dann [hashen Sie diese doch einfach](https://abunchofutils.com/u/computing/sha512-hash-calculator/) und rufen mit dem Hashwert die `logHashValue`-Methode des  Weisenheimer-Contract auf. 
+Sollten Sie wieder mal eine kluge Idee haben, dann [hashen Sie diese doch einfach](https://abunchofutils.com/u/computing/sha512-hash-calculator/) und rufen mit dem Hashwert die `logHashValue`-Methode des  Weisenheimer-Contract auf. 
 Sollte dann später jemand mit der gleichen Idee kommen, können Sie beweisen, dass Sie das schon lange wussten. 
 Denn der Hashwert inklusive Zeitstempel sind in der Blockchain auf immer und ewig (oder zumindest so lange es die Blockchain gibt) hinterlegt.
 ## DApp
@@ -183,5 +183,5 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Mzc2MjU3MjcsLTExNDg5ODg2N119
+eyJoaXN0b3J5IjpbLTM3MjU4MDA5MywtMTE0ODk4ODY3XX0=
 -->
