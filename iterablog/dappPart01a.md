@@ -203,7 +203,9 @@ window.showDataAsTable("body", data);
 ```
 Das war's. Sieht dann so aus:
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-07/iterablog/images/weisenheimer.png" width="50%"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-07/iterablog/images/weisenheimer.png"/>
+
+Naja. Schön geht anders. Tut aber.
 
 
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
@@ -212,7 +214,7 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzA0MzY3MjAsMTQ2NjU4NjQ1OCwtMT
+eyJoaXN0b3J5IjpbLTExMTUwOTkwOTUsMTQ2NjU4NjQ1OCwtMT
 MyNDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4
 OTg4NjddfQ==
 -->
