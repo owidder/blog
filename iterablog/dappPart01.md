@@ -100,6 +100,14 @@ Deswegen besteht Frontend aus nur einem einzigen HTML-File:</p>
 <li><a href="https://github.com/ethereum/web3.js/">web3.js</a> ist die offizielle JavaScript-Library von Ethereum zum Aufrufen von Smart-Contracts</li>
 </ul>
 <h2 id="und-schon-kanns-losgehen">… und schon kann’s losgehen</h2>
-<p>Im JavaScript-Code im Body lesen wir als erstes alle <code>NewHashValue</code>-Events vom Contract aus. Dafür müssen wir uns nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das</p>
-<pre><code></code></pre>
+<p>Um mit einem Smart Contract kommunizieren zu können, benötigt man sein sogenanntes Application Binary Interface (ABI). Das ist eine JSON-Beschreibung (also eigentlich gar nicht richtig binary) seiner Schnittstelle.</p>
+<h2 id="und-wo-bekommt-man-ein-abi">Und wo bekommt man ein ABI?</h2>
+<p>Im JavaScript-Code im Body lesen wir als erstes alle <code>NewHashValue</code>-Events vom Contract aus.<br>
+Dafür müssen wir uns zum Glück nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das Metmask-Wallet-Plugin des Browsers.</p>
+<h2 id="injection">Injection</h2>
+<p>Wenn das Metamask-Plugin aktiv ist,</p>
+<pre><code>if (window.ethereum) {
+</code></pre>
+<p>bekommt jede Website ein Object mit Namen <code>ethereum</code> in injected.<br>
+Damit können wir uns wiederum ein <code>web3</code></p>
 
