@@ -102,6 +102,8 @@ Deswegen besteht Frontend aus nur einem einzigen HTML-File:</p>
 <h2 id="und-schon-kanns-losgehen">… und schon kann’s losgehen</h2>
 <p>Um mit einem Smart Contract kommunizieren zu können, benötigt man sein sogenanntes Application Binary Interface (ABI). Das ist eine JSON-Beschreibung (also eigentlich gar nicht richtig binary) seiner Schnittstelle.</p>
 <h2 id="und-wo-bekommt-man-ein-abi">Und wo bekommt man ein ABI?</h2>
+<p>Wie wir uns ja noch aus <a href="https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/">Teil 1</a> erinnern, ist unser Contract unter der Adresse <code>0x245eDE9dac68B84f329e21024E0083ce432700f9</code> zu finden.<br>
+Dort können finden wir ihn aucg auf <a href="https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9">Etherscan</a>.</p>
 <p>Im JavaScript-Code im Body lesen wir als erstes alle <code>NewHashValue</code>-Events vom Contract aus.<br>
 Dafür müssen wir uns zum Glück nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das Metmask-Wallet-Plugin des Browsers.</p>
 <h2 id="injection">Injection</h2>
