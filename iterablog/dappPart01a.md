@@ -207,15 +207,16 @@ Das war's. Sieht dann so aus:
 
 Naja. Schön geht anders. Tut aber.
 ## Die eigene DApp
-Ansehen können Sie sich das ganze hier: 
+Ansehen können Sie sich das ganze hier: [https://owidder.github.io/iteraBlog/html/weisenheimer.html](https://owidder.github.io/iteraBlog/html/weisenheimer.html)
 
+Funktioniert aber nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) installiert haben.
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="50%"/>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2Nj
-U4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4
-MTk2LC0xMTQ4OTg4NjddfQ==
+eyJoaXN0b3J5IjpbMjE0MDI5OTI0MSwtMzQwMjAwODAsLTcwND
+Q1MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1
+MDM4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
 -->
