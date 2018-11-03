@@ -201,12 +201,13 @@ const data = events.map(function (event) {
   
 window.showDataAsTable("body", data);
 ```
-Das war's. Sieht dann so aus:
+## Das war's. 
+Sieht dann so aus:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-08/iterablog/images/weisenheimer-02.png"/>
 
 Naja. Schön geht anders. Tut aber.
-## Die eigene DApp
+
 Ansehen können Sie sich das ganze hier: [https://owidder.github.io/iteraBlog/html/weisenheimer.html](https://owidder.github.io/iteraBlog/html/weisenheimer.html)
 
 Funktioniert aber nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) installiert haben. Denn die Kommunikation mit dem Contract läuft über Metamask.
@@ -215,9 +216,10 @@ Da sich der Contract im [Rinkeby Testnetzwerk]((https://www.rinkeby.io/#stats)) 
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="50%"/>
 
+## Die eigene DApp
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk5MjYxMjcyOSwtMzQwMjAwODAsLTcwND
-Q1MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1
-MDM4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
+eyJoaXN0b3J5IjpbLTExMDQzODQ5MDcsLTM0MDIwMDgwLC03MD
+Q0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1
+NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
 -->
