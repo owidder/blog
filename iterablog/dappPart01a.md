@@ -15,7 +15,7 @@ Wir erinnern uns: In  [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tl
 Der Contract hat nur eine Methode: `logHashValue`. 
 Man kann sie mit einem beliebigen String aufrufen. `logHashValue` erzeugt dann einen Event (`NewHashValue`). Dieser enthält:  
 * Den übergebenen String
-* Die Account-Adresse des Aufrufers
+* Die Account-Adresse des Senders des Strings
 * Den Zeitstempel des Blocks, in dem der Event in der Blockchain gespeichert ist.
 ## Hash mich
 Gedacht ist `logHashValue` speziell für Strings, die einen [kryptographischen Hashwert](https://simple.wikipedia.org/wiki/Cryptographic_hash_function) (z.B. [SHA](https://en.wikipedia.org/wiki/SHA-2)) enthalten. Dieser Hashwert liegt dann in der Blockchain und kann jederzeit und von jeder und jedem ausgelesen werden. 
@@ -185,8 +185,8 @@ Dann wollen wir uns mal einen davon ansehen:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-06/iterablog/images/event.png"/>
 
  * Die Nummer des Blocks liegt im Attribute `blockNumber`
- * Der Hashwert liegt in `returnValues[0]`
- * Die Account-Adresse des Aufrufers liegt in `returnValues[1]`
+ * Der Hashwert selbst liegt in `returnValues[0]`
+ * Die Account-Adresse des Senders des Hashwertes liegt in `returnValues[1]`
  * Der Zeitstempel (Sekunden seit 01.01.1970) des Blocks liegt in `returnValues[2]`
 
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
@@ -195,6 +195,6 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTAzNTUwMzgsMTI1NzIyODE5NiwtMT
-E0ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbLTEzMjQwNjIwMTUsLTE0MTAzNTUwMzgsMT
+I1NzIyODE5NiwtMTE0ODk4ODY3XX0=
 -->
