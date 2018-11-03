@@ -40,8 +40,7 @@ Den Smart Contract haben wir schon. Fehlt uns also nur noch ein Frontend.</p>
 <p>In der ersten Version soll das Frontend lediglich die Inhalte der <code>NewHashValue</code>-Events, die der Contract produziert, in einer Tabelle anzeigen.<br>
 Und wie immer haben wir es eilig. Wer weiß denn schon, wie lange dieser ganze Blockchain-Hype noch anhält?<br>
 Deswegen besteht Frontend aus nur einem einzigen HTML-File:</p>
-<pre><code>&lt;!DOCTYPE html&gt;  
-&lt;html lang="en"&gt;  
+<pre><code>&lt;html&gt;  
 &lt;head&gt;  
     &lt;meta charset="UTF-8"&gt;  
   
