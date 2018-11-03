@@ -203,7 +203,7 @@ window.showDataAsTable("body", data);
 ```
 Das war's. Sieht dann so aus:
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-07/iterablog/images/weisenheimer.png"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-08/iterablog/images/weisenheimer-02.png"/>
 
 Naja. Schön geht anders. Tut aber.
 
@@ -214,7 +214,7 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMTUwOTkwOTUsMTQ2NjU4NjQ1OCwtMT
-MyNDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4
-OTg4NjddfQ==
+eyJoaXN0b3J5IjpbLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC0xMz
+I0MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5
+ODg2N119
 -->
