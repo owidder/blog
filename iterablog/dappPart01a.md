@@ -165,15 +165,19 @@ const web3 = new Web3(ethereum);
 ```
 const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");
 ```
-Mit diesem Proxy-Object können wir nun endlich unseren Contract aufrufen. Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
-
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="75%"/>
-
+Mit diesem Proxy-Object können wir nun endlich unseren Contract aufrufen, um alle Events vom Type `NewHashValue` zu bekommen. 
 ```
 contract.getPastEvents("NewHashValue", {fromBlock: 0, toBlock: 'latest'}, function (error, events) {
 ...
 })
 ```
+
+
+Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
+
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="75%"/>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDg5ODg2N119
+eyJoaXN0b3J5IjpbMjA5NDM0MTA4NCwtMTE0ODk4ODY3XX0=
 -->
