@@ -188,7 +188,7 @@ Dann wollen wir uns mal einen davon ansehen (in der Developer-Console):
  * Der Hashwert selbst liegt in `returnValues[0]`
  * Die Account-Adresse des Senders des Hashwertes liegt in `returnValues[1]`
  * Der Zeitstempel (Sekunden seit 01.01.1970) des Blocks liegt in `returnValues[2]`
-Damit müssen wir uns nur noch die Events in Objekte mit den Attributen `blockNumber`, `hashValue`, `senderAddress` und `timestamp` umwandeln und diese per  `showDataA`
+Damit müssen wir uns nur noch die Events in Objekte mit den Attributen `blockNumber`, `hashValue`, `senderAddress` und `timestamp` umwandeln und diese per  `showDataAsTable()` anzeigen lassen
 
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
 
@@ -196,6 +196,6 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NjY5NzUzMTMsLTEzMjQwNjIwMTUsLT
-E0MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbNTI3NTg4MzcwLC0xMzI0MDYyMDE1LC0xND
+EwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
 -->
