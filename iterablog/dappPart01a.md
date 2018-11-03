@@ -206,7 +206,8 @@ Das war's. Sieht dann so aus:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-08/iterablog/images/weisenheimer-02.png"/>
 
 Naja. Schön geht anders. Tut aber.
-
+## Die eigene DApp
+Ansehen können Sie sich das ganze hier: 
 
 Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherstellen, dass das in dem Plugin das Rinkeby-Netzwerk ausgewählt ist:
 
@@ -214,7 +215,7 @@ Da der Aufruf über das Metamask-Plugin erfolgt, müssen wir jetzt noch sicherst
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC0xMz
-I0MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5
-ODg2N119
+eyJoaXN0b3J5IjpbLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2Nj
+U4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4
+MTk2LC0xMTQ4OTg4NjddfQ==
 -->
