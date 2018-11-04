@@ -296,8 +296,9 @@ Dazu gehen wieder zurück zu dem Tab-Reiter "Code" und klicken auf den "Create n
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/create-new-file-button.png"/>
 
-In die große Textarea kopieren Sie den HTML-Code von oben (Sie können ihn sich von [hier](https://raw.githubusercontent.com/owidder/iteraBlog/gh-pages/html/weisenheimer.html) kopieren.)
-Als Name geben Sie "index.html" ein
+In die große Textarea kopieren Sie den HTML-Code von oben (Sie können ihn sich von [hier](https://raw.githubusercontent.com/owidder/iteraBlog/gh-pages/html/weisenheimer.html) kopieren. Dabei müssen Sie ggf. die Adresse des Contracts in Zeile 24 anpassen.)
+
+Als Name geben Sie "index.html" ein:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/create-file.png"/>
 
@@ -305,7 +306,7 @@ Ganz unten klicken Sie den "Commit new file"-Button
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/commit-new-file.png"/>
 
-Achtung: Die Checkbox "Commit directly to the gh-pages branch" muss ausgewählt sein.
+Achtung: Die Checkbox "Commit directly to the `gh-pages` branch" muss ausgewählt sein.
 
 ## 6. Fertig
 Das war's eigentlich schon. Jetzt müssen Sie nur noch einmal im Tab-Reiter "Settings" nach unten scrollen bis zum Abschnitt GitHub-Pages
@@ -325,7 +326,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyODAxMjUxMywtNDA4NTM3MDc3LDU1OD
+eyJoaXN0b3J5IjpbMTg3MzE0MzE3MiwtNDA4NTM3MDc3LDU1OD
 UzNTIsLTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsODMxOTI1NzMx
 LDcxODE4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMj
 M0MzMzNjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUz
