@@ -200,11 +200,12 @@ Dann wollen wir uns mal einen davon ansehen (in der Developer-Console):
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-06/iterablog/images/event.png"/>
 
- * Die Nummer des Blocks liegt im Attribute `blockNumber`
+ * Die Nummer des Blocks liegt im Attribut `blockNumber`
  * Der Hashwert selbst liegt in `returnValues[0]`
  * Die Account-Adresse des Senders des Hashwertes liegt in `returnValues[1]`
  * Der Zeitstempel (Sekunden seit 01.01.1970) des Blocks liegt in `returnValues[2]`
-Damit müssen wir uns nur noch die Events in Objekte mit den Attributen `blockNumber`, `hashValue`, `senderAddress` und `timestamp` umwandeln und diese per  [`showDataAsTable()`](https://github.com/owidder/super-simple-utils/blob/master/src/table/showDataAsTable.ts) anzeigen lassen:
+
+Jetzt müssen wir uns nur noch die Events in Objekte mit den Attributen `blockNumber`, `hashValue`, `senderAddress` und `timestamp` umwandeln und diese per  [`showDataAsTable()`](https://github.com/owidder/super-simple-utils/blob/master/src/table/showDataAsTable.ts) anzeigen lassen:
 ```
 const data = events.map(function (event) {  
     return {  
@@ -217,7 +218,7 @@ const data = events.map(function (event) {
   
 window.showDataAsTable("body", data);
 ```
-## Das war's
+## Wow!!!
 Sieht dann so aus:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-08/iterablog/images/weisenheimer-02.png"/>
@@ -315,10 +316,10 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyNzkyNzg5MiwtMTIzNDM5MDQwNiwtMT
-AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
-ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
-AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
-NDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OT
-g4NjddfQ==
+eyJoaXN0b3J5IjpbLTE0MTM2NTM1NjksLTEyMzQzOTA0MDYsLT
+EwMTk1NzgwMzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2
+MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NT
+cwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEz
+MjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0OD
+k4ODY3XX0=
 -->
