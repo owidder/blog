@@ -229,20 +229,23 @@ Melden Sie sich bei [Github](https://github.com/) an, falls Sie dort noch kein K
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-01/iterablog/images/sign-up-github.png"/>
 
 ## 2. Repository erstellen
-Über den "New Repository"-Button
+Wenn Sie angemeldet sind, können Sie über den "New Repository"-Button
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-02/iterablog/images/new-repo.png"/>
 
-können Sie [neues Repository erstellen](https://github.com/new) (z.B. mit dem Namen "weisenheimer"):
+ein [neues Repository erstellen](https://github.com/new) (z.B. mit dem Namen "weisenheimer"):
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-01/iterablog/images/create-repo.png"/>
 
-Achtung: Wichtig ist, dass 
+Achtung: Wichtig ist, dass der Haken bei "Initialize this repository with a README" gesetzt ist.
+
+## 3. HTML-File erzeugen
+
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzNDY2OTQxMDEsLTEzOTM0NDkxNzksLT
-EyMzQzMzM2OTEsLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MDQ0
-NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NT
-AzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
+eyJoaXN0b3J5IjpbMTg3MTE1MzA1NywtMTM5MzQ0OTE3OSwtMT
+IzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1
+MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MD
+M4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
 -->
