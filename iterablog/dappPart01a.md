@@ -238,8 +238,9 @@ Wollen Sie Ihre Bekannten mit einer eigene DApp beeindrucken?
 
 Nicht leichter als das. Contract und Frontend haben wir ja jetzt. Bleibt nur noch die Frage, wie wir das Frontend im Internet veröffentlichen. Und wie immer haben wir es eilig.
 ## Github Pages
-Am Schnellsten und auch noch kostenlos geht das mit [GitHub Pages](https://pages.github.com/)
-Da brauchen wir nur wenige Schritte
+Am Schnellsten und auch noch kostenlos geht das mit [GitHub Pages](https://pages.github.com/).
+
+Dazu brauchen wir nur wenige Schritte
 ## 1. Anmelden
 Melden Sie sich bei [Github](https://github.com/) an, falls Sie dort noch kein Konto haben:
 
@@ -316,7 +317,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5Nzc5MjQ0ODcsLTEyMzQzOTA0MDYsLT
+eyJoaXN0b3J5IjpbLTE4ODY2MDU0MzAsLTEyMzQzOTA0MDYsLT
 EwMTk1NzgwMzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2
 MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NT
 cwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEz
