@@ -149,7 +149,7 @@ An dieser Stelle kann sich ein Metamask-Dialog öffnen, in dem der Benutzer um E
 
 `enable()` ist asynchron und gibt ein [JavaScript-Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) zurück. 
 
-An dem Promise rufen wir wiederum die `then()`-Methode auf, der wir eine Callback-Function übergeben:
+An dem zurückgegebenen Promise rufen wir wiederum die `then()`-Methode auf, der wir eine Callback-Function übergeben:
 ```
 ethereum.enable().then(function () {
 ...
@@ -183,13 +183,14 @@ const web3 = new Web3(ethereum);
 ```
 const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");
 ```
-Mit diesem Proxy-Object können wir nun endlich unseren Contract aufrufen, um alle Events vom Typ `NewHashValue` zu bekommen. Dieser Aufruf ist asynchron. Anders als bei `ethereum.enable()` bekommen wir aber kein Promise zurück. Statt dessen müssen wir ein  Callback-Function gleich mit übergeben: 
+Mit diesem Proxy-Object können wir nun endlich unseren Contract aufrufen, um alle Events vom Typ `NewHashValue` zu bekommen. 
+Dieser Aufruf ist asynchron. Anders als bei `ethereum.enable()` bekommen wir aber kein Promise zurück. Statt dessen müssen wir ein  Callback-Function gleich mit übergeben: 
 ```
 contract.getPastEvents("NewHashValue", {fromBlock: 0, toBlock: 'latest'}, function (error, events) {
 ...
 })
 ```
-Sobald die Events da sind, wird diese Function aufgerufen.
+Sobald die Events da sind, wird diese Callback-Function aufgerufen.
 ## Ein Event von innen
 In der Callback-Function geben wir als erstes die Events auf der Console aus:
 ```
@@ -314,10 +315,10 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDUxOTA2MzksLTEyMzQzOTA0MDYsLT
-EwMTk1NzgwMzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2
-MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NT
-cwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEz
-MjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0OD
-k4ODY3XX0=
+eyJoaXN0b3J5IjpbLTYyNzkyNzg5MiwtMTIzNDM5MDQwNiwtMT
+AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
+ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
+AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
+NDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OT
+g4NjddfQ==
 -->
