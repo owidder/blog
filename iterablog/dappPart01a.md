@@ -270,18 +270,17 @@ Dazu gehen wieder zurück zu dem Tab-Reiter "Code" und klicken auf den "Create n
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/create-new-file-button.png"/>
 
-In die große Textarea kopieren Sie den HTML-Code von oben (
-(Sie können es sich [hier](https://raw.githubusercontent.com/owidder/iteraBlog/gh-pages/html/weisenheimer.html) kopieren.)
-
+In die große Textarea kopieren Sie den HTML-Code von oben (Sie können ihn sich von [hier](https://raw.githubusercontent.com/owidder/iteraBlog/gh-pages/html/weisenheimer.html) kopieren.)
+Als Name geben Sie "index.html" ein
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/create-file.png"/>
 
-
+Ganz unten betätigen Sie 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2ODc0Mzk0NiwtMTIzNDM5MDQwNiwtMT
-AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
-ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
-AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
-NDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OT
-g4NjddfQ==
+eyJoaXN0b3J5IjpbMzM5ODM4MDAzLC0xMjM0MzkwNDA2LC0xMD
+E5NTc4MDMwLDgzMTkyNTczMSw3MTgxODUwNjgsLTY5MDA5NjE4
+NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2OTU3MC
+wtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC0xMzI0
+MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5OD
+g2N119
 -->
