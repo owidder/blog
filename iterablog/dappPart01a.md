@@ -289,8 +289,12 @@ Das war's eigentlich schon. Jetzt müssen Sie nur noch einmal im Tab-Reiter "Set
 Wenn Sie jetzt auf den Link in dem blauen Kasten klicken, sehen Sie ihre Dapp:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-09/iterablog/images/part2-final.png"/>
+
+Sie funktioniert allerdings nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) installiert haben und im Plugin das Rinkeby-Testnetzwerk ausgewählt ist:
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTcxODQwNzI5NSwtMTIzNDM5MDQwNiwtMT
+eyJoaXN0b3J5IjpbMTg4NjUyNjE4MiwtMTIzNDM5MDQwNiwtMT
 AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
 ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
 AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
