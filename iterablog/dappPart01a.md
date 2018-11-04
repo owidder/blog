@@ -109,7 +109,10 @@ Im Head holen wir uns das Stylesheet von [Materialize](https://materializecss.co
 ## ... und schon kann's losgehen
 Um mit einem Smart Contract kommunizieren zu können, benötigt man sein sogenanntes Application Binary Interface (ABI). Das ist eine JSON-Beschreibung (also eigentlich gar nicht richtig binary) seiner Schnittstelle.
 ## Und wo bekommt man ein ABI?
-Sollten Sie beim ersten Teil 1 schon mitgemacht haben, dann sollten Sie jetzt Ihren Contract auf [Etherscan](https://rinkeby.etherscan.io/) aufrufen. Dazu benötigen Sie die Adresse des Contract.
+Sollten Sie beim ersten Teil 1 schon mitgemacht haben, dann sollten Sie jetzt Ihren Contract auf [Etherscan](https://rinkeby.etherscan.io/) aufrufen. Dazu benötigen Sie die Adresse des Contract. Die können Sie im Suchfeld oben rechts eingeben:
+
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-02/iterablog/images/etherscan-search.png"/>
+
 
 Ansonsten können Sie auch diesen Contract nehmen:
 https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9
@@ -320,10 +323,10 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwNTg5MjQyNSwtNDA4NTM3MDc3LDU1OD
-UzNTIsLTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsODMxOTI1NzMx
-LDcxODE4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMj
-M0MzMzNjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUz
-MTc5LDE0NjY1ODY0NTgsLTEzMjQwNjIwMTUsLTE0MTAzNTUwMz
-gsMTI1NzIyODE5NiwtMTE0ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbMTU2Mjg5MzQzLC00MDg1MzcwNzcsNTU4NT
+M1MiwtMTIzNDM5MDQwNiwtMTAxOTU3ODAzMCw4MzE5MjU3MzEs
+NzE4MTg1MDY4LC02OTAwOTYxODYsLTEzOTM0NDkxNzksLTEyMz
+QzMzM2OTEsLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMx
+NzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOC
+wxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
 -->
