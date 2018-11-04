@@ -265,15 +265,20 @@ Selbstverständlich [wissen wir, was wir tun](https://de.wikipedia.org/wiki/%E2%
 
 
 ## 5. HTML-File erstellen
-So nun, müssen wir nur noch das HTML-File von oben erstellen. (Sie können es sich [hier](https://raw.githubusercontent.com/owidder/iteraBlog/gh-pages/html/weisenheimer.html) kopieren.)
-
+So nun, müssen wir nur noch das HTML-File von oben erstellen. 
 Dazu gehen wieder zurück zu dem Tab-Reiter "Code" und klicken auf den "Create new file"-Button:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/create-new-file-button.png"/>
 
 
+(Sie können es sich [hier](https://raw.githubusercontent.com/owidder/iteraBlog/gh-pages/html/weisenheimer.html) kopieren.)
+
+
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/create-file.png"/>
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc5MDc3ODk4MywtMTIzNDM5MDQwNiwtMT
+eyJoaXN0b3J5IjpbLTQ3ODY1NjI4MiwtMTIzNDM5MDQwNiwtMT
 AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
 ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
 AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
