@@ -18,7 +18,7 @@ Man kann sie mit einem beliebigen String aufrufen. `logHashValue` erzeugt dann e
 * Den übergebenen String
 * Die Account-Adresse des Senders des Strings
 * Den Zeitstempel des Blocks, in dem der Event in der Blockchain gespeichert ist.
-## Hash mich
+## Crypto Hash
 Gedacht ist `logHashValue` speziell für Strings, die einen [kryptographischen Hashwert](https://simple.wikipedia.org/wiki/Cryptographic_hash_function) (z.B. [SHA](https://en.wikipedia.org/wiki/SHA-2)) enthalten. Dieser Hashwert liegt dann in der Blockchain und kann jederzeit und von jeder und jedem ausgelesen werden. 
 ## "Das weiß ich doch schon lange"
 Als notirischer Schlaumeier kann man sich das nun zunutze machen:
@@ -326,10 +326,10 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MzE0MzE3MiwtNDA4NTM3MDc3LDU1OD
-UzNTIsLTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsODMxOTI1NzMx
-LDcxODE4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMj
-M0MzMzNjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUz
-MTc5LDE0NjY1ODY0NTgsLTEzMjQwNjIwMTUsLTE0MTAzNTUwMz
-gsMTI1NzIyODE5NiwtMTE0ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbLTEzMjAwOTA4MzgsLTQwODUzNzA3Nyw1NT
+g1MzUyLC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLDgzMTkyNTcz
+MSw3MTgxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0OTE3OSwtMT
+IzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1
+MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MD
+M4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
 -->
