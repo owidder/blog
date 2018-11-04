@@ -227,9 +227,9 @@ Naja. Schön geht anders. Tut aber.
 
 Ansehen können Sie sich das ganze hier: [https://owidder.github.io/iteraBlog/html/weisenheimer.html](https://owidder.github.io/iteraBlog/html/weisenheimer.html)
 
-Funktioniert aber nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) installiert haben. Denn die Kommunikation mit dem Contract läuft über Metamask.
+Funktioniert aber nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) installiert haben. Denn die Kommunikation mit dem Contract läuft über dieses Plugin.
 
-Da sich der Contract im [Rinkeby Testnetzwerk]((https://www.rinkeby.io/#stats)) befindet, müssen Sie jetzt noch sicherstellen, dass Rinkeby in dem Plugin auch ausgewählt ist:
+Da sich der Contract im [Rinkeby Testnetzwerk]((https://www.rinkeby.io/#stats)) befindet, müssen Sie auch noch sicherstellen, dass Rinkeby in dem Plugin ausgewählt ist:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="50%"/>
 
@@ -238,7 +238,7 @@ Wollen Sie Ihre Bekannten mit einer eigene DApp beeindrucken?
 
 Nicht leichter als das. Contract und Frontend haben wir ja jetzt. Bleibt nur noch die Frage, wie wir das Frontend im Internet veröffentlichen. Und wie immer haben wir es eilig.
 ## Github Pages
-Am Schnellsten und auch noch kostenlos geht das mit [Github Pages](https://pages.github.com/)
+Am Schnellsten und auch noch kostenlos geht das mit [GitHub Pages](https://pages.github.com/)
 Da brauchen wir nur wenige Schritte
 ## 1. Anmelden
 Melden Sie sich bei [Github](https://github.com/) an, falls Sie dort noch kein Konto haben:
@@ -316,7 +316,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTM2NTM1NjksLTEyMzQzOTA0MDYsLT
+eyJoaXN0b3J5IjpbLTE5Nzc5MjQ0ODcsLTEyMzQzOTA0MDYsLT
 EwMTk1NzgwMzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2
 MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NT
 cwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEz
