@@ -260,7 +260,7 @@ Achtung: Wichtig ist, dass der Haken bei "Initialize this repository with a READ
 ## 3. Branch erstellen
 Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü "Branch: Master"
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-03/iterablog/images/branch-dropdown.png"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-11/iterablog/images/branch-dropdown.png"/>
  
  einen neuen Branch mit Namen "gh-pages" erstellen:
 
@@ -317,10 +317,10 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTU4NTM1MiwtMTIzNDM5MDQwNiwtMTAxOT
-U3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYxODYs
-LTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1NzAsLT
-M0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2
-MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4Nj
-ddfQ==
+eyJoaXN0b3J5IjpbLTQwODUzNzA3Nyw1NTg1MzUyLC0xMjM0Mz
+kwNDA2LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MTgxODUwNjgs
+LTY5MDA5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMj
+A4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2
+NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOT
+YsLTExNDg5ODg2N119
 -->
