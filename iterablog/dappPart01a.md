@@ -251,9 +251,12 @@ Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü "Branch
 Achtung: Der Name ist wichtig und muss genau so lauten.
 
 ## 4. Default-Branch setzen
-Über den Tab-Reiter "Settings" und die Auswahl "Branches" auf der linken Seite können Sie den Default-Branch auf den neuen 
+Über den Tab-Reiter "Settings" und die Auswahl "Branches" auf der linken Seite können Sie den Default-Branch auf den neuen Branch "gh-pages" setzen:
+
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-04/iterablog/images/set-defa-branch.png"/>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgyNzcxMDU2Myw3MTgxODUwNjgsLTY5MD
+eyJoaXN0b3J5IjpbMTQyNjM0OTY3OCw3MTgxODUwNjgsLTY5MD
 A5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2
 OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC
 0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTEx
