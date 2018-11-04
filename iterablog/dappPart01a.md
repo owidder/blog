@@ -239,12 +239,11 @@ ein [neues Repository erstellen](https://github.com/new) (z.B. mit dem Namen "we
 
 Achtung: Wichtig ist, dass der Haken bei "Initialize this repository with a README" gesetzt ist.
 
-## 3. HTML-File erzeugen
-
-
+## 3. Branch erstellen
+Sobald das Repository erstellt ist, können Sie über 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MTE1MzA1NywtMTM5MzQ0OTE3OSwtMT
+eyJoaXN0b3J5IjpbLTY5MDA5NjE4NiwtMTM5MzQ0OTE3OSwtMT
 IzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1
 MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MD
 M4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
