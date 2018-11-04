@@ -38,9 +38,13 @@ Ich weiß nicht, ob es eine offizielle Definition einer DApp gibt. Aber dies hie
 [DApp = Frontend + Smart Contract](https://ethereum.stackexchange.com/questions/383/what-is-a-dapp)
 
 Den Smart Contract haben wir schon. Fehlt uns also nur noch ein Frontend.
+
+(Am Ende dieses Beitrags haben Sie ihre eigene DApp im Internet, mit der Freunde und Bekannte beeindrucken können)
 ## Frontend für Eilige
 In der ersten Version soll das Frontend lediglich die Inhalte der `NewHashValue`-Events, die der Contract produziert, in einer Tabelle anzeigen. 
-Und wie immer haben wir es eilig. Wer weiß denn schon, wie lange dieser ganze Blockchain-Hype noch anhält? 
+
+Und wie immer haben wir es eilig. (Wer weiß denn schon, wie lange dieser ganze Blockchain-Hype noch anhält?)
+
 Deswegen besteht Frontend aus nur einem einzigen HTML-File:
 ```
 <html>  
@@ -302,7 +306,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkxNTU0NDE5MywtMTIzNDM5MDQwNiwtMT
+eyJoaXN0b3J5IjpbLTI5ODQ2MDk0NSwtMTIzNDM5MDQwNiwtMT
 AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
 ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
 AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
