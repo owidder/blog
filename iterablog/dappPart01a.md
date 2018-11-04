@@ -251,14 +251,19 @@ Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü "Branch
 Achtung: Der Name ist wichtig und muss genau so lauten.
 
 ## 4. Default-Branch setzen
-Über den Tab-Reiter "Settings" und die Auswahl "Branches" auf der linken Seite können Sie den Default-Branch auf den neuen Branch "gh-pages" setzen:
+Über den Tab-Reiter "Settings" und die Auswahl "Branches" auf der linken Seite 
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-04/iterablog/images/set-default-branch.png"/>
 
+können Sie den Default-Branch auf den neuen Branch "gh-pages" setzen:
+
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-05/iterablog/images/set-default-branch-2.png"/>
+
+## 5. HTML-File erstellen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MDE2MzQzOTksNzE4MTg1MDY4LC02OT
-AwOTYxODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5
-Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OC
-wtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0x
-MTQ4OTg4NjddfQ==
+eyJoaXN0b3J5IjpbMTA2MDYwNzkxMSw3MTgxODUwNjgsLTY5MD
+A5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2
+OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC
+0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTEx
+NDg5ODg2N119
 -->
