@@ -240,11 +240,14 @@ ein [neues Repository erstellen](https://github.com/new) (z.B. mit dem Namen "we
 Achtung: Wichtig ist, dass der Haken bei "Initialize this repository with a README" gesetzt ist.
 
 ## 3. Branch erstellen
-Sobald das Repository erstellt ist, können Sie über 
+Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü 
+
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-01/iterablog/images/create-repo.png"/>
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY5MDA5NjE4NiwtMTM5MzQ0OTE3OSwtMT
-IzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1
-MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MD
-M4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
+eyJoaXN0b3J5IjpbNTc5NTgyNDMyLC02OTAwOTYxODYsLTEzOT
+M0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1NzAsLTM0MDIw
+MDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNS
+wtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
+
 -->
