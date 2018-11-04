@@ -229,14 +229,18 @@ Melden Sie sich bei [Github](https://github.com/) an, falls Sie dort noch kein K
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-01/iterablog/images/sign-up-github.png"/>
 
 ## 2. Repository erstellen
-[Erstellen Sie ein neues Repository](https://github.com/new) (z.B. mit dem Namen "weisenheimer"):
+Über den "New Repository§
+[Erstellen Sie ein neues Repository](https://github.com/new)
+
+
+ (z.B. mit dem Namen "weisenheimer"):
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-01/iterablog/images/create-repo.png"/>
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNTExNjgxNDksLTEzOTM0NDkxNzksLT
-EyMzQzMzM2OTEsLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MDQ0
-NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NT
-AzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
+eyJoaXN0b3J5IjpbMTI2ODY5ODYzNCwtMTM5MzQ0OTE3OSwtMT
+IzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1
+MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MD
+M4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
 -->
