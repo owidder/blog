@@ -240,9 +240,9 @@ Nicht leichter als das. Contract und Frontend haben wir ja jetzt. Bleibt nur noc
 ## Github Pages
 Am Schnellsten und auch noch kostenlos geht das mit [GitHub Pages](https://pages.github.com/).
 
-Dazu brauchen wir nur wenige Schritte
+Dazu brauchen wir nur 6 Schritte
 ## 1. Anmelden
-Melden Sie sich bei [Github](https://github.com/) an, falls Sie dort noch kein Konto haben:
+Melden Sie sich bei [GitHub](https://github.com/) an, falls Sie dort noch kein Konto haben:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-01/iterablog/images/sign-up-github.png"/>
 
@@ -258,7 +258,7 @@ ein [neues Repository erstellen](https://github.com/new) (z.B. mit dem Namen "we
 Achtung: Wichtig ist, dass der Haken bei "Initialize this repository with a README" gesetzt ist.
 
 ## 3. Branch erstellen
-Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü "Branch: Mater"
+Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü "Branch: Master"
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-03/iterablog/images/branch-dropdown.png"/>
  
@@ -317,10 +317,10 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4ODY2MDU0MzAsLTEyMzQzOTA0MDYsLT
-EwMTk1NzgwMzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2
-MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NT
-cwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEz
-MjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0OD
-k4ODY3XX0=
+eyJoaXN0b3J5IjpbNTU4NTM1MiwtMTIzNDM5MDQwNiwtMTAxOT
+U3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYxODYs
+LTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1NzAsLT
+M0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2
+MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4Nj
+ddfQ==
 -->
