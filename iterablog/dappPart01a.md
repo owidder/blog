@@ -270,7 +270,7 @@ Dazu gehen wieder zurück zu dem Tab-Reiter "Code" und klicken auf den "Create n
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/create-new-file-button.png"/>
 
-
+In die große Textarea kopieren Sie den HTML-Code von oben (
 (Sie können es sich [hier](https://raw.githubusercontent.com/owidder/iteraBlog/gh-pages/html/weisenheimer.html) kopieren.)
 
 
@@ -278,7 +278,7 @@ Dazu gehen wieder zurück zu dem Tab-Reiter "Code" und klicken auf den "Create n
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ3ODY1NjI4MiwtMTIzNDM5MDQwNiwtMT
+eyJoaXN0b3J5IjpbMTU2ODc0Mzk0NiwtMTIzNDM5MDQwNiwtMT
 AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
 ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
 AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
