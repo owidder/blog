@@ -111,15 +111,10 @@ Um mit einem Smart Contract kommunizieren zu können, benötigt man sein sogenan
 ## Und wo bekommt man ein ABI?
 Sollten Sie beim ersten Teil 1 schon mitgemacht haben, dann sollten Sie jetzt Ihren Contract auf [Etherscan](https://rinkeby.etherscan.io/) aufrufen. Dazu benötigen Sie die Adresse des Contract. Die können Sie im Suchfeld oben rechts eingeben:
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-02/iterablog/images/etherscan-search.png"/>
-
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-12/iterablog/images/etherscan-search.png"/>
 
 Ansonsten können Sie auch diesen Contract nehmen:
 https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9
-
-Wie Sie sich ja sicher noch aus [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/) erinnern können, ist unser Contract unter der Adresse `0x245eDE9dac68B84f329e21024E0083ce432700f9` zu finden.
-Dort finden wir ihn auch auf [Etherscan](https://rinkeby.etherscan.io/): 
-:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-02/iterablog/images/etherscan-contract-3.png"/>
 
@@ -134,7 +129,9 @@ const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"
 ## Ein Hoch auf den Fuchs
 Jetzt wollen wir alle `NewHashValue`-Events vom Contract auslesen. 
 
-Dafür müssen wir uns zum Glück nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das [Metmask-Wallet-Plugin](https://metamask.io/) des Browsers, das wir uns in [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/) installiert haben. Sie erinnern sich an den Fuchs?
+Dafür müssen wir uns zum Glück nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das [Metmask-Wallet-Plugin](https://metamask.io/), das wir uns in [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/) installiert haben. 
+
+Sie erinnern sich an den Fuchs?
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-04/iterablog/images/metamask-fox.png" width="30%"/>
 
@@ -323,10 +320,10 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU2Mjg5MzQzLC00MDg1MzcwNzcsNTU4NT
-M1MiwtMTIzNDM5MDQwNiwtMTAxOTU3ODAzMCw4MzE5MjU3MzEs
-NzE4MTg1MDY4LC02OTAwOTYxODYsLTEzOTM0NDkxNzksLTEyMz
-QzMzM2OTEsLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMx
-NzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOC
-wxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
+eyJoaXN0b3J5IjpbLTczMzEwMDYwNCwtNDA4NTM3MDc3LDU1OD
+UzNTIsLTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsODMxOTI1NzMx
+LDcxODE4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMj
+M0MzMzNjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUz
+MTc5LDE0NjY1ODY0NTgsLTEzMjQwNjIwMTUsLTE0MTAzNTUwMz
+gsMTI1NzIyODE5NiwtMTE0ODk4ODY3XX0=
 -->
