@@ -292,10 +292,14 @@ Wenn Sie jetzt auf den Link in dem blauen Kasten klicken, sehen Sie ihre Dapp:
 
 Sie funktioniert allerdings nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) installiert haben und im Plugin das Rinkeby-Testnetzwerk ausgewählt ist:
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-10/iterablog/images/,.png"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-10/iterablog/images/metamask-rinkeby-02.png"/>
+
+## Tschüs
+Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTkwNTMxNzQ0OSwtMTIzNDM5MDQwNiwtMT
+eyJoaXN0b3J5IjpbMTYxNzUyMTM3OSwtMTIzNDM5MDQwNiwtMT
 AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
 ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
 AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
