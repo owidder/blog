@@ -269,11 +269,13 @@ So nun, müssen wir nur noch das HTML-File von oben erstellen. (Sie können es s
 
 Dazu gehen wieder zurück zu dem Tab-Reiter "Code" und klicken auf den "Create new file"-Button:
 
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-07/iterablog/images/create-new-file-button.png"/>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMTk1NzgwMzAsODMxOTI1NzMxLDcxOD
-E4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMz
-NjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LD
-E0NjY1ODY0NTgsLTEzMjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1
-NzIyODE5NiwtMTE0ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbLTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsOD
+MxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5
+MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MC
+wtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEzMjQwNjIwMTUsLTE0
+MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0ODk4ODY3XX0=
 -->
