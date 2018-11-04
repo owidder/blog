@@ -115,9 +115,9 @@ https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-02/iterablog/images/etherscan-contract-3.png"/>
 
-(Sollten Sie den ersten Teil 1 scho)
+(Sollten Sie beim ersten Teil 1 schon mitgemacht haben, dann ersetzen Sie `0x245eDE9dac68B84f329e21024E0083ce432700f9` mit der Adresse ihres Contracts)
 
-Und wenn wir dort auf den 2. Tab-Reiter ("Code") klicken, sehen wir die ABI des Contracts:
+Mi auf den 2. Tab-Reiter ("Code") klicken, sehen wir die ABI des Contracts:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-03/iterablog/images/contract-abi.png"/>
 
@@ -310,10 +310,10 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzA2OTI2MDcsLTEyMzQzOTA0MDYsLTEwMT
-k1NzgwMzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2MTg2
-LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NTcwLC
-0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEzMjQw
-NjIwMTUsLTE0MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0ODk4OD
-Y3XX0=
+eyJoaXN0b3J5IjpbMTg1MzgyNjAwOSwtMTIzNDM5MDQwNiwtMT
+AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
+ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
+AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
+NDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OT
+g4NjddfQ==
 -->
