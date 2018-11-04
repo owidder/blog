@@ -250,11 +250,12 @@ Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü "Branch
 
 Achtung: Der Name ist wichtig und muss genau so lauten.
 
-## 4. D
+## 4. Default-Branch setzen
+Über den Tab-Reiter "Settings" und die Auswahl "Branches" auf der linken Seite können Sie den Default-Branch auf den neuen 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzE4MTg1MDY4LC02OTAwOTYxODYsLTEzOT
-M0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1NzAsLTM0MDIw
-MDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNS
-wtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
-
+eyJoaXN0b3J5IjpbLTgyNzcxMDU2Myw3MTgxODUwNjgsLTY5MD
+A5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2
+OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC
+0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTEx
+NDg5ODg2N119
 -->
