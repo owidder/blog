@@ -279,12 +279,18 @@ Ganz unten klicken Sie "Commit new file"-Button
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/commit-new-file.png"/>
 
-Achtung: Die Checkbox "Commit directly to the gh-pages branch"
+Achtung: Die Checkbox "Commit directly to the gh-pages branch" muss ausgewählt sein.
+
+## 6. Fertig
+Das war's eigentlich schon. Jetzt müssen Sie nur noch einmal im 
+
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/gh-pages.png"/>
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTc2MDIyMDEyNywtMTIzNDM5MDQwNiwtMT
-AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
-ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
-AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
-NDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OT
-g4NjddfQ==
+eyJoaXN0b3J5IjpbMTQ2NTY1OTU3LC0xMjM0MzkwNDA2LC0xMD
+E5NTc4MDMwLDgzMTkyNTczMSw3MTgxODUwNjgsLTY5MDA5NjE4
+NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2OTU3MC
+wtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC0xMzI0
+MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5OD
+g2N119
 -->
