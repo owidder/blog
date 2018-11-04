@@ -186,8 +186,11 @@ const web3 = new Web3(ethereum);
 ```
 const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");
 ```
+Die Adresse müssen Sie ggf. gegen die Adresse ihres Contracts austauschen.
+
 Mit diesem Proxy-Object können wir nun endlich unseren Contract aufrufen, um alle Events vom Typ `NewHashValue` zu bekommen. 
-Dieser Aufruf ist asynchron. Anders als bei `ethereum.enable()` bekommen wir aber kein Promise zurück. Statt dessen müssen wir ein  Callback-Function gleich mit übergeben: 
+
+Auch Dieser Aufruf ist asynchron. Aber anders als bei `ethereum.enable()` bekommen wir aber kein Promise zurück. Statt dessen müssen wir ein  Callback-Function gleich mit übergeben: 
 ```
 contract.getPastEvents("NewHashValue", {fromBlock: 0, toBlock: 'latest'}, function (error, events) {
 ...
@@ -232,7 +235,7 @@ Ansehen können Sie sich das ganze hier: [https://owidder.github.io/iteraBlog/ht
 
 Funktioniert aber nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) installiert haben. Denn die Kommunikation mit dem Contract läuft über dieses Plugin.
 
-Da sich der Contract im [Rinkeby Testnetzwerk]((https://www.rinkeby.io/#stats)) befindet, müssen Sie auch noch sicherstellen, dass Rinkeby in dem Plugin ausgewählt ist:
+Und da sich der Contract im [Rinkeby Testnetzwerk]((https://www.rinkeby.io/#stats)) befindet, müssen Sie auch noch sicherstellen, dass Rinkeby in dem Plugin ausgewählt ist:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="50%"/>
 
@@ -320,7 +323,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTczMzEwMDYwNCwtNDA4NTM3MDc3LDU1OD
+eyJoaXN0b3J5IjpbMTU3ODA4MTQxMywtNDA4NTM3MDc3LDU1OD
 UzNTIsLTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsODMxOTI1NzMx
 LDcxODE4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMj
 M0MzMzNjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUz
