@@ -269,13 +269,14 @@ So nun, müssen wir nur noch das HTML-File von oben erstellen. (Sie können es s
 
 Dazu gehen wieder zurück zu dem Tab-Reiter "Code" und klicken auf den "Create new file"-Button:
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-07/iterablog/images/create-new-file-button.png"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/create-new-file-button.png"/>
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsOD
-MxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5
-MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MC
-wtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEzMjQwNjIwMTUsLTE0
-MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbLTc5MDc3ODk4MywtMTIzNDM5MDQwNiwtMT
+AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
+ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
+AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
+NDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OT
+g4NjddfQ==
 -->
