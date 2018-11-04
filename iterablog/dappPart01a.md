@@ -47,7 +47,8 @@ Und wie immer haben wir es eilig. (Wer weiß denn schon, wie lange dieser ganze 
 
 Deswegen besteht Frontend aus nur einem einzigen HTML-File:
 ```
-<html>  
+<!DOCTYPE html>  
+<html lang="en">  
 <head>  
     <meta charset="UTF-8">  
   
@@ -67,17 +68,17 @@ Deswegen besteht Frontend aus nur einem einzigen HTML-File:
         const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];  
   
         if (window.ethereum) {  
-            const web3 = new Web3(ethereum);  
             ethereum.enable().then(function () {  
+                const web3 = new Web3(ethereum);  
                 const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");  
                 contract.getPastEvents("NewHashValue", {fromBlock: 0, toBlock: 'latest'}, function (error, events) {  
                     console.log(events);  
                     const data = events.map(function (event) {  
                         return {  
-                            sender: event.returnValues[1],  
-                            blockno: event.blockNumber,  
+                            blockNumber: event.blockNumber,  
+                            senderAddress: event.returnValues[1],  
                             timestamp: new Date(event.returnValues[2] * 1000).toDateString(),  
-                            hashvalue: event.returnValues[0],  
+                            hashValue: event.returnValues[0],  
                         }  
                     });  
   
@@ -85,7 +86,7 @@ Deswegen besteht Frontend aus nur einem einzigen HTML-File:
                 });  
             })  
         } else {  
-            return Promise.reject("No injected eteherum object found");  
+            window.alert("No injected ethereum object found");  
         }  
     })()  
 </script>  
@@ -306,10 +307,10 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI5ODQ2MDk0NSwtMTIzNDM5MDQwNiwtMT
-AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
-ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
-AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
-NDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OT
-g4NjddfQ==
+eyJoaXN0b3J5IjpbOTQyNzA4MjM5LC0xMjM0MzkwNDA2LC0xMD
+E5NTc4MDMwLDgzMTkyNTczMSw3MTgxODUwNjgsLTY5MDA5NjE4
+NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2OTU3MC
+wtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC0xMzI0
+MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5OD
+g2N119
 -->
