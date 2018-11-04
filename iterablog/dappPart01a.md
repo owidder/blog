@@ -293,7 +293,7 @@ Als Name geben Sie "index.html" ein
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/create-file.png"/>
 
-Ganz unten klicken Sie "Commit new file"-Button
+Ganz unten klicken Sie den "Commit new file"-Button
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/commit-new-file.png"/>
 
@@ -317,10 +317,10 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwODUzNzA3Nyw1NTg1MzUyLC0xMjM0Mz
-kwNDA2LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MTgxODUwNjgs
-LTY5MDA5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMj
-A4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2
-NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOT
-YsLTExNDg5ODg2N119
+eyJoaXN0b3J5IjpbODM1MjQ2MDYsLTQwODUzNzA3Nyw1NTg1Mz
+UyLC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3
+MTgxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzND
+MzMzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3
+OSwxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LD
+EyNTcyMjgxOTYsLTExNDg5ODg2N119
 -->
