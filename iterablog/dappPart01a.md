@@ -242,7 +242,9 @@ Und da sich der Contract im [Rinkeby Testnetzwerk]((https://www.rinkeby.io/#stat
 ## Die eigene DApp
 Wollen Sie Ihre Bekannten mit einer eigene DApp beeindrucken? 
 
-Nicht leichter als das. Contract und Frontend haben wir ja jetzt. Bleibt nur noch die Frage, wie wir das Frontend im Internet veröffentlichen. Und wie immer haben wir es eilig.
+Nicht leichter als das. Contract und Frontend haben wir ja jetzt. Bleibt nur noch die Frage, wie wir das Frontend im Internet veröffentlichen. 
+
+Und wie immer haben wir es eilig.
 ## Github Pages
 Am Schnellsten und auch noch kostenlos geht das mit [GitHub Pages](https://pages.github.com/).
 
@@ -323,7 +325,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU3ODA4MTQxMywtNDA4NTM3MDc3LDU1OD
+eyJoaXN0b3J5IjpbMjAyODAxMjUxMywtNDA4NTM3MDc3LDU1OD
 UzNTIsLTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsODMxOTI1NzMx
 LDcxODE4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMj
 M0MzMzNjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUz
