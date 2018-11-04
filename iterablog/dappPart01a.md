@@ -245,11 +245,16 @@ Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü "Branch
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-03/iterablog/images/branch-dropdown.png"/>
  
  einen neuen Branch mit Namen "gh-pages" erstellen:
-	
+
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-03/iterablog/images/create-branch.png"/>
+
+Achtung: Der Name ist wichtig und muss genau so lauten.
+
+## 4. D
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTQ5Njc4NTksLTY5MDA5NjE4NiwtMT
-M5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQw
-MjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMD
-E1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
+eyJoaXN0b3J5IjpbNzE4MTg1MDY4LC02OTAwOTYxODYsLTEzOT
+M0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1NzAsLTM0MDIw
+MDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNS
+wtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
 
 -->
