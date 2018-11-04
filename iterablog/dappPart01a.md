@@ -265,11 +265,13 @@ Selbstverständlich [wissen wir, was wir tun](https://de.wikipedia.org/wiki/%E2%
 
 
 ## 5. HTML-File erstellen
-So nun, müssen wir nur noch das HTML-File von oben erstellen. Sie können es sich [hier]
+So nun, müssen wir nur noch das HTML-File von oben erstellen. (Sie können es sich [hier](https://raw.githubusercontent.com/owidder/iteraBlog/gh-pages/html/weisenheimer.html) kopieren.)
+
+Dazu gehen wieder zurück zu dem Tab-Reiter "Code" 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAzNjE3OTM2OCw4MzE5MjU3MzEsNzE4MT
-g1MDY4LC02OTAwOTYxODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2
-OTEsLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMxNzksMT
-Q2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3
-MjI4MTk2LC0xMTQ4OTg4NjddfQ==
+eyJoaXN0b3J5IjpbOTMzNTA4MTYsODMxOTI1NzMxLDcxODE4NT
+A2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkx
+LC0yMDgxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0Nj
+Y1ODY0NTgsLTEzMjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1NzIy
+ODE5NiwtMTE0ODk4ODY3XX0=
 -->
