@@ -259,14 +259,15 @@ können Sie den Default-Branch auf den neuen Branch "gh-pages" setzen:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-05/iterablog/images/set-default-branch-2.png"/>
 
-Die Warnung ste
+Selbstverständlich wissen wir. was wir tun:
+
 
 ## 5. HTML-File erstellen
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ5Njc5ODM3LDcxODE4NTA2OCwtNjkwMD
-k2MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5
-NTcwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLT
-EzMjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0
-ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbMTA3ODUxMDg2Nyw3MTgxODUwNjgsLTY5MD
+A5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2
+OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC
+0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTEx
+NDg5ODg2N119
 -->
