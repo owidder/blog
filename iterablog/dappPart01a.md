@@ -117,7 +117,7 @@ https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9:
 
 (Sollten Sie beim ersten Teil 1 schon mitgemacht haben, dann ersetzen Sie `0x245eDE9dac68B84f329e21024E0083ce432700f9` mit der Adresse ihres Contracts)
 
-Mi auf den 2. Tab-Reiter ("Code") klicken, sehen wir die ABI des Contracts:
+Im 2. Tab-Reiter ("Code") sehen wir die ABI des Contracts:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-03/iterablog/images/contract-abi.png"/>
 
@@ -127,6 +127,7 @@ const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"
 ```
 ## Ein Hoch auf den Fuchs
 Jetzt wollen wir alle `NewHashValue`-Events vom Contract auslesen. 
+
 Dafür müssen wir uns zum Glück nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das [Metmask-Wallet-Plugin](https://metamask.io/) des Browsers, das wir uns in [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/) installiert haben. Sie erinnern sich an den Fuchs?
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-04/iterablog/images/metamask-fox.png" width="30%"/>
@@ -144,7 +145,10 @@ An  `ethereum` müssen wir zunächst die `enable()`-Methode aufrufen.
 ```
 ethereum.enable()
 ```
-An dieser Stelle kann sich ein Metamask-Dialog öffnen, in dem der Benutzer um Erlaubnis gefragt wird (ist bei mir bis jetzt aber noch nie passiert). Deshalb ist `enable()` auch asynchron und gibt ein [JavaScript-Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) zurück. 
+An dieser Stelle kann sich ein Metamask-Dialog öffnen, in dem der Benutzer um Erlaubnis gefragt wird (ist bei mir bis jetzt aber noch nie passiert). 
+
+`enable()` ist asynchron und gibt ein [JavaScript-Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) zurück. 
+
 An dem Promise rufen wir wiederum die `then()`-Methode auf, der wir eine Callback-Function übergeben:
 ```
 ethereum.enable().then(function () {
@@ -310,10 +314,10 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg1MzgyNjAwOSwtMTIzNDM5MDQwNiwtMT
-AxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYx
-ODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1Nz
-AsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMy
-NDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OT
-g4NjddfQ==
+eyJoaXN0b3J5IjpbLTExNDUxOTA2MzksLTEyMzQzOTA0MDYsLT
+EwMTk1NzgwMzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2
+MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NT
+cwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEz
+MjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0OD
+k4ODY3XX0=
 -->
