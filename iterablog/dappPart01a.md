@@ -240,14 +240,16 @@ ein [neues Repository erstellen](https://github.com/new) (z.B. mit dem Namen "we
 Achtung: Wichtig ist, dass der Haken bei "Initialize this repository with a README" gesetzt ist.
 
 ## 3. Branch erstellen
-Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü 
+Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü "Branch: Mater"
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-01/iterablog/images/create-repo.png"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-03/iterablog/images/branch-dropdown.png"/>
  
+ einen neuen Branch mit Namen "gh-pages" erstellen:
+	
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTc5NTgyNDMyLC02OTAwOTYxODYsLTEzOT
-M0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1NzAsLTM0MDIw
-MDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNS
-wtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
+eyJoaXN0b3J5IjpbLTExNTQ5Njc4NTksLTY5MDA5NjE4NiwtMT
+M5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQw
+MjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMD
+E1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
 
 -->
