@@ -143,21 +143,19 @@ if (window.ethereum) {
 ```
 **Achtung**: Sollten Sie das Metamask-Plugin schon länger installiert haben, müssen Sie es gegebenenfalls aktualisieren. Hier hat sich in letzter Zeit einiges geändert.
 
-An  `ethereum` müssen wir zunächst die `enable()`-Methode aufrufen. 
+An dem `ethereum`-Object müssen wir zunächst die `enable()`-Methode aufrufen. 
 ```
 ethereum.enable()
 ```
 Dieser Aufruf wird von Metamask nach einer [Änderung der Security-Policy](https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8) verlangt. An dieser Stelle kann sich ein Metamask-Dialog öffnen, in dem der Benutzer um Erlaubnis gefragt wird (ist bei mir bis jetzt aber noch nie passiert). 
 
-`enable()` ist asynchron und gibt ein [JavaScript-Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) zurück. 
-
-An dem zurückgegebenen Promise rufen wir wiederum die `then()`-Methode auf, der wir eine Callback-Function übergeben:
+`enable()` ist asynchron und gibt ein [JavaScript-Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) zurück. Wir übergeben also der `then()`-Methode des Promise eine Callback-Function, die aufgerufen wird sobald das Promise [resolved](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve) (d.h. die `enable()`-Methode ist erfolgreich beendet):
 ```
 ethereum.enable().then(function () {
 ...
 })
 ```
- Sobald das Promise [resolved](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise/resolve), wird also der folgende Code in der Function ausgeführt:
+Sehen wir uns jetzt diese Callback-Function an:
  ```
  const web3 = new Web3(ethereum);  
 const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");  
@@ -325,11 +323,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4MTA1NDE3OTMsNTAyMTA5MTAwLC0xMz
-IwMDkwODM4LC00MDg1MzcwNzcsNTU4NTM1MiwtMTIzNDM5MDQw
-NiwtMTAxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OT
-AwOTYxODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5
-Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OC
-wtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0x
-MTQ4OTg4NjddfQ==
+eyJoaXN0b3J5IjpbLTE3NDM4ODU5MDQsLTE4MTA1NDE3OTMsNT
+AyMTA5MTAwLC0xMzIwMDkwODM4LC00MDg1MzcwNzcsNTU4NTM1
+MiwtMTIzNDM5MDQwNiwtMTAxOTU3ODAzMCw4MzE5MjU3MzEsNz
+E4MTg1MDY4LC02OTAwOTYxODYsLTEzOTM0NDkxNzksLTEyMzQz
+MzM2OTEsLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMxNz
+ksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwx
+MjU3MjI4MTk2XX0=
 -->
