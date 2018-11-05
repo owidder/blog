@@ -225,6 +225,7 @@ Sieht dann so aus:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-08/iterablog/images/weisenheimer-02.png"/>
 
+()
 Naja. Schön geht anders. Tut aber.
 
 Ansehen können Sie sich das ganze hier: [https://owidder.github.io/iteraBlog/html/weisenheimer.html](https://owidder.github.io/iteraBlog/html/weisenheimer.html)
@@ -322,7 +323,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQyNzgwNTEzMywtMTgxMDU0MTc5Myw1MD
+eyJoaXN0b3J5IjpbLTMwNjAzNzkyMCwtMTgxMDU0MTc5Myw1MD
 IxMDkxMDAsLTEzMjAwOTA4MzgsLTQwODUzNzA3Nyw1NTg1MzUy
 LC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MT
 gxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMz
