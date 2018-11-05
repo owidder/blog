@@ -302,7 +302,7 @@ Ganz unten klicken Sie den "Commit new file"-Button
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/commit-new-file.png"/>
 
-Achtung: Die Checkbox "Commit directly to the `gh-pages` branch" muss ausgewählt sein.
+**Achtung**: Die Checkbox "Commit directly to the `gh-pages` branch" muss ausgewählt sein.
 
 ## 6. Fertig
 Das war's eigentlich schon. Jetzt müssen Sie nur noch einmal im Tab-Reiter "Settings" nach unten scrollen bis zum Abschnitt GitHub-Pages
@@ -322,11 +322,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMzE4MzMxNywtMTUzODc2NTkyNSwtMT
-gxMDU0MTc5Myw1MDIxMDkxMDAsLTEzMjAwOTA4MzgsLTQwODUz
-NzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLD
-gzMTkyNTczMSw3MTgxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0
-OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwOD
-AsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0x
-NDEwMzU1MDM4XX0=
+eyJoaXN0b3J5IjpbMzI4MDExNDc3LC0xNTM4NzY1OTI1LC0xOD
+EwNTQxNzkzLDUwMjEwOTEwMCwtMTMyMDA5MDgzOCwtNDA4NTM3
+MDc3LDU1ODUzNTIsLTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsOD
+MxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5
+MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MC
+wtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEzMjQwNjIwMTUsLTE0
+MTAzNTUwMzhdfQ==
 -->
