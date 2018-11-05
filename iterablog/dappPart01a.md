@@ -192,7 +192,7 @@ contract.getPastEvents("NewHashValue", {fromBlock: 0, toBlock: 'latest'}, functi
 ...
 })
 ```
-Sobald die Events da sind, wird diese Callback-Function aufgerufen.
+Sobald die Events zum Browser übertragen worden sind, wird diese Callback-Function aufgerufen.
 ## Ein Event von innen
 In der Callback-Function geben wir als erstes die Events auf der Console aus:
 ```
@@ -322,11 +322,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODE0NjM3ODg5LC0xODEwNTQxNzkzLDUwMj
-EwOTEwMCwtMTMyMDA5MDgzOCwtNDA4NTM3MDc3LDU1ODUzNTIs
-LTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsODMxOTI1NzMxLDcxOD
-E4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMz
-NjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LD
-E0NjY1ODY0NTgsLTEzMjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1
-NzIyODE5Nl19
+eyJoaXN0b3J5IjpbMTQyNzgwNTEzMywtMTgxMDU0MTc5Myw1MD
+IxMDkxMDAsLTEzMjAwOTA4MzgsLTQwODUzNzA3Nyw1NTg1MzUy
+LC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MT
+gxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMz
+MzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OS
+wxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEy
+NTcyMjgxOTZdfQ==
 -->
