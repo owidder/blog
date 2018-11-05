@@ -133,7 +133,7 @@ Sie erinnern sich an den Fuchs?
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-04/iterablog/images/metamask-fox.png" width="20%"/>
 
-Wenn das Metamask-Plugin aktiv ist (sie sollten den Fuchs neben der Adressleiste des Browsers sehen), bekommt jede Website ein Object mit Namen `ethereum` injected. Wir prüfen also zunächst, ob dieses `ethereum`-Object vorhanden ist:
+Wenn das Metamask-Plugin aktiv ist (sie sollten den Fuchs neben der Adressleiste des Browsers sehen), bekommt jede Website ein Object mit Namen `ethereum` injected. Wir prüfen also zunächst, ob dieses `ethereum`-Object vorhanden ist. Falls nicht, können wir leider nichts tun:
 ``` 
 if (window.ethereum) {
 ...
@@ -325,7 +325,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NTg0NDk1LDUwMjEwOTEwMCwtMTMyMD
+eyJoaXN0b3J5IjpbNjU4MjgzMzAyLDUwMjEwOTEwMCwtMTMyMD
 A5MDgzOCwtNDA4NTM3MDc3LDU1ODUzNTIsLTEyMzQzOTA0MDYs
 LTEwMTk1NzgwMzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMD
 k2MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5
