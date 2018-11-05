@@ -142,11 +142,12 @@ if (window.ethereum) {
 }
 ```
 (Sollten Sie das Metamask-Plugin schon länger installiert haben, müssen Sie es gegebenenfalls aktualisieren. Hier hat sich in letzter Zeit einiges geändert)
+
 An  `ethereum` müssen wir zunächst die `enable()`-Methode aufrufen. 
 ```
 ethereum.enable()
 ```
-An dieser Stelle kann sich ein Metamask-Dialog öffnen, in dem der Benutzer um Erlaubnis gefragt wird (ist bei mir bis jetzt aber noch nie passiert). 
+Dieser Aufruf wird von Metamask nach einer [Änderung der Security-Policy verlangt. An dieser Stelle kann sich ein Metamask-Dialog öffnen, in dem der Benutzer um Erlaubnis gefragt wird (ist bei mir bis jetzt aber noch nie passiert). 
 
 `enable()` ist asynchron und gibt ein [JavaScript-Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) zurück. 
 
@@ -324,11 +325,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk3NjcwMjA1MSw1MDIxMDkxMDAsLTEzMj
-AwOTA4MzgsLTQwODUzNzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2
-LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MTgxODUwNjgsLTY5MD
-A5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2
-OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC
-0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTEx
-NDg5ODg2N119
+eyJoaXN0b3J5IjpbNTQ4MjA0ODU4LDUwMjEwOTEwMCwtMTMyMD
+A5MDgzOCwtNDA4NTM3MDc3LDU1ODUzNTIsLTEyMzQzOTA0MDYs
+LTEwMTk1NzgwMzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMD
+k2MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5
+NTcwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLT
+EzMjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0
+ODk4ODY3XX0=
 -->
