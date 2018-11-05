@@ -318,11 +318,12 @@ Sie funktioniert allerdings nur, wenn Sie das [Metamask-Plugin](https://metamask
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-10/iterablog/images/metamask-rinkeby-02.png"/>
 
 ## Tschüüüs
-Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
+Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen, so dass wir unsere klugen Ideen eintippen können und auf Knopfdruck die `logHashValue()`-Methode unseres Contracts aufgerufen wird.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTAzMTE5ODAyNSwtMTUzODc2NTkyNSwtMT
+eyJoaXN0b3J5IjpbMTQ5MTg3NTY1OCwtMTUzODc2NTkyNSwtMT
 gxMDU0MTc5Myw1MDIxMDkxMDAsLTEzMjAwOTA4MzgsLTQwODUz
 NzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLD
 gzMTkyNTczMSw3MTgxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0
