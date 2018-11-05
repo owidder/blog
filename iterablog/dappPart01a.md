@@ -111,7 +111,7 @@ Sollten Sie beim ersten Teil schon mitgemacht haben, dann sollten Sie jetzt Ihre
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-12/iterablog/images/etherscan-search.png"/>
 
-Ansonsten können Sie auch diesen Contract nehmen:
+Ansonsten können Sie auch gerne meinen Contract mit der Adresse `0x245eDE9dac68B84f329e21024E0083ce432700f9` nehmen:
 https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-02/iterablog/images/etherscan-contract-3.png"/>
@@ -324,7 +324,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM1MjgwNTk2Nyw1MDIxMDkxMDAsLTEzMj
+eyJoaXN0b3J5IjpbMjEwODgyNDQ0NSw1MDIxMDkxMDAsLTEzMj
 AwOTA4MzgsLTQwODUzNzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2
 LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MTgxODUwNjgsLTY5MD
 A5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2
