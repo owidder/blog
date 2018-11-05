@@ -174,7 +174,7 @@ contract.getPastEvents("NewHashValue", {fromBlock: 0, toBlock: 'latest'}, functi
    });
  ```
 ## Nix geht ohne Web3
-Will man sich über JavaScript mit einem Ethereum-Contract unterhalten, geht eigenlicht nichts an [Web3](https://github.com/ethereum/web3.js/) vorbei. Es ist die offizielle JavaScript-API von der [Ethereum-Foundation](https://www.ethereum.org/foundation).
+Will man sich über JavaScript mit einem Ethereum-Contract unterhalten, geht eigenlicht nichts an [Web3](https://github.com/ethereum/web3.js/) vorbei. Es ist die offizielle JavaScript-API der [Ethereum-Foundation](https://www.ethereum.org/foundation).
 Darum nutzen auch wir sie und erzeugen uns nun ein `web3`-Object:
 ```
 const web3 = new Web3(ethereum);
@@ -323,7 +323,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NDM4ODU5MDQsLTE4MTA1NDE3OTMsNT
+eyJoaXN0b3J5IjpbLTE0MTk1OTQ1MDEsLTE4MTA1NDE3OTMsNT
 AyMTA5MTAwLC0xMzIwMDkwODM4LC00MDg1MzcwNzcsNTU4NTM1
 MiwtMTIzNDM5MDQwNiwtMTAxOTU3ODAzMCw4MzE5MjU3MzEsNz
 E4MTg1MDY4LC02OTAwOTYxODYsLTEzOTM0NDkxNzksLTEyMzQz
