@@ -37,7 +37,7 @@ Ich weiß nicht, ob es eine offizielle Definition einer DApp gibt. Aber dies hie
 
 Den Smart Contract haben wir schon. Fehlt uns also nur noch ein Frontend.
 
-(Am Ende dieses Beitrags haben Sie ihre eigene DApp im Internet, mit der Freunde und Bekannte beeindrucken können)
+(Am Ende dieses Beitrags haben Sie ihre eigene DApp im Internet, mit der Sie Freunde und Bekannte mächtig beeindrucken können)
 ## Frontend für Eilige
 In der ersten Version soll das Frontend lediglich die Inhalte der `NewHashValue`-Events, die der Contract produziert, in einer Tabelle anzeigen. 
 
@@ -324,7 +324,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDkwMjQwOSw1MDIxMDkxMDAsLTEzMj
+eyJoaXN0b3J5IjpbMTI4NjU0MzkzNCw1MDIxMDkxMDAsLTEzMj
 AwOTA4MzgsLTQwODUzNzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2
 LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MTgxODUwNjgsLTY5MD
 A5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2
