@@ -1,6 +1,6 @@
 # TL;DR: Smart Contracts für Eilige (Teil 2) - Meine erste DApp
 
-Wir erinnern uns: In  [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/) haben einen (vielleicht nicht ganz soooooo) smarten Contract namens ["Weisenheimer"](https://github.com/owidder/iteraBlog/blob/master/weisenheimer/contract/Weisenheimer.sol) in die [Ethereum](https://www.ethereum.org/) Test-Blockchain ["Rinkeby"](https://www.rinkeby.io/#stats) hochgeladen:
+Wir erinnern uns: In  [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/) haben einen (mehr oder weniger) smarten Contract namens ["Weisenheimer"](https://github.com/owidder/iteraBlog/blob/master/weisenheimer/contract/Weisenheimer.sol) in die [Ethereum](https://www.ethereum.org/) Test-Blockchain ["Rinkeby"](https://www.rinkeby.io/#stats) hochgeladen:
 
     pragma solidity ^0.4.19;
     contract Weisenheimer {
@@ -326,10 +326,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjAwOTA4MzgsLTQwODUzNzA3Nyw1NT
-g1MzUyLC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLDgzMTkyNTcz
-MSw3MTgxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0OTE3OSwtMT
-IzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1
-MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MD
-M4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
+eyJoaXN0b3J5IjpbNjA0NTcwNTM5LC0xMzIwMDkwODM4LC00MD
+g1MzcwNzcsNTU4NTM1MiwtMTIzNDM5MDQwNiwtMTAxOTU3ODAz
+MCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYxODYsLTEzOT
+M0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1NzAsLTM0MDIw
+MDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNS
+wtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
+
 -->
