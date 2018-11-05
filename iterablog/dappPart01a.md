@@ -17,10 +17,10 @@ Der Contract hat nur eine Methode: `logHashValue`.
 Man kann sie mit einem beliebigen String aufrufen. `logHashValue` speichert dann einen Event mit Namen`NewHashValue` in der Blockchain. Der Event enthält:  
 * Den übergebenen String
 * Die Account-Adresse des Senders des Strings
-* Den Zeitstempel des Blocks, in dem der Event in der Blockchain gespeichert ist.
-## Crypto Hash
-Gedacht ist `logHashValue` speziell für Strings, die einen [kryptographischen Hashwert](https://simple.wikipedia.org/wiki/Cryptographic_hash_function) (z.B. [SHA](https://en.wikipedia.org/wiki/SHA-2)) enthalten. Dieser Hashwert liegt dann in der Blockchain und kann jederzeit und von jeder und jedem ausgelesen werden. 
+* Den Zeitstempel des Blocks, in dem der Event in der Blockchain gespeichert ist
 ## "Das weiß ich doch schon lange"
+Gedacht ist `logHashValue` speziell für Strings, die einen [kryptographischen Hashwert](https://simple.wikipedia.org/wiki/Cryptographic_hash_function) (z.B. [SHA](https://en.wikipedia.org/wiki/SHA-2)) enthalten. Dieser Hashwert liegt dann in der Blockchain und kann jederzeit und von jeder und jedem ausgelesen werden.
+
 Als notirischer Schlaumeier kann man sich das nun zunutze machen:
 
 Sollten Sie wieder mal eine kluge Idee haben, dann [hashen Sie diese doch einfach](https://abunchofutils.com/u/computing/sha512-hash-calculator/) und rufen mit dem Hashwert die `logHashValue`-Methode des  Weisenheimer-Contract auf. 
@@ -326,11 +326,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NzIxODcyMTUsLTEzMjAwOTA4MzgsLT
-QwODUzNzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2LC0xMDE5NTc4
-MDMwLDgzMTkyNTczMSw3MTgxODUwNjgsLTY5MDA5NjE4NiwtMT
-M5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQw
-MjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMD
-E1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
+eyJoaXN0b3J5IjpbNTAyMTA5MTAwLC0xMzIwMDkwODM4LC00MD
+g1MzcwNzcsNTU4NTM1MiwtMTIzNDM5MDQwNiwtMTAxOTU3ODAz
+MCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYxODYsLTEzOT
+M0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1NzAsLTM0MDIw
+MDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNS
+wtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
 
 -->
