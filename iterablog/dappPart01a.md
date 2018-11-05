@@ -147,7 +147,7 @@ An  `ethereum` müssen wir zunächst die `enable()`-Methode aufrufen.
 ```
 ethereum.enable()
 ```
-Dieser Aufruf wird von Metamask nach einer [Änderung der Security-Policy verlangt. An dieser Stelle kann sich ein Metamask-Dialog öffnen, in dem der Benutzer um Erlaubnis gefragt wird (ist bei mir bis jetzt aber noch nie passiert). 
+Dieser Aufruf wird von Metamask nach einer [Änderung der Security-Policy](https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8) verlangt. An dieser Stelle kann sich ein Metamask-Dialog öffnen, in dem der Benutzer um Erlaubnis gefragt wird (ist bei mir bis jetzt aber noch nie passiert). 
 
 `enable()` ist asynchron und gibt ein [JavaScript-Promise](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise) zurück. 
 
@@ -325,7 +325,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTQ4MjA0ODU4LDUwMjEwOTEwMCwtMTMyMD
+eyJoaXN0b3J5IjpbNTA4NTg0NDk1LDUwMjEwOTEwMCwtMTMyMD
 A5MDgzOCwtNDA4NTM3MDc3LDU1ODUzNTIsLTEyMzQzOTA0MDYs
 LTEwMTk1NzgwMzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMD
 k2MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5
