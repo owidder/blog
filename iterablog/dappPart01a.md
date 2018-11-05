@@ -229,7 +229,7 @@ Naja. Schön geht anders. Tut aber.
 
 Ansehen können Sie sich das ganze hier: [https://owidder.github.io/weisenheimer/](https://owidder.github.io/weisenheimer/)
 
-Funktioniert aber nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) installiert haben. Denn die Kommunikation mit dem Contract läuft über dieses Plugin.
+Funktioniert aber nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) installiert haben. Denn wie oben beschrieben läuft die Kommunikation mit dem Contract über dieses Plugin.
 
 Und da sich der Contract im [Rinkeby Testnetzwerk]((https://www.rinkeby.io/#stats)) befindet, müssen Sie auch noch sicherstellen, dass Rinkeby in dem Plugin ausgewählt ist:
 
@@ -322,11 +322,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIxMzA0MTQ3MiwtMTgxMDU0MTc5Myw1MD
-IxMDkxMDAsLTEzMjAwOTA4MzgsLTQwODUzNzA3Nyw1NTg1MzUy
-LC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MT
-gxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMz
-MzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OS
-wxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEy
-NTcyMjgxOTZdfQ==
+eyJoaXN0b3J5IjpbLTE1Mzg3NjU5MjUsLTE4MTA1NDE3OTMsNT
+AyMTA5MTAwLC0xMzIwMDkwODM4LC00MDg1MzcwNzcsNTU4NTM1
+MiwtMTIzNDM5MDQwNiwtMTAxOTU3ODAzMCw4MzE5MjU3MzEsNz
+E4MTg1MDY4LC02OTAwOTYxODYsLTEzOTM0NDkxNzksLTEyMzQz
+MzM2OTEsLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMxNz
+ksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwx
+MjU3MjI4MTk2XX0=
 -->
