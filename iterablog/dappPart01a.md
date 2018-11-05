@@ -14,7 +14,7 @@ Wir erinnern uns: In  [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tl
 
 Der Contract hat nur eine Methode: `logHashValue`. 
 
-Man kann sie mit einem beliebigen String aufrufen. `logHashValue` speichert dann einen Event mit Namen`NewHashValue` in der Blockchain. Der Event:  
+Man kann sie mit einem beliebigen String aufrufen. `logHashValue` speichert dann einen Event mit Namen`NewHashValue` in der Blockchain. Der Event enthält:  
 * Den übergebenen String
 * Die Account-Adresse des Senders des Strings
 * Den Zeitstempel des Blocks, in dem der Event in der Blockchain gespeichert ist.
@@ -326,11 +326,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgxNzYzODk0MiwtMTMyMDA5MDgzOCwtND
-A4NTM3MDc3LDU1ODUzNTIsLTEyMzQzOTA0MDYsLTEwMTk1Nzgw
-MzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2MTg2LC0xMz
-kzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NTcwLC0zNDAy
-MDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEzMjQwNjIwMT
-UsLTE0MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbLTE3NzIxODcyMTUsLTEzMjAwOTA4MzgsLT
+QwODUzNzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2LC0xMDE5NTc4
+MDMwLDgzMTkyNTczMSw3MTgxODUwNjgsLTY5MDA5NjE4NiwtMT
+M5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQw
+MjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMD
+E1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTExNDg5ODg2N119
 
 -->
