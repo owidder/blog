@@ -283,7 +283,7 @@ können Sie den Default-Branch auf den neuen Branch "gh-pages" setzen:
 
 Selbstverständlich [wissen wir, was wir tun](https://de.wikipedia.org/wiki/%E2%80%A6_denn_sie_wissen_nicht,_was_sie_tun):
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-06/iterablog/images/i-understand.png"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-06/iterablog/images/i-understand.png" width="50%"/>
 
 
 ## 5. HTML-File erstellen
@@ -322,7 +322,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM0MzQ5MDY0OCwtMTUzODc2NTkyNSwtMT
+eyJoaXN0b3J5IjpbMTAzMzE4MzMxNywtMTUzODc2NTkyNSwtMT
 gxMDU0MTc5Myw1MDIxMDkxMDAsLTEzMjAwOTA4MzgsLTQwODUz
 NzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLD
 gzMTkyNTczMSw3MTgxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0
