@@ -21,8 +21,6 @@ Man kann sie mit einem beliebigen String aufrufen. `logHashValue` speichert dann
 ## "Das weiß ich doch schon lange"
 Gedacht ist `logHashValue` speziell für Strings, die einen [kryptographischen Hashwert](https://simple.wikipedia.org/wiki/Cryptographic_hash_function) (z.B. [SHA](https://en.wikipedia.org/wiki/SHA-2)) enthalten. Dieser Hashwert liegt dann in der Blockchain und kann jederzeit und von jeder und jedem ausgelesen werden.
 
-Als notirischer Schlaumeier kann man sich das nun zunutze machen:
-
 Sollten Sie wieder mal eine kluge Idee haben, dann [hashen Sie diese doch einfach](https://abunchofutils.com/u/computing/sha512-hash-calculator/) und rufen mit dem Hashwert die `logHashValue`-Methode des  Weisenheimer-Contract auf. 
 
 Sollte dann später jemand mit der gleichen Idee kommen, können Sie beweisen, dass Sie das schon lange wussten. 
@@ -326,11 +324,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTAyMTA5MTAwLC0xMzIwMDkwODM4LC00MD
-g1MzcwNzcsNTU4NTM1MiwtMTIzNDM5MDQwNiwtMTAxOTU3ODAz
-MCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OTAwOTYxODYsLTEzOT
-M0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5Njk1NzAsLTM0MDIw
-MDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNS
-wtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0xMTQ4OTg4NjddfQ==
-
+eyJoaXN0b3J5IjpbLTE0NDkwMjQwOSw1MDIxMDkxMDAsLTEzMj
+AwOTA4MzgsLTQwODUzNzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2
+LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MTgxODUwNjgsLTY5MD
+A5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2
+OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC
+0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTEx
+NDg5ODg2N119
 -->
