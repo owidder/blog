@@ -105,7 +105,7 @@ Im Head holen wir uns das Stylesheet von [Materialize](https://materializecss.co
 * [showDataAsTable](https://github.com/owidder/super-simple-utils/blob/master/src/table/showDataAsTable.ts) verwenden wir, um uns die Daten der Events tabellarisch darstellen zu lassen 
 * [web3.js](https://github.com/ethereum/web3.js/) ist die offizielle JavaScript-Library von Ethereum zum Aufrufen von Smart-Contracts
 ## ... und schon kann's losgehen
-Um mit einem Smart Contract kommunizieren zu können, benötigt man sein sogenanntes [Application Binary Interface (ABI)](https://en.wikipedia.org/wiki/Application_binary_interface). Das ist eine JSON-Beschreibung (also eigentlich gar nicht richtig binary) seiner Schnittstelle.
+Um mit einem Smart Contract kommunizieren zu können, benötigt man sein sogenanntes [Application Binary Interface (ABI)](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts). Das ist eine JSON-Beschreibung (also eigentlich gar nicht richtig binary) seiner Schnittstelle.
 ## Und wo bekommt man ein ABI?
 Sollten Sie beim ersten Teil 1 schon mitgemacht haben, dann sollten Sie jetzt Ihren Contract auf [Etherscan](https://rinkeby.etherscan.io/) aufrufen. Dazu benötigen Sie die Adresse des Contract. Die können Sie im Suchfeld oben rechts eingeben:
 
@@ -324,7 +324,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2NTcwNTk4Nyw1MDIxMDkxMDAsLTEzMj
+eyJoaXN0b3J5IjpbMTQzNDAxMjQyMSw1MDIxMDkxMDAsLTEzMj
 AwOTA4MzgsLTQwODUzNzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2
 LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MTgxODUwNjgsLTY5MD
 A5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2
