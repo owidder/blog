@@ -186,7 +186,7 @@ const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce4
 
 Mit diesem Proxy-Object können wir nun endlich unseren Contract aufrufen, um alle Events vom Typ `NewHashValue` zu bekommen. 
 
-Auch Dieser Aufruf ist asynchron. Aber anders als bei `ethereum.enable()` bekommen wir aber kein Promise zurück. Statt dessen müssen wir ein  Callback-Function gleich mit übergeben: 
+Auch Dieser Aufruf ist asynchron. Anders als bei `ethereum.enable()` bekommen wir aber kein Promise zurück. Statt dessen müssen wir eine Callback-Function gleich mit übergeben: 
 ```
 contract.getPastEvents("NewHashValue", {fromBlock: 0, toBlock: 'latest'}, function (error, events) {
 ...
@@ -322,7 +322,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NjQyMzA0LC0xODEwNTQxNzkzLDUwMj
+eyJoaXN0b3J5IjpbODE0NjM3ODg5LC0xODEwNTQxNzkzLDUwMj
 EwOTEwMCwtMTMyMDA5MDgzOCwtNDA4NTM3MDc3LDU1ODUzNTIs
 LTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsODMxOTI1NzMxLDcxOD
 E4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMz
