@@ -125,15 +125,15 @@ Die kopieren wie uns raus und legen sie in einer Konstanten ab:
 const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];
 ```
 ## Ein Hoch auf den Fuchs
-Jetzt wollen wir alle `NewHashValue`-Events vom Contract auslesen. 
+Jetzt wollen wir alle `NewHashValue`-Events des Contracts auslesen. 
 
 Dafür müssen wir uns zum Glück nicht mühsam mit einem Knoten des Rinkeby-Netzwerks verbinden. Wir machen das ganz einfach über das [Metmask-Wallet-Plugin](https://metamask.io/), das wir uns in [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/) installiert haben. 
 
 Sie erinnern sich an den Fuchs?
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-04/iterablog/images/metamask-fox.png" width="30%"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-04/iterablog/images/metamask-fox.png" width="20%"/>
 
-Wenn das Metamask-Plugin aktiv ist, bekommt jede Website ein Object mit Namen `ethereum` injected:
+Wenn das Metamask-Plugin aktiv ist (sie sollten den ), bekommt jede Website ein Object mit Namen `ethereum` injected:
 ``` 
 if (window.ethereum) {
 ...
@@ -324,11 +324,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNzY2NjI1NjgsNTAyMTA5MTAwLC0xMz
-IwMDkwODM4LC00MDg1MzcwNzcsNTU4NTM1MiwtMTIzNDM5MDQw
-NiwtMTAxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OT
-AwOTYxODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5
-Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OC
-wtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0x
-MTQ4OTg4NjddfQ==
+eyJoaXN0b3J5IjpbLTIzNzA3OTAxNCw1MDIxMDkxMDAsLTEzMj
+AwOTA4MzgsLTQwODUzNzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2
+LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MTgxODUwNjgsLTY5MD
+A5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2
+OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC
+0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEyNTcyMjgxOTYsLTEx
+NDg5ODg2N119
 -->
