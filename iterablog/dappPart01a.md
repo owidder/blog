@@ -270,7 +270,7 @@ Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü "Branch
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-03/iterablog/images/create-branch.png"/>
 
-Achtung: Der Name ist wichtig und muss genau so lauten.
+**Achtung**: Der Name ist wichtig und muss genau so lauten.
 
 ## 4. Default-Branch setzen
 Über den Tab-Reiter "Settings" und die Auswahl "Branches" auf der linken Seite 
@@ -322,7 +322,7 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NjM0NzA0OCwtMTUzODc2NTkyNSwtMT
+eyJoaXN0b3J5IjpbLTM0MzQ5MDY0OCwtMTUzODc2NTkyNSwtMT
 gxMDU0MTc5Myw1MDIxMDkxMDAsLTEzMjAwOTA4MzgsLTQwODUz
 NzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLD
 gzMTkyNTczMSw3MTgxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0
