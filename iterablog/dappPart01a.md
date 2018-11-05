@@ -233,12 +233,12 @@ Funktioniert aber nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) inst
 
 Und da sich der Contract im [Rinkeby Testnetzwerk]((https://www.rinkeby.io/#stats)) befindet, müssen Sie auch noch sicherstellen, dass Rinkeby in dem Plugin ausgewählt ist:
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="50%"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181105-01/iterablog/images/metameask-rinkeby.png" width="50%"/>
 
 ## Die eigene DApp
 Wollen Sie Ihre Bekannten mit einer eigene DApp beeindrucken? 
 
-Nicht leichter als das. Contract und Frontend haben wir ja jetzt. Bleibt nur noch die Frage, wie wir das Frontend im Internet veröffentlichen. 
+Nichts leichter als das. Contract und Frontend haben wir ja jetzt. Bleibt nur noch die Frage, wie wir das Frontend im Internet veröffentlichen. 
 
 Und wie immer haben wir es eilig.
 ## Github Pages
@@ -322,11 +322,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg3NjU5MjUsLTE4MTA1NDE3OTMsNT
-AyMTA5MTAwLC0xMzIwMDkwODM4LC00MDg1MzcwNzcsNTU4NTM1
-MiwtMTIzNDM5MDQwNiwtMTAxOTU3ODAzMCw4MzE5MjU3MzEsNz
-E4MTg1MDY4LC02OTAwOTYxODYsLTEzOTM0NDkxNzksLTEyMzQz
-MzM2OTEsLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMxNz
-ksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwx
-MjU3MjI4MTk2XX0=
+eyJoaXN0b3J5IjpbLTQ2MTI3MzIwLC0xNTM4NzY1OTI1LC0xOD
+EwNTQxNzkzLDUwMjEwOTEwMCwtMTMyMDA5MDgzOCwtNDA4NTM3
+MDc3LDU1ODUzNTIsLTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsOD
+MxOTI1NzMxLDcxODE4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5
+MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MC
+wtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLTEzMjQwNjIwMTUsLTE0
+MTAzNTUwMzhdfQ==
 -->
