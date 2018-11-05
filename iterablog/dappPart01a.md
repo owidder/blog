@@ -141,7 +141,7 @@ if (window.ethereum) {
     window.alert("No injected ethereum object found");  
 }
 ```
-(Sollten Sie das Metamask-Plugin schon länger installiert haben, müssen Sie es gegebenenfalls aktualisieren. Hier hat sich in letzter Zeit einiges geändert)
+**Achtung**: Sollten Sie das Metamask-Plugin schon länger installiert haben, müssen Sie es gegebenenfalls aktualisieren. Hier hat sich in letzter Zeit einiges geändert.
 
 An  `ethereum` müssen wir zunächst die `enable()`-Methode aufrufen. 
 ```
@@ -325,11 +325,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjU4MjgzMzAyLDUwMjEwOTEwMCwtMTMyMD
-A5MDgzOCwtNDA4NTM3MDc3LDU1ODUzNTIsLTEyMzQzOTA0MDYs
-LTEwMTk1NzgwMzAsODMxOTI1NzMxLDcxODE4NTA2OCwtNjkwMD
-k2MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMzNjkxLC0yMDgxOTY5
-NTcwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LDE0NjY1ODY0NTgsLT
-EzMjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1NzIyODE5NiwtMTE0
-ODk4ODY3XX0=
+eyJoaXN0b3J5IjpbLTE4MTA1NDE3OTMsNTAyMTA5MTAwLC0xMz
+IwMDkwODM4LC00MDg1MzcwNzcsNTU4NTM1MiwtMTIzNDM5MDQw
+NiwtMTAxOTU3ODAzMCw4MzE5MjU3MzEsNzE4MTg1MDY4LC02OT
+AwOTYxODYsLTEzOTM0NDkxNzksLTEyMzQzMzM2OTEsLTIwODE5
+Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMxNzksMTQ2NjU4NjQ1OC
+wtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwxMjU3MjI4MTk2LC0x
+MTQ4OTg4NjddfQ==
 -->
