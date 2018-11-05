@@ -221,15 +221,13 @@ const data = events.map(function (event) {
 window.showDataAsTable("body", data);
 ```
 ## Wow!!!
-Sieht dann so aus:
+Sieht dann so aus (Wie man sieht hat da jemand den Contract ohne echte Hashwerte aufgerufen):
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-08/iterablog/images/weisenheimer-02.png"/>
 
-(Wie man sieht hat da jemand den Contract ohne echte Hashwerte aufgerufen)
-
 Naja. Schön geht anders. Tut aber.
 
-Ansehen können Sie sich das ganze hier: [https://owidder.github.io/iteraBlog/html/weisenheimer.html](https://owidder.github.io/iteraBlog/html/weisenheimer.html)
+Ansehen können Sie sich das ganze hier: [https://owidder.github.io/weisenheimer/](https://owidder.github.io/weisenheimer/)
 
 Funktioniert aber nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) installiert haben. Denn die Kommunikation mit dem Contract läuft über dieses Plugin.
 
@@ -324,11 +322,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzExMzg5ODcwLC0xODEwNTQxNzkzLDUwMj
-EwOTEwMCwtMTMyMDA5MDgzOCwtNDA4NTM3MDc3LDU1ODUzNTIs
-LTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsODMxOTI1NzMxLDcxOD
-E4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMz
-NjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LD
-E0NjY1ODY0NTgsLTEzMjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1
-NzIyODE5Nl19
+eyJoaXN0b3J5IjpbLTIxMzA0MTQ3MiwtMTgxMDU0MTc5Myw1MD
+IxMDkxMDAsLTEzMjAwOTA4MzgsLTQwODUzNzA3Nyw1NTg1MzUy
+LC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLDgzMTkyNTczMSw3MT
+gxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0OTE3OSwtMTIzNDMz
+MzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwODAsLTcwNDQ1MzE3OS
+wxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0xNDEwMzU1MDM4LDEy
+NTcyMjgxOTZdfQ==
 -->
