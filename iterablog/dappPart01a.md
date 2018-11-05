@@ -179,11 +179,10 @@ Darum nutzen auch wir sie und erzeugen uns nun ein `web3`-Object:
 ```
 const web3 = new Web3(ethereum);
 ``` 
-Über `web3` bekommen wir wiederum ein Proxy-Object für unseren Contract. Dafür müssen wir ABI und Adresse des Contracts übergeben:
+Über `web3` bekommen wir wiederum ein Proxy-Object für unseren Contract. Dafür müssen wir ABI und Adresse des Contracts übergeben (die Adresse müssen Sie ggf. gegen die Adresse ihres Contracts austauschen):
 ```
 const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");
 ```
-Die Adresse müssen Sie ggf. gegen die Adresse ihres Contracts austauschen.
 
 Mit diesem Proxy-Object können wir nun endlich unseren Contract aufrufen, um alle Events vom Typ `NewHashValue` zu bekommen. 
 
@@ -323,11 +322,11 @@ Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MTk1OTQ1MDEsLTE4MTA1NDE3OTMsNT
-AyMTA5MTAwLC0xMzIwMDkwODM4LC00MDg1MzcwNzcsNTU4NTM1
-MiwtMTIzNDM5MDQwNiwtMTAxOTU3ODAzMCw4MzE5MjU3MzEsNz
-E4MTg1MDY4LC02OTAwOTYxODYsLTEzOTM0NDkxNzksLTEyMzQz
-MzM2OTEsLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMxNz
-ksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwx
-MjU3MjI4MTk2XX0=
+eyJoaXN0b3J5IjpbMjA5NjQyMzA0LC0xODEwNTQxNzkzLDUwMj
+EwOTEwMCwtMTMyMDA5MDgzOCwtNDA4NTM3MDc3LDU1ODUzNTIs
+LTEyMzQzOTA0MDYsLTEwMTk1NzgwMzAsODMxOTI1NzMxLDcxOD
+E4NTA2OCwtNjkwMDk2MTg2LC0xMzkzNDQ5MTc5LC0xMjM0MzMz
+NjkxLC0yMDgxOTY5NTcwLC0zNDAyMDA4MCwtNzA0NDUzMTc5LD
+E0NjY1ODY0NTgsLTEzMjQwNjIwMTUsLTE0MTAzNTUwMzgsMTI1
+NzIyODE5Nl19
 -->
