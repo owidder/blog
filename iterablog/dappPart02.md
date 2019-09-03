@@ -13,7 +13,9 @@ In [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-
 
 "Weisenheimer" kann nichts weiter, als einen String (`hashValue`) in einem Event im Contract zu speichern.
 
+## Schlaumeier
+"Weisenheimer" heißt Weisenheimer (Schlaumeier), weil 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTgwMzk0MDE4OCwxNDYxNTEwMjA1LDEzMz
+eyJoaXN0b3J5IjpbLTMxOTg0NzY5MSwxNDYxNTEwMjA1LDEzMz
 YxODg4ODAsLTM5NTcyMzc4Ml19
 -->
