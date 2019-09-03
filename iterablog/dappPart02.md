@@ -11,8 +11,9 @@ In [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-
 	    }
     }
 
-"Weisenheimer" kann nichts weiter, als einen String (`hashValue`) 
+"Weisenheimer" kann nichts weiter, als einen String (`hashValue`) in einem Event im Contract zu speichern.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIwNzQ0OTc2NSwxNDYxNTEwMjA1LDEzMz
+eyJoaXN0b3J5IjpbMTgwMzk0MDE4OCwxNDYxNTEwMjA1LDEzMz
 YxODg4ODAsLTM5NTcyMzc4Ml19
 -->
