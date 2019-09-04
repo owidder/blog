@@ -13,13 +13,14 @@ In [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-
 
 So richtig smart ist "Weisenheimer" nicht. Er kann nichts weiter als einen String (`hashValue`) in einem Contract-Event zu speichern. Damit ist dieser String für immer und ewig in die Blockchain eingebrannt.
 
-## Schlaumeier
+## Was für Schlaumeier
 "Weisenheimer" heißt Weisenheimer, weil er für Schlaumeier gedacht ist: Sobald sie eine schlaue Idee haben, dann schreiben sie sie auf, hashen sie und speichern den Hash-Wert über den Weisenheimer-Contract in der Blockchain. Dann können sie auch in vielen Jahren noch beweisen, dass sie das heute schon wussten.
 
 ## Lesen des Contracts
+In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine Web
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMzA0NzcwOTIsMTExNjA5ODY0NywyMz
-cxMzk3MTUsMTQ2MTUxMDIwNSwxMzM2MTg4ODgwLC0zOTU3MjM3
-ODJdfQ==
+eyJoaXN0b3J5IjpbLTQ5OTU1NDI3NCwtMTMzMDQ3NzA5MiwxMT
+E2MDk4NjQ3LDIzNzEzOTcxNSwxNDYxNTEwMjA1LDEzMzYxODg4
+ODAsLTM5NTcyMzc4Ml19
 -->
