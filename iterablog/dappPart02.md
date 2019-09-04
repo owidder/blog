@@ -17,10 +17,10 @@ So richtig smart ist "Weisenheimer" nicht. Er kann nichts weiter als einen Strin
 "Weisenheimer" heißt Weisenheimer, weil er für Schlaumeier gedacht ist: Sobald sie eine schlaue Idee haben, dann schreiben sie sie auf, hashen sie und speichern den Hash-Wert über den Weisenheimer-Contract in der Blockchain. Dann können sie auch in vielen Jahren noch beweisen, dass sie das heute schon wussten.
 
 ## Lesen des Contracts
-In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine Web-Site erstellt, die mit ein klein wenig JavaScript-Code alle Event aus dem Contract ausliest und die darin enthaltenen 
+In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine Web-Site erstellt, die mit ein klein wenig JavaScript-Code alle Event aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Bl
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzYxMDA3NjQ1LC0xMzMwNDc3MDkyLDExMT
-YwOTg2NDcsMjM3MTM5NzE1LDE0NjE1MTAyMDUsMTMzNjE4ODg4
-MCwtMzk1NzIzNzgyXX0=
+eyJoaXN0b3J5IjpbMjA5NTExNjEzNSwtMTMzMDQ3NzA5MiwxMT
+E2MDk4NjQ3LDIzNzEzOTcxNSwxNDYxNTEwMjA1LDEzMzYxODg4
+ODAsLTM5NTcyMzc4Ml19
 -->
