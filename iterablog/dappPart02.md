@@ -11,12 +11,12 @@ In [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-
 	    }
     }
 
-So richtig smart ist "Weisenheimer" nicht. Er kann nichts weiter als einen String (`hashValue`) in einem Contract-Event zu speichern. Aber damit ist dieser String für immer und ewig in die Blockchain eingebrannt.
+So richtig smart ist "Weisenheimer" nicht. Er kann nichts weiter als einen String (`hashValue`) in einem Contract-Event zu speichern. Damit ist dieser String für immer und ewig in die Blockchain eingebrannt.
 
 ## Schlaumeier
 "Weisenheimer" heißt Weisenheimer, weil er für Schlaumeier gedacht ist:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM3MTM5NzE1LDE0NjE1MTAyMDUsMTMzNj
-E4ODg4MCwtMzk1NzIzNzgyXX0=
+eyJoaXN0b3J5IjpbMTExNjA5ODY0NywyMzcxMzk3MTUsMTQ2MT
+UxMDIwNSwxMzM2MTg4ODgwLC0zOTU3MjM3ODJdfQ==
 -->
