@@ -22,10 +22,11 @@ In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-
 ## Jetzt wird's ernst
 Aber das war doch alles Pillepalle. Jetzt wollen wir die schreibende Transaktion `logHashValue` aufrufen.
 
-## Umsonst ist der Tod
+## Umsonst ist der Tod...
+... aber eine schreibende Transaktion kostet Krypto-Geld.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTY1MTgzMjU0MCwtMTMyNjE1NzA2OCwxMD
-Y4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1ODQsLTEzMzA0Nzcw
-OTIsMTExNjA5ODY0NywyMzcxMzk3MTUsMTQ2MTUxMDIwNSwxMz
-M2MTg4ODgwLC0zOTU3MjM3ODJdfQ==
+eyJoaXN0b3J5IjpbLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMT
+A2ODAzNDgyLDc2NTE1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3
+MDkyLDExMTYwOTg2NDcsMjM3MTM5NzE1LDE0NjE1MTAyMDUsMT
+MzNjE4ODg4MCwtMzk1NzIzNzgyXX0=
 -->
