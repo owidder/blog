@@ -17,10 +17,10 @@ So richtig smart ist "Weisenheimer" nicht. Er kann nichts weiter als einen Strin
 Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.org/german-english/weisenheimer) gedacht ist: Wer eine schlaue Idee hat, schreibt sie auf, [hasht](https://emn178.github.io/online-tools/sha256.html) sie und speichert den Hash-Wert über den Weisenheimer-Contract in der Blockchain. Dann kann man auch in vielen Jahren noch beweisen, dass man das heute schon wusste.
 
 ## Lesen des Contracts
-In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine Web-Site erstellt, die mit ein klein wenig JavaScript-Code alle Event aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
+In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine Web-App erstellt, die mit ein klein wenig JavaScript-Code alle Events aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyODMxMTc3OSw3NjUxNTIwNzMsLTUxMT
-A1NzU4NCwtMTMzMDQ3NzA5MiwxMTE2MDk4NjQ3LDIzNzEzOTcx
-NSwxNDYxNTEwMjA1LDEzMzYxODg4ODAsLTM5NTcyMzc4Ml19
+eyJoaXN0b3J5IjpbMTA2ODAzNDgyLDc2NTE1MjA3MywtNTExMD
+U3NTg0LC0xMzMwNDc3MDkyLDExMTYwOTg2NDcsMjM3MTM5NzE1
+LDE0NjE1MTAyMDUsMTMzNjE4ODg4MCwtMzk1NzIzNzgyXX0=
 -->
