@@ -19,9 +19,11 @@ Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.
 ## Lesen des Contracts
 In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine [Web-App](https://owidder.github.io/weisenheimer/teil2/) erstellt, die mit ein klein wenig [JavaScript-Code](https://github.com/owidder/weisenheimer/blob/master/teil2/index.html) alle Events aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
 
+## Jetzt wird's ernst
+Das war doch alles Pillepalle. Jetzt wollen eine 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NT
-E1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3MDkyLDExMTYwOTg2
-NDcsMjM3MTM5NzE1LDE0NjE1MTAyMDUsMTMzNjE4ODg4MCwtMz
-k1NzIzNzgyXX0=
+eyJoaXN0b3J5IjpbOTA0NzM2OTM1LC0xMzI2MTU3MDY4LDEwNj
+gwMzQ4Miw3NjUxNTIwNzMsLTUxMTA1NzU4NCwtMTMzMDQ3NzA5
+MiwxMTE2MDk4NjQ3LDIzNzEzOTcxNSwxNDYxNTEwMjA1LDEzMz
+YxODg4ODAsLTM5NTcyMzc4Ml19
 -->
