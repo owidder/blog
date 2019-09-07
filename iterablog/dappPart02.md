@@ -127,7 +127,7 @@ Hier [der Code der erweiterten Web-App](https://github.com/owidder/weisenheimer/
 </body>  
 </html>
 ```
-Ruft man die App auf
+Ruft man die App auf, s
 
 
 Wir wollen die JavaScript-Function im Einzelnen durchgehen
@@ -176,11 +176,11 @@ showPastEvents(contract, "div.table");
 
 Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) zum Auslesen und anzeigen der Events. Wer Interesse hat, kann ihn hier sehen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODM0OTAxODA5LDIyODEwNzc1Nyw2NTU3Nz
-g0NzksMzcwODE2MTcyLDE2NTM4MjMwODEsODU0NDYxMTg5LDEz
-NTcwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNj
-k5Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwt
-MTA1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNT
-k5NCw2MjIyOTAxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjhd
-fQ==
+eyJoaXN0b3J5IjpbMTQwMDU1NTMzNiw4MzQ5MDE4MDksMjI4MT
+A3NzU3LDY1NTc3ODQ3OSwzNzA4MTYxNzIsMTY1MzgyMzA4MSw4
+NTQ0NjExODksMTM1NzA1MjI4NiwtNjMyOTI0NjY5LDY0NjE2Mj
+ExOCwtODM2NzI2OTkyLDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0x
+NzYzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OT
+kxOSwtNDg2NTE1OTk0LDYyMjI5MDE5NiwtMTUyNjQxOTY3NV19
+
 -->
