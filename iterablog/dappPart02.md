@@ -115,7 +115,6 @@ Hier [der Code der erweiterten Web-App](https://github.com/owidder/weisenheimer/
                                     console.error(error)  
                                 })  
                         })  
-                        console.log(contract);  
                     })  
                 }  
             })  
@@ -128,9 +127,11 @@ Hier [der Code der erweiterten Web-App](https://github.com/owidder/weisenheimer/
 </html>
 ```
 [Ruft man die App auf](https://owidder.github.io/weisenheimer/teil3/), stellt sie sich folgendermaßen dar:
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-08/iterablog/images/weisenheimerAppTeil3.png"/>
+In der TextArea kann man einen beliebigen Text eingeben. Über den `HASH AND LOG`-Button wird der Text gehasht und der Hash-Wert wird an die `logHashValue`-Methode des Contracts gesendet.
+Sobald die Transaktion bestätigt ist, wird der neue Hash-Wert mit Blocknummer, Adresse des Senders und Zeitstempel in der Tabelle angezeigt.
 
-
-
+## Show me the code
 Wir wollen die JavaScript-Function im Einzelnen durchgehen
 
 ## ABI
@@ -175,13 +176,37 @@ Damit können wir uns dann über `web.eth.contract(abi, contractId)` ein Proxy-O
 showPastEvents(contract, "div.table");
 ```
 
-Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) zum Auslesen und anzeigen der Events. Wer Interesse hat, kann ihn hier sehen. 
+Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) zum Auslesen und anzeigen der Events. Wer Interesse hat, kann ihn [hier](https://github.com/owidder/weisenheimer/blob/master/teil3/showPastEvents.js) sehen. 
+
+## Hashen
+```
+window.hashAndLog = () => {  
+    const textarea = document.querySelector(".input textarea");  
+    const textToHashAndLog = textarea.value;  
+    hashSHA256(textToHashAndLog).then(hashedText => {  
+	    ...
+    })  
+}
+```
+
+`hashAndLog` wird aufgerufen, wenn der `HASH AND LOG`-Button geklickt wird (siehe `<button onclick="hashAndLog()" ...`)
+Der Text wird aus der TextArea ausgelesen und gehasht (den Code zum Hashen kann man [hier](https://github.com/owidder/super-simple-utils/blob/master/src/hash/hash.ts) sehen).
+
+## Account ID
+```
+web3.eth.getAccounts((err, accountList) => {  
+	...
+})
+```
+
+Nun holen wir uns über die das `web3`-Object die ID des Accounts (darum mussten wir ja oben um Genehmigung gebeten). Über das Wallet kann man viele Accounts verwalten. `getAccounts` gibt ein Array mit einem einzigen String zurück: Der ID des aktuell ausgewählten Accounts:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTMzNDQzODE1Miw4MzQ5MDE4MDksMjI4MT
-A3NzU3LDY1NTc3ODQ3OSwzNzA4MTYxNzIsMTY1MzgyMzA4MSw4
-NTQ0NjExODksMTM1NzA1MjI4NiwtNjMyOTI0NjY5LDY0NjE2Mj
-ExOCwtODM2NzI2OTkyLDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0x
-NzYzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OT
-kxOSwtNDg2NTE1OTk0LDYyMjI5MDE5NiwtMTUyNjQxOTY3NV19
+eyJoaXN0b3J5IjpbMTUzNDI3OTg0NCw0NTkxMDkyNiwxNTU1Mj
+U2MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwtMzM0NDM4MTUyLDgz
+NDkwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4NDc5LDM3MDgxNjE3Mi
+wxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3MDUyMjg2LC02MzI5
+MjQ2NjksNjQ2MTYyMTE4LC04MzY3MjY5OTIsNjc3MTI1NzQyLD
+IxMDI3Njk0OTUsLTE3NjMzNTkzMDAsLTEwNTgwNTgzMzFdfQ==
 
 -->
