@@ -201,11 +201,18 @@ web3.eth.getAccounts((err, accountList) => {
 
 Nun holen wir uns über die das `web3`-Object die ID des Accounts (darum mussten wir ja oben um Genehmigung gebeten). Über das Wallet kann man viele Accounts verwalten. `getAccounts` gibt ein Array mit einem einzigen String zurück: Der ID des aktuell ausgewählten Accounts:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-09/iterablog/images/accounts.png"/>
+
+## Aufruf des Contracts
+```
+contract.methods.logHashValue(hashedText).send({from: accountList[0]})
+```
+
+Endlich!!! Jetzt haben wir den Hash-Wert (`hashedText`) und die Accoun
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1MDczNjk1NCwxNTM0Mjc5ODQ0LDQ1OT
-EwOTI2LDE1NTUyNTYwMyw1MzIwODI2NTAsMzE4OTc5NDg0LC0z
-MzQ0MzgxNTIsODM0OTAxODA5LDIyODEwNzc1Nyw2NTU3Nzg0Nz
-ksMzcwODE2MTcyLDE2NTM4MjMwODEsODU0NDYxMTg5LDEzNTcw
-NTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5Mi
-w2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMwMF19
+eyJoaXN0b3J5IjpbNDE3NjY4ODA2LDE1MzQyNzk4NDQsNDU5MT
+A5MjYsMTU1NTI1NjAzLDUzMjA4MjY1MCwzMTg5Nzk0ODQsLTMz
+NDQzODE1Miw4MzQ5MDE4MDksMjI4MTA3NzU3LDY1NTc3ODQ3OS
+wzNzA4MTYxNzIsMTY1MzgyMzA4MSw4NTQ0NjExODksMTM1NzA1
+MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTkyLD
+Y3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwXX0=
 -->
