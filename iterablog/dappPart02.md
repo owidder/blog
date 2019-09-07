@@ -39,11 +39,13 @@ Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Accoun
 5. Die URL kopiert man sich und auf geht's zum [Rinkeby-Faucet](https://faucet.rinkeby.io/). Dort werden Ether verschenkt.
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-04/iterablog/images/faucet3.png"/>
 Einfach die URL des Tweets in das Eingabefeld kopieren und auswählen, wieviel Ether es denn sein dürfen (wir nehmen uns natürlich gleich die vollen 18,75. Warum nicht?)
+Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwtMT
-A1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5
-NCw2MjIyOTAxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMT
-A2ODAzNDgyLDc2NTE1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3
-MDkyLDExMTYwOTg2NDcsMjM3MTM5NzE1LDE0NjE1MTAyMDUsMT
-MzNjE4ODg4MCwtMzk1NzIzNzgyXX0=
+eyJoaXN0b3J5IjpbMTg3MjI0Nzc4MCwyMTAyNzY5NDk1LC0xNz
+YzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkx
+OSwtNDg2NTE1OTk0LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMT
+MyNjE1NzA2OCwxMDY4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1
+ODQsLTEzMzA0NzcwOTIsMTExNjA5ODY0NywyMzcxMzk3MTUsMT
+Q2MTUxMDIwNSwxMzM2MTg4ODgwLC0zOTU3MjM3ODJdfQ==
 -->
