@@ -23,7 +23,7 @@ In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-
 Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Und zwar indem wir die schreibende Transaktion `logHashValue` aufrufen.
 
 ## Umsonst ist der Tod...
-... aber eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die Ether geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das mit den folgenden Schritten:
+... aber eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die [Ether](https://www.coindesk.com/price/ethereum) geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das mit den folgenden Schritten:
 
  1. Falls nicht schon geschehen installieren wir uns das Browser-Plugin-Wallet [Metamask](https://metamask.io/).
  2. Beim ersten Öffnen wird automatisch ein Wallet inklusive Seed Phrase generiert:
@@ -32,9 +32,9 @@ Die Seed Phrase besteht aus 12 Worten und ist der Masterkey zum Wallet. Wer ihn 
 Und wer ihn verliert, hat alle Ether, die sich im Wallet befinden, verloren. 
 Also gut darauf aufpassen (zumindest wenn man mit dem Wallet mehr als Rinkeby-Spiel-Ether verwaltet)!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA4NjAzNDQxLC00ODY1MTU5OTQsNjIyMj
-kwMTk2LC0xNTI2NDE5Njc1LC0xMzI2MTU3MDY4LDEwNjgwMzQ4
-Miw3NjUxNTIwNzMsLTUxMTA1NzU4NCwtMTMzMDQ3NzA5MiwxMT
-E2MDk4NjQ3LDIzNzEzOTcxNSwxNDYxNTEwMjA1LDEzMzYxODg4
-ODAsLTM5NTcyMzc4Ml19
+eyJoaXN0b3J5IjpbNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOT
+AxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgy
+LDc2NTE1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3MDkyLDExMT
+YwOTg2NDcsMjM3MTM5NzE1LDE0NjE1MTAyMDUsMTMzNjE4ODg4
+MCwtMzk1NzIzNzgyXX0=
 -->
