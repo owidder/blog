@@ -18,10 +18,10 @@ Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.
 
 ## Lesen des Contracts
 In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine [Web-App](https://owidder.github.io/weisenheimer/teil2/) erstellt, die mit ein klein wenig [JavaScript-Code](https://github.com/owidder/weisenheimer/blob/master/teil2/index.html) alle Events aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
-(Die App funktioniert nur, wenn der Browser [Web3 enabled](https://forum.livepeer.org/t/how-to-enable-web3-in-your-browser/179) ist. Z.B. über das unten beschrieben Plug-in [Metamask](https://metamask.io/))
+(Die App funktioniert nur, wenn das unten beschrieben [Plug-in Metamask](https://metamask.io/) installiert ist)
 
 ## Jetzt wird's ernst
-Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Und zwar indem wir die schreibende Transaktion `logHashValue` aufrufen.
+Das war bis jetzt doch alles nur Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Das machen wir, indem wir die schreibende Transaktion `logHashValue` des Weisenheimer-Contracts aufrufen.
 
 ## Umsonst ist der Tod...
 ... aber eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die [Ether](https://www.coindesk.com/price/ethereum) geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das mit den folgenden Schritten:
@@ -95,7 +95,7 @@ Hier die erweiterte Web-App, mit der die schreibende Contract-Methode `logHashVa
         const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];  
   
         if (window.ethereum) {  
-            ethereum.enable().then(function () {  
+            ethereum.enable().then(() => {  
                 const web3 = new Web3(ethereum);  
                 const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");  
                 showPastEvents(contract, "div.table");  
@@ -134,13 +134,34 @@ Wir wollen die JavaScript-Function im Einzelnen durchgehen
 ```
 const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];
 ```
-Das ist das [Application Binary Interface (ABI)](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts) des Weisenheimer-Contracts. Man benötigt es, um mit dem Contract interagieren zu können. Sieht nicht schön. Aber zum Glück muss man es es nicht selber schreiben. Man kann es sich aus dem [deployten Contract](https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9#code) kopieren.
+Das ist das [Application Binary Interface (ABI)](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts) des Weisenheimer-Contracts. Man benötigt es, um mit dem Contract interagieren zu können. Sieht nicht schön aus. Aber zum Glück müssen wir es es nicht selber schreiben. Man kann es sich aus dem [deployten Contract](https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9#code) kopieren.
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-06/iterablog/images/abi.png"/>
+
+## Ohne Ethereum-Object geht nix
+```
+if (window.ethereum) {  
+	...
+} else {  
+    window.alert("No injected ethereum object found");  
+}
+```
+Wenn das [Plug-in Metamask](https://metamask.io/) installiert ist, existiert das `ethereum`-Object. Das brauchen wir. Ansonsten können wir nicht weiter machen.
+
+## Erst um Erlaubnis bitten
+```
+ethereum.enable().then(() => {  
+	...
+})
+```
+
+Mit `ethereun.enable()` bitten wir den Benutzer um Erlaubnis, dass wir Informationen aus seinem Account auslesen dürfen (z.B. die ID des Accounts).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzA1MjI4NiwtNjMyOTI0NjY5LDY0Nj
-E2MjExOCwtODM2NzI2OTkyLDY3NzEyNTc0MiwyMTAyNzY5NDk1
-LC0xNzYzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3ND
-Q1OTkxOSwtNDg2NTE1OTk0LDYyMjI5MDE5NiwtMTUyNjQxOTY3
-NSwtMTMyNjE1NzA2OCwxMDY4MDM0ODIsNzY1MTUyMDczLC01MT
-EwNTc1ODQsLTEzMzA0NzcwOTIsMTExNjA5ODY0NywyMzcxMzk3
-MTVdfQ==
+eyJoaXN0b3J5IjpbMTY1MzgyMzA4MSw4NTQ0NjExODksMTM1Nz
+A1MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTky
+LDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwLC0xMD
+U4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0
+LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMTMyNjE1NzA2OCwxMD
+Y4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1ODQsLTEzMzA0Nzcw
+OTJdfQ==
 -->
