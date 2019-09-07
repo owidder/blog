@@ -191,11 +191,20 @@ window.hashAndLog = () => {
 
 `hashAndLog` wird aufgerufen, wenn der `HASH AND LOG`-Button geklickt wird (siehe `<button onclick="hashAndLog()" ...`)
 Der Text wird aus der TextArea ausgelesen und gehasht (den Code zum Hashen kann man [hier](https://github.com/owidder/super-simple-utils/blob/master/src/hash/hash.ts) sehen).
+
+## Account ID
+```
+web3.eth.getAccounts((err, accountList) => {  
+	...
+})
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTU1NTI1NjAzLDUzMjA4MjY1MCwzMTg5Nz
-k0ODQsLTMzNDQzODE1Miw4MzQ5MDE4MDksMjI4MTA3NzU3LDY1
-NTc3ODQ3OSwzNzA4MTYxNzIsMTY1MzgyMzA4MSw4NTQ0NjExOD
-ksMTM1NzA1MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2
-NzI2OTkyLDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5Mz
-AwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkxOV19
+eyJoaXN0b3J5IjpbMjA3NTc1OTU3MCwxNTU1MjU2MDMsNTMyMD
+gyNjUwLDMxODk3OTQ4NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwy
+MjgxMDc3NTcsNjU1Nzc4NDc5LDM3MDgxNjE3MiwxNjUzODIzMD
+gxLDg1NDQ2MTE4OSwxMzU3MDUyMjg2LC02MzI5MjQ2NjksNjQ2
+MTYyMTE4LC04MzY3MjY5OTIsNjc3MTI1NzQyLDIxMDI3Njk0OT
+UsLTE3NjMzNTkzMDAsLTEwNTgwNTgzMzEsOTUzMDc1NTAzXX0=
+
 -->
