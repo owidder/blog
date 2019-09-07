@@ -130,8 +130,9 @@ Hier [der Code der erweiterten Web-App](https://github.com/owidder/weisenheimer/
 [Ruft man die App auf](https://owidder.github.io/weisenheimer/teil3/), stellt sie sich folgendermaßen dar:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-08/iterablog/images/weisenheimerAppTeil3.png"/>
 In der TextArea kann man einen beliebigen Text eingeben. Über den `HASH AND LOG`-Button wird der Text gehasht und der Hash-Wert wird an die `logHashValue`-Methode des Contracts gesendet.
-Sobald die Transaktion bestätigt ist, wird der neue Hash
+Sobald die Transaktion bestätigt ist, wird der neue Hash-Wert mit Blocknummer, Adresse des Senders und Zeitstempel in der Tabelle angezeigt.
 
+## Show me the code
 Wir wollen die JavaScript-Function im Einzelnen durchgehen
 
 ## ABI
@@ -178,10 +179,11 @@ showPastEvents(contract, "div.table");
 
 Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) zum Auslesen und anzeigen der Events. Wer Interesse hat, kann ihn hier sehen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQwOTM0OTQsLTMzNDQzODE1Miw4MzQ5MD
-E4MDksMjI4MTA3NzU3LDY1NTc3ODQ3OSwzNzA4MTYxNzIsMTY1
-MzgyMzA4MSw4NTQ0NjExODksMTM1NzA1MjI4NiwtNjMyOTI0Nj
-Y5LDY0NjE2MjExOCwtODM2NzI2OTkyLDY3NzEyNTc0MiwyMTAy
-NzY5NDk1LC0xNzYzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NT
-UwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0LDYyMjI5MDE5Nl19
+eyJoaXN0b3J5IjpbMzE4OTc5NDg0LC0zMzQ0MzgxNTIsODM0OT
+AxODA5LDIyODEwNzc1Nyw2NTU3Nzg0NzksMzcwODE2MTcyLDE2
+NTM4MjMwODEsODU0NDYxMTg5LDEzNTcwNTIyODYsLTYzMjkyND
+Y2OSw2NDYxNjIxMTgsLTgzNjcyNjk5Miw2NzcxMjU3NDIsMjEw
+Mjc2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMzMSw5NTMwNz
+U1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTZdfQ==
+
 -->
