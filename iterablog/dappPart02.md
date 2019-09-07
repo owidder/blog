@@ -11,20 +11,25 @@ In [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-
 	    }
     }
 
-So richtig smart ist "Weisenheimer" nicht. Er kann nichts weiter als einen String (`hashValue`) in einem Contract-Event zu speichern. Damit ist dieser String für immer und ewig in die Blockchain eingebrannt.
+So richtig smart ist "Weisenheimer" nicht. Er kann nichts weiter als einen String (`hashValue`) in einem Contract-Event zu speichern. 
+Aber immerhin. 
+Damit ist dieser String für immer und ewig in die Blockchain eingebrannt.
 
 ## Was für Schlaumeier
-Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.org/german-english/weisenheimer) gedacht ist: Wer eine schlaue Idee hat, schreibt sie auf, [hasht](https://emn178.github.io/online-tools/sha256.html) sie und speichert den Hash-Wert über den Weisenheimer-Contract in der Blockchain. Dann kann man auch in vielen Jahren noch beweisen, dass man das heute schon wusste.
+Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.org/german-english/weisenheimer) gedacht ist: Denn wer eine schlaue Idee hat, schreibt sie auf, [hasht](https://emn178.github.io/online-tools/sha256.html) sie und speichert den Hash-Wert über den Weisenheimer-Contract in der Blockchain. 
+Dann kann man auch in vielen Jahren noch beweisen, dass man das heute schon wusste.
 
 ## Lesen des Contracts
 In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine [Web-App](https://owidder.github.io/weisenheimer/teil2/) erstellt, die mit ein klein wenig [JavaScript-Code](https://github.com/owidder/weisenheimer/blob/master/teil2/index.html) alle Events aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
 (Die App funktioniert nur, wenn das unten beschrieben [Plug-in Metamask](https://metamask.io/) installiert ist)
 
 ## Jetzt wird's ernst
-Das war bis jetzt doch alles nur Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Das machen wir, indem wir die schreibende Transaktion `logHashValue` des Weisenheimer-Contracts aufrufen.
+Das war bis jetzt doch alles nur Pillepalle. 
+Jetzt wollen wir mal in die Blockchain schreiben. 
+Das machen wir, indem wir die schreibende Transaktion `logHashValue` des Weisenheimer-Contracts aufrufen.
 
-## Umsonst ist der Tod...
-... aber eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die [Ether](https://www.coindesk.com/price/ethereum) geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das mit den folgenden Schritten:
+## Umsonst ist der Tod
+Eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die [Ether](https://www.coindesk.com/price/ethereum) geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das mit den folgenden Schritten:
 
  1. Falls nicht schon geschehen installieren wir uns das Browser-Plugin-Wallet [Metamask](https://metamask.io/).
  2. Beim ersten Öffnen wird automatisch ein Wallet inklusive Seed Phrase generiert:
@@ -40,7 +45,7 @@ Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Accoun
 5. Die URL kopiert man sich und auf geht's zum [Rinkeby-Faucet](https://faucet.rinkeby.io/). Dort werden Ether verschenkt.
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-04/iterablog/images/faucet3.png"/>
 Einfach die URL des Tweets in das Eingabefeld kopieren und auswählen, wieviel Ether es denn sein dürfen (wir nehmen uns natürlich gleich die vollen 18,75. Warum nicht?)
-Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
+6. Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-05/iterablog/images/faucet4.png"/>
 
 ## Auf geht's
@@ -210,13 +215,25 @@ contract.methods.logHashValue(hashedText).send({from: accountList[0]})
 Endlich!!! Jetzt haben wir den Hash-Wert (`hashedText`) und die Account-ID (`accountList[0]`). Damit können wir über das Proxy-Object (`contract`) die Methode `logHashValue` aufrufen.
 
 Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestätigung:
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-10/iterablog/images/confirmTransaction.png"/>
+
+## Bestätigungen
+```
+.on("confirmation", (confirmationNumber, receipt) => {  
+    console.log(`conformation number: ${confirmationNumber}`);  
+    console.log(receipt);  
+    showPastEvents(contract, "div.table");  
+})
+```
+Sobald es die Transaktion in einen Block der Blockchain geschafft hat gibt es die erste Confirmation.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NDY0NTkwOTQsMTUzNDI3OTg0NCw0NT
-kxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwt
-MzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4ND
-c5LDM3MDgxNjE3MiwxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3
-MDUyMjg2LC02MzI5MjQ2NjksNjQ2MTYyMTE4LC04MzY3MjY5OT
-IsNjc3MTI1NzQyLDIxMDI3Njk0OTUsLTE3NjMzNTkzMDBdfQ==
+eyJoaXN0b3J5IjpbNDg0MjE1NTk4LC0yMDgwNjA2MTI3LC0xMj
+QwODM0MzcwLC0xNTQ2NDU5MDk0LDE1MzQyNzk4NDQsNDU5MTA5
+MjYsMTU1NTI1NjAzLDUzMjA4MjY1MCwzMTg5Nzk0ODQsLTMzND
+QzODE1Miw4MzQ5MDE4MDksMjI4MTA3NzU3LDY1NTc3ODQ3OSwz
+NzA4MTYxNzIsMTY1MzgyMzA4MSw4NTQ0NjExODksMTM1NzA1Mj
+I4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTkyXX0=
 
 -->
