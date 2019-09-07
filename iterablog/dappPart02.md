@@ -44,13 +44,14 @@ Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-05/iterablog/images/faucet4.png"/>
 
 ## Auf geht's
-Da wir nun Krypto-Geld haben, um uns
+Da wir nun Krypto-Geld haben, um unsere Transaktion bezahlen zu können, wollen wir zur Tat schreiten.
+Hier die erweiterte Web-App,
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0MzAzNDk5NDAsNjc3MTI1NzQyLDIxMD
-I3Njk0OTUsLTE3NjMzNTkzMDAsLTEwNTgwNTgzMzEsOTUzMDc1
-NTAzLDc0NDU5OTE5LC00ODY1MTU5OTQsNjIyMjkwMTk2LC0xNT
-I2NDE5Njc1LC0xMzI2MTU3MDY4LDEwNjgwMzQ4Miw3NjUxNTIw
-NzMsLTUxMTA1NzU4NCwtMTMzMDQ3NzA5MiwxMTE2MDk4NjQ3LD
-IzNzEzOTcxNSwxNDYxNTEwMjA1LDEzMzYxODg4ODAsLTM5NTcy
-Mzc4Ml19
+eyJoaXN0b3J5IjpbMTk2OTg2NzQ4Niw2NzcxMjU3NDIsMjEwMj
+c2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMzMSw5NTMwNzU1
+MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTYsLTE1Mj
+Y0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NTE1MjA3
+MywtNTExMDU3NTg0LC0xMzMwNDc3MDkyLDExMTYwOTg2NDcsMj
+M3MTM5NzE1LDE0NjE1MTAyMDUsMTMzNjE4ODg4MCwtMzk1NzIz
+NzgyXX0=
 -->
