@@ -28,11 +28,13 @@ Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schre
  1. Falls nicht schon geschehen installieren wir uns das Browser-Plugin-Wallet [Metamask](https://metamask.io/).
  2. Beim ersten Öffnen wird automatisch ein Wallet inklusive Seed Phrase generiert:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-01/iterablog/images/metamask-init-seed.png"/>
-Die Seed Phrase besteht aus 12 Worten
+Die Seed Phrase besteht aus 12 Worten und ist der Masterkey zum Wallet. Wer ihn hat, hat volle Kontrolle über alle Accounts, die vom Wallet verwaltet werden.
+Und wer ihn verliert, hat alle Ether, die sich im Wallet befinden, verloren. 
+Also gut darauf aufpassen (zumindest wenn man i
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjU4MzEyNTg2LC00ODY1MTU5OTQsNjIyMj
-kwMTk2LC0xNTI2NDE5Njc1LC0xMzI2MTU3MDY4LDEwNjgwMzQ4
-Miw3NjUxNTIwNzMsLTUxMTA1NzU4NCwtMTMzMDQ3NzA5MiwxMT
-E2MDk4NjQ3LDIzNzEzOTcxNSwxNDYxNTEwMjA1LDEzMzYxODg4
-ODAsLTM5NTcyMzc4Ml19
+eyJoaXN0b3J5IjpbLTE2Mjk4ODEwODgsLTQ4NjUxNTk5NCw2Mj
+IyOTAxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAz
+NDgyLDc2NTE1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3MDkyLD
+ExMTYwOTg2NDcsMjM3MTM5NzE1LDE0NjE1MTAyMDUsMTMzNjE4
+ODg4MCwtMzk1NzIzNzgyXX0=
 -->
