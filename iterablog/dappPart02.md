@@ -18,10 +18,10 @@ Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.
 
 ## Lesen des Contracts
 In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine [Web-App](https://owidder.github.io/weisenheimer/teil2/) erstellt, die mit ein klein wenig [JavaScript-Code](https://github.com/owidder/weisenheimer/blob/master/teil2/index.html) alle Events aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
-(Die App funktioniert nur, wenn das unten beschrieben Plug-in [Metamask](https://metamask.io/))
+(Die App funktioniert nur, wenn das unten beschrieben Plug-in [Metamask](https://metamask.io/) installiert ist)
 
 ## Jetzt wird's ernst
-Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Und zwar indem wir die schreibende Transaktion `logHashValue` aufrufen.
+Das war bis jetzt doch alles nur Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Das machen wir, indem wir die schreibende Transaktion `logHashValue` des Weisenheimer-Contracts aufrufen.
 
 ## Umsonst ist der Tod...
 ... aber eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die [Ether](https://www.coindesk.com/price/ethereum) geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das mit den folgenden Schritten:
@@ -149,7 +149,7 @@ In einem Browser, der [Web3 enabled](https://forum.livepeer.org/t/how-to-enable-
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MjEwNTM4Myw4NTQ0NjExODksMTM1Nz
+eyJoaXN0b3J5IjpbMTMyNjE3MDkxNiw4NTQ0NjExODksMTM1Nz
 A1MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTky
 LDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwLC0xMD
 U4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0
