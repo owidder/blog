@@ -127,7 +127,8 @@ Hier [der Code der erweiterten Web-App](https://github.com/owidder/weisenheimer/
 </body>  
 </html>
 ```
-Ruft man die App auf, s
+[Ruft man die App auf](https://owidder.github.io/weisenheimer/teil3/), stellt sie sich folgendermaßen dar:
+
 
 
 Wir wollen die JavaScript-Function im Einzelnen durchgehen
@@ -176,7 +177,7 @@ showPastEvents(contract, "div.table");
 
 Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) zum Auslesen und anzeigen der Events. Wer Interesse hat, kann ihn hier sehen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwMDU1NTMzNiw4MzQ5MDE4MDksMjI4MT
+eyJoaXN0b3J5IjpbLTMzNDQzODE1Miw4MzQ5MDE4MDksMjI4MT
 A3NzU3LDY1NTc3ODQ3OSwzNzA4MTYxNzIsMTY1MzgyMzA4MSw4
 NTQ0NjExODksMTM1NzA1MjI4NiwtNjMyOTI0NjY5LDY0NjE2Mj
 ExOCwtODM2NzI2OTkyLDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0x
