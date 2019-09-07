@@ -130,18 +130,17 @@ Hier die erweiterte Web-App, mit der die schreibende Contract-Methode `logHashVa
 
 Wir wollen die JavaScript-Function im Einzelnen durchgehen
 
-## Ohne Ethereum Object geht nix
+## ABI
 ```
 const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];
 ```
-
-
+Das ist das Application Binary Interface (ABI) des Weisenheimer-Contracts. Man benötigt es, um mit dem Contract interagieren zu können. Sieht Man kann es sich hier kopieren.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzMDIwNjc5OTMsNjQ2MTYyMTE4LC04Mz
-Y3MjY5OTIsNjc3MTI1NzQyLDIxMDI3Njk0OTUsLTE3NjMzNTkz
-MDAsLTEwNTgwNTgzMzEsOTUzMDc1NTAzLDc0NDU5OTE5LC00OD
-Y1MTU5OTQsNjIyMjkwMTk2LC0xNTI2NDE5Njc1LC0xMzI2MTU3
-MDY4LDEwNjgwMzQ4Miw3NjUxNTIwNzMsLTUxMTA1NzU4NCwtMT
-MzMDQ3NzA5MiwxMTE2MDk4NjQ3LDIzNzEzOTcxNSwxNDYxNTEw
-MjA1XX0=
+eyJoaXN0b3J5IjpbLTE2NzUzMTgwNiw2NDYxNjIxMTgsLTgzNj
+cyNjk5Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMw
+MCwtMTA1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTksLTQ4Nj
+UxNTk5NCw2MjIyOTAxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcw
+NjgsMTA2ODAzNDgyLDc2NTE1MjA3MywtNTExMDU3NTg0LC0xMz
+MwNDc3MDkyLDExMTYwOTg2NDcsMjM3MTM5NzE1LDE0NjE1MTAy
+MDVdfQ==
 -->
