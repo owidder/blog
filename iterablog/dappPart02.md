@@ -177,13 +177,13 @@ Damit können wir uns dann über `web.eth.contract(abi, contractId)` ein Proxy-O
 showPastEvents(contract, "div.table");
 ```
 
-Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) zum Auslesen und anzeigen der Events. Wer Interesse hat, kann ihn hier sehen. 
+Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) zum Auslesen und anzeigen der Events. Wer Interesse hat, kann ihn [hier](https://github.com/owidder/weisenheimer/blob/master/teil3/showPastEvents.js) sehen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4OTc5NDg0LC0zMzQ0MzgxNTIsODM0OT
-AxODA5LDIyODEwNzc1Nyw2NTU3Nzg0NzksMzcwODE2MTcyLDE2
-NTM4MjMwODEsODU0NDYxMTg5LDEzNTcwNTIyODYsLTYzMjkyND
-Y2OSw2NDYxNjIxMTgsLTgzNjcyNjk5Miw2NzcxMjU3NDIsMjEw
-Mjc2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMzMSw5NTMwNz
-U1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTZdfQ==
+eyJoaXN0b3J5IjpbNTMyMDgyNjUwLDMxODk3OTQ4NCwtMzM0ND
+M4MTUyLDgzNDkwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4NDc5LDM3
+MDgxNjE3MiwxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3MDUyMj
+g2LC02MzI5MjQ2NjksNjQ2MTYyMTE4LC04MzY3MjY5OTIsNjc3
+MTI1NzQyLDIxMDI3Njk0OTUsLTE3NjMzNTkzMDAsLTEwNTgwNT
+gzMzEsOTUzMDc1NTAzLDc0NDU5OTE5LC00ODY1MTU5OTRdfQ==
 
 -->
