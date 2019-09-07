@@ -134,7 +134,7 @@ Wir wollen die JavaScript-Function im Einzelnen durchgehen
 ```
 const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];
 ```
-Das ist das [Application Binary Interface (ABI)](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts) des Weisenheimer-Contracts. Man benötigt es, um mit dem Contract interagieren zu können. Sieht nicht schön. Aber zum Glück muss man es es nicht selber schreiben. Man kann es sich aus dem [deployten Contract](https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9#code) kopieren.
+Das ist das [Application Binary Interface (ABI)](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts) des Weisenheimer-Contracts. Man benötigt es, um mit dem Contract interagieren zu können. Sieht nicht schön aus. Aber zum Glück müssen wir es es nicht selber schreiben. Man kann es sich aus dem [deployten Contract](https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9#code) kopieren.
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-06/iterablog/images/abi.png"/>
 
 ## Ohne Ethereum-Object geht nix
@@ -149,11 +149,11 @@ Wenn das [Plug-in Metamask](https://metamask.io/) installiert ist, existiert das
 
 ## Erst um Erlaubnis bitten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkxNTE1OTY4Myw4NTQ0NjExODksMTM1Nz
-A1MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTky
-LDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwLC0xMD
-U4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0
-LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMTMyNjE1NzA2OCwxMD
-Y4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1ODQsLTEzMzA0Nzcw
-OTJdfQ==
+eyJoaXN0b3J5IjpbODQ3MjE2OTU0LDg1NDQ2MTE4OSwxMzU3MD
+UyMjg2LC02MzI5MjQ2NjksNjQ2MTYyMTE4LC04MzY3MjY5OTIs
+Njc3MTI1NzQyLDIxMDI3Njk0OTUsLTE3NjMzNTkzMDAsLTEwNT
+gwNTgzMzEsOTUzMDc1NTAzLDc0NDU5OTE5LC00ODY1MTU5OTQs
+NjIyMjkwMTk2LC0xNTI2NDE5Njc1LC0xMzI2MTU3MDY4LDEwNj
+gwMzQ4Miw3NjUxNTIwNzMsLTUxMTA1NzU4NCwtMTMzMDQ3NzA5
+Ml19
 -->
