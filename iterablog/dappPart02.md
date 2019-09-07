@@ -18,7 +18,7 @@ Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.
 
 ## Lesen des Contracts
 In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine [Web-App](https://owidder.github.io/weisenheimer/teil2/) erstellt, die mit ein klein wenig [JavaScript-Code](https://github.com/owidder/weisenheimer/blob/master/teil2/index.html) alle Events aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
-(Die App funktioniert nur, wenn der Browser [Web3 enabled](https://forum.livepeer.org/t/how-to-enable-web3-in-your-browser/179) ist. Z.B. über das unten beschrieben Plug-in Metamask)
+(Die App funktioniert nur, wenn der Browser [Web3 enabled](https://forum.livepeer.org/t/how-to-enable-web3-in-your-browser/179) ist. Z.B. über das unten beschrieben Plug-in [Metamask](https://metamask.io/))
 
 ## Jetzt wird's ernst
 Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Und zwar indem wir die schreibende Transaktion `logHashValue` aufrufen.
@@ -44,13 +44,13 @@ Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-05/iterablog/images/faucet4.png"/>
 
 ## Auf geht's
-
+Da wir nun Krypto-Geld haben, um uns
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIyMzY5MzAxMiw2NzcxMjU3NDIsMjEwMj
-c2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMzMSw5NTMwNzU1
-MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTYsLTE1Mj
-Y0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NTE1MjA3
-MywtNTExMDU3NTg0LC0xMzMwNDc3MDkyLDExMTYwOTg2NDcsMj
-M3MTM5NzE1LDE0NjE1MTAyMDUsMTMzNjE4ODg4MCwtMzk1NzIz
-NzgyXX0=
+eyJoaXN0b3J5IjpbLTE0MzAzNDk5NDAsNjc3MTI1NzQyLDIxMD
+I3Njk0OTUsLTE3NjMzNTkzMDAsLTEwNTgwNTgzMzEsOTUzMDc1
+NTAzLDc0NDU5OTE5LC00ODY1MTU5OTQsNjIyMjkwMTk2LC0xNT
+I2NDE5Njc1LC0xMzI2MTU3MDY4LDEwNjgwMzQ4Miw3NjUxNTIw
+NzMsLTUxMTA1NzU4NCwtMTMzMDQ3NzA5MiwxMTE2MDk4NjQ3LD
+IzNzEzOTcxNSwxNDYxNTEwMjA1LDEzMzYxODg4ODAsLTM5NTcy
+Mzc4Ml19
 -->
