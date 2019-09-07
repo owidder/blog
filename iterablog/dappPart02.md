@@ -18,6 +18,7 @@ Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.
 
 ## Lesen des Contracts
 In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine [Web-App](https://owidder.github.io/weisenheimer/teil2/) erstellt, die mit ein klein wenig [JavaScript-Code](https://github.com/owidder/weisenheimer/blob/master/teil2/index.html) alle Events aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
+(Die App funktioniert nur, wenn der Browser [Web3 enabled](https://forum.livepeer.org/t/how-to-enable-web3-in-your-browser/179) ist. Z.B. über das unten beschrieben Plug-in [Metamask](https://metamask.io/))
 
 ## Jetzt wird's ernst
 Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Und zwar indem wir die schreibende Transaktion `logHashValue` aufrufen.
@@ -40,12 +41,106 @@ Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Accoun
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-04/iterablog/images/faucet3.png"/>
 Einfach die URL des Tweets in das Eingabefeld kopieren und auswählen, wieviel Ether es denn sein dürfen (wir nehmen uns natürlich gleich die vollen 18,75. Warum nicht?)
 Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-05/iterablog/images/faucet4.png"/>
 
+## Auf geht's
+So, genug Krypto-Geld haben wir jetzt, um unsere Transaktion bezahlen zu können. Dann mal los.
+Hier die erweiterte Web-App, mit der die schreibende Contract-Methode `logHashValue` aufgerufen wird:
+```
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+  
+    <title>Weisenheimer</title>  
+  
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">  
+  
+    <script src="https://cdn.jsdelivr.net/gh/owidder/super-simple-utils@v0.12/build/static/js/showDataAsTable.min.js"></script>  
+    <script src="https://cdn.jsdelivr.net/gh/owidder/super-simple-utils@v0.12/build/static/js/hash.min.js"></script>  
+    <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.0.0-beta.35/dist/web3.min.js"></script>  
+    <script src="./showPastEvents.js"></script>  
+</head>  
+  
+<style>  
+    .input {  
+        display: flex;  
+        justify-content: flex-start;  
+        align-items: flex-end;  
+    }  
+  
+    .input textarea {  
+        width: 70%;  
+        height: 10em;  
+        padding: 1em;  
+        background-color: #F7F7F0;  
+        margin: 1em;  
+    }  
+  
+    .input button {  
+        margin: 1em;  
+    }  
+</style>  
+<body>  
+  
+<div class="input">  
+    <textarea class="materialize-textarea" placeholder="Insert text, then press button to hash and log into smart contract"></textarea>  
+    <button onclick="hashAndLog()" class="waves-effect waves-light btn">Hash and log</button>  
+</div>  
+<div class="table"></div>  
+  
+<script>  
+    (function () {  
+  
+        const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];  
+  
+        if (window.ethereum) {  
+            ethereum.enable().then(function () {  
+                const web3 = new Web3(ethereum);  
+                const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");  
+                showPastEvents(contract, "div.table");  
+  
+                window.hashAndLog = () => {  
+                    const textarea = document.querySelector(".input textarea");  
+                    const textToHashAndLog = textarea.value;  
+                    hashSHA256(textToHashAndLog).then(hashedText => {  
+                        web3.eth.getAccounts((err, accountList) => {  
+                            contract.methods.logHashValue(hashedText).send({from: accountList[0]})  
+                                .on("confirmation", (confirmationNumber, receipt) => {  
+                                    console.log(`conformation number: ${confirmationNumber}`);  
+                                    console.log(receipt);  
+                                    showPastEvents(contract, "div.table");  
+                                })  
+                                .on("error", error => {  
+                                    console.error(error)  
+                                })  
+                        })  
+                        console.log(contract);  
+                    })  
+                }  
+            })  
+        } else {  
+            window.alert("No injected ethereum object found");  
+        }  
+    })()  
+</script>  
+</body>  
+</html>
+```
+
+Wir wollen die JavaScript-Function im Einzelnen durchgehen
+
+## ABI
+```
+const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];
+```
+Das ist das [Application Binary Interface (ABI)](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts) des Weisenheimer-Contracts. Man benötigt es, um mit dem Contract interagieren zu können. Sieht nicht schön. Aber zum Glück muss man es es nicht selber schreiben. Man kann es sich aus dem [deployten Contract](https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9#code) kopieren.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjI0Nzc4MCwyMTAyNzY5NDk1LC0xNz
-YzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkx
-OSwtNDg2NTE1OTk0LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMT
-MyNjE1NzA2OCwxMDY4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1
-ODQsLTEzMzA0NzcwOTIsMTExNjA5ODY0NywyMzcxMzk3MTUsMT
-Q2MTUxMDIwNSwxMzM2MTg4ODgwLC0zOTU3MjM3ODJdfQ==
+eyJoaXN0b3J5IjpbMTM1NzA1MjI4NiwtNjMyOTI0NjY5LDY0Nj
+E2MjExOCwtODM2NzI2OTkyLDY3NzEyNTc0MiwyMTAyNzY5NDk1
+LC0xNzYzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3ND
+Q1OTkxOSwtNDg2NTE1OTk0LDYyMjI5MDE5NiwtMTUyNjQxOTY3
+NSwtMTMyNjE1NzA2OCwxMDY4MDM0ODIsNzY1MTUyMDczLC01MT
+EwNTc1ODQsLTEzMzA0NzcwOTIsMTExNjA5ODY0NywyMzcxMzk3
+MTVdfQ==
 -->
