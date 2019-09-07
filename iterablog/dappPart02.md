@@ -40,9 +40,11 @@ Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Accoun
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-04/iterablog/images/faucet3.png"/>
 Einfach die URL des Tweets in das Eingabefeld kopieren und auswählen, wieviel Ether es denn sein dürfen (wir nehmen uns natürlich gleich die vollen 18,75. Warum nicht?)
 Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-05/iterablog/images/faucet4.png"/>
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTg3MjI0Nzc4MCwyMTAyNzY5NDk1LC0xNz
+eyJoaXN0b3J5IjpbLTYyMDM1NzI2NCwyMTAyNzY5NDk1LC0xNz
 YzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkx
 OSwtNDg2NTE1OTk0LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMT
 MyNjE1NzA2OCwxMDY4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1
