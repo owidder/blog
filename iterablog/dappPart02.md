@@ -33,15 +33,15 @@ Und wer ihn verliert, hat alle Ether, die sich im Wallet befinden, verloren.
 Also gut darauf aufpassen (zumindest wenn man mit dem Wallet mehr als Rinkeby-Spiel-Ether verwaltet)!
 3. In Metamask sieht man oben unter dem Account-Namen (hier einfach nur `Account 1`) die Account-ID. Die kopiert man sich in die Zwischenablage:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-02/iterablog/images/metamask-account-id.png"/>
-4. Und tweetet sie:
+4. Und [tweetet](https://twitter.com/gap_listens/status/1170290940440977413) sie:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-03/iterablog/images/tweet.png"/>
 Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Account-ID.
 5. Die Adresse diese
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4NTQzMTg1MDIsOTUzMDc1NTAzLDc0ND
-U5OTE5LC00ODY1MTU5OTQsNjIyMjkwMTk2LC0xNTI2NDE5Njc1
-LC0xMzI2MTU3MDY4LDEwNjgwMzQ4Miw3NjUxNTIwNzMsLTUxMT
-A1NzU4NCwtMTMzMDQ3NzA5MiwxMTE2MDk4NjQ3LDIzNzEzOTcx
-NSwxNDYxNTEwMjA1LDEzMzYxODg4ODAsLTM5NTcyMzc4Ml19
+eyJoaXN0b3J5IjpbMTk4MDQwMjk0OCw5NTMwNzU1MDMsNzQ0NT
+k5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTYsLTE1MjY0MTk2NzUs
+LTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NTE1MjA3MywtNTExMD
+U3NTg0LC0xMzMwNDc3MDkyLDExMTYwOTg2NDcsMjM3MTM5NzE1
+LDE0NjE1MTAyMDUsMTMzNjE4ODg4MCwtMzk1NzIzNzgyXX0=
 -->
