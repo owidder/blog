@@ -45,7 +45,7 @@ Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 
 ## Auf geht's
 So, genug Krypto-Geld haben wir jetzt, um unsere Transaktion bezahlen zu können. Dann mal los.
-Hier der Code der erweiterten Web-App, mit der die schreibende Contract-Methode `logHashValue` aufgerufen wird:
+Hier [der Code der erweiterten Web-App](https://github.com/owidder/weisenheimer/blob/master/teil3/index.html), mit der die schreibende Contract-Methode `logHashValue` aufgerufen wird:
 ```
 <!DOCTYPE html>  
 <html lang="en">  
@@ -174,11 +174,11 @@ showPastEvents(contract, "div.table");
 
 Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) zum Auslesen und anzeigen der Events. Wer Interesse hat, kann ihn hier sehen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjI4MTA3NzU3LDY1NTc3ODQ3OSwzNzA4MT
-YxNzIsMTY1MzgyMzA4MSw4NTQ0NjExODksMTM1NzA1MjI4Niwt
-NjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTkyLDY3NzEyNT
-c0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwLC0xMDU4MDU4MzMx
-LDk1MzA3NTUwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0LDYyMjI5MD
-E5NiwtMTUyNjQxOTY3NSwtMTMyNjE1NzA2OCwxMDY4MDM0ODJd
+eyJoaXN0b3J5IjpbNzI2MDQ5Mjk1LDIyODEwNzc1Nyw2NTU3Nz
+g0NzksMzcwODE2MTcyLDE2NTM4MjMwODEsODU0NDYxMTg5LDEz
+NTcwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNj
+k5Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwt
+MTA1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNT
+k5NCw2MjIyOTAxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjhd
 fQ==
 -->
