@@ -216,12 +216,22 @@ Endlich!!! Jetzt haben wir den Hash-Wert (`hashedText`) und die Account-ID (`acc
 
 Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestätigung:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-10/iterablog/images/confirmTransaction.png"/>
+
+## Bestätigungen
+```
+.on("confirmation", (confirmationNumber, receipt) => {  
+    console.log(`conformation number: ${confirmationNumber}`);  
+    console.log(receipt);  
+    showPastEvents(contract, "div.table");  
+})
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNDA4MzQzNzAsLTE1NDY0NTkwOTQsMT
-UzNDI3OTg0NCw0NTkxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUw
-LDMxODk3OTQ4NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMD
-c3NTcsNjU1Nzc4NDc5LDM3MDgxNjE3MiwxNjUzODIzMDgxLDg1
-NDQ2MTE4OSwxMzU3MDUyMjg2LC02MzI5MjQ2NjksNjQ2MTYyMT
-E4LC04MzY3MjY5OTIsNjc3MTI1NzQyLDIxMDI3Njk0OTVdfQ==
+eyJoaXN0b3J5IjpbLTIwODA2MDYxMjcsLTEyNDA4MzQzNzAsLT
+E1NDY0NTkwOTQsMTUzNDI3OTg0NCw0NTkxMDkyNiwxNTU1MjU2
+MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwtMzM0NDM4MTUyLDgzND
+kwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4NDc5LDM3MDgxNjE3Miwx
+NjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3MDUyMjg2LC02MzI5Mj
+Q2NjksNjQ2MTYyMTE4LC04MzY3MjY5OTIsNjc3MTI1NzQyXX0=
 
 -->
