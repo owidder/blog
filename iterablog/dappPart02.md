@@ -18,7 +18,7 @@ Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.
 
 ## Lesen des Contracts
 In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine [Web-App](https://owidder.github.io/weisenheimer/teil2/) erstellt, die mit ein klein wenig [JavaScript-Code](https://github.com/owidder/weisenheimer/blob/master/teil2/index.html) alle Events aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
-(Die App funktioniert nur, wenn das unten beschrieben Plug-in [Metamask](https://metamask.io/) installiert ist)
+(Die App funktioniert nur, wenn das unten beschrieben [Plug-in Metamask](https://metamask.io/) installiert ist)
 
 ## Jetzt wird's ernst
 Das war bis jetzt doch alles nur Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Das machen wir, indem wir die schreibende Transaktion `logHashValue` des Weisenheimer-Contracts aufrufen.
@@ -145,15 +145,15 @@ if (window.ethereum) {
     window.alert("No injected ethereum object found");  
 }
 ```
-In einem Browser, der [Web3 enabled](https://forum.livepeer.org/t/how-to-enable-web3-in-your-browser/179) ist, existiert das `ethereum`-Object. Wenn das nicht da ist, können wir nicht weiter machen.
+Wenn das [Plug-in Metamask](https://metamask.io/) installiert ist, existiert das `ethereum`-Object. Das baAnsonsten können wir nicht weiter machen.
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyNjE3MDkxNiw4NTQ0NjExODksMTM1Nz
-A1MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTky
-LDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwLC0xMD
-U4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0
-LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMTMyNjE1NzA2OCwxMD
-Y4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1ODQsLTEzMzA0Nzcw
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTExODE2MzEwMzUsODU0NDYxMTg5LDEzNT
+cwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5
+Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwtMT
+A1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5
+NCw2MjIyOTAxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMT
+A2ODAzNDgyLDc2NTE1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3
+MDkyXX0=
 -->
