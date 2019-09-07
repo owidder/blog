@@ -31,10 +31,14 @@ Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schre
 Die Seed Phrase besteht aus 12 Worten und ist der Masterkey zum Wallet. Wer ihn hat, hat volle Kontrolle über alle Accounts, die vom Wallet verwaltet werden.
 Und wer ihn verliert, hat alle Ether, die sich im Wallet befinden, verloren. 
 Also gut darauf aufpassen (zumindest wenn man mit dem Wallet mehr als Rinkeby-Spiel-Ether verwaltet)!
+3. In Metamask sieht man oben unter dem Account-Namen (hier einfach nur `Account 1`) die Account-ID. Die kopiert man sich in die Zwischenablage:
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-02/iterablog/images/metamask-account-id.png"/>
+4. Und tweetet sie. Gerne auch mit einem erklärenden Text:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOT
-AxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgy
-LDc2NTE1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3MDkyLDExMT
-YwOTg2NDcsMjM3MTM5NzE1LDE0NjE1MTAyMDUsMTMzNjE4ODg4
-MCwtMzk1NzIzNzgyXX0=
+eyJoaXN0b3J5IjpbOTUzMDc1NTAzLDc0NDU5OTE5LC00ODY1MT
+U5OTQsNjIyMjkwMTk2LC0xNTI2NDE5Njc1LC0xMzI2MTU3MDY4
+LDEwNjgwMzQ4Miw3NjUxNTIwNzMsLTUxMTA1NzU4NCwtMTMzMD
+Q3NzA5MiwxMTE2MDk4NjQ3LDIzNzEzOTcxNSwxNDYxNTEwMjA1
+LDEzMzYxODg4ODAsLTM5NTcyMzc4Ml19
 -->
