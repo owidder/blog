@@ -145,15 +145,15 @@ if (window.ethereum) {
     window.alert("No injected ethereum object found");  
 }
 ```
-Wenn das [Plug-in Metamask](https://metamask.io/) installiert ist, existiert das `ethereum`-Object. Das baAnsonsten können wir nicht weiter machen.
+Wenn das [Plug-in Metamask](https://metamask.io/) installiert ist, existiert das `ethereum`-Object. Das brauchen wir. Ansonsten können wir nicht weiter machen.
 
- 
+## Erst um Erlaubnis bitten
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExODE2MzEwMzUsODU0NDYxMTg5LDEzNT
-cwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5
-Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwtMT
-A1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5
-NCw2MjIyOTAxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMT
-A2ODAzNDgyLDc2NTE1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3
-MDkyXX0=
+eyJoaXN0b3J5IjpbMTkxNTE1OTY4Myw4NTQ0NjExODksMTM1Nz
+A1MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTky
+LDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwLC0xMD
+U4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0
+LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMTMyNjE1NzA2OCwxMD
+Y4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1ODQsLTEzMzA0Nzcw
+OTJdfQ==
 -->
