@@ -190,13 +190,12 @@ window.hashAndLog = () => {
 ```
 
 `hashAndLog` wird aufgerufen, wenn der `HASH AND LOG`-Button geklickt wird (siehe `<button onclick="hashAndLog()" ...`)
-Der Text wird aus der TextArea ausgelesen und gehasht (
+Der Text wird aus der TextArea ausgelesen und gehasht (den Code zum Hashen kann man [hier](https://github.com/owidder/super-simple-utils/blob/master/src/hash/hash.ts) sehen).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTIyMTQzMjg5OSw1MzIwODI2NTAsMzE4OT
-c5NDg0LC0zMzQ0MzgxNTIsODM0OTAxODA5LDIyODEwNzc1Nyw2
-NTU3Nzg0NzksMzcwODE2MTcyLDE2NTM4MjMwODEsODU0NDYxMT
-g5LDEzNTcwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgz
-NjcyNjk5Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OT
-MwMCwtMTA1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTldfQ==
-
+eyJoaXN0b3J5IjpbMTU1NTI1NjAzLDUzMjA4MjY1MCwzMTg5Nz
+k0ODQsLTMzNDQzODE1Miw4MzQ5MDE4MDksMjI4MTA3NzU3LDY1
+NTc3ODQ3OSwzNzA4MTYxNzIsMTY1MzgyMzA4MSw4NTQ0NjExOD
+ksMTM1NzA1MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2
+NzI2OTkyLDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5Mz
+AwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkxOV19
 -->
