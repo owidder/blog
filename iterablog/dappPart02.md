@@ -199,13 +199,13 @@ web3.eth.getAccounts((err, accountList) => {
 })
 ```
 
-Nun holen wir uns über die das `web3`-Object die Liste aller Account IDs des aktuellen Wallets (darum mussten wir ja oben um Genehmigung gebeten).
-Das
+Nun holen wir uns über die das `web3`-Object die ID das aktuell im Wallet ausgewählten Accounts (darum mussten wir ja oben um Genehmigung gebeten). Über das Wallet kann man viele Accounts verwalten. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDU5MTA5MjYsMTU1NTI1NjAzLDUzMjA4Mj
-Y1MCwzMTg5Nzk0ODQsLTMzNDQzODE1Miw4MzQ5MDE4MDksMjI4
-MTA3NzU3LDY1NTc3ODQ3OSwzNzA4MTYxNzIsMTY1MzgyMzA4MS
-w4NTQ0NjExODksMTM1NzA1MjI4NiwtNjMyOTI0NjY5LDY0NjE2
-MjExOCwtODM2NzI2OTkyLDY3NzEyNTc0MiwyMTAyNzY5NDk1LC
-0xNzYzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NTUwM119
+eyJoaXN0b3J5IjpbMjEyOTY2Nzg3OSw0NTkxMDkyNiwxNTU1Mj
+U2MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwtMzM0NDM4MTUyLDgz
+NDkwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4NDc5LDM3MDgxNjE3Mi
+wxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3MDUyMjg2LC02MzI5
+MjQ2NjksNjQ2MTYyMTE4LC04MzY3MjY5OTIsNjc3MTI1NzQyLD
+IxMDI3Njk0OTUsLTE3NjMzNTkzMDAsLTEwNTgwNTgzMzFdfQ==
+
 -->
