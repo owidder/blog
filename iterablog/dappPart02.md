@@ -115,7 +115,6 @@ Hier [der Code der erweiterten Web-App](https://github.com/owidder/weisenheimer/
                                     console.error(error)  
                                 })  
                         })  
-                        console.log(contract);  
                     })  
                 }  
             })  
@@ -178,12 +177,22 @@ showPastEvents(contract, "div.table");
 ```
 
 Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) zum Auslesen und anzeigen der Events. Wer Interesse hat, kann ihn [hier](https://github.com/owidder/weisenheimer/blob/master/teil3/showPastEvents.js) sehen. 
+
+## Hashen
+```
+const textarea = document.querySelector(".input textarea");  
+const textToHashAndLog = textarea.value;  
+hashSHA256(textToHashAndLog).then(hashedText => {  
+	...
+})
+```
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTMyMDgyNjUwLDMxODk3OTQ4NCwtMzM0ND
-M4MTUyLDgzNDkwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4NDc5LDM3
-MDgxNjE3MiwxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3MDUyMj
-g2LC02MzI5MjQ2NjksNjQ2MTYyMTE4LC04MzY3MjY5OTIsNjc3
-MTI1NzQyLDIxMDI3Njk0OTUsLTE3NjMzNTkzMDAsLTEwNTgwNT
-gzMzEsOTUzMDc1NTAzLDc0NDU5OTE5LC00ODY1MTU5OTRdfQ==
+eyJoaXN0b3J5IjpbMTUzNDI2MDMwNyw1MzIwODI2NTAsMzE4OT
+c5NDg0LC0zMzQ0MzgxNTIsODM0OTAxODA5LDIyODEwNzc1Nyw2
+NTU3Nzg0NzksMzcwODE2MTcyLDE2NTM4MjMwODEsODU0NDYxMT
+g5LDEzNTcwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgz
+NjcyNjk5Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OT
+MwMCwtMTA1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTldfQ==
 
 -->
