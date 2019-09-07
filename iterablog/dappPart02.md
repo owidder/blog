@@ -207,12 +207,16 @@ Nun holen wir uns über die das `web3`-Object die ID des Accounts (darum mussten
 contract.methods.logHashValue(hashedText).send({from: accountList[0]})
 ```
 
-Endlich!!! Jetzt haben wir den Hash-Wert (`hashedText`) und die Accoun
+Endlich!!! Jetzt haben wir den Hash-Wert (`hashedText`) und die Account-ID (`accountList[0]`). Damit können wir über das Proxy-Object (`contract`) die Methode `logHashValue` aufrufen.
+
+Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestätigung:
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDE3NjY4ODA2LDE1MzQyNzk4NDQsNDU5MT
-A5MjYsMTU1NTI1NjAzLDUzMjA4MjY1MCwzMTg5Nzk0ODQsLTMz
-NDQzODE1Miw4MzQ5MDE4MDksMjI4MTA3NzU3LDY1NTc3ODQ3OS
-wzNzA4MTYxNzIsMTY1MzgyMzA4MSw4NTQ0NjExODksMTM1NzA1
-MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTkyLD
-Y3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwXX0=
+eyJoaXN0b3J5IjpbLTE1NDY0NTkwOTQsMTUzNDI3OTg0NCw0NT
+kxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwt
+MzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4ND
+c5LDM3MDgxNjE3MiwxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3
+MDUyMjg2LC02MzI5MjQ2NjksNjQ2MTYyMTE4LC04MzY3MjY5OT
+IsNjc3MTI1NzQyLDIxMDI3Njk0OTUsLTE3NjMzNTkzMDBdfQ==
+
 -->
