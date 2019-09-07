@@ -25,10 +25,11 @@ Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schre
 ## Umsonst ist der Tod...
 ... aber eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die Ether geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das mit den folgenden Schritten:
 
- 1. Falls nicht schon geschehen installieren wir uns Browser-Plu
+ 1. Falls nicht schon geschehen installieren wir uns das Browser-Plugin-Wallet [Metamask](https://metamask.io/).
+ 2. 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM2OTA3NzU4MiwtMTUyNjQxOTY3NSwtMT
+eyJoaXN0b3J5IjpbLTY4NzY2MjI1MSwtMTUyNjQxOTY3NSwtMT
 MyNjE1NzA2OCwxMDY4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1
 ODQsLTEzMzA0NzcwOTIsMTExNjA5ODY0NywyMzcxMzk3MTUsMT
 Q2MTUxMDIwNSwxMzM2MTg4ODgwLC0zOTU3MjM3ODJdfQ==
