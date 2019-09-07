@@ -156,13 +156,13 @@ ethereum.enable().then(() => {
 
 Mit `ethereun.enable()` öffnet Metamask einen Dialog, mit wir den Benutzer [um Erlaubnis bitten](https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8), dass wir Informationen aus seinem Account auslesen dürfen (z.B. die ID des Accounts).
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-07/iterablog/images/connect.png"/>
-`enable` gibt ein JavaScript-Promise zurück, das resolved, wenn der Benutzer `connect` betätigt (ansonsten war's das).
+`enable` gibt ein [JavaScript-Promise](https://developers.google.com/web/fundamentals/primers/promises) zurück, das resolved, wenn der Benutzer `connect` betätigt (ansonsten war's das).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwNjk1MTgxNDAsMzcwODE2MTcyLDE2NT
-M4MjMwODEsODU0NDYxMTg5LDEzNTcwNTIyODYsLTYzMjkyNDY2
-OSw2NDYxNjIxMTgsLTgzNjcyNjk5Miw2NzcxMjU3NDIsMjEwMj
-c2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMzMSw5NTMwNzU1
-MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTYsLTE1Mj
-Y0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NTE1MjA3
-M119
+eyJoaXN0b3J5IjpbNjU1Nzc4NDc5LDM3MDgxNjE3MiwxNjUzOD
+IzMDgxLDg1NDQ2MTE4OSwxMzU3MDUyMjg2LC02MzI5MjQ2Njks
+NjQ2MTYyMTE4LC04MzY3MjY5OTIsNjc3MTI1NzQyLDIxMDI3Nj
+k0OTUsLTE3NjMzNTkzMDAsLTEwNTgwNTgzMzEsOTUzMDc1NTAz
+LDc0NDU5OTE5LC00ODY1MTU5OTQsNjIyMjkwMTk2LC0xNTI2ND
+E5Njc1LC0xMzI2MTU3MDY4LDEwNjgwMzQ4Miw3NjUxNTIwNzNd
+fQ==
 -->
