@@ -167,13 +167,17 @@ const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce4
 Sobald zugestimmt wurde, besorgen ein `web3`-Object. [Web3](https://github.com/ethereum/web3.js/) ist die offizielle JavaScript-API von Ethereum.
 Damit können wir uns dann über `web.eth.contract(abi, contractId)` ein Proxy-Object, über das wir den Contract erreichen können.
 
+## Events lesen und anzeigen
+```
+showPastEvents(contract, "div.table");
+```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwOTY0NTg5NjEsNjU1Nzc4NDc5LDM3MD
-gxNjE3MiwxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3MDUyMjg2
-LC02MzI5MjQ2NjksNjQ2MTYyMTE4LC04MzY3MjY5OTIsNjc3MT
-I1NzQyLDIxMDI3Njk0OTUsLTE3NjMzNTkzMDAsLTEwNTgwNTgz
-MzEsOTUzMDc1NTAzLDc0NDU5OTE5LC00ODY1MTU5OTQsNjIyMj
-kwMTk2LC0xNTI2NDE5Njc1LC0xMzI2MTU3MDY4LDEwNjgwMzQ4
-Ml19
+eyJoaXN0b3J5IjpbLTgwOTQ3MTk4MCw2NTU3Nzg0NzksMzcwOD
+E2MTcyLDE2NTM4MjMwODEsODU0NDYxMTg5LDEzNTcwNTIyODYs
+LTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5Miw2NzcxMj
+U3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMz
+MSw5NTMwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOT
+AxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgy
+XX0=
 -->
