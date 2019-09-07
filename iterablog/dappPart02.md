@@ -95,7 +95,7 @@ Hier die erweiterte Web-App, mit der die schreibende Contract-Methode `logHashVa
         const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];  
   
         if (window.ethereum) {  
-            ethereum.enable().then(()  {  
+            ethereum.enable().then(() => {  
                 const web3 = new Web3(ethereum);  
                 const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");  
                 showPastEvents(contract, "div.table");  
@@ -148,12 +148,19 @@ if (window.ethereum) {
 Wenn das [Plug-in Metamask](https://metamask.io/) installiert ist, existiert das `ethereum`-Object. Das brauchen wir. Ansonsten können wir nicht weiter machen.
 
 ## Erst um Erlaubnis bitten
+```
+ethereum.enable().then(() => {  
+	...
+})
+```
+
+Mit `ethereun.enable()` bitten wir den Benutzer um Erlaubnis, dass wir Informationen aus seinem Account auslesen dürfen (z.B. die ID des Accounts). 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExMDYzMzk4MCw4NTQ0NjExODksMTM1Nz
-A1MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTky
-LDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwLC0xMD
-U4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0
-LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMTMyNjE1NzA2OCwxMD
-Y4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1ODQsLTEzMzA0Nzcw
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTE0NjI2MzI4MDcsODU0NDYxMTg5LDEzNT
+cwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5
+Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwtMT
+A1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5
+NCw2MjIyOTAxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMT
+A2ODAzNDgyLDc2NTE1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3
+MDkyXX0=
 -->
