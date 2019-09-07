@@ -18,7 +18,7 @@ Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.
 
 ## Lesen des Contracts
 In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine [Web-App](https://owidder.github.io/weisenheimer/teil2/) erstellt, die mit ein klein wenig [JavaScript-Code](https://github.com/owidder/weisenheimer/blob/master/teil2/index.html) alle Events aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
-(Die App funktioniert nur, wenn der Browser [Web3 enabled](https://forum.livepeer.org/t/how-to-enable-web3-in-your-browser/179) ist. Z.B. über das unten beschrieben Plug-in [Metamask](https://metamask.io/))
+(Die App funktioniert nur, wenn das unten beschrieben Plug-in [Metamask](https://metamask.io/))
 
 ## Jetzt wird's ernst
 Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Und zwar indem wir die schreibende Transaktion `logHashValue` aufrufen.
@@ -149,11 +149,11 @@ In einem Browser, der [Web3 enabled](https://forum.livepeer.org/t/how-to-enable-
 
  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbODU0NDYxMTg5LDEzNTcwNTIyODYsLTYzMj
-kyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5Miw2NzcxMjU3NDIs
-MjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMzMSw5NT
-MwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTYs
-LTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NT
-E1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3MDkyLDExMTYwOTg2
-NDddfQ==
+eyJoaXN0b3J5IjpbMTI4MjEwNTM4Myw4NTQ0NjExODksMTM1Nz
+A1MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTky
+LDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwLC0xMD
+U4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0
+LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMTMyNjE1NzA2OCwxMD
+Y4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1ODQsLTEzMzA0Nzcw
+OTJdfQ==
 -->
