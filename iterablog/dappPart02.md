@@ -154,7 +154,7 @@ ethereum.enable().then(() => {
 })
 ```
 
-Mit `ethereun.enable()` öffnet Metamask einen Dialog, mit wir den Benutzer [um Erlaubnis bitten](https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8), dass wir Informationen aus seinem Account auslesen dürfen (z.B. die ID des Accounts).
+Mit `ethereun.enable()` öffnet Metamask einen Dialog, mit wir [um Erlaubnis bitten](https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8), dass wir Informationen aus dem Benutzer-Account auslesen dürfen (z.B. die ID des Accounts).
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-07/iterablog/images/connect.png"/>
 `enable` gibt ein [JavaScript-Promise](https://developers.google.com/web/fundamentals/primers/promises) zurück, das resolved, wenn der Benutzer `connect` betätigt (ansonsten war's das).
 
@@ -164,13 +164,13 @@ const web3 = new Web3(ethereum);
 const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");
 ```
 
-Sobald der Ben
+Sobald zugestimmt wurde, besorgen 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTkwNzg4MTY2MSw2NTU3Nzg0NzksMzcwOD
-E2MTcyLDE2NTM4MjMwODEsODU0NDYxMTg5LDEzNTcwNTIyODYs
-LTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5Miw2NzcxMj
-U3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMz
-MSw5NTMwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOT
-AxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgy
-XX0=
+eyJoaXN0b3J5IjpbLTEyMzY5MjAxMTMsNjU1Nzc4NDc5LDM3MD
+gxNjE3MiwxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3MDUyMjg2
+LC02MzI5MjQ2NjksNjQ2MTYyMTE4LC04MzY3MjY5OTIsNjc3MT
+I1NzQyLDIxMDI3Njk0OTUsLTE3NjMzNTkzMDAsLTEwNTgwNTgz
+MzEsOTUzMDc1NTAzLDc0NDU5OTE5LC00ODY1MTU5OTQsNjIyMj
+kwMTk2LC0xNTI2NDE5Njc1LC0xMzI2MTU3MDY4LDEwNjgwMzQ4
+Ml19
 -->
