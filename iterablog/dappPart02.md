@@ -45,9 +45,92 @@ Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 
 ## Auf geht's
 So, genug Krypto-Geld haben wir jetzt, um unsere Transaktion bezahlen zu können. Dann mal los.
-Hier die erweiterte Web-App, mit der die schreibende Contract-Methode
+Hier die erweiterte Web-App, mit der die schreibende Contract-Methode `logHashValue` aufgerufen wird:
+```
+<!DOCTYPE html>  
+<html lang="en">  
+<head>  
+    <meta charset="UTF-8">  
+  
+    <title>Weisenheimer</title>  
+  
+    <link rel="stylesheet" type="text/css" href="https://cdnjs.cloudflare.com/ajax/libs/materialize/1.0.0/css/materialize.min.css">  
+  
+    <script src="https://cdn.jsdelivr.net/gh/owidder/super-simple-utils@v0.12/build/static/js/showDataAsTable.min.js"></script>  
+    <script src="https://cdn.jsdelivr.net/gh/owidder/super-simple-utils@v0.12/build/static/js/hash.min.js"></script>  
+    <script src="https://cdn.jsdelivr.net/gh/ethereum/web3.js@1.0.0-beta.35/dist/web3.min.js"></script>  
+    <script src="./showPastEvents.js"></script>  
+</head>  
+  
+<style>  
+    .input {  
+        display: flex;  
+        justify-content: flex-start;  
+        align-items: flex-end;  
+    }  
+  
+    .input textarea {  
+        width: 70%;  
+        height: 10em;  
+        padding: 1em;  
+        background-color: #F7F7F0;  
+        margin: 1em;  
+    }  
+  
+    .input button {  
+        margin: 1em;  
+    }  
+</style>  
+<body>  
+  
+<div class="input">  
+    <textarea class="materialize-textarea" placeholder="Insert text, then press button to hash and log into smart contract"></textarea>  
+    <button onclick="hashAndLog()" class="waves-effect waves-light btn">Hash and log</button>  
+</div>  
+<div class="table"></div>  
+  
+<script>  
+    (function () {  
+  
+        const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];  
+  
+        if (window.ethereum) {  
+            ethereum.enable().then(function () {  
+                const web3 = new Web3(ethereum);  
+                const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");  
+                showPastEvents(contract, "div.table");  
+  
+                window.hashAndLog = () => {  
+                    const textarea = document.querySelector(".input textarea");  
+                    const textToHashAndLog = textarea.value;  
+                    hashSHA256(textToHashAndLog).then(hashedText => {  
+                        web3.eth.getAccounts((err, accountList) => {  
+                            contract.methods.logHashValue(hashedText).send({from: accountList[0]})  
+                                .on("confirmation", (confirmationNumber, receipt) => {  
+                                    console.log(`conformation number: ${confirmationNumber}`);  
+                                    console.log(receipt);  
+                                    showPastEvents(contract, "div.table");  
+                                })  
+                                .on("error", error => {  
+                                    console.error(error)  
+                                })  
+                        })  
+                        console.log(contract);  
+                    })  
+                }  
+            })  
+        } else {  
+            window.alert("No injected ethereum object found");  
+        }  
+    })()  
+</script>  
+</body>  
+</html>
+```
+
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYxMTY5ODM4Niw2NDYxNjIxMTgsLTgzNj
+eyJoaXN0b3J5IjpbLTQ4MTgwMjQyOSw2NDYxNjIxMTgsLTgzNj
 cyNjk5Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMw
 MCwtMTA1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTksLTQ4Nj
 UxNTk5NCw2MjIyOTAxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcw
