@@ -145,13 +145,15 @@ if (window.ethereum) {
     window.alert("No injected ethereum object found");  
 }
 ```
-In eine We `ethereum`-Object muss im 
+In einem Browser, der [Web3 enabled](https://forum.livepeer.org/t/how-to-enable-web3-in-your-browser/179) ist, existiert das `ethereum`-Object. Wenn das nicht da ist, können wir nicht weiter machen.
+
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNTExMzkzNDMsMTM1NzA1MjI4NiwtNj
-MyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTkyLDY3NzEyNTc0
-MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwLC0xMDU4MDU4MzMxLD
-k1MzA3NTUwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0LDYyMjI5MDE5
-NiwtMTUyNjQxOTY3NSwtMTMyNjE1NzA2OCwxMDY4MDM0ODIsNz
-Y1MTUyMDczLC01MTEwNTc1ODQsLTEzMzA0NzcwOTIsMTExNjA5
-ODY0N119
+eyJoaXN0b3J5IjpbODU0NDYxMTg5LDEzNTcwNTIyODYsLTYzMj
+kyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5Miw2NzcxMjU3NDIs
+MjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMzMSw5NT
+MwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTYs
+LTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NT
+E1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3MDkyLDExMTYwOTg2
+NDddfQ==
 -->
