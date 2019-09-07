@@ -200,13 +200,23 @@ web3.eth.getAccounts((err, accountList) => {
 ```
 
 Nun holen wir uns über die das `web3`-Object die ID des Accounts (darum mussten wir ja oben um Genehmigung gebeten). Über das Wallet kann man viele Accounts verwalten. `getAccounts` gibt ein Array mit einem einzigen String zurück: Der ID des aktuell ausgewählten Accounts:
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-09/iterablog/images/accounts.png"/>
+
+## Aufruf des Contracts
+```
+contract.methods.logHashValue(hashedText).send({from: accountList[0]})
+```
+
+Endlich!!! Jetzt haben wir den Hash-Wert (`hashedText`) und die Account-ID (`accountList[0]`). Damit können wir über das Proxy-Object (`contract`) die Methode `logHashValue` aufrufen.
+
+Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestätigung:
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUzNDI3OTg0NCw0NTkxMDkyNiwxNTU1Mj
-U2MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwtMzM0NDM4MTUyLDgz
-NDkwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4NDc5LDM3MDgxNjE3Mi
-wxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3MDUyMjg2LC02MzI5
-MjQ2NjksNjQ2MTYyMTE4LC04MzY3MjY5OTIsNjc3MTI1NzQyLD
-IxMDI3Njk0OTUsLTE3NjMzNTkzMDAsLTEwNTgwNTgzMzFdfQ==
+eyJoaXN0b3J5IjpbLTE1NDY0NTkwOTQsMTUzNDI3OTg0NCw0NT
+kxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwt
+MzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4ND
+c5LDM3MDgxNjE3MiwxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3
+MDUyMjg2LC02MzI5MjQ2NjksNjQ2MTYyMTE4LC04MzY3MjY5OT
+IsNjc3MTI1NzQyLDIxMDI3Njk0OTUsLTE3NjMzNTkzMDBdfQ==
 
 -->
