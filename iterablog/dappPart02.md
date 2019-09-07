@@ -24,10 +24,12 @@ In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-
 (Die App funktioniert nur, wenn das unten beschrieben [Plug-in Metamask](https://metamask.io/) installiert ist)
 
 ## Jetzt wird's ernst
-Das war bis jetzt doch alles nur Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Das machen wir, indem wir die schreibende Transaktion `logHashValue` des Weisenheimer-Contracts aufrufen.
+Das war bis jetzt doch alles nur Pillepalle. 
+Jetzt wollen wir mal in die Blockchain schreiben. 
+Das machen wir, indem wir die schreibende Transaktion `logHashValue` des Weisenheimer-Contracts aufrufen.
 
-## Umsonst ist der Tod...
-... aber eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die [Ether](https://www.coindesk.com/price/ethereum) geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das mit den folgenden Schritten:
+## Umsonst ist der Tod
+Eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die [Ether](https://www.coindesk.com/price/ethereum) geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das mit den folgenden Schritten:
 
  1. Falls nicht schon geschehen installieren wir uns das Browser-Plugin-Wallet [Metamask](https://metamask.io/).
  2. Beim ersten Öffnen wird automatisch ein Wallet inklusive Seed Phrase generiert:
@@ -215,11 +217,10 @@ Endlich!!! Jetzt haben wir den Hash-Wert (`hashedText`) und die Account-ID (`acc
 Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestätigung:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-10/iterablog/images/confirmTransaction.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMDA3MjE1MzYsLTE1NDY0NTkwOTQsMT
-UzNDI3OTg0NCw0NTkxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUw
-LDMxODk3OTQ4NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMD
-c3NTcsNjU1Nzc4NDc5LDM3MDgxNjE3MiwxNjUzODIzMDgxLDg1
-NDQ2MTE4OSwxMzU3MDUyMjg2LC02MzI5MjQ2NjksNjQ2MTYyMT
-E4LC04MzY3MjY5OTIsNjc3MTI1NzQyLDIxMDI3Njk0OTVdfQ==
-
+eyJoaXN0b3J5IjpbMTI4MTY5NTk1NCwtMTU0NjQ1OTA5NCwxNT
+M0Mjc5ODQ0LDQ1OTEwOTI2LDE1NTUyNTYwMyw1MzIwODI2NTAs
+MzE4OTc5NDg0LC0zMzQ0MzgxNTIsODM0OTAxODA5LDIyODEwNz
+c1Nyw2NTU3Nzg0NzksMzcwODE2MTcyLDE2NTM4MjMwODEsODU0
+NDYxMTg5LDEzNTcwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMT
+gsLTgzNjcyNjk5Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NV19
 -->
