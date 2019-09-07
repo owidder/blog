@@ -154,13 +154,14 @@ ethereum.enable().then(() => {
 })
 ```
 
-Mit `ethereun.enable()` bitten wir den Benutzer um Erlaubnis, dass wir Informationen aus seinem Account auslesen dürfen (z.B. die ID des Accounts). 
+Mit `ethereun.enable()` bitten wir den Benutzer um Erlaubnis, dass wir Informationen aus seinem Account auslesen dürfen (z.B. die ID des Accounts).
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NjI2MzI4MDcsODU0NDYxMTg5LDEzNT
-cwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5
-Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwtMT
-A1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5
-NCw2MjIyOTAxOTYsLTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMT
-A2ODAzNDgyLDc2NTE1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3
-MDkyXX0=
+eyJoaXN0b3J5IjpbMTY1MzgyMzA4MSw4NTQ0NjExODksMTM1Nz
+A1MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTky
+LDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwLC0xMD
+U4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0
+LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMTMyNjE1NzA2OCwxMD
+Y4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1ODQsLTEzMzA0Nzcw
+OTJdfQ==
 -->
