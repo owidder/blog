@@ -154,12 +154,11 @@ ethereum.enable().then(() => {
 })
 ```
 
-Mit `ethereun.enable()` öffnet Metamask einen Dialog, mit wir den Benutzer um Erlaubnis bitten, dass wir Informationen aus seinem Account auslesen dürfen (z.B. die ID des Accounts).
+Mit `ethereun.enable()` öffnet Metamask einen Dialog, mit wir den Benutzer [um Erlaubnis bitten](https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8), dass wir Informationen aus seinem Account auslesen dürfen (z.B. die ID des Accounts).
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-07/iterablog/images/connect.png"/>
-`enable` gib
-Wenn der Benutzer `connect` betätigt, wird die übergebene Callback-Function aufgerufen
+`enable` gibt ein JavaScript-Promise zurück, das resolved, wenn der Benutzer `connect` betätigt.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMzE4NjM2ODE5LDE2NTM4MjMwODEsODU0ND
+eyJoaXN0b3J5IjpbMzcwODE2MTcyLDE2NTM4MjMwODEsODU0ND
 YxMTg5LDEzNTcwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgs
 LTgzNjcyNjk5Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2Mz
 M1OTMwMCwtMTA1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTks
