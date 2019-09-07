@@ -36,14 +36,16 @@ Also gut darauf aufpassen (zumindest wenn man mit dem Wallet mehr als Rinkeby-Sp
 4. Und [tweetet](https://twitter.com/gap_listens/status/1170290940440977413) sie:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-03/iterablog/images/tweet.png"/>
 Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Account-ID.
-5. Die URL kopiert man sich und auf geht's zum Rinkeby-Faucet. Dort werden Ether verschenkt.
+5. Die URL kopiert man sich und auf geht's zum [Rinkeby-Faucet](https://faucet.rinkeby.io/). Dort werden Ether verschenkt.
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-04/iterablog/images/faucet3.png"/>
 Einfach die URL des Tweets in das Eingabefeld kopieren und auswählen, wieviel Ether es denn sein dürfen (wir nehmen uns natürlich gleich die vollen 18,75. Warum nicht?)
+Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE3NjMzNTkzMDAsLTEwNTgwNTgzMzEsOT
-UzMDc1NTAzLDc0NDU5OTE5LC00ODY1MTU5OTQsNjIyMjkwMTk2
-LC0xNTI2NDE5Njc1LC0xMzI2MTU3MDY4LDEwNjgwMzQ4Miw3Nj
-UxNTIwNzMsLTUxMTA1NzU4NCwtMTMzMDQ3NzA5MiwxMTE2MDk4
-NjQ3LDIzNzEzOTcxNSwxNDYxNTEwMjA1LDEzMzYxODg4ODAsLT
-M5NTcyMzc4Ml19
+eyJoaXN0b3J5IjpbMTg3MjI0Nzc4MCwyMTAyNzY5NDk1LC0xNz
+YzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkx
+OSwtNDg2NTE1OTk0LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMT
+MyNjE1NzA2OCwxMDY4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1
+ODQsLTEzMzA0NzcwOTIsMTExNjA5ODY0NywyMzcxMzk3MTUsMT
+Q2MTUxMDIwNSwxMzM2MTg4ODgwLC0zOTU3MjM3ODJdfQ==
 -->
