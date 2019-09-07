@@ -45,9 +45,9 @@ Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 
 ## Auf geht's
 Da wir nun Krypto-Geld haben, um unsere Transaktion bezahlen zu können, wollen wir zur Tat schreiten.
-Hier die erweiterte Web-App,
+Hier die erweiterte Web-App, mit der die schreibende Contract-Methode 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk2OTg2NzQ4Niw2NzcxMjU3NDIsMjEwMj
+eyJoaXN0b3J5IjpbLTgzNjcyNjk5Miw2NzcxMjU3NDIsMjEwMj
 c2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMzMSw5NTMwNzU1
 MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTYsLTE1Mj
 Y0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NTE1MjA3
