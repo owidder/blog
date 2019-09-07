@@ -36,12 +36,12 @@ Also gut darauf aufpassen (zumindest wenn man mit dem Wallet mehr als Rinkeby-Sp
 4. Und [tweetet](https://twitter.com/gap_listens/status/1170290940440977413) sie:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-03/iterablog/images/tweet.png"/>
 Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Account-ID.
-5. Die Adresse diese
+5. Die URL kopiert man sich und auf geht zum Rinkeby-Faucet
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk4MDQwMjk0OCw5NTMwNzU1MDMsNzQ0NT
-k5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTYsLTE1MjY0MTk2NzUs
-LTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NTE1MjA3MywtNTExMD
-U3NTg0LC0xMzMwNDc3MDkyLDExMTYwOTg2NDcsMjM3MTM5NzE1
-LDE0NjE1MTAyMDUsMTMzNjE4ODg4MCwtMzk1NzIzNzgyXX0=
+eyJoaXN0b3J5IjpbLTEwNTgwNTgzMzEsOTUzMDc1NTAzLDc0ND
+U5OTE5LC00ODY1MTU5OTQsNjIyMjkwMTk2LC0xNTI2NDE5Njc1
+LC0xMzI2MTU3MDY4LDEwNjgwMzQ4Miw3NjUxNTIwNzMsLTUxMT
+A1NzU4NCwtMTMzMDQ3NzA5MiwxMTE2MDk4NjQ3LDIzNzEzOTcx
+NSwxNDYxNTEwMjA1LDEzMzYxODg4ODAsLTM5NTcyMzc4Ml19
 -->
