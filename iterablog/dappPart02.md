@@ -44,14 +44,14 @@ Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-05/iterablog/images/faucet4.png"/>
 
 ## Auf geht's
-Da wir nun Krypto-Geld haben, um unsere Transaktion bezahlen zu können, wollen wir zur Tat schreiten.
+So, genug Krypto-Geld haben wir jetzt, um unsere Transaktion bezahlen zu können. Dann mal los.
 Hier die erweiterte Web-App, mit der die schreibende Contract-Methode 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTgzNjcyNjk5Miw2NzcxMjU3NDIsMjEwMj
-c2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMzMSw5NTMwNzU1
-MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTYsLTE1Mj
-Y0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NTE1MjA3
-MywtNTExMDU3NTg0LC0xMzMwNDc3MDkyLDExMTYwOTg2NDcsMj
-M3MTM5NzE1LDE0NjE1MTAyMDUsMTMzNjE4ODg4MCwtMzk1NzIz
-NzgyXX0=
+eyJoaXN0b3J5IjpbNjQ2MTYyMTE4LC04MzY3MjY5OTIsNjc3MT
+I1NzQyLDIxMDI3Njk0OTUsLTE3NjMzNTkzMDAsLTEwNTgwNTgz
+MzEsOTUzMDc1NTAzLDc0NDU5OTE5LC00ODY1MTU5OTQsNjIyMj
+kwMTk2LC0xNTI2NDE5Njc1LC0xMzI2MTU3MDY4LDEwNjgwMzQ4
+Miw3NjUxNTIwNzMsLTUxMTA1NzU4NCwtMTMzMDQ3NzA5MiwxMT
+E2MDk4NjQ3LDIzNzEzOTcxNSwxNDYxNTEwMjA1LDEzMzYxODg4
+ODBdfQ==
 -->
