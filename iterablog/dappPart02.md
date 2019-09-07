@@ -11,10 +11,13 @@ In [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-
 	    }
     }
 
-So richtig smart ist "Weisenheimer" nicht. Er kann nichts weiter als einen String (`hashValue`) in einem Contract-Event zu speichern. Damit ist dieser String für immer und ewig in die Blockchain eingebrannt.
+So richtig smart ist "Weisenheimer" nicht. Er kann nichts weiter als einen String (`hashValue`) in einem Contract-Event zu speichern. 
+Aber immerhin. 
+Damit ist dieser String für immer und ewig in die Blockchain eingebrannt.
 
 ## Was für Schlaumeier
-Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.org/german-english/weisenheimer) gedacht ist: Wer eine schlaue Idee hat, schreibt sie auf, [hasht](https://emn178.github.io/online-tools/sha256.html) sie und speichert den Hash-Wert über den Weisenheimer-Contract in der Blockchain. Dann kann man auch in vielen Jahren noch beweisen, dass man das heute schon wusste.
+Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.org/german-english/weisenheimer) gedacht ist: Denn wer eine schlaue Idee hat, schreibt sie auf, [hasht](https://emn178.github.io/online-tools/sha256.html) sie und speichert den Hash-Wert über den Weisenheimer-Contract in der Blockchain. 
+Dann kann man auch in vielen Jahren noch beweisen, dass man das heute schon wusste.
 
 ## Lesen des Contracts
 In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine [Web-App](https://owidder.github.io/weisenheimer/teil2/) erstellt, die mit ein klein wenig [JavaScript-Code](https://github.com/owidder/weisenheimer/blob/master/teil2/index.html) alle Events aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
@@ -212,10 +215,11 @@ Endlich!!! Jetzt haben wir den Hash-Wert (`hashedText`) und die Account-ID (`acc
 Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestätigung:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-10/iterablog/images/confirmTransaction.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA3NjA0ODcyMiwtMTU0NjQ1OTA5NCwxNT
-M0Mjc5ODQ0LDQ1OTEwOTI2LDE1NTUyNTYwMyw1MzIwODI2NTAs
-MzE4OTc5NDg0LC0zMzQ0MzgxNTIsODM0OTAxODA5LDIyODEwNz
-c1Nyw2NTU3Nzg0NzksMzcwODE2MTcyLDE2NTM4MjMwODEsODU0
-NDYxMTg5LDEzNTcwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMT
-gsLTgzNjcyNjk5Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NV19
+eyJoaXN0b3J5IjpbLTIwMDA3MjE1MzYsLTE1NDY0NTkwOTQsMT
+UzNDI3OTg0NCw0NTkxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUw
+LDMxODk3OTQ4NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMD
+c3NTcsNjU1Nzc4NDc5LDM3MDgxNjE3MiwxNjUzODIzMDgxLDg1
+NDQ2MTE4OSwxMzU3MDUyMjg2LC02MzI5MjQ2NjksNjQ2MTYyMT
+E4LC04MzY3MjY5OTIsNjc3MTI1NzQyLDIxMDI3Njk0OTVdfQ==
+
 -->
