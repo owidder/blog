@@ -45,7 +45,7 @@ Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Accoun
 5. Die URL kopiert man sich und auf geht's zum [Rinkeby-Faucet](https://faucet.rinkeby.io/). Dort werden Ether verschenkt.
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-04/iterablog/images/faucet3.png"/>
 Einfach die URL des Tweets in das Eingabefeld kopieren und auswählen, wieviel Ether es denn sein dürfen (wir nehmen uns natürlich gleich die vollen 18,75. Warum nicht?)
-Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
+6. Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-05/iterablog/images/faucet4.png"/>
 
 ## Auf geht's
@@ -217,10 +217,11 @@ Endlich!!! Jetzt haben wir den Hash-Wert (`hashedText`) und die Account-ID (`acc
 Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestätigung:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-10/iterablog/images/confirmTransaction.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4MTY5NTk1NCwtMTU0NjQ1OTA5NCwxNT
-M0Mjc5ODQ0LDQ1OTEwOTI2LDE1NTUyNTYwMyw1MzIwODI2NTAs
-MzE4OTc5NDg0LC0zMzQ0MzgxNTIsODM0OTAxODA5LDIyODEwNz
-c1Nyw2NTU3Nzg0NzksMzcwODE2MTcyLDE2NTM4MjMwODEsODU0
-NDYxMTg5LDEzNTcwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMT
-gsLTgzNjcyNjk5Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NV19
+eyJoaXN0b3J5IjpbLTEyNDA4MzQzNzAsLTE1NDY0NTkwOTQsMT
+UzNDI3OTg0NCw0NTkxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUw
+LDMxODk3OTQ4NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMD
+c3NTcsNjU1Nzc4NDc5LDM3MDgxNjE3MiwxNjUzODIzMDgxLDg1
+NDQ2MTE4OSwxMzU3MDUyMjg2LC02MzI5MjQ2NjksNjQ2MTYyMT
+E4LC04MzY3MjY5OTIsNjc3MTI1NzQyLDIxMDI3Njk0OTVdfQ==
+
 -->
