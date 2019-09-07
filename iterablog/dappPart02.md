@@ -23,10 +23,10 @@ In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-
 Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Und zwar indem wir die schreibende Transaktion `logHashValue` aufrufen.
 
 ## Umsonst ist der Tod...
-... aber eine schreibende Transaktion kostet Krypto-Geld. Wie in Teil 1
+... aber eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby   Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMwODY4NjA1MCwtMTUyNjQxOTY3NSwtMT
-MyNjE1NzA2OCwxMDY4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1
-ODQsLTEzMzA0NzcwOTIsMTExNjA5ODY0NywyMzcxMzk3MTUsMT
-Q2MTUxMDIwNSwxMzM2MTg4ODgwLC0zOTU3MjM3ODJdfQ==
+eyJoaXN0b3J5IjpbNTg5NDc0NjcxLC0xNTI2NDE5Njc1LC0xMz
+I2MTU3MDY4LDEwNjgwMzQ4Miw3NjUxNTIwNzMsLTUxMTA1NzU4
+NCwtMTMzMDQ3NzA5MiwxMTE2MDk4NjQ3LDIzNzEzOTcxNSwxND
+YxNTEwMjA1LDEzMzYxODg4ODAsLTM5NTcyMzc4Ml19
 -->
