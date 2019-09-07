@@ -18,7 +18,7 @@ Weisenheimer heißt "Weisenheimer", weil er für [Schlaumeier](https://dict.leo.
 
 ## Lesen des Contracts
 In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) haben wir eine kleine [Web-App](https://owidder.github.io/weisenheimer/teil2/) erstellt, die mit ein klein wenig [JavaScript-Code](https://github.com/owidder/weisenheimer/blob/master/teil2/index.html) alle Events aus dem Contract ausliest und die darin enthaltenen Hash-Werte zusammen mit Nummer und Timestamp des Blockes der Blockchain, in dem sich der Event befindet, anzeigt.
-(Due 
+(Die App funktioniert nur, wenn i 
 
 ## Jetzt wird's ernst
 Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schreiben. Und zwar indem wir die schreibende Transaktion `logHashValue` aufrufen.
@@ -46,7 +46,7 @@ Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 ## Auf geht's
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyNjc1MzAwNCw2NzcxMjU3NDIsMjEwMj
+eyJoaXN0b3J5IjpbMTAwNzU1NTYwNyw2NzcxMjU3NDIsMjEwMj
 c2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMzMSw5NTMwNzU1
 MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTYsLTE1Mj
 Y0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NTE1MjA3
