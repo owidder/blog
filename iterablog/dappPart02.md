@@ -28,10 +28,11 @@ Aber das war doch alles Pillepalle. Jetzt wollen wir mal in die Blockchain schre
  1. Falls nicht schon geschehen installieren wir uns das Browser-Plugin-Wallet [Metamask](https://metamask.io/).
  2. Beim ersten Öffnen wird automatisch ein Wallet inklusive Seed Phrase generiert:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-01/iterablog/images/metamask-init-seed.png"/>
+Die Seed Phrase be
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQ4NjUxNTk5NCw2MjIyOTAxOTYsLTE1Mj
-Y0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NTE1MjA3
-MywtNTExMDU3NTg0LC0xMzMwNDc3MDkyLDExMTYwOTg2NDcsMj
-M3MTM5NzE1LDE0NjE1MTAyMDUsMTMzNjE4ODg4MCwtMzk1NzIz
-NzgyXX0=
+eyJoaXN0b3J5IjpbLTMyNTQwMzYyMywtNDg2NTE1OTk0LDYyMj
+I5MDE5NiwtMTUyNjQxOTY3NSwtMTMyNjE1NzA2OCwxMDY4MDM0
+ODIsNzY1MTUyMDczLC01MTEwNTc1ODQsLTEzMzA0NzcwOTIsMT
+ExNjA5ODY0NywyMzcxMzk3MTUsMTQ2MTUxMDIwNSwxMzM2MTg4
+ODgwLC0zOTU3MjM3ODJdfQ==
 -->
