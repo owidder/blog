@@ -225,14 +225,15 @@ Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestä
     showPastEvents(contract, "div.table");  
 })
 ```
-Sobald es die Transaktion in einen Block der Blockchain geschafft hat gibt es ide 
+Sobald es die Transaktion in einen Block der Blockchain geschafft hat gibt es die erste Confirmation.
+
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0NDQxMjg0MiwtMjA4MDYwNjEyNywtMT
-I0MDgzNDM3MCwtMTU0NjQ1OTA5NCwxNTM0Mjc5ODQ0LDQ1OTEw
-OTI2LDE1NTUyNTYwMyw1MzIwODI2NTAsMzE4OTc5NDg0LC0zMz
-Q0MzgxNTIsODM0OTAxODA5LDIyODEwNzc1Nyw2NTU3Nzg0Nzks
-MzcwODE2MTcyLDE2NTM4MjMwODEsODU0NDYxMTg5LDEzNTcwNT
-IyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5Ml19
+eyJoaXN0b3J5IjpbNDg0MjE1NTk4LC0yMDgwNjA2MTI3LC0xMj
+QwODM0MzcwLC0xNTQ2NDU5MDk0LDE1MzQyNzk4NDQsNDU5MTA5
+MjYsMTU1NTI1NjAzLDUzMjA4MjY1MCwzMTg5Nzk0ODQsLTMzND
+QzODE1Miw4MzQ5MDE4MDksMjI4MTA3NzU3LDY1NTc3ODQ3OSwz
+NzA4MTYxNzIsMTY1MzgyMzA4MSw4NTQ0NjExODksMTM1NzA1Mj
+I4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTkyXX0=
 
 -->
