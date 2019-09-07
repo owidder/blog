@@ -172,9 +172,9 @@ Damit können wir uns dann über `web.eth.contract(abi, contractId)` ein Proxy-O
 showPastEvents(contract, "div.table");
 ```
 
-Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/)
+Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) zum Auslesen und anzeigen der Events. Wer Interesse hat, kann ihn hier sehen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1OTMwMzc5Myw2NTU3Nzg0NzksMzcwOD
+eyJoaXN0b3J5IjpbLTk4OTY4MDg2NCw2NTU3Nzg0NzksMzcwOD
 E2MTcyLDE2NTM4MjMwODEsODU0NDYxMTg5LDEzNTcwNTIyODYs
 LTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5Miw2NzcxMj
 U3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMz
