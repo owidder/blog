@@ -135,12 +135,13 @@ Wir wollen die JavaScript-Function im Einzelnen durchgehen
 const abi = [{"constant":false,"inputs":[{"name":"hashValue","type":"string"}],"name":"logHashValue","outputs":[],"payable":false,"stateMutability":"nonpayable","type":"function"},{"anonymous":false,"inputs":[{"indexed":false,"name":"","type":"string"},{"indexed":false,"name":"","type":"address"},{"indexed":false,"name":"","type":"uint256"}],"name":"NewHashValue","type":"event"}];
 ```
 Das ist das [Application Binary Interface (ABI)](https://ethereum.stackexchange.com/questions/234/what-is-an-abi-and-why-is-it-needed-to-interact-with-contracts) des Weisenheimer-Contracts. Man benötigt es, um mit dem Contract interagieren zu können. Sieht nicht schön. Aber zum Glück muss man es es nicht selber schreiben. Man kann es sich aus dem [deployten Contract](https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9#code) kopieren.
+
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM1NzA1MjI4NiwtNjMyOTI0NjY5LDY0Nj
-E2MjExOCwtODM2NzI2OTkyLDY3NzEyNTc0MiwyMTAyNzY5NDk1
-LC0xNzYzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3ND
-Q1OTkxOSwtNDg2NTE1OTk0LDYyMjI5MDE5NiwtMTUyNjQxOTY3
-NSwtMTMyNjE1NzA2OCwxMDY4MDM0ODIsNzY1MTUyMDczLC01MT
-EwNTc1ODQsLTEzMzA0NzcwOTIsMTExNjA5ODY0NywyMzcxMzk3
-MTVdfQ==
+eyJoaXN0b3J5IjpbNDkwNzc0NTcyLDEzNTcwNTIyODYsLTYzMj
+kyNDY2OSw2NDYxNjIxMTgsLTgzNjcyNjk5Miw2NzcxMjU3NDIs
+MjEwMjc2OTQ5NSwtMTc2MzM1OTMwMCwtMTA1ODA1ODMzMSw5NT
+MwNzU1MDMsNzQ0NTk5MTksLTQ4NjUxNTk5NCw2MjIyOTAxOTYs
+LTE1MjY0MTk2NzUsLTEzMjYxNTcwNjgsMTA2ODAzNDgyLDc2NT
+E1MjA3MywtNTExMDU3NTg0LC0xMzMwNDc3MDkyLDExMTYwOTg2
+NDddfQ==
 -->
