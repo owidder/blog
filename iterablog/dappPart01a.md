@@ -233,12 +233,12 @@ Funktioniert aber nur, wenn Sie das [Metamask-Plugin](https://metamask.io/) inst
 
 Und da sich der Contract im [Rinkeby Testnetzwerk]((https://www.rinkeby.io/#stats)) befindet, müssen Sie auch noch sicherstellen, dass Rinkeby in dem Plugin ausgewählt ist:
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181103-05/iterablog/images/metameask-rinkeby.png" width="50%"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181105-01/iterablog/images/metameask-rinkeby.png" width="50%"/>
 
 ## Die eigene DApp
 Wollen Sie Ihre Bekannten mit einer eigene DApp beeindrucken? 
 
-Nicht leichter als das. Contract und Frontend haben wir ja jetzt. Bleibt nur noch die Frage, wie wir das Frontend im Internet veröffentlichen. 
+Nichts leichter als das. Contract und Frontend haben wir ja jetzt. Bleibt nur noch die Frage, wie wir das Frontend im Internet veröffentlichen. 
 
 Und wie immer haben wir es eilig.
 ## Github Pages
@@ -259,7 +259,7 @@ ein [neues Repository erstellen](https://github.com/new) (z.B. mit dem Namen "we
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-01/iterablog/images/create-repo.png"/>
 
-Achtung: Wichtig ist, dass der Haken bei "Initialize this repository with a README" gesetzt ist.
+**Achtung**: Wichtig ist, dass der Haken bei "Initialize this repository with a README" gesetzt ist.
 
 ## 3. Branch erstellen
 Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü "Branch: Master"
@@ -270,7 +270,7 @@ Sobald das Repository erstellt ist, können Sie über das Dropdown-Menü "Branch
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-03/iterablog/images/create-branch.png"/>
 
-Achtung: Der Name ist wichtig und muss genau so lauten.
+**Achtung**: Der Name ist wichtig und muss genau so lauten.
 
 ## 4. Default-Branch setzen
 Über den Tab-Reiter "Settings" und die Auswahl "Branches" auf der linken Seite 
@@ -283,7 +283,7 @@ können Sie den Default-Branch auf den neuen Branch "gh-pages" setzen:
 
 Selbstverständlich [wissen wir, was wir tun](https://de.wikipedia.org/wiki/%E2%80%A6_denn_sie_wissen_nicht,_was_sie_tun):
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-06/iterablog/images/i-understand.png"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-06/iterablog/images/i-understand.png" width="50%"/>
 
 
 ## 5. HTML-File erstellen
@@ -302,10 +302,10 @@ Ganz unten klicken Sie den "Commit new file"-Button
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/commit-new-file.png"/>
 
-Achtung: Die Checkbox "Commit directly to the `gh-pages` branch" muss ausgewählt sein.
+**Achtung**: Die Checkbox "Commit directly to the `gh-pages` branch" muss ausgewählt sein.
 
 ## 6. Fertig
-Das war's eigentlich schon. Jetzt müssen Sie nur noch einmal im Tab-Reiter "Settings" nach unten scrollen bis zum Abschnitt GitHub-Pages
+Das war's eigentlich schon. Jetzt müssen Sie nur noch einmal im Tab-Reiter "Settings" nach unten scrollen bis zum Abschnitt "GitHub-Pages"
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-08/iterablog/images/gh-pages.png"/>
 
@@ -318,15 +318,16 @@ Sie funktioniert allerdings nur, wenn Sie das [Metamask-Plugin](https://metamask
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20181104-10/iterablog/images/metamask-rinkeby-02.png"/>
 
 ## Tschüüüs
-Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen.
+Vielen Dank und bis zum nächsten Mal. Dann werden wir die Dapp weiter ausbauen, so dass wir unsere klugen Ideen eintippen können und auf Knopfdruck die `logHashValue()`-Methode unseres Contracts aufgerufen wird.
+
 
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1Mzg3NjU5MjUsLTE4MTA1NDE3OTMsNT
-AyMTA5MTAwLC0xMzIwMDkwODM4LC00MDg1MzcwNzcsNTU4NTM1
-MiwtMTIzNDM5MDQwNiwtMTAxOTU3ODAzMCw4MzE5MjU3MzEsNz
-E4MTg1MDY4LC02OTAwOTYxODYsLTEzOTM0NDkxNzksLTEyMzQz
-MzM2OTEsLTIwODE5Njk1NzAsLTM0MDIwMDgwLC03MDQ0NTMxNz
-ksMTQ2NjU4NjQ1OCwtMTMyNDA2MjAxNSwtMTQxMDM1NTAzOCwx
-MjU3MjI4MTk2XX0=
+eyJoaXN0b3J5IjpbMTQ5MTg3NTY1OCwtMTUzODc2NTkyNSwtMT
+gxMDU0MTc5Myw1MDIxMDkxMDAsLTEzMjAwOTA4MzgsLTQwODUz
+NzA3Nyw1NTg1MzUyLC0xMjM0MzkwNDA2LC0xMDE5NTc4MDMwLD
+gzMTkyNTczMSw3MTgxODUwNjgsLTY5MDA5NjE4NiwtMTM5MzQ0
+OTE3OSwtMTIzNDMzMzY5MSwtMjA4MTk2OTU3MCwtMzQwMjAwOD
+AsLTcwNDQ1MzE3OSwxNDY2NTg2NDU4LC0xMzI0MDYyMDE1LC0x
+NDEwMzU1MDM4XX0=
 -->
