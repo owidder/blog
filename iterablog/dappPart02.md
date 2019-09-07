@@ -45,7 +45,7 @@ Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 
 ## Auf geht's
 So, genug Krypto-Geld haben wir jetzt, um unsere Transaktion bezahlen zu können. Dann mal los.
-Hier die erweiterte Web-App, mit der die schreibende Contract-Methode `logHashValue` aufgerufen wird:
+Hier [der Code der erweiterten Web-App](https://github.com/owidder/weisenheimer/blob/master/teil3/index.html), mit der die schreibende Contract-Methode `logHashValue` aufgerufen wird:
 ```
 <!DOCTYPE html>  
 <html lang="en">  
@@ -127,6 +127,9 @@ Hier die erweiterte Web-App, mit der die schreibende Contract-Methode `logHashVa
 </body>  
 </html>
 ```
+[Ruft man die App auf](https://owidder.github.io/weisenheimer/teil3/), stellt sie sich folgendermaßen dar:
+
+
 
 Wir wollen die JavaScript-Function im Einzelnen durchgehen
 
@@ -154,14 +157,31 @@ ethereum.enable().then(() => {
 })
 ```
 
-Mit `ethereun.enable()` bitten wir den Benutzer um Erlaubnis, dass wir Informationen aus seinem Account auslesen dürfen (z.B. die ID des Accounts).
+Mit `ethereun.enable()` öffnet Metamask einen Dialog, mit wir [um Erlaubnis bitten](https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8), dass wir Informationen aus dem Benutzer-Account auslesen dürfen (z.B. die ID des Accounts).
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-07/iterablog/images/connect.png"/>
+`enable` gibt ein [JavaScript-Promise](https://developers.google.com/web/fundamentals/primers/promises) zurück, das resolved, wenn der Benutzer `connect` betätigt (ansonsten war's das).
 
+## Contract-Proxy
+```
+const web3 = new Web3(ethereum);  
+const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce432700f9");
+```
+
+Sobald zugestimmt wurde, besorgen ein `web3`-Object. [Web3](https://github.com/ethereum/web3.js/) ist die offizielle JavaScript-API von Ethereum.
+Damit können wir uns dann über `web.eth.contract(abi, contractId)` ein Proxy-Object, über das wir den Contract erreichen können.
+
+## Events lesen und anzeigen
+```
+showPastEvents(contract, "div.table");
+```
+
+Hinter `showPastEvents(contractProxy, cssSelector)` verbirgt sich der Code aus [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) zum Auslesen und anzeigen der Events. Wer Interesse hat, kann ihn hier sehen. 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTY1MzgyMzA4MSw4NTQ0NjExODksMTM1Nz
-A1MjI4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTky
-LDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0xNzYzMzU5MzAwLC0xMD
-U4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OTkxOSwtNDg2NTE1OTk0
-LDYyMjI5MDE5NiwtMTUyNjQxOTY3NSwtMTMyNjE1NzA2OCwxMD
-Y4MDM0ODIsNzY1MTUyMDczLC01MTEwNTc1ODQsLTEzMzA0Nzcw
-OTJdfQ==
+eyJoaXN0b3J5IjpbLTMzNDQzODE1Miw4MzQ5MDE4MDksMjI4MT
+A3NzU3LDY1NTc3ODQ3OSwzNzA4MTYxNzIsMTY1MzgyMzA4MSw4
+NTQ0NjExODksMTM1NzA1MjI4NiwtNjMyOTI0NjY5LDY0NjE2Mj
+ExOCwtODM2NzI2OTkyLDY3NzEyNTc0MiwyMTAyNzY5NDk1LC0x
+NzYzMzU5MzAwLC0xMDU4MDU4MzMxLDk1MzA3NTUwMyw3NDQ1OT
+kxOSwtNDg2NTE1OTk0LDYyMjI5MDE5NiwtMTUyNjQxOTY3NV19
+
 -->
