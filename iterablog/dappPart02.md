@@ -190,13 +190,13 @@ window.hashAndLog = () => {
 ```
 
 `hashAndLog` wird aufgerufen, wenn der `HASH AND LOG`-Button geklickt wird (siehe `<button onclick="hashAndLog()" ...`)
-Der Text wird aus der TextArea ausgelesen 
+Der Text wird aus der TextArea ausgelesen und gehasht (
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDE3OTUxNzgsNTMyMDgyNjUwLDMxOD
-k3OTQ4NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMDc3NTcs
-NjU1Nzc4NDc5LDM3MDgxNjE3MiwxNjUzODIzMDgxLDg1NDQ2MT
-E4OSwxMzU3MDUyMjg2LC02MzI5MjQ2NjksNjQ2MTYyMTE4LC04
-MzY3MjY5OTIsNjc3MTI1NzQyLDIxMDI3Njk0OTUsLTE3NjMzNT
-kzMDAsLTEwNTgwNTgzMzEsOTUzMDc1NTAzLDc0NDU5OTE5XX0=
+eyJoaXN0b3J5IjpbMTIyMTQzMjg5OSw1MzIwODI2NTAsMzE4OT
+c5NDg0LC0zMzQ0MzgxNTIsODM0OTAxODA5LDIyODEwNzc1Nyw2
+NTU3Nzg0NzksMzcwODE2MTcyLDE2NTM4MjMwODEsODU0NDYxMT
+g5LDEzNTcwNTIyODYsLTYzMjkyNDY2OSw2NDYxNjIxMTgsLTgz
+NjcyNjk5Miw2NzcxMjU3NDIsMjEwMjc2OTQ5NSwtMTc2MzM1OT
+MwMCwtMTA1ODA1ODMzMSw5NTMwNzU1MDMsNzQ0NTk5MTldfQ==
 
 -->
