@@ -137,6 +137,7 @@ In der TextArea kann man einen beliebigen Text eingeben. Über den `HASH AND LOG
 Sobald die Transaktion bestätigt ist, wird der neue Hash-Wert mit Blocknummer, Adresse des Senders und Zeitstempel in der Tabelle angezeigt.
 
 ## Show me the code
+Wir geben jetzt mal was in der TextArea ein und 
 Wir wollen die JavaScript-Function im Einzelnen durchgehen
 
 ## ABI
@@ -232,11 +233,11 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
 ```
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTYyMjc0NDU1MSw1MDU4NjQyMTksMTg4Nj
-QzMjI1Myw0ODQyMTU1OTgsLTIwODA2MDYxMjcsLTEyNDA4MzQz
-NzAsLTE1NDY0NTkwOTQsMTUzNDI3OTg0NCw0NTkxMDkyNiwxNT
-U1MjU2MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwtMzM0NDM4MTUy
-LDgzNDkwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4NDc5LDM3MDgxNj
-E3MiwxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3MDUyMjg2XX0=
+eyJoaXN0b3J5IjpbMTYwNzQwNDgwMSwtNjIyNzQ0NTUxLDUwNT
+g2NDIxOSwxODg2NDMyMjUzLDQ4NDIxNTU5OCwtMjA4MDYwNjEy
+NywtMTI0MDgzNDM3MCwtMTU0NjQ1OTA5NCwxNTM0Mjc5ODQ0LD
+Q1OTEwOTI2LDE1NTUyNTYwMyw1MzIwODI2NTAsMzE4OTc5NDg0
+LC0zMzQ0MzgxNTIsODM0OTAxODA5LDIyODEwNzc1Nyw2NTU3Nz
+g0NzksMzcwODE2MTcyLDE2NTM4MjMwODEsODU0NDYxMTg5XX0=
 
 -->
