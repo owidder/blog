@@ -234,8 +234,8 @@ Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask:
 Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es die erste Confirmation. Darüber freut sich dann auch Metamask:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-11/iterablog/images/confirmationMessage.png"/>
 
-`send()` gibt ein sogenanntes [`PromiEvent`](https://web3js.readthedocs.io/en/v1.2.0/callbacks-promises-events.html#promievent) zurück (kein berühmtes Event, sondern irgendwas zwischen Promise und Event). 
-Über das `PromiEvent` kann man sich dann informieren lassen, wenn eine Bestätigung eingegangen ist.
+`send()` gibt ein sogenanntes [`PromiEvent`](https://web3js.readthedocs.io/en/v1.2.0/callbacks-promises-events.html#promievent) zurück (das ist kein berühmtes Event, sondern irgendwas zwischen Promise und Event). 
+Über das `PromiEvent` kann man sich dann informieren lassen, sobald eine Bestätigung eingegangen ist.
 ```
 .on("confirmation", (confirmationNumber, receipt) => {  
     console.log(`conformation number: ${confirmationNumber}`);  
@@ -245,11 +245,11 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
 ```
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NjU3NzgxNTEsOTQ1ODE2MzQzLC0xMT
-M0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMDQ1MjQwLC02MjI3
-NDQ1NTEsNTA1ODY0MjE5LDE4ODY0MzIyNTMsNDg0MjE1NTk4LC
-0yMDgwNjA2MTI3LC0xMjQwODM0MzcwLC0xNTQ2NDU5MDk0LDE1
-MzQyNzk4NDQsNDU5MTA5MjYsMTU1NTI1NjAzLDUzMjA4MjY1MC
-wzMTg5Nzk0ODQsLTMzNDQzODE1Miw4MzQ5MDE4MDksMjI4MTA3
-NzU3XX0=
+eyJoaXN0b3J5IjpbMjAyNDY2ODE1OCw5NDU4MTYzNDMsLTExMz
+Q3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAsLTYyMjc0
+NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0ODQyMTU1OTgsLT
+IwODA2MDYxMjcsLTEyNDA4MzQzNzAsLTE1NDY0NTkwOTQsMTUz
+NDI3OTg0NCw0NTkxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUwLD
+MxODk3OTQ4NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMDc3
+NTddfQ==
 -->
