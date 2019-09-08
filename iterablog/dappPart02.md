@@ -214,7 +214,7 @@ web3.eth.getAccounts((err, accountList) => {
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-09/iterablog/images/accounts.png"/>
 Nun holen wir uns über die das `web3`-Object die ID des Accounts (darum mussten wir ja oben um Genehmigung gebeten). Über das Wallet kann man viele Accounts verwalten. `getAccounts` gibt ein Array mit einem einzigen String zurück: Der ID des aktuell ausgewählten Accounts.
 
-
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-09/iterablog/images/accounts.png"/>
 
 ## Aufruf des Contracts
 ```
@@ -241,11 +241,11 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
 ```
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1ODE2MzQzLC0xMTM0NzY3NzQ1LC0yMD
-cwNjc4MDYwLC0xMjIxMDQ1MjQwLC02MjI3NDQ1NTEsNTA1ODY0
-MjE5LDE4ODY0MzIyNTMsNDg0MjE1NTk4LC0yMDgwNjA2MTI3LC
-0xMjQwODM0MzcwLC0xNTQ2NDU5MDk0LDE1MzQyNzk4NDQsNDU5
-MTA5MjYsMTU1NTI1NjAzLDUzMjA4MjY1MCwzMTg5Nzk0ODQsLT
-MzNDQzODE1Miw4MzQ5MDE4MDksMjI4MTA3NzU3LDY1NTc3ODQ3
-OV19
+eyJoaXN0b3J5IjpbMTg3OTE3OTg0MSw5NDU4MTYzNDMsLTExMz
+Q3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAsLTYyMjc0
+NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0ODQyMTU1OTgsLT
+IwODA2MDYxMjcsLTEyNDA4MzQzNzAsLTE1NDY0NTkwOTQsMTUz
+NDI3OTg0NCw0NTkxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUwLD
+MxODk3OTQ4NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMDc3
+NTddfQ==
 -->
