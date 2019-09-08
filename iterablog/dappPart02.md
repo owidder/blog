@@ -202,6 +202,8 @@ window.hashAndLog = () => {
 `hashAndLog` wird aufgerufen, wenn der `HASH AND LOG`-Button geklickt wird (siehe `<button onclick="hashAndLog()" ...`)
 Der Text wird aus der TextArea ausgelesen und gehasht (den Code zum Hashen kann man [hier](https://github.com/owidder/super-simple-utils/blob/master/src/hash/hash.ts) sehen).
 
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-02/iterablog/images/variables.png"/>
+
 
 ## Account ID
 ```
@@ -211,7 +213,6 @@ web3.eth.getAccounts((err, accountList) => {
 ```
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-09/iterablog/images/accounts.png"/>
 Nun holen wir uns über die das `web3`-Object die ID des Accounts (darum mussten wir ja oben um Genehmigung gebeten). Über das Wallet kann man viele Accounts verwalten. `getAccounts` gibt ein Array mit einem einzigen String zurück: Der ID des aktuell ausgewählten Accounts:
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-02/iterablog/images/variables.png"/>
 
 ## Aufruf des Contracts
 ```
@@ -238,11 +239,11 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
 ```
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI2ODUyNDcwMywtMjA3MDY3ODA2MCwtMT
-IyMTA0NTI0MCwtNjIyNzQ0NTUxLDUwNTg2NDIxOSwxODg2NDMy
-MjUzLDQ4NDIxNTU5OCwtMjA4MDYwNjEyNywtMTI0MDgzNDM3MC
-wtMTU0NjQ1OTA5NCwxNTM0Mjc5ODQ0LDQ1OTEwOTI2LDE1NTUy
-NTYwMyw1MzIwODI2NTAsMzE4OTc5NDg0LC0zMzQ0MzgxNTIsOD
-M0OTAxODA5LDIyODEwNzc1Nyw2NTU3Nzg0NzksMzcwODE2MTcy
-XX0=
+eyJoaXN0b3J5IjpbLTExMzQ3Njc3NDUsLTIwNzA2NzgwNjAsLT
+EyMjEwNDUyNDAsLTYyMjc0NDU1MSw1MDU4NjQyMTksMTg4NjQz
+MjI1Myw0ODQyMTU1OTgsLTIwODA2MDYxMjcsLTEyNDA4MzQzNz
+AsLTE1NDY0NTkwOTQsMTUzNDI3OTg0NCw0NTkxMDkyNiwxNTU1
+MjU2MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwtMzM0NDM4MTUyLD
+gzNDkwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4NDc5LDM3MDgxNjE3
+Ml19
 -->
