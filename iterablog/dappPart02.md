@@ -137,6 +137,9 @@ In der TextArea kann man einen beliebigen Text eingeben. Über den `HASH AND LOG
 Sobald die Transaktion bestätigt ist, wird der neue Hash-Wert mit Blocknummer, Adresse des Senders und Zeitstempel in der Tabelle angezeigt.
 
 ## Show me the code
+Wir geben jetzt erst einmal was in der TextArea ein und betätigend den `HASH AND LOG`-Button.
+
+
 Wir wollen die JavaScript-Function im Einzelnen durchgehen
 
 ## ABI
@@ -218,6 +221,11 @@ Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestä
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-10/iterablog/images/confirmTransaction.png"/>
 
 ## Bestätigungen
+Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es die erste Confirmation. Darüber freut sich dann auch Metamask:
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-11/iterablog/images/confirmationMessage.png"/>
+
+`send()` gibt ein sogenanntes [`PromiEvent`](https://web3js.readthedocs.io/en/v1.2.0/callbacks-promises-events.html#promievent) zurück (kein berühmtes Event, sondern irgendwas zwischen Promise und Event). 
+Über das `PromiEvent` kann man sich dann informieren lassen, wenn eine Bestätigung eingegangen ist.
 ```
 .on("confirmation", (confirmationNumber, receipt) => {  
     console.log(`conformation number: ${confirmationNumber}`);  
@@ -225,15 +233,13 @@ Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestä
     showPastEvents(contract, "div.table");  
 })
 ```
-Sobald es die Transaktion in einen Block der Blockchain geschafft hat gibt es die erste Confirmation.
-
-
+Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDg0MjE1NTk4LC0yMDgwNjA2MTI3LC0xMj
-QwODM0MzcwLC0xNTQ2NDU5MDk0LDE1MzQyNzk4NDQsNDU5MTA5
-MjYsMTU1NTI1NjAzLDUzMjA4MjY1MCwzMTg5Nzk0ODQsLTMzND
-QzODE1Miw4MzQ5MDE4MDksMjI4MTA3NzU3LDY1NTc3ODQ3OSwz
-NzA4MTYxNzIsMTY1MzgyMzA4MSw4NTQ0NjExODksMTM1NzA1Mj
-I4NiwtNjMyOTI0NjY5LDY0NjE2MjExOCwtODM2NzI2OTkyXX0=
+eyJoaXN0b3J5IjpbLTEyMjEwNDUyNDAsLTYyMjc0NDU1MSw1MD
+U4NjQyMTksMTg4NjQzMjI1Myw0ODQyMTU1OTgsLTIwODA2MDYx
+MjcsLTEyNDA4MzQzNzAsLTE1NDY0NTkwOTQsMTUzNDI3OTg0NC
+w0NTkxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUwLDMxODk3OTQ4
+NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMDc3NTcsNjU1Nz
+c4NDc5LDM3MDgxNjE3MiwxNjUzODIzMDgxLDg1NDQ2MTE4OV19
 
 -->
