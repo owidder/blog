@@ -232,6 +232,7 @@ Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask:
 
 ## Bestätigungen
 Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es die erste Confirmation. Darüber freut sich dann auch Metamask:
+
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-11/iterablog/images/confirmationMessage.png"/>
 
 `send()` gibt ein sogenanntes [`PromiEvent`](https://web3js.readthedocs.io/en/v1.2.0/callbacks-promises-events.html#promievent) zurück (das ist kein berühmtes Event, sondern irgendwas zwischen Promise und Event). 
@@ -244,12 +245,14 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
 })
 ```
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
+
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-04/iterablog/images/table.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjAyNDY2ODE1OCw5NDU4MTYzNDMsLTExMz
-Q3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAsLTYyMjc0
-NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0ODQyMTU1OTgsLT
-IwODA2MDYxMjcsLTEyNDA4MzQzNzAsLTE1NDY0NTkwOTQsMTUz
-NDI3OTg0NCw0NTkxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUwLD
-MxODk3OTQ4NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMDc3
-NTddfQ==
+eyJoaXN0b3J5IjpbLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NT
+gxNjM0MywtMTEzNDc2Nzc0NSwtMjA3MDY3ODA2MCwtMTIyMTA0
+NTI0MCwtNjIyNzQ0NTUxLDUwNTg2NDIxOSwxODg2NDMyMjUzLD
+Q4NDIxNTU5OCwtMjA4MDYwNjEyNywtMTI0MDgzNDM3MCwtMTU0
+NjQ1OTA5NCwxNTM0Mjc5ODQ0LDQ1OTEwOTI2LDE1NTUyNTYwMy
+w1MzIwODI2NTAsMzE4OTc5NDg0LC0zMzQ0MzgxNTIsODM0OTAx
+ODA5XX0=
 -->
