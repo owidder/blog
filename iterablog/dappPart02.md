@@ -230,9 +230,9 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
     showPastEvents(contract, "div.table");  
 })
 ```
-Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über 
+Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NDg5NjA4MCw1MDU4NjQyMTksMTg4Nj
+eyJoaXN0b3J5IjpbLTYyMjc0NDU1MSw1MDU4NjQyMTksMTg4Nj
 QzMjI1Myw0ODQyMTU1OTgsLTIwODA2MDYxMjcsLTEyNDA4MzQz
 NzAsLTE1NDY0NTkwOTQsMTUzNDI3OTg0NCw0NTkxMDkyNiwxNT
 U1MjU2MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwtMzM0NDM4MTUy
