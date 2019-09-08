@@ -221,7 +221,7 @@ Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestä
 Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es die erste Confirmation. Darüber freut sich dann auch Metamask:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-11/iterablog/images/confirmationMessage.png"/>
 
-
+`send`
 ```
 .on("confirmation", (confirmationNumber, receipt) => {  
     console.log(`conformation number: ${confirmationNumber}`);  
@@ -231,11 +231,11 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNTA1ODY0MjE5LDE4ODY0MzIyNTMsNDg0Mj
-E1NTk4LC0yMDgwNjA2MTI3LC0xMjQwODM0MzcwLC0xNTQ2NDU5
-MDk0LDE1MzQyNzk4NDQsNDU5MTA5MjYsMTU1NTI1NjAzLDUzMj
-A4MjY1MCwzMTg5Nzk0ODQsLTMzNDQzODE1Miw4MzQ5MDE4MDks
-MjI4MTA3NzU3LDY1NTc3ODQ3OSwzNzA4MTYxNzIsMTY1MzgyMz
-A4MSw4NTQ0NjExODksMTM1NzA1MjI4NiwtNjMyOTI0NjY5XX0=
+eyJoaXN0b3J5IjpbMTQzODUwOTY1MSw1MDU4NjQyMTksMTg4Nj
+QzMjI1Myw0ODQyMTU1OTgsLTIwODA2MDYxMjcsLTEyNDA4MzQz
+NzAsLTE1NDY0NTkwOTQsMTUzNDI3OTg0NCw0NTkxMDkyNiwxNT
+U1MjU2MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwtMzM0NDM4MTUy
+LDgzNDkwMTgwOSwyMjgxMDc3NTcsNjU1Nzc4NDc5LDM3MDgxNj
+E3MiwxNjUzODIzMDgxLDg1NDQ2MTE4OSwxMzU3MDUyMjg2XX0=
 
 -->
