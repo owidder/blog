@@ -140,9 +140,9 @@ Sobald die Transaktion bestätigt ist, wird der neue Hash-Wert mit Blocknummer, 
 Wir geben jetzt erst einmal was in der TextArea ein und betätigend den `HASH AND LOG`-Button:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-01/iterablog/images/lotto.png"/>
-(Ich freue mich schon auf die 20. Oktober 2030. Da werde ich mit Hilfe der Blockchain endlich beweisen können, dass ich hellseherische Kräfte habe)
+(Im Jahr 2030 werde ich mit Hilfe der Blockchain endlich beweisen können, dass ich hellseherische Kräfte habe)
 
-Wir wollen die JavaScript-Function im Einzelnen durchgehen
+Und jetzt wollen wir die JavaScript-Function im Einzelnen durchgehen
 
 ## ABI
 ```
@@ -237,11 +237,11 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
 ```
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA4OTU0MzA3NSwtMTIyMTA0NTI0MCwtNj
-IyNzQ0NTUxLDUwNTg2NDIxOSwxODg2NDMyMjUzLDQ4NDIxNTU5
-OCwtMjA4MDYwNjEyNywtMTI0MDgzNDM3MCwtMTU0NjQ1OTA5NC
-wxNTM0Mjc5ODQ0LDQ1OTEwOTI2LDE1NTUyNTYwMyw1MzIwODI2
-NTAsMzE4OTc5NDg0LC0zMzQ0MzgxNTIsODM0OTAxODA5LDIyOD
-EwNzc1Nyw2NTU3Nzg0NzksMzcwODE2MTcyLDE2NTM4MjMwODFd
-fQ==
+eyJoaXN0b3J5IjpbLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAsLT
+YyMjc0NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0ODQyMTU1
+OTgsLTIwODA2MDYxMjcsLTEyNDA4MzQzNzAsLTE1NDY0NTkwOT
+QsMTUzNDI3OTg0NCw0NTkxMDkyNiwxNTU1MjU2MDMsNTMyMDgy
+NjUwLDMxODk3OTQ4NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMj
+gxMDc3NTcsNjU1Nzc4NDc5LDM3MDgxNjE3MiwxNjUzODIzMDgx
+XX0=
 -->
