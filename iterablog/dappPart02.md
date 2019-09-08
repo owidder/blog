@@ -244,15 +244,19 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
     showPastEvents(contract, "div.table");  
 })
 ```
-Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
+Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). 
+
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-05/iterablog/images/confirmation.png"/>
+
+Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-04/iterablog/images/table.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NT
-gxNjM0MywtMTEzNDc2Nzc0NSwtMjA3MDY3ODA2MCwtMTIyMTA0
-NTI0MCwtNjIyNzQ0NTUxLDUwNTg2NDIxOSwxODg2NDMyMjUzLD
-Q4NDIxNTU5OCwtMjA4MDYwNjEyNywtMTI0MDgzNDM3MCwtMTU0
-NjQ1OTA5NCwxNTM0Mjc5ODQ0LDQ1OTEwOTI2LDE1NTUyNTYwMy
-w1MzIwODI2NTAsMzE4OTc5NDg0LC0zMzQ0MzgxNTIsODM0OTAx
-ODA5XX0=
+eyJoaXN0b3J5IjpbLTE4MzE1MzA5NzYsLTQyNTQzMzM0OCwyMD
+I0NjY4MTU4LDk0NTgxNjM0MywtMTEzNDc2Nzc0NSwtMjA3MDY3
+ODA2MCwtMTIyMTA0NTI0MCwtNjIyNzQ0NTUxLDUwNTg2NDIxOS
+wxODg2NDMyMjUzLDQ4NDIxNTU5OCwtMjA4MDYwNjEyNywtMTI0
+MDgzNDM3MCwtMTU0NjQ1OTA5NCwxNTM0Mjc5ODQ0LDQ1OTEwOT
+I2LDE1NTUyNTYwMyw1MzIwODI2NTAsMzE4OTc5NDg0LC0zMzQ0
+MzgxNTJdfQ==
 -->
