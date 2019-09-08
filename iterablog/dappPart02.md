@@ -221,7 +221,7 @@ Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestä
 Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es die erste Confirmation. Darüber freut sich dann auch Metamask:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-11/iterablog/images/confirmationMessage.png"/>
 
-`send()` gibt ein sogenanntes [`PromiEvent`](https://web3js.readthedocs.io/en/v1.2.0/callbacks-promises-events.html#promievent) zurück. 
+`send()` gibt ein sogenanntes [`PromiEvent`](https://web3js.readthedocs.io/en/v1.2.0/callbacks-promises-events.html#promievent) (irgendwas zwischen Promise und Event) zurück. Über ein `PromiEvent` kann man sich informieren lassen
 ```
 .on("confirmation", (confirmationNumber, receipt) => {  
     console.log(`conformation number: ${confirmationNumber}`);  
@@ -231,7 +231,7 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
 ```
 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTE2NjU1ODI0OCw1MDU4NjQyMTksMTg4Nj
+eyJoaXN0b3J5IjpbLTY1MDI1NTk2Nyw1MDU4NjQyMTksMTg4Nj
 QzMjI1Myw0ODQyMTU1OTgsLTIwODA2MDYxMjcsLTEyNDA4MzQz
 NzAsLTE1NDY0NTkwOTQsMTUzNDI3OTg0NCw0NTkxMDkyNiwxNT
 U1MjU2MDMsNTMyMDgyNjUwLDMxODk3OTQ4NCwtMzM0NDM4MTUy
