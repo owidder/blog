@@ -235,7 +235,7 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-11/iterablog/images/confirmationMessage.png"/>
 
-`contract.methods.logHashValue(hashedText).send({from: accountList[0]})` gibt ein sogenanntes [`PromiEvent`](https://web3js.readthedocs.io/en/v1.2.0/callbacks-promises-events.html#promievent) zurück (das ist kein berühmtes Event, sondern irgendwas zwischen Promise und Event). 
+`contract.methods.logHashValue(hashedText).send({from: accountList[0]})` gibt ein sogenanntes [`PromiEvent`](https://web3js.readthedocs.io/en/v1.2.0/callbacks-promises-events.html#promievent) zurück (das ist allerdings nicht etwa ein besonders berühmtes Event, sondern einfach nur eine Mischung aus Promise und Event). 
 Über das `PromiEvent` kann man sich dann informieren lassen, sobald eine Bestätigung eingegangen ist.
 ```
 .on("confirmation", (confirmationNumber, receipt) => {  
@@ -252,7 +252,7 @@ Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung a
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-04/iterablog/images/table.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQ3NzY2MDg2OSwxMDA3MjQ1NDgyLC0xOD
+eyJoaXN0b3J5IjpbMTk4ODMwODIxNywxMDA3MjQ1NDgyLC0xOD
 MxNTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4MTYz
 NDMsLTExMzQ3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyND
 AsLTYyMjc0NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0ODQy
