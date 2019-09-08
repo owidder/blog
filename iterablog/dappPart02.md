@@ -211,10 +211,13 @@ web3.eth.getAccounts((err, accountList) => {
 	...
 })
 ```
+Nun holen wir uns über die das `web3`-Object die ID des Accounts (darum mussten wir ja oben um Genehmigung gebeten). 
+Über das Metamask kann man viele Accounts verwalten. 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-09/iterablog/images/accounts.png"/>
-Nun holen wir uns über die das `web3`-Object die ID des Accounts (darum mussten wir ja oben um Genehmigung gebeten). Über das Wallet kann man viele Accounts verwalten. `getAccounts` gibt ein Array mit einem einzigen String zurück: Der ID des aktuell ausgewählten Accounts.
 
+`getAccounts` gibt ein Array mit einem einzigen String zurück: Der ID des aktuell ausgewählten Accounts.
 
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-03/iterablog/images/accountList.png"/>
 
 ## Aufruf des Contracts
 ```
@@ -223,15 +226,16 @@ contract.methods.logHashValue(hashedText).send({from: accountList[0]})
 
 Endlich!!! Jetzt haben wir den Hash-Wert (`hashedText`) und die Account-ID (`accountList[0]`). Damit können wir über das Proxy-Object (`contract`) die Methode `logHashValue` aufrufen.
 
-Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask und will eine Bestätigung:
+Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask:
+
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-10/iterablog/images/confirmTransaction.png"/>
 
 ## Bestätigungen
 Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es die erste Confirmation. Darüber freut sich dann auch Metamask:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-11/iterablog/images/confirmationMessage.png"/>
 
-`send()` gibt ein sogenanntes [`PromiEvent`](https://web3js.readthedocs.io/en/v1.2.0/callbacks-promises-events.html#promievent) zurück (kein berühmtes Event, sondern irgendwas zwischen Promise und Event). 
-Über das `PromiEvent` kann man sich dann informieren lassen, wenn eine Bestätigung eingegangen ist.
+`send()` gibt ein sogenanntes [`PromiEvent`](https://web3js.readthedocs.io/en/v1.2.0/callbacks-promises-events.html#promievent) zurück (das ist kein berühmtes Event, sondern irgendwas zwischen Promise und Event). 
+Über das `PromiEvent` kann man sich dann informieren lassen, sobald eine Bestätigung eingegangen ist.
 ```
 .on("confirmation", (confirmationNumber, receipt) => {  
     console.log(`conformation number: ${confirmationNumber}`);  
@@ -241,11 +245,11 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
 ```
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTQ1ODE2MzQzLC0xMTM0NzY3NzQ1LC0yMD
-cwNjc4MDYwLC0xMjIxMDQ1MjQwLC02MjI3NDQ1NTEsNTA1ODY0
-MjE5LDE4ODY0MzIyNTMsNDg0MjE1NTk4LC0yMDgwNjA2MTI3LC
-0xMjQwODM0MzcwLC0xNTQ2NDU5MDk0LDE1MzQyNzk4NDQsNDU5
-MTA5MjYsMTU1NTI1NjAzLDUzMjA4MjY1MCwzMTg5Nzk0ODQsLT
-MzNDQzODE1Miw4MzQ5MDE4MDksMjI4MTA3NzU3LDY1NTc3ODQ3
-OV19
+eyJoaXN0b3J5IjpbMjAyNDY2ODE1OCw5NDU4MTYzNDMsLTExMz
+Q3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAsLTYyMjc0
+NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0ODQyMTU1OTgsLT
+IwODA2MDYxMjcsLTEyNDA4MzQzNzAsLTE1NDY0NTkwOTQsMTUz
+NDI3OTg0NCw0NTkxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUwLD
+MxODk3OTQ4NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMDc3
+NTddfQ==
 -->
