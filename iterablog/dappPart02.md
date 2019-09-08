@@ -137,8 +137,10 @@ In der TextArea kann man einen beliebigen Text eingeben. Über den `HASH AND LOG
 Sobald die Transaktion bestätigt ist, wird der neue Hash-Wert mit Blocknummer, Adresse des Senders und Zeitstempel in der Tabelle angezeigt.
 
 ## Show me the code
-Wir geben jetzt erst einmal was in der TextArea ein und betätigend den `HASH AND LOG`-Button.
+Wir geben jetzt erst einmal was in der TextArea ein und betätigend den `HASH AND LOG`-Button:
 
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-01/iterablog/images/lotto.png"/>
+(Ich freue mich schon auf die 20. Oktober 2030. Da werde ich mit Hilfe der Blockchain endlich beweisen können, dass ich hellseherische Kräfte habe)
 
 Wir wollen die JavaScript-Function im Einzelnen durchgehen
 
@@ -235,11 +237,11 @@ Sobald es die Transaktion in einen Block der Blockchain geschafft hat, gibt es d
 ```
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). Über `showPastEvents`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser Hash-Wert sollte jetzt ganz oben zu sehen sein.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEyMjEwNDUyNDAsLTYyMjc0NDU1MSw1MD
-U4NjQyMTksMTg4NjQzMjI1Myw0ODQyMTU1OTgsLTIwODA2MDYx
-MjcsLTEyNDA4MzQzNzAsLTE1NDY0NTkwOTQsMTUzNDI3OTg0NC
-w0NTkxMDkyNiwxNTU1MjU2MDMsNTMyMDgyNjUwLDMxODk3OTQ4
-NCwtMzM0NDM4MTUyLDgzNDkwMTgwOSwyMjgxMDc3NTcsNjU1Nz
-c4NDc5LDM3MDgxNjE3MiwxNjUzODIzMDgxLDg1NDQ2MTE4OV19
-
+eyJoaXN0b3J5IjpbMTA4OTU0MzA3NSwtMTIyMTA0NTI0MCwtNj
+IyNzQ0NTUxLDUwNTg2NDIxOSwxODg2NDMyMjUzLDQ4NDIxNTU5
+OCwtMjA4MDYwNjEyNywtMTI0MDgzNDM3MCwtMTU0NjQ1OTA5NC
+wxNTM0Mjc5ODQ0LDQ1OTEwOTI2LDE1NTUyNTYwMyw1MzIwODI2
+NTAsMzE4OTc5NDg0LC0zMzQ0MzgxNTIsODM0OTAxODA5LDIyOD
+EwNzc1Nyw2NTU3Nzg0NzksMzcwODE2MTcyLDE2NTM4MjMwODFd
+fQ==
 -->
