@@ -181,7 +181,7 @@ Mit `ethereun.enable()` öffnet Metamask einen Dialog, mit wir [um Erlaubnis bit
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-07/iterablog/images/connect.png"/>
 
-`enable()` gibt ein [JavaScript-Promise](https://developers.google.com/web/fundamentals/primers/promises) zurück, das resolved, wenn der Benutzer `connect` betätigt (ansonsten war's das).
+`enable()` gibt ein [JavaScript-Promise](https://developers.google.com/web/fundamentals/primers/promises) zurück, das resolved, wenn der Benutzer den `Connect`-Button betätigt (ansonsten war's das).
 
 ## Contract-Proxy
 ```
@@ -280,7 +280,7 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjE1NjQ2ODg0LDY4MTcxMzUxOCwtMjAzNz
+eyJoaXN0b3J5IjpbNjYyOTgwNjc2LDY4MTcxMzUxOCwtMjAzNz
 IzMDUxOSwtMTMwODMxMTMyNSwxMTA3ODg0ODkzLC0xMTQ4MDY0
 NjQ4LDEzNjA5MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUyMjEsMT
 A2ODgyMDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC0xODMx
