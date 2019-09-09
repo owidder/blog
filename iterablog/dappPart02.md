@@ -245,7 +245,7 @@ contract.methods.logHashValue(hashedText).send({from: accountList[0]})
 
 Endlich!!! Jetzt haben wir den Hash-Wert (`hashedText`) und die Account-ID (`accountList[0]`). Damit können wir über das Proxy-Object (`contract`) die Methode `logHashValue` aufrufen.
 
-Da das Geld Krypto-Geld kostet, meldet sich gleich Metamask:
+Der Aufruf der Contracts geschieht über Metamask. Da das Krypto-Geld kostet, meldet sich auch gleich Metamask:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-10/iterablog/images/confirmTransaction.png"/>
 
@@ -288,11 +288,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEzOTkyNTI5NDQsMTU2MDY5ODQwNywtMT
-AzNzEwMjk1MCw2NjI5ODA2NzYsNjgxNzEzNTE4LC0yMDM3MjMw
-NTE5LC0xMzA4MzExMzI1LDExMDc4ODQ4OTMsLTExNDgwNjQ2ND
-gsMTM2MDkyMzcyLDE0MDk1MTA3MjAsLTE0NzUwNTIyMSwxMDY4
-ODIwMTY3LC0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1Mz
-A5NzYsLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0Mywt
-MTEzNDc2Nzc0NV19
+eyJoaXN0b3J5IjpbMjk0OTc2NTEsMTU2MDY5ODQwNywtMTAzNz
+EwMjk1MCw2NjI5ODA2NzYsNjgxNzEzNTE4LC0yMDM3MjMwNTE5
+LC0xMzA4MzExMzI1LDExMDc4ODQ4OTMsLTExNDgwNjQ2NDgsMT
+M2MDkyMzcyLDE0MDk1MTA3MjAsLTE0NzUwNTIyMSwxMDY4ODIw
+MTY3LC0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1MzA5Nz
+YsLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0MywtMTEz
+NDc2Nzc0NV19
 -->
