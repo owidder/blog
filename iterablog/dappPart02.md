@@ -48,7 +48,8 @@ Und wer ihn verliert, hat alle Ether, die sich im Wallet befinden, verloren.
 
 5. Die URL kopiert man sich und auf geht's zum [Rinkeby-Faucet](https://faucet.rinkeby.io/). Dort werden Ether verschenkt.
 	<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-04/iterablog/images/faucet3.png"/>
-	Einfach die URL des Tweets in das Eingabefeld kopieren und auswählen, wieviel Ether es denn sein dürfen (wir nehmen uns natürlich gleich die vollen 18,75. Warum nicht?)
+	Einfach die URL des Tweets in das Eingabefeld kopieren und auswählen, wieviel Ether es denn sein dürfen (wir nehmen uns natürlich gleich die vollen 18,75. Warum nicht? Die nächsten dürfen wir uns dann allerdings erst wieder in  3 Tagen holen.)
+	
 6. Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-05/iterablog/images/faucet4.png"/>
 
@@ -275,7 +276,7 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTM3NTM3NjAwNSwtMTMwODMxMTMyNSwxMT
+eyJoaXN0b3J5IjpbMTc4NjMxNjc4OCwtMTMwODMxMTMyNSwxMT
 A3ODg0ODkzLC0xMTQ4MDY0NjQ4LDEzNjA5MjM3MiwxNDA5NTEw
 NzIwLC0xNDc1MDUyMjEsMTA2ODgyMDE2NywtMTUyMTA1NzExMy
 wxMDA3MjQ1NDgyLC0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAy
