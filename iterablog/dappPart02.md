@@ -29,7 +29,7 @@ Jetzt wollen wir in die Blockchain schreiben.
 Das machen wir, indem wir die schreibende Transaktion `logHashValue` des Weisenheimer-Contracts aufrufen.
 
 ## Umsonst ist der Tod
-Eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die dazu nötigen [Ether](https://www.coindesk.com/price/ethereum) geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das mit den folgenden Schritten:
+Eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die dazu nötigen [Ether](https://www.coindesk.com/price/ethereum) geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das Geld mit den folgenden Schritten:
 
  1. Falls nicht schon geschehen installieren wir uns das Browser-Plugin-Wallet [Metamask](https://metamask.io/).
  2. Beim ersten Öffnen wird automatisch ein Wallet inklusive Seed Phrase generiert:
@@ -271,11 +271,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEwNzg4NDg5MywtMTE0ODA2NDY0OCwxMz
-YwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3NTA1MjIxLDEwNjg4MjAx
-NjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgzMTUzMDk3Ni
-wtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2MzQzLC0xMTM0
-NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMDQ1MjQwLC02MjI3ND
-Q1NTEsNTA1ODY0MjE5LDE4ODY0MzIyNTMsNDg0MjE1NTk4LC0y
-MDgwNjA2MTI3XX0=
+eyJoaXN0b3J5IjpbLTIyNTM2NTk2NywxMTA3ODg0ODkzLC0xMT
+Q4MDY0NjQ4LDEzNjA5MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUy
+MjEsMTA2ODgyMDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC
+0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4
+MTYzNDMsLTExMzQ3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwND
+UyNDAsLTYyMjc0NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0
+ODQyMTU1OThdfQ==
 -->
