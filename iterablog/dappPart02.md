@@ -253,12 +253,22 @@ Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Bloc
 Bei jeder Bestätigung zeigen wir über `showPastEvents()`wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser neuer Hash-Wert sollte jetzt ganz oben zu sehen sein.
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-04/iterablog/images/table.png"/>
+
+## Zu guter Letzt
+```
+.on("error", error => {  
+    console.error(error);  
+    showPastEvents(contract, "div.table");  
+})
+```
+
+Falls doch etwas schief gehen sollte, loggen wir einfach den Fehler auf der Konsole aus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5MzAyODY1OCwtMTQ3NTA1MjIxLDEwNj
-g4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgzMTUz
-MDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2MzQzLC
-0xMTM0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMDQ1MjQwLC02
-MjI3NDQ1NTEsNTA1ODY0MjE5LDE4ODY0MzIyNTMsNDg0MjE1NT
-k4LC0yMDgwNjA2MTI3LC0xMjQwODM0MzcwLC0xNTQ2NDU5MDk0
-LDE1MzQyNzk4NDRdfQ==
+eyJoaXN0b3J5IjpbMjM1NTg0ODYsLTE0NzUwNTIyMSwxMDY4OD
+IwMTY3LC0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1MzA5
+NzYsLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0MywtMT
+EzNDc2Nzc0NSwtMjA3MDY3ODA2MCwtMTIyMTA0NTI0MCwtNjIy
+NzQ0NTUxLDUwNTg2NDIxOSwxODg2NDMyMjUzLDQ4NDIxNTU5OC
+wtMjA4MDYwNjEyNywtMTI0MDgzNDM3MCwtMTU0NjQ1OTA5NCwx
+NTM0Mjc5ODQ0XX0=
 -->
