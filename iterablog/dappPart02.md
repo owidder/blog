@@ -117,7 +117,8 @@ Hier [der Code der erweiterten Web-App](https://github.com/owidder/weisenheimer/
                                     showPastEvents(contract, "div.table");  
                                 })  
                                 .on("error", error => {  
-                                    console.error(error)  
+                                    console.error(error);
+                                    showPastEvents(contract, "div.table");
                                 })  
                         })  
                     })  
@@ -253,11 +254,11 @@ Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Bloc
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-04/iterablog/images/table.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTA2ODgyMDE2NywtMTUyMTA1NzExMywxMD
-A3MjQ1NDgyLC0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2
-ODE1OCw5NDU4MTYzNDMsLTExMzQ3Njc3NDUsLTIwNzA2NzgwNj
-AsLTEyMjEwNDUyNDAsLTYyMjc0NDU1MSw1MDU4NjQyMTksMTg4
-NjQzMjI1Myw0ODQyMTU1OTgsLTIwODA2MDYxMjcsLTEyNDA4Mz
-QzNzAsLTE1NDY0NTkwOTQsMTUzNDI3OTg0NCw0NTkxMDkyNiwx
-NTU1MjU2MDNdfQ==
+eyJoaXN0b3J5IjpbLTE0NzUwNTIyMSwxMDY4ODIwMTY3LC0xNT
+IxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1MzA5NzYsLTQyNTQz
+MzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0MywtMTEzNDc2Nzc0NS
+wtMjA3MDY3ODA2MCwtMTIyMTA0NTI0MCwtNjIyNzQ0NTUxLDUw
+NTg2NDIxOSwxODg2NDMyMjUzLDQ4NDIxNTU5OCwtMjA4MDYwNj
+EyNywtMTI0MDgzNDM3MCwtMTU0NjQ1OTA5NCwxNTM0Mjc5ODQ0
+LDQ1OTEwOTI2XX0=
 -->
