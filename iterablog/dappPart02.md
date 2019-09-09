@@ -147,8 +147,8 @@ Sobald die Transaktion bestätigt ist, wird der neue Hash-Wert mit Blocknummer, 
 Wir geben jetzt erst einmal was in der TextArea ein und betätigen den `HASH AND LOG`-Button:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-01/iterablog/images/lotto.png"/>
-(Im Jahr 2030 werde ich mit Hilfe der Blockchain endlich beweisen können, dass ich hellseherische Kräfte habe)
 
+(Im Jahr 2030 werde ich mit Hilfe der Blockchain endlich beweisen können, dass ich hellseherische Kräfte habe)
 
 
 Wir wollen die JavaScript-Function im Einzelnen durchgehen
@@ -278,11 +278,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTQwNjk0NzM3NCwtMjAzNzIzMDUxOSwtMT
-MwODMxMTMyNSwxMTA3ODg0ODkzLC0xMTQ4MDY0NjQ4LDEzNjA5
-MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUyMjEsMTA2ODgyMDE2Ny
-wtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC0xODMxNTMwOTc2LC00
-MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4MTYzNDMsLTExMzQ3Nj
-c3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAsLTYyMjc0NDU1
-MSw1MDU4NjQyMTldfQ==
+eyJoaXN0b3J5IjpbNjgxNzEzNTE4LC0yMDM3MjMwNTE5LC0xMz
+A4MzExMzI1LDExMDc4ODQ4OTMsLTExNDgwNjQ2NDgsMTM2MDky
+MzcyLDE0MDk1MTA3MjAsLTE0NzUwNTIyMSwxMDY4ODIwMTY3LC
+0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1MzA5NzYsLTQy
+NTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0MywtMTEzNDc2Nz
+c0NSwtMjA3MDY3ODA2MCwtMTIyMTA0NTI0MCwtNjIyNzQ0NTUx
+LDUwNTg2NDIxOV19
 -->
