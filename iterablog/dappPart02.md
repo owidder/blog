@@ -225,7 +225,8 @@ web3.eth.getAccounts((err, accountList) => {
 	...
 })
 ```
-Nun holen wir uns über die das `web3`-Object die ID des Accounts (darum mussten wir ja oben um Genehmigung gebeten). 
+Nun holen wir uns über die das `web3`-Object die ID des Accounts (darum mussten wir ja oben um Genehmigung bitten). 
+
 Über das Metamask kann man viele Accounts verwalten. 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-09/iterablog/images/accounts.png"/>
 
@@ -283,11 +284,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTEwMzcxMDI5NTAsNjYyOTgwNjc2LDY4MT
-cxMzUxOCwtMjAzNzIzMDUxOSwtMTMwODMxMTMyNSwxMTA3ODg0
-ODkzLC0xMTQ4MDY0NjQ4LDEzNjA5MjM3MiwxNDA5NTEwNzIwLC
-0xNDc1MDUyMjEsMTA2ODgyMDE2NywtMTUyMTA1NzExMywxMDA3
-MjQ1NDgyLC0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2OD
-E1OCw5NDU4MTYzNDMsLTExMzQ3Njc3NDUsLTIwNzA2NzgwNjAs
-LTEyMjEwNDUyNDBdfQ==
+eyJoaXN0b3J5IjpbMTkwMjYxMDkzMCwtMTAzNzEwMjk1MCw2Nj
+I5ODA2NzYsNjgxNzEzNTE4LC0yMDM3MjMwNTE5LC0xMzA4MzEx
+MzI1LDExMDc4ODQ4OTMsLTExNDgwNjQ2NDgsMTM2MDkyMzcyLD
+E0MDk1MTA3MjAsLTE0NzUwNTIyMSwxMDY4ODIwMTY3LC0xNTIx
+MDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1MzA5NzYsLTQyNTQzMz
+M0OCwyMDI0NjY4MTU4LDk0NTgxNjM0MywtMTEzNDc2Nzc0NSwt
+MjA3MDY3ODA2MF19
 -->
