@@ -248,17 +248,17 @@ Der Aufruf von `contract.methods.logHashValue(hashedText).send({from: accountLis
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). 
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-06/iterablog/images/confirmation.png"/>
-Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Block, der nun folgt, gibt es eine weitere Bestätigung. Dann damit wird es immer unwahrscheinlicher, dass sich doch noch eine andere Blockchain durchsetzt und die Bestätigung unserer Transaktion doch wieder zurück genommen werden muss. So werden wir insgesamt 
+Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Block, der nun folgt, gibt es eine weitere Bestätigung. [Dann damit wird es immer unwahrscheinlicher, dass sich doch noch eine andere Blockchain durchsetzt](https://www.ethos.io/what-are-blockchain-confirmations/) und die Bestätigung unserer Transaktion doch wieder zurück genommen werden muss. So werden wir insgesamt 
 
 Über `showPastEvents()`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser neuer Hash-Wert sollte jetzt ganz oben zu sehen sein.
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-04/iterablog/images/table.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE0NzUwNTIyMSwxMDY4ODIwMTY3LC0xNT
-IxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1MzA5NzYsLTQyNTQz
-MzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0MywtMTEzNDc2Nzc0NS
-wtMjA3MDY3ODA2MCwtMTIyMTA0NTI0MCwtNjIyNzQ0NTUxLDUw
-NTg2NDIxOSwxODg2NDMyMjUzLDQ4NDIxNTU5OCwtMjA4MDYwNj
-EyNywtMTI0MDgzNDM3MCwtMTU0NjQ1OTA5NCwxNTM0Mjc5ODQ0
-LDQ1OTEwOTI2XX0=
+eyJoaXN0b3J5IjpbLTIxNDczODc3MTAsLTE0NzUwNTIyMSwxMD
+Y4ODIwMTY3LC0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1
+MzA5NzYsLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0My
+wtMTEzNDc2Nzc0NSwtMjA3MDY3ODA2MCwtMTIyMTA0NTI0MCwt
+NjIyNzQ0NTUxLDUwNTg2NDIxOSwxODg2NDMyMjUzLDQ4NDIxNT
+U5OCwtMjA4MDYwNjEyNywtMTI0MDgzNDM3MCwtMTU0NjQ1OTA5
+NCwxNTM0Mjc5ODQ0XX0=
 -->
