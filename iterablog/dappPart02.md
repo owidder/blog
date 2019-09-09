@@ -214,6 +214,8 @@ window.hashAndLog = () => {
 
 Der Text wird aus der TextArea ausgelesen und gehasht (den Code zum Hashen kann man [hier](https://github.com/owidder/super-simple-utils/blob/master/src/hash/hash.ts) sehen).
 
+In `hashedText` steht dann der Hash-Wert des eingegebenen Textes:
+
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-02/iterablog/images/variables.png"/>
 
 
@@ -281,7 +283,7 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1ODE3MTAzMTcsNjYyOTgwNjc2LDY4MT
+eyJoaXN0b3J5IjpbLTEwMzcxMDI5NTAsNjYyOTgwNjc2LDY4MT
 cxMzUxOCwtMjAzNzIzMDUxOSwtMTMwODMxMTMyNSwxMTA3ODg0
 ODkzLC0xMTQ4MDY0NjQ4LDEzNjA5MjM3MiwxNDA5NTEwNzIwLC
 0xNDc1MDUyMjEsMTA2ODgyMDE2NywtMTUyMTA1NzExMywxMDA3
