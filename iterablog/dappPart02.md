@@ -181,7 +181,7 @@ Mit `ethereun.enable()` öffnet Metamask einen Dialog, mit wir [um Erlaubnis bit
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-07/iterablog/images/connect.png"/>
 
-`enable` gibt ein [JavaScript-Promise](https://developers.google.com/web/fundamentals/primers/promises) zurück, das resolved, wenn der Benutzer `connect` betätigt (ansonsten war's das).
+`enable()` gibt ein [JavaScript-Promise](https://developers.google.com/web/fundamentals/primers/promises) zurück, das resolved, wenn der Benutzer `connect` betätigt (ansonsten war's das).
 
 ## Contract-Proxy
 ```
@@ -280,11 +280,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTg4NjEzNzc4Nyw2ODE3MTM1MTgsLTIwMz
-cyMzA1MTksLTEzMDgzMTEzMjUsMTEwNzg4NDg5MywtMTE0ODA2
-NDY0OCwxMzYwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3NTA1MjIxLD
-EwNjg4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgz
-MTUzMDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2Mz
-QzLC0xMTM0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMDQ1MjQw
-LC02MjI3NDQ1NTFdfQ==
+eyJoaXN0b3J5IjpbMjE1NjQ2ODg0LDY4MTcxMzUxOCwtMjAzNz
+IzMDUxOSwtMTMwODMxMTMyNSwxMTA3ODg0ODkzLC0xMTQ4MDY0
+NjQ4LDEzNjA5MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUyMjEsMT
+A2ODgyMDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC0xODMx
+NTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4MTYzND
+MsLTExMzQ3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAs
+LTYyMjc0NDU1MV19
 -->
