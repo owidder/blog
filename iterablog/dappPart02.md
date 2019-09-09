@@ -190,7 +190,7 @@ const contract = new web3.eth.Contract(abi, "0x245eDE9dac68B84f329e21024E0083ce4
 ```
 
 Sobald zugestimmt wurde, besorgen ein `web3`-Object. [Web3](https://github.com/ethereum/web3.js/) ist die offizielle JavaScript-API von Ethereum.
-Damit können wir uns dann über `web.eth.contract(abi, contractId)` ein Proxy-Object, über das wir den Contract erreichen können.
+Damit können wir uns dann über `web.eth.contract(abi, contractId)` ein Proxy-Object besorgen, über das wir den Contract erreichen können.
 
 ## Events lesen und anzeigen
 ```
@@ -280,11 +280,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjYyOTgwNjc2LDY4MTcxMzUxOCwtMjAzNz
-IzMDUxOSwtMTMwODMxMTMyNSwxMTA3ODg0ODkzLC0xMTQ4MDY0
-NjQ4LDEzNjA5MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUyMjEsMT
-A2ODgyMDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC0xODMx
-NTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4MTYzND
-MsLTExMzQ3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAs
-LTYyMjc0NDU1MV19
+eyJoaXN0b3J5IjpbLTE2ODExNDg0Myw2NjI5ODA2NzYsNjgxNz
+EzNTE4LC0yMDM3MjMwNTE5LC0xMzA4MzExMzI1LDExMDc4ODQ4
+OTMsLTExNDgwNjQ2NDgsMTM2MDkyMzcyLDE0MDk1MTA3MjAsLT
+E0NzUwNTIyMSwxMDY4ODIwMTY3LC0xNTIxMDU3MTEzLDEwMDcy
+NDU0ODIsLTE4MzE1MzA5NzYsLTQyNTQzMzM0OCwyMDI0NjY4MT
+U4LDk0NTgxNjM0MywtMTEzNDc2Nzc0NSwtMjA3MDY3ODA2MCwt
+MTIyMTA0NTI0MF19
 -->
