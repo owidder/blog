@@ -118,6 +118,7 @@ Hier [der Code der erweiterten Web-App](https://github.com/owidder/weisenheimer/
                                 })  
                                 .on("error", error => {  
                                     console.error(error);
+                                    window.alert(error);
                                     showPastEvents(contract, "div.table");
                                 })  
                         })  
@@ -257,18 +258,19 @@ Bei jeder Bestätigung zeigen wir über `showPastEvents()`wieder alle Events (in
 ## Zu guter Letzt
 ```
 .on("error", error => {  
-    console.error(error);  
+    console.error(error);
+    window.alert(error);
     showPastEvents(contract, "div.table");  
 })
 ```
 
 Falls doch etwas schief gehen sollte, loggen wir einfach den Fehler auf der Konsole aus
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjM1NTg0ODYsLTE0NzUwNTIyMSwxMDY4OD
-IwMTY3LC0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1MzA5
-NzYsLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0MywtMT
-EzNDc2Nzc0NSwtMjA3MDY3ODA2MCwtMTIyMTA0NTI0MCwtNjIy
-NzQ0NTUxLDUwNTg2NDIxOSwxODg2NDMyMjUzLDQ4NDIxNTU5OC
-wtMjA4MDYwNjEyNywtMTI0MDgzNDM3MCwtMTU0NjQ1OTA5NCwx
-NTM0Mjc5ODQ0XX0=
+eyJoaXN0b3J5IjpbMjA5NDI0OTIzOCwtMTQ3NTA1MjIxLDEwNj
+g4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgzMTUz
+MDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2MzQzLC
+0xMTM0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMDQ1MjQwLC02
+MjI3NDQ1NTEsNTA1ODY0MjE5LDE4ODY0MzIyNTMsNDg0MjE1NT
+k4LC0yMDgwNjA2MTI3LC0xMjQwODM0MzcwLC0xNTQ2NDU5MDk0
+LDE1MzQyNzk4NDRdfQ==
 -->
