@@ -264,13 +264,16 @@ Bei jeder Bestätigung zeigen wir über `showPastEvents()`wieder alle Events (in
 })
 ```
 
-Falls doch etwas schief gehen sollte, zeigen wir den Fehlertext und laden noch einmal alle Events. Denn wer weiß, vielleicht ist der neue Event jetzt doch wieder verschwunden 
+Falls doch etwas schief gehen sollte, zeigen wir den Fehlertext und laden noch einmal alle Events. Denn wer weiß, vielleicht ist der neue Event jetzt doch wieder verschwunden. Vielleicht hat der Konsens unter allen Knoten des Netzwerks sich jetzt doch für eine andere Version der Blockchain entschieden. Wäre doof, müssten wir aber hinnehmen.
+
+## Das war's dann
+ 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTUwMTIyNDM2MywtMTQ3NTA1MjIxLDEwNj
-g4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgzMTUz
-MDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2MzQzLC
-0xMTM0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMDQ1MjQwLC02
-MjI3NDQ1NTEsNTA1ODY0MjE5LDE4ODY0MzIyNTMsNDg0MjE1NT
-k4LC0yMDgwNjA2MTI3LC0xMjQwODM0MzcwLC0xNTQ2NDU5MDk0
-LDE1MzQyNzk4NDRdfQ==
+eyJoaXN0b3J5IjpbLTIwNTM0NjI3MzcsLTE0NzUwNTIyMSwxMD
+Y4ODIwMTY3LC0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1
+MzA5NzYsLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0My
+wtMTEzNDc2Nzc0NSwtMjA3MDY3ODA2MCwtMTIyMTA0NTI0MCwt
+NjIyNzQ0NTUxLDUwNTg2NDIxOSwxODg2NDMyMjUzLDQ4NDIxNT
+U5OCwtMjA4MDYwNjEyNywtMTI0MDgzNDM3MCwtMTU0NjQ1OTA5
+NCwxNTM0Mjc5ODQ0XX0=
 -->
