@@ -264,9 +264,9 @@ Bei jeder Bestätigung zeigen wir über `showPastEvents()`wieder alle Events (in
 })
 ```
 
-Falls doch etwas schief gehen sollte, loggen wir einfach den Fehler auf der Konsole aus
+Falls doch etwas schief gehen sollte, zeigen wir den Fehlertext und laden noch einmal alle Events. Denn wer weiß, vielleicht ist der neue Event jetzt doch wieder verschwunden 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjA5NDI0OTIzOCwtMTQ3NTA1MjIxLDEwNj
+eyJoaXN0b3J5IjpbMTUwMTIyNDM2MywtMTQ3NTA1MjIxLDEwNj
 g4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgzMTUz
 MDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2MzQzLC
 0xMTM0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMDQ1MjQwLC02
