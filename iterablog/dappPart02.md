@@ -267,13 +267,13 @@ Bei jeder Bestätigung zeigen wir über `showPastEvents()`wieder alle Events (in
 Falls doch etwas schief gehen sollte, zeigen wir den Fehlertext und laden noch einmal alle Events. Denn wer weiß, vielleicht ist der neue Event jetzt doch wieder verschwunden. Vielleicht hat der Konsens unter allen Knoten des Netzwerks sich jetzt doch für eine andere Version der Blockchain entschieden. Wäre doof, müssten wir aber hinnehmen.
 
 ## Das war's dann
- 
+Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp blenden wollen, müssen Sie nur  
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwNTM0NjI3MzcsLTE0NzUwNTIyMSwxMD
-Y4ODIwMTY3LC0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1
-MzA5NzYsLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0My
-wtMTEzNDc2Nzc0NSwtMjA3MDY3ODA2MCwtMTIyMTA0NTI0MCwt
-NjIyNzQ0NTUxLDUwNTg2NDIxOSwxODg2NDMyMjUzLDQ4NDIxNT
-U5OCwtMjA4MDYwNjEyNywtMTI0MDgzNDM3MCwtMTU0NjQ1OTA5
-NCwxNTM0Mjc5ODQ0XX0=
+eyJoaXN0b3J5IjpbNDcwNjg2ODQ3LC0xNDc1MDUyMjEsMTA2OD
+gyMDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC0xODMxNTMw
+OTc2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4MTYzNDMsLT
+ExMzQ3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAsLTYy
+Mjc0NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0ODQyMTU1OT
+gsLTIwODA2MDYxMjcsLTEyNDA4MzQzNzAsLTE1NDY0NTkwOTQs
+MTUzNDI3OTg0NF19
 -->
