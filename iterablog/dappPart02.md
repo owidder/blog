@@ -39,8 +39,9 @@ Eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Netw
 Und wer ihn verliert, hat alle Ether, die sich im Wallet befinden, verloren. 
 	Also gut darauf aufpassen (zumindest wenn man mit dem Wallet mehr als Rinkeby-Spiel-Ether verwaltet)!
 
-3. In Metamask sieht man oben unter dem Account-Namen (hier einfach nur `Account 1`) die Account-ID. Die kopiert man sich in die Zwischenablage:
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-02/iterablog/images/metamask-account-id.png"/>
+3. In Metamask sieht man oben unter dem Account-Namen (hier einfach nur `Account 1`) die **Account-ID**. Die kopiert man sich in die Zwischenablage:
+	<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-02/iterablog/images/metamask-account-id.png"/>
+
 4. Und [tweetet](https://twitter.com/gap_listens/status/1170290940440977413) sie:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-03/iterablog/images/tweet.png"/>
 Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Account-ID.
@@ -273,7 +274,7 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTMyOTEzNDM3MSwxMTA3ODg0ODkzLC0xMT
+eyJoaXN0b3J5IjpbMTI4Mzc1MTQ2NSwxMTA3ODg0ODkzLC0xMT
 Q4MDY0NjQ4LDEzNjA5MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUy
 MjEsMTA2ODgyMDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC
 0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4
