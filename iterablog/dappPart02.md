@@ -233,7 +233,7 @@ Nun holen wir uns über die das `web3`-Object die ID des aktuell ausgewählten A
 
 `getAccounts` gibt ein Array mit einem einzigen String zurück: Der ID des aktuell ausgewählten Accounts.
 
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-03/iterablog/images/accountList.png"/>
+<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-03/iterablog/images/accountList.png" style="width: 50%;"/>
 
 ## Aufruf des Contracts
 ```
@@ -285,7 +285,7 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzI1NDg0MSwxNTYwNjk4NDA3LC0xMD
+eyJoaXN0b3J5IjpbLTY5MDUxODYxNiwxNTYwNjk4NDA3LC0xMD
 M3MTAyOTUwLDY2Mjk4MDY3Niw2ODE3MTM1MTgsLTIwMzcyMzA1
 MTksLTEzMDgzMTEzMjUsMTEwNzg4NDg5MywtMTE0ODA2NDY0OC
 wxMzYwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3NTA1MjIxLDEwNjg4
