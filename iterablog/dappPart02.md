@@ -51,7 +51,7 @@ Und wer ihn verliert, hat alle Ether, die sich im Wallet befinden, verloren.
 	Einfach die URL des Tweets in das Eingabefeld kopieren und auswählen, wieviel Ether es denn sein dürfen (wir nehmen uns natürlich gleich die vollen 18,75. Warum nicht? Die nächsten dürfen wir uns dann allerdings erst wieder in  3 Tagen holen.)
 	
 6. Und nach kurzer Zeit sehen wir auch schon `funded`. Das Geld ist da!
-<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-05/iterablog/images/faucet4.png"/>
+	<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-05/iterablog/images/faucet4.png"/>
 
 ## Auf geht's
 So, genug Krypto-Geld haben wir jetzt, um unsere Transaktion bezahlen zu können. Dann mal los.
@@ -144,7 +144,7 @@ In der TextArea kann man einen beliebigen Text eingeben. Über den `HASH AND LOG
 Sobald die Transaktion bestätigt ist, wird der neue Hash-Wert mit Blocknummer, Adresse des Senders und Zeitstempel in der Tabelle angezeigt.
 
 ## Show me the code
-Wir geben jetzt erst einmal was in der TextArea ein und betätigend den `HASH AND LOG`-Button:
+Wir geben jetzt erst einmal was in der TextArea ein und betätigen den `HASH AND LOG`-Button:
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-01/iterablog/images/lotto.png"/>
 (Im Jahr 2030 werde ich mit Hilfe der Blockchain endlich beweisen können, dass ich hellseherische Kräfte habe)
@@ -276,11 +276,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTc4NjMxNjc4OCwtMTMwODMxMTMyNSwxMT
-A3ODg0ODkzLC0xMTQ4MDY0NjQ4LDEzNjA5MjM3MiwxNDA5NTEw
-NzIwLC0xNDc1MDUyMjEsMTA2ODgyMDE2NywtMTUyMTA1NzExMy
-wxMDA3MjQ1NDgyLC0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAy
-NDY2ODE1OCw5NDU4MTYzNDMsLTExMzQ3Njc3NDUsLTIwNzA2Nz
-gwNjAsLTEyMjEwNDUyNDAsLTYyMjc0NDU1MSw1MDU4NjQyMTks
-MTg4NjQzMjI1M119
+eyJoaXN0b3J5IjpbLTExNzMyODIxNjQsLTEzMDgzMTEzMjUsMT
+EwNzg4NDg5MywtMTE0ODA2NDY0OCwxMzYwOTIzNzIsMTQwOTUx
+MDcyMCwtMTQ3NTA1MjIxLDEwNjg4MjAxNjcsLTE1MjEwNTcxMT
+MsMTAwNzI0NTQ4MiwtMTgzMTUzMDk3NiwtNDI1NDMzMzQ4LDIw
+MjQ2NjgxNTgsOTQ1ODE2MzQzLC0xMTM0NzY3NzQ1LC0yMDcwNj
+c4MDYwLC0xMjIxMDQ1MjQwLC02MjI3NDQ1NTEsNTA1ODY0MjE5
+LDE4ODY0MzIyNTNdfQ==
 -->
