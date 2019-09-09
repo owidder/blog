@@ -292,15 +292,15 @@ Denn wer weiß, vielleicht ist der neue Event jetzt doch wieder verschwunden.
 Vielleicht hat der Konsens unter allen Knoten des Netzwerks sich jetzt doch für eine andere Version der Blockchain entschieden. Wäre doof, müssten wir aber hinnehmen.
 
 ## Das war's dann
-Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp blenden wollen, brauchen Sie nur einen Webserver, der die HTML-Seite oben ausliefert. Am einfachsten geht das über [Github-Pages](https://pages.github.com/). Wie das geht, ist in [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) beschrieben. 
+Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp blenden wollen, brauchen Sie nur einen Webserver, der die HTML-Seite oben ausliefert. Am einfachsten geht das über [Github-Pages](https://pages.github.com/). Wie das geht, wird in [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-2-blockchain-tutorial-1/) erklärt. 
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTk4NDM2Njg2LDE1NjA2OTg0MDcsLTEwMz
-cxMDI5NTAsNjYyOTgwNjc2LDY4MTcxMzUxOCwtMjAzNzIzMDUx
-OSwtMTMwODMxMTMyNSwxMTA3ODg0ODkzLC0xMTQ4MDY0NjQ4LD
-EzNjA5MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUyMjEsMTA2ODgy
-MDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC0xODMxNTMwOT
-c2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4MTYzNDMsLTEx
-MzQ3Njc3NDVdfQ==
+eyJoaXN0b3J5IjpbLTU1MDk1NTM3NCwxNTYwNjk4NDA3LC0xMD
+M3MTAyOTUwLDY2Mjk4MDY3Niw2ODE3MTM1MTgsLTIwMzcyMzA1
+MTksLTEzMDgzMTEzMjUsMTEwNzg4NDg5MywtMTE0ODA2NDY0OC
+wxMzYwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3NTA1MjIxLDEwNjg4
+MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgzMTUzMD
+k3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2MzQzLC0x
+MTM0NzY3NzQ1XX0=
 -->
