@@ -248,17 +248,17 @@ Der Aufruf von `contract.methods.logHashValue(hashedText).send({from: accountLis
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). 
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-06/iterablog/images/confirmation.png"/>
-Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Block, der nun folgt, gibt es eine weitere Bestätigung. [Dann damit wird es immer unwahrscheinlicher, dass sich doch noch eine andere Blockchain durchsetzt](https://www.ethos.io/what-are-blockchain-confirmations/) und die Bestätigung unserer Transaktion doch wieder zurück genommen werden muss. So werden wir insgesamt 24 mal darüber informiert, dass sich ein weiterer Block unserer Blockchain hinzugesellt hat (Im Test-Network Rinkeby geschieht das ca. alle 15 Sekunden[https://blockscout.com/eth/rinkeby](https://blockscout.com/eth/rinkeby)). Dann ist es so gut wie unmöglich, dass das noch einmal alles wieder revidiert werden muss.
+Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Block, der nun folgt, gibt es eine weitere Bestätigung. [Dann damit wird es immer unwahrscheinlicher, dass sich doch noch eine andere Blockchain durchsetzt](https://www.ethos.io/what-are-blockchain-confirmations/) und die Bestätigung unserer Transaktion doch wieder zurück genommen werden muss. So werden wir insgesamt 24 mal darüber informiert, dass sich ein weiterer Block unserer Blockchain hinzugesellt hat. (Im Test-Network Rinkeby geschieht das [ca. alle 15 Sekunden](https://blockscout.com/eth/rinkeby)) Dann ist es so gut wie unmöglich, dass das noch einmal alles wieder revidiert werden muss.
 
-Über `showPastEvents()`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser neuer Hash-Wert sollte jetzt ganz oben zu sehen sein.
+Bei jeder Bestätigung zeigen wir über `showPastEvents()`wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser neuer Hash-Wert sollte jetzt ganz oben zu sehen sein.
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-04/iterablog/images/table.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbOTYzNDg4NDE4LC0xNDc1MDUyMjEsMTA2OD
-gyMDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC0xODMxNTMw
-OTc2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4MTYzNDMsLT
-ExMzQ3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAsLTYy
-Mjc0NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0ODQyMTU1OT
-gsLTIwODA2MDYxMjcsLTEyNDA4MzQzNzAsLTE1NDY0NTkwOTQs
-MTUzNDI3OTg0NF19
+eyJoaXN0b3J5IjpbLTE5MzAyODY1OCwtMTQ3NTA1MjIxLDEwNj
+g4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgzMTUz
+MDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2MzQzLC
+0xMTM0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMDQ1MjQwLC02
+MjI3NDQ1NTEsNTA1ODY0MjE5LDE4ODY0MzIyNTMsNDg0MjE1NT
+k4LC0yMDgwNjA2MTI3LC0xMjQwODM0MzcwLC0xNTQ2NDU5MDk0
+LDE1MzQyNzk4NDRdfQ==
 -->
