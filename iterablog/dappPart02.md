@@ -247,16 +247,17 @@ Der Aufruf von `contract.methods.logHashValue(hashedText).send({from: accountLis
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). 
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-06/iterablog/images/confirmation.png"/>
+Wie man sehen kann, gibt es nicht nur eine Bestätigung. 
 
 Über `showPastEvents()`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser neuer Hash-Wert sollte jetzt ganz oben zu sehen sein.
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-04/iterablog/images/table.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMT
-gzMTUzMDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2
-MzQzLC0xMTM0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMDQ1Mj
-QwLC02MjI3NDQ1NTEsNTA1ODY0MjE5LDE4ODY0MzIyNTMsNDg0
-MjE1NTk4LC0yMDgwNjA2MTI3LC0xMjQwODM0MzcwLC0xNTQ2ND
-U5MDk0LDE1MzQyNzk4NDQsNDU5MTA5MjYsMTU1NTI1NjAzLDUz
-MjA4MjY1MF19
+eyJoaXN0b3J5IjpbMTMzMTEwNzU5MSwtMTUyMTA1NzExMywxMD
+A3MjQ1NDgyLC0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2
+ODE1OCw5NDU4MTYzNDMsLTExMzQ3Njc3NDUsLTIwNzA2NzgwNj
+AsLTEyMjEwNDUyNDAsLTYyMjc0NDU1MSw1MDU4NjQyMTksMTg4
+NjQzMjI1Myw0ODQyMTU1OTgsLTIwODA2MDYxMjcsLTEyNDA4Mz
+QzNzAsLTE1NDY0NTkwOTQsMTUzNDI3OTg0NCw0NTkxMDkyNiwx
+NTU1MjU2MDNdfQ==
 -->
