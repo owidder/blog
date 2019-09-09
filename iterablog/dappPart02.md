@@ -44,7 +44,8 @@ Und wer ihn verliert, hat alle Ether, die sich im Wallet befinden, verloren.
 
 4. Und [**tweetet**](https://twitter.com/gap_listens/status/1170290940440977413) sie:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-03/iterablog/images/tweet.png"/>
-Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Account-ID.
+	Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Account-ID.
+
 5. Die URL kopiert man sich und auf geht's zum [Rinkeby-Faucet](https://faucet.rinkeby.io/). Dort werden Ether verschenkt.
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-04/iterablog/images/faucet3.png"/>
 Einfach die URL des Tweets in das Eingabefeld kopieren und auswählen, wieviel Ether es denn sein dürfen (wir nehmen uns natürlich gleich die vollen 18,75. Warum nicht?)
@@ -274,11 +275,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NTc4NjY3MTEsMTEwNzg4NDg5MywtMT
-E0ODA2NDY0OCwxMzYwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3NTA1
-MjIxLDEwNjg4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4Mi
-wtMTgzMTUzMDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1
-ODE2MzQzLC0xMTM0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMD
-Q1MjQwLC02MjI3NDQ1NTEsNTA1ODY0MjE5LDE4ODY0MzIyNTMs
-NDg0MjE1NTk4XX0=
+eyJoaXN0b3J5IjpbLTUxMTU1MzU2NSwxMTA3ODg0ODkzLC0xMT
+Q4MDY0NjQ4LDEzNjA5MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUy
+MjEsMTA2ODgyMDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC
+0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4
+MTYzNDMsLTExMzQ3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwND
+UyNDAsLTYyMjc0NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0
+ODQyMTU1OThdfQ==
 -->
