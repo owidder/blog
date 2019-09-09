@@ -247,13 +247,13 @@ Der Aufruf von `contract.methods.logHashValue(hashedText).send({from: accountLis
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). 
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-06/iterablog/images/confirmation.png"/>
-Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Block, der nun folgt, gibt es eine weitere Bestätigung. Dann damit wird es immer unwahrscheinlicher, dass sich doch noch eine andere Blockchain durchsetzt und die Bestätigung unserer Transaktion doch wi
+Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Block, der nun folgt, gibt es eine weitere Bestätigung. Dann damit wird es immer unwahrscheinlicher, dass sich doch noch eine andere Blockchain durchsetzt und die Bestätigung unserer Transaktion doch wieder zurück genommen werden muss. So werden wir insgesamt 
 
 Über `showPastEvents()`zeigen wir wieder alle Events (inklusive der enthaltenen Hash-Werte) an. Unser neuer Hash-Wert sollte jetzt ganz oben zu sehen sein.
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-04/iterablog/images/table.png"/>
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTI3MjA3MDUxMSwtMTUyMTA1NzExMywxMD
+eyJoaXN0b3J5IjpbMTA2ODgyMDE2NywtMTUyMTA1NzExMywxMD
 A3MjQ1NDgyLC0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2
 ODE1OCw5NDU4MTYzNDMsLTExMzQ3Njc3NDUsLTIwNzA2NzgwNj
 AsLTEyMjEwNDUyNDAsLTYyMjc0NDU1MSw1MDU4NjQyMTksMTg4
