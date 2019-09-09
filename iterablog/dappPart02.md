@@ -270,7 +270,7 @@ Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung a
 Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Block, der nun folgt, gibt es eine weitere Bestätigung. [Dann damit wird es immer unwahrscheinlicher, dass sich doch noch eine andere Blockchain durchsetzt](https://www.ethos.io/what-are-blockchain-confirmations/) und die Bestätigung unserer Transaktion doch wieder zurück genommen werden muss. 
 
 
-So bekommen wir Bestätigungen mit den Nummern 0 bis 24. (Im Test-Network Rinkeby geschieht das [ca. alle 15 Sekunden](https://blockscout.com/eth/rinkeby)) Dann ist es so gut wie unmöglich, dass das noch einmal alles wieder revidiert werden muss. 
+So bekommen wir Bestätigungen mit den Nummern 0 bis 24. (Im Test-Network Rinkeby gibt es [ca. alle 15 Sekunden](https://blockscout.com/eth/rinkeby) eine Bestätigung) Danach ist es so gut wie unmöglich, dass das noch einmal alles wieder revidiert werden muss. 
 
 Ab der Bestätigung mit der Nummer 1 sollte der Event in der Blockchain sein. Wir machen es uns einfach und zeigen bei jeder Bestätigung über `showPastEvents()` alle Events an (inklusive der enthaltenen Hash-Werte). Unser neuer Hash-Wert sollte jetzt ganz oben zu sehen sein.
 
@@ -292,7 +292,7 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNzgxMTc5Njk5LDE1NjA2OTg0MDcsLTEwMz
+eyJoaXN0b3J5IjpbNTYxOTI2MzYwLDE1NjA2OTg0MDcsLTEwMz
 cxMDI5NTAsNjYyOTgwNjc2LDY4MTcxMzUxOCwtMjAzNzIzMDUx
 OSwtMTMwODMxMTMyNSwxMTA3ODg0ODkzLC0xMTQ4MDY0NjQ4LD
 EzNjA5MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUyMjEsMTA2ODgy
