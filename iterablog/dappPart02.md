@@ -150,7 +150,7 @@ Wir geben jetzt erst einmal was in der TextArea ein und betätigen den `HASH AND
 (Im Jahr 2030 werde ich mit Hilfe der Blockchain endlich beweisen können, dass ich hellseherische Kräfte habe)
 
 
-Jetzt wollen wir die JavaScript-Function im Einzelnen durchgehen
+Wir wollen die JavaScript-Function im Einzelnen durchgehen
 
 ## ABI
 ```
@@ -277,11 +277,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTIwMzcyMzA1MTksLTEzMDgzMTEzMjUsMT
-EwNzg4NDg5MywtMTE0ODA2NDY0OCwxMzYwOTIzNzIsMTQwOTUx
-MDcyMCwtMTQ3NTA1MjIxLDEwNjg4MjAxNjcsLTE1MjEwNTcxMT
-MsMTAwNzI0NTQ4MiwtMTgzMTUzMDk3NiwtNDI1NDMzMzQ4LDIw
-MjQ2NjgxNTgsOTQ1ODE2MzQzLC0xMTM0NzY3NzQ1LC0yMDcwNj
-c4MDYwLC0xMjIxMDQ1MjQwLC02MjI3NDQ1NTEsNTA1ODY0MjE5
-LDE4ODY0MzIyNTNdfQ==
+eyJoaXN0b3J5IjpbMTU1NjIxMzM0MCwtMjAzNzIzMDUxOSwtMT
+MwODMxMTMyNSwxMTA3ODg0ODkzLC0xMTQ4MDY0NjQ4LDEzNjA5
+MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUyMjEsMTA2ODgyMDE2Ny
+wtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC0xODMxNTMwOTc2LC00
+MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4MTYzNDMsLTExMzQ3Nj
+c3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAsLTYyMjc0NDU1
+MSw1MDU4NjQyMTldfQ==
 -->
