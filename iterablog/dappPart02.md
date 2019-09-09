@@ -25,7 +25,7 @@ In [Teil 2](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-
 
 ## Jetzt wird's ernst
 Das war bis jetzt doch alles nur Pillepalle. 
-Jetzt wollen wir mal in die Blockchain schreiben. 
+Jetzt wollen wir in die Blockchain schreiben. 
 Das machen wir, indem wir die schreibende Transaktion `logHashValue` des Weisenheimer-Contracts aufrufen.
 
 ## Umsonst ist der Tod
@@ -271,11 +271,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExNDgwNjQ2NDgsMTM2MDkyMzcyLDE0MD
-k1MTA3MjAsLTE0NzUwNTIyMSwxMDY4ODIwMTY3LC0xNTIxMDU3
-MTEzLDEwMDcyNDU0ODIsLTE4MzE1MzA5NzYsLTQyNTQzMzM0OC
-wyMDI0NjY4MTU4LDk0NTgxNjM0MywtMTEzNDc2Nzc0NSwtMjA3
-MDY3ODA2MCwtMTIyMTA0NTI0MCwtNjIyNzQ0NTUxLDUwNTg2ND
-IxOSwxODg2NDMyMjUzLDQ4NDIxNTU5OCwtMjA4MDYwNjEyNywt
-MTI0MDgzNDM3MF19
+eyJoaXN0b3J5IjpbLTExNTI1NTMwMjQsLTExNDgwNjQ2NDgsMT
+M2MDkyMzcyLDE0MDk1MTA3MjAsLTE0NzUwNTIyMSwxMDY4ODIw
+MTY3LC0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1MzA5Nz
+YsLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0MywtMTEz
+NDc2Nzc0NSwtMjA3MDY3ODA2MCwtMTIyMTA0NTI0MCwtNjIyNz
+Q0NTUxLDUwNTg2NDIxOSwxODg2NDMyMjUzLDQ4NDIxNTU5OCwt
+MjA4MDYwNjEyN119
 -->
