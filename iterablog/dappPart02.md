@@ -266,6 +266,7 @@ Der Aufruf von `contract.methods.logHashValue(hashedText).send({from: accountLis
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). 
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-06/iterablog/images/confirmation.png"/>
+
 Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Block, der nun folgt, gibt es eine weitere Bestätigung. [Dann damit wird es immer unwahrscheinlicher, dass sich doch noch eine andere Blockchain durchsetzt](https://www.ethos.io/what-are-blockchain-confirmations/) und die Bestätigung unserer Transaktion doch wieder zurück genommen werden muss. 
 
 
@@ -291,11 +292,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTExOTkzMTMwMTksMTU2MDY5ODQwNywtMT
-AzNzEwMjk1MCw2NjI5ODA2NzYsNjgxNzEzNTE4LC0yMDM3MjMw
-NTE5LC0xMzA4MzExMzI1LDExMDc4ODQ4OTMsLTExNDgwNjQ2ND
-gsMTM2MDkyMzcyLDE0MDk1MTA3MjAsLTE0NzUwNTIyMSwxMDY4
-ODIwMTY3LC0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1Mz
-A5NzYsLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0Mywt
-MTEzNDc2Nzc0NV19
+eyJoaXN0b3J5IjpbNzgxMTc5Njk5LDE1NjA2OTg0MDcsLTEwMz
+cxMDI5NTAsNjYyOTgwNjc2LDY4MTcxMzUxOCwtMjAzNzIzMDUx
+OSwtMTMwODMxMTMyNSwxMTA3ODg0ODkzLC0xMTQ4MDY0NjQ4LD
+EzNjA5MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUyMjEsMTA2ODgy
+MDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC0xODMxNTMwOT
+c2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4MTYzNDMsLTEx
+MzQ3Njc3NDVdfQ==
 -->
