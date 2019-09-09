@@ -178,7 +178,9 @@ ethereum.enable().then(() => {
 ```
 
 Mit `ethereun.enable()` öffnet Metamask einen Dialog, mit wir [um Erlaubnis bitten](https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8), dass wir Informationen aus dem Benutzer-Account auslesen (z.B. die ID des Accounts) und über Metamask die Methoden von Contracts aufrufen dürfen.
+
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-07/iterablog/images/connect.png"/>
+
 `enable` gibt ein [JavaScript-Promise](https://developers.google.com/web/fundamentals/primers/promises) zurück, das resolved, wenn der Benutzer `connect` betätigt (ansonsten war's das).
 
 ## Contract-Proxy
@@ -278,7 +280,7 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc5NjIxOSw2ODE3MTM1MTgsLTIwMz
+eyJoaXN0b3J5IjpbLTg4NjEzNzc4Nyw2ODE3MTM1MTgsLTIwMz
 cyMzA1MTksLTEzMDgzMTEzMjUsMTEwNzg4NDg5MywtMTE0ODA2
 NDY0OCwxMzYwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3NTA1MjIxLD
 EwNjg4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgz
