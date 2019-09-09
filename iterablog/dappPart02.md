@@ -266,7 +266,9 @@ Der Aufruf von `contract.methods.logHashValue(hashedText).send({from: accountLis
 Wir loggen die Nummer der Bestätigung (`confirmationNumber`) und die Quittung aus (`receipt`). 
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-06/iterablog/images/confirmation.png"/>
-Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Block, der nun folgt, gibt es eine weitere Bestätigung. [Dann damit wird es immer unwahrscheinlicher, dass sich doch noch eine andere Blockchain durchsetzt](https://www.ethos.io/what-are-blockchain-confirmations/) und die Bestätigung unserer Transaktion doch wieder zurück genommen werden muss. So bekommen wir Bestätigungen mit den Nummer 0 bis 24. (Im Test-Network Rinkeby geschieht das [ca. alle 15 Sekunden](https://blockscout.com/eth/rinkeby)) Dann ist es so gut wie unmöglich, dass das noch einmal alles wieder revidiert werden muss. 
+Wie man sehen kann, gibt es nicht nur eine Bestätigung. Mit jedem weiteren Block, der nun folgt, gibt es eine weitere Bestätigung. [Dann damit wird es immer unwahrscheinlicher, dass sich doch noch eine andere Blockchain durchsetzt](https://www.ethos.io/what-are-blockchain-confirmations/) und die Bestätigung unserer Transaktion doch wieder zurück genommen werden muss. 
+
+So bekommen wir Bestätigungen mit den Nummern 0 bis 24. (Im Test-Network Rinkeby geschieht das [ca. alle 15 Sekunden](https://blockscout.com/eth/rinkeby)) Dann ist es so gut wie unmöglich, dass das noch einmal alles wieder revidiert werden muss. 
 
 Ab der Bestätigung mit der Nummer 1 sollte der Event in der Blockchain sein. Wir machen es uns einfach und zeigen bei jeder Bestätigung über `showPastEvents()` alle Events an (inklusive der enthaltenen Hash-Werte). Unser neuer Hash-Wert sollte jetzt ganz oben zu sehen sein.
 
@@ -288,11 +290,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMjk0OTc2NTEsMTU2MDY5ODQwNywtMTAzNz
-EwMjk1MCw2NjI5ODA2NzYsNjgxNzEzNTE4LC0yMDM3MjMwNTE5
-LC0xMzA4MzExMzI1LDExMDc4ODQ4OTMsLTExNDgwNjQ2NDgsMT
-M2MDkyMzcyLDE0MDk1MTA3MjAsLTE0NzUwNTIyMSwxMDY4ODIw
-MTY3LC0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1MzA5Nz
-YsLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0MywtMTEz
-NDc2Nzc0NV19
+eyJoaXN0b3J5IjpbMTU5NTc0MDU2NywxNTYwNjk4NDA3LC0xMD
+M3MTAyOTUwLDY2Mjk4MDY3Niw2ODE3MTM1MTgsLTIwMzcyMzA1
+MTksLTEzMDgzMTEzMjUsMTEwNzg4NDg5MywtMTE0ODA2NDY0OC
+wxMzYwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3NTA1MjIxLDEwNjg4
+MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgzMTUzMD
+k3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2MzQzLC0x
+MTM0NzY3NzQ1XX0=
 -->
