@@ -42,7 +42,7 @@ Und wer ihn verliert, hat alle Ether, die sich im Wallet befinden, verloren.
 3. In Metamask sieht man oben unter dem Account-Namen (hier einfach nur `Account 1`) die **Account-ID**. Die kopiert man sich in die Zwischenablage:
 	<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-02/iterablog/images/metamask-account-id.png"/>
 
-4. Und [tweetet](https://twitter.com/gap_listens/status/1170290940440977413) sie:
+4. Und [**tweetet**](https://twitter.com/gap_listens/status/1170290940440977413) sie:
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-03/iterablog/images/tweet.png"/>
 Gerne auch mit einem erklärenden Text. Hauptsache der Tweet enthält die Account-ID.
 5. Die URL kopiert man sich und auf geht's zum [Rinkeby-Faucet](https://faucet.rinkeby.io/). Dort werden Ether verschenkt.
@@ -274,11 +274,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTI4Mzc1MTQ2NSwxMTA3ODg0ODkzLC0xMT
-Q4MDY0NjQ4LDEzNjA5MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUy
-MjEsMTA2ODgyMDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC
-0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4
-MTYzNDMsLTExMzQ3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwND
-UyNDAsLTYyMjc0NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0
-ODQyMTU1OThdfQ==
+eyJoaXN0b3J5IjpbLTE5NTc4NjY3MTEsMTEwNzg4NDg5MywtMT
+E0ODA2NDY0OCwxMzYwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3NTA1
+MjIxLDEwNjg4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4Mi
+wtMTgzMTUzMDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1
+ODE2MzQzLC0xMTM0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMD
+Q1MjQwLC02MjI3NDQ1NTEsNTA1ODY0MjE5LDE4ODY0MzIyNTMs
+NDg0MjE1NTk4XX0=
 -->
