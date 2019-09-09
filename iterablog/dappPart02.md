@@ -31,9 +31,9 @@ Das machen wir, indem wir die schreibende Transaktion `logHashValue` des Weisenh
 ## Umsonst ist der Tod
 Eine schreibende Transaktion kostet Krypto-Geld. Zum Glück gibt es im Test-Network Rinkeby die dazu nötigen [Ether](https://www.coindesk.com/price/ethereum) geschenkt.  Wie in [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) besorgen wir uns das Geld mit den folgenden Schritten:
 
- 1. Falls nicht schon geschehen installieren wir uns das Browser-Plugin-Wallet [Metamask](https://metamask.io/).
+ 1. Falls nicht schon geschehen installieren wir uns das Browser-Plugin-Wallet [**Metamask**](https://metamask.io/).
  
- 2. Beim ersten Öffnen wird automatisch ein Wallet inklusive Seed Phrase generiert:
+ 2. Beim ersten Öffnen wird automatisch ein **Wallet inklusive Seed Phrase** generiert:
 	<img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-01/iterablog/images/metamask-init-seed.png"/>
 	Die Seed Phrase besteht aus 12 Worten und ist der Masterkey zum Wallet. Wer ihn hat, hat volle Kontrolle über alle Accounts, die vom Wallet verwaltet werden.
 Und wer ihn verliert, hat alle Ether, die sich im Wallet befinden, verloren. 
@@ -273,7 +273,7 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE1NTU0Njk3MywxMTA3ODg0ODkzLC0xMT
+eyJoaXN0b3J5IjpbMTMyOTEzNDM3MSwxMTA3ODg0ODkzLC0xMT
 Q4MDY0NjQ4LDEzNjA5MjM3MiwxNDA5NTEwNzIwLC0xNDc1MDUy
 MjEsMTA2ODgyMDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC
 0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4
