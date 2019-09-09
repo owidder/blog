@@ -211,6 +211,7 @@ window.hashAndLog = () => {
 ```
 
 `hashAndLog` wird aufgerufen, wenn der `HASH AND LOG`-Button geklickt wird (siehe `<button onclick="hashAndLog()" ...`)
+
 Der Text wird aus der TextArea ausgelesen und gehasht (den Code zum Hashen kann man [hier](https://github.com/owidder/super-simple-utils/blob/master/src/hash/hash.ts) sehen).
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-02/iterablog/images/variables.png"/>
@@ -280,11 +281,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE2ODExNDg0Myw2NjI5ODA2NzYsNjgxNz
-EzNTE4LC0yMDM3MjMwNTE5LC0xMzA4MzExMzI1LDExMDc4ODQ4
-OTMsLTExNDgwNjQ2NDgsMTM2MDkyMzcyLDE0MDk1MTA3MjAsLT
-E0NzUwNTIyMSwxMDY4ODIwMTY3LC0xNTIxMDU3MTEzLDEwMDcy
-NDU0ODIsLTE4MzE1MzA5NzYsLTQyNTQzMzM0OCwyMDI0NjY4MT
-U4LDk0NTgxNjM0MywtMTEzNDc2Nzc0NSwtMjA3MDY3ODA2MCwt
-MTIyMTA0NTI0MF19
+eyJoaXN0b3J5IjpbLTE1ODE3MTAzMTcsNjYyOTgwNjc2LDY4MT
+cxMzUxOCwtMjAzNzIzMDUxOSwtMTMwODMxMTMyNSwxMTA3ODg0
+ODkzLC0xMTQ4MDY0NjQ4LDEzNjA5MjM3MiwxNDA5NTEwNzIwLC
+0xNDc1MDUyMjEsMTA2ODgyMDE2NywtMTUyMTA1NzExMywxMDA3
+MjQ1NDgyLC0xODMxNTMwOTc2LC00MjU0MzMzNDgsMjAyNDY2OD
+E1OCw5NDU4MTYzNDMsLTExMzQ3Njc3NDUsLTIwNzA2NzgwNjAs
+LTEyMjEwNDUyNDBdfQ==
 -->
