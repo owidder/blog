@@ -231,7 +231,10 @@ Nun holen wir uns über die das `web3`-Object die ID des aktuell ausgewählten A
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-09/iterablog/images/accounts.png"/>
 
-`getAccounts` gibt ein Array mit einem einzigen String zurück: Der ID des aktuell ausgewählten Accounts.
+
+
+`getAccounts()` gibt ein Array mit einem einzigen String zurück: Der ID des aktuell ausgewählten Accounts.
+
 
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190908-03/iterablog/images/accountList.png"/>
 
@@ -285,11 +288,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTEzNzI1NDg0MSwxNTYwNjk4NDA3LC0xMD
-M3MTAyOTUwLDY2Mjk4MDY3Niw2ODE3MTM1MTgsLTIwMzcyMzA1
-MTksLTEzMDgzMTEzMjUsMTEwNzg4NDg5MywtMTE0ODA2NDY0OC
-wxMzYwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3NTA1MjIxLDEwNjg4
-MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgzMTUzMD
-k3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2MzQzLC0x
-MTM0NzY3NzQ1XX0=
+eyJoaXN0b3J5IjpbLTEzOTkyNTI5NDQsMTU2MDY5ODQwNywtMT
+AzNzEwMjk1MCw2NjI5ODA2NzYsNjgxNzEzNTE4LC0yMDM3MjMw
+NTE5LC0xMzA4MzExMzI1LDExMDc4ODQ4OTMsLTExNDgwNjQ2ND
+gsMTM2MDkyMzcyLDE0MDk1MTA3MjAsLTE0NzUwNTIyMSwxMDY4
+ODIwMTY3LC0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1Mz
+A5NzYsLTQyNTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0Mywt
+MTEzNDc2Nzc0NV19
 -->
