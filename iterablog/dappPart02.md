@@ -267,13 +267,13 @@ Bei jeder Bestätigung zeigen wir über `showPastEvents()`wieder alle Events (in
 Falls doch etwas schief gehen sollte, zeigen wir den Fehlertext und laden noch einmal alle Events. Denn wer weiß, vielleicht ist der neue Event jetzt doch wieder verschwunden. Vielleicht hat der Konsens unter allen Knoten des Netzwerks sich jetzt doch für eine andere Version der Blockchain entschieden. Wäre doof, müssten wir aber hinnehmen.
 
 ## Das war's dann
-Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp blenden wollen, müssen Sie nur  
+Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp blenden wollen, brauchen Sie nur einen Webserver, der die HTML-Seite oben ausliefert. Am einfachsten geht das über [Github-Pages](https://pages.github.com/). Wie ist in Teil 2 beschrieben. Wünsche 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNDcwNjg2ODQ3LC0xNDc1MDUyMjEsMTA2OD
-gyMDE2NywtMTUyMTA1NzExMywxMDA3MjQ1NDgyLC0xODMxNTMw
-OTc2LC00MjU0MzMzNDgsMjAyNDY2ODE1OCw5NDU4MTYzNDMsLT
-ExMzQ3Njc3NDUsLTIwNzA2NzgwNjAsLTEyMjEwNDUyNDAsLTYy
-Mjc0NDU1MSw1MDU4NjQyMTksMTg4NjQzMjI1Myw0ODQyMTU1OT
-gsLTIwODA2MDYxMjcsLTEyNDA4MzQzNzAsLTE1NDY0NTkwOTQs
-MTUzNDI3OTg0NF19
+eyJoaXN0b3J5IjpbLTc2ODYwNzg2OCwtMTQ3NTA1MjIxLDEwNj
+g4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgzMTUz
+MDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2MzQzLC
+0xMTM0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMDQ1MjQwLC02
+MjI3NDQ1NTEsNTA1ODY0MjE5LDE4ODY0MzIyNTMsNDg0MjE1NT
+k4LC0yMDgwNjA2MTI3LC0xMjQwODM0MzcwLC0xNTQ2NDU5MDk0
+LDE1MzQyNzk4NDRdfQ==
 -->
