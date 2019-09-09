@@ -177,7 +177,7 @@ ethereum.enable().then(() => {
 })
 ```
 
-Mit `ethereun.enable()` öffnet Metamask einen Dialog, mit wir [um Erlaubnis bitten](https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8), dass wir Informationen aus dem Benutzer-Account auslesen dürfen (z.B. die ID des Accounts).
+Mit `ethereun.enable()` öffnet Metamask einen Dialog, mit wir [um Erlaubnis bitten](https://medium.com/metamask/https-medium-com-metamask-breaking-change-injecting-web3-7722797916a8), dass wir Informationen aus dem Benutzer-Account auslesen (z.B. die ID des Accounts) und über Metamask die Methoden von Contracts aufrufen dürfen.
 <img src="https://cdn.jsdelivr.net/gh/owidder/blog@ib-20190907-07/iterablog/images/connect.png"/>
 `enable` gibt ein [JavaScript-Promise](https://developers.google.com/web/fundamentals/primers/promises) zurück, das resolved, wenn der Benutzer `connect` betätigt (ansonsten war's das).
 
@@ -278,11 +278,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjgxNzEzNTE4LC0yMDM3MjMwNTE5LC0xMz
-A4MzExMzI1LDExMDc4ODQ4OTMsLTExNDgwNjQ2NDgsMTM2MDky
-MzcyLDE0MDk1MTA3MjAsLTE0NzUwNTIyMSwxMDY4ODIwMTY3LC
-0xNTIxMDU3MTEzLDEwMDcyNDU0ODIsLTE4MzE1MzA5NzYsLTQy
-NTQzMzM0OCwyMDI0NjY4MTU4LDk0NTgxNjM0MywtMTEzNDc2Nz
-c0NSwtMjA3MDY3ODA2MCwtMTIyMTA0NTI0MCwtNjIyNzQ0NTUx
-LDUwNTg2NDIxOV19
+eyJoaXN0b3J5IjpbLTE4Mzc5NjIxOSw2ODE3MTM1MTgsLTIwMz
+cyMzA1MTksLTEzMDgzMTEzMjUsMTEwNzg4NDg5MywtMTE0ODA2
+NDY0OCwxMzYwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3NTA1MjIxLD
+EwNjg4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgz
+MTUzMDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2Mz
+QzLC0xMTM0NzY3NzQ1LC0yMDcwNjc4MDYwLC0xMjIxMDQ1MjQw
+LC02MjI3NDQ1NTFdfQ==
 -->
