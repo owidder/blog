@@ -1,6 +1,6 @@
 # TL;DR: Smart Contracts für Eilige (Teil 3) - Unsere Dapp startet eine Transaktion
 
-In [Teil 1](https://www.iteratec.de/tech-blog/artikel/news/tldr-smart-contracts-fuer-eilige-teil-1-1/) haben wir mit möglichst einfachen Mitteln den Smart Contract ["Weisenheimer"](https://github.com/owidder/iteraBlog/blob/master/weisenheimer/contract/Weisenheimer.sol) in [Rinkeby](https://www.rinkeby.io/), einem Ethereum Test Network, [deployt](https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9#code):
+In [Teil 1](https://www.iteratec.de/tech-blog/artikel/tldr-smart-contracts-fuer-eilige-teil-1-blockchain-tutorial/) haben wir mit möglichst einfachen Mitteln den Smart Contract ["Weisenheimer"](https://github.com/owidder/iteraBlog/blob/master/weisenheimer/contract/Weisenheimer.sol) in [Rinkeby](https://www.rinkeby.io/), einem Ethereum Test Network, [deployt](https://rinkeby.etherscan.io/address/0x245eDE9dac68B84f329e21024E0083ce432700f9#code):
 
     contract Weisenheimer {
 
@@ -296,11 +296,11 @@ Soviel für dieses Mal. Falls Sie in ihrem Bekanntenkreis mit ihrer eigen Dapp b
 
 Wünsche viel Spaß!
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTU1MDk1NTM3NCwxNTYwNjk4NDA3LC0xMD
-M3MTAyOTUwLDY2Mjk4MDY3Niw2ODE3MTM1MTgsLTIwMzcyMzA1
-MTksLTEzMDgzMTEzMjUsMTEwNzg4NDg5MywtMTE0ODA2NDY0OC
-wxMzYwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3NTA1MjIxLDEwNjg4
-MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NTQ4MiwtMTgzMTUzMD
-k3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgsOTQ1ODE2MzQzLC0x
-MTM0NzY3NzQ1XX0=
+eyJoaXN0b3J5IjpbLTE3NzY0NzU1NDYsLTU1MDk1NTM3NCwxNT
+YwNjk4NDA3LC0xMDM3MTAyOTUwLDY2Mjk4MDY3Niw2ODE3MTM1
+MTgsLTIwMzcyMzA1MTksLTEzMDgzMTEzMjUsMTEwNzg4NDg5My
+wtMTE0ODA2NDY0OCwxMzYwOTIzNzIsMTQwOTUxMDcyMCwtMTQ3
+NTA1MjIxLDEwNjg4MjAxNjcsLTE1MjEwNTcxMTMsMTAwNzI0NT
+Q4MiwtMTgzMTUzMDk3NiwtNDI1NDMzMzQ4LDIwMjQ2NjgxNTgs
+OTQ1ODE2MzQzXX0=
 -->
